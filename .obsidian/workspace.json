@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "b0b1015c933e7dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa76001690892717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2cd226960fa371",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf74ecd00042d27c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ffe81819e77c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf7e290d8dd3db84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26e32847286aae2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed93abcee6ca5efb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "8d1dddcd12a12a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7648766eae0bd1d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de11c486b444a1d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "f8932bb3a3cb78ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "999f9e59355eff8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ba7827b2a422f78e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "190e976e967cabc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6a2cd226960fa371",
+  "lastOpenFiles": [
+    "財務筆記/產業/AI生產鏈/ASML.md",
+    "財務筆記/產業/AI生產鏈/Carl Zeiss SMT.md",
+    "財務筆記/產業/AI生產鏈/光刻機/EUV 系統.md",
+    "財務筆記/產業/AI生產鏈/AI雲端",
+    "財務筆記/產業/AI生產鏈/CoWoS封裝",
+    "財務筆記/產業/AI生產鏈/HBM記憶體",
+    "財務筆記/產業/AI生產鏈/光刻機/光罩基礎設施與量測.md",
+    "財務筆記/產業/AI生產鏈/光刻機/DUV 光刻光學系統.md",
+    "財務筆記/產業/AI生產鏈/光刻機/EUV 光刻光學系統.md",
+    "財務筆記/產業/AI生產鏈/光刻機/DUV 系統.md",
+    "財務筆記/產業/AI生產鏈/光刻機/服務與現場升級（Service & Field Option）.md",
+    "財務筆記/worklfow_invest.png",
+    "財務筆記/map_invest.canvas",
+    "財務筆記/img_flow_create_value.png",
+    "財務筆記/產業/AI生產鏈",
+    "財務筆記/產業/AI生產鏈/光刻機",
+    "財務筆記/生產要素",
+    "財務筆記/產業",
+    "財務筆記",
+    "SKILLs/skill_act_roles/act-Elon-Musk.md",
+    "SKILLs",
+    "SKILLs/skill_act_roles/act-chinese-strategy.md",
+    "SKILLs/skill_act_roles/act-Elon-Musk-bottleneck.md",
+    "SKILLs/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
+    "SKILLs/skill_act_roles/act-McKinsey-adv.md",
+    "SKILLs/skill_act_roles/act-Warren-Buffett.md",
+    "SKILLs/skill_act_roles/act-Ray-Dalio.md",
+    "SKILLs/skill_act_roles/act-Musk-Buffett-Navar.md",
+    "SKILLs/skill_act_roles/act-expert.md",
+    "SKILLs/skill_act_roles",
+    "Welcome.md",
+    "Pasted image 20260409193919.png",
+    "SKILLs/skill_invest/evaluate_company/trading-divergence.md",
+    "SKILLs/skill_invest/evaluate_company/trading-arbitrage-emotion.md",
+    "SKILLs/skill_invest/evaluate_company/invest-stock-valuation.md",
+    "SKILLs/skill_invest/search_company (background)/invest-competitive-adv.md",
+    "SKILLs/skill_invest/search_company (know-how)/invest-cost-return.md",
+    "SKILLs/skill_convertor/create-presentation-html.md",
+    "SKILLs/skill_general/general-tell-insight.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas"
+  ]
+}

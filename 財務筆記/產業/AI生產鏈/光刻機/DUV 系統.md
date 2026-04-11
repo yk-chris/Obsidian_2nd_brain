@@ -1,0 +1,23 @@
+## DUV 系統（ArFi + KrF + ArF Dry + i-Line）（貢獻佔比：~21.9%）[[ASML]]
+
+**市場概況**
+
+DUV（深紫外光）光刻系統覆蓋成熟製程節點（28nm 至 7nm），廣泛應用於邏輯、DRAM、NAND 及模擬晶片製造 。ASML 在 DUV 領域雖非壟斷，但仍居市場主導地位，主要競爭對手為尼康（Nikon）和佳能（Canon），ASML 的 ArFi 浸潤式 DUV 系統（TWINSCAN NXT 系列）在高端 DUV 市場市佔率超過 80% [估算：基於行業研究及 競爭描述]。然而，自 2023 年荷蘭政府配合美國出口管制，ASML 對中國的部分 DUV 系統出口受限（尤其 ArFi 浸潤式系統），FY2024 中國業務收入約 €2.74bn，較 FY2023 顯著下滑 。年報指出 ASML 2025 年業績指引已計入出口管制的持續影響 。DUV 整體市場受 AI 晶片需求拉動的 EUV 佔比提升而相對萎縮，但在汽車電子、IoT 等成熟節點需求仍具支撐 。sec+2
+
+- **主要競爭對手：** Nikon（全球 DUV 市佔率約 10–15%）、Canon（i-Line 及 KrF 市場有一定份額）[估算：基於行業研究]
+    
+
+- **競爭地位來源：** ASML Annual Report 2024 _"Our comprehensive product portfolio is aligned to our customers' roadmaps, delivering lithography solutions in support of all applications, from advanced to mainstream nodes"_[ourbrand.asml](https://ourbrand.asml.com/m/79d325b168e0fd7e/original/2024-Annual-Report-based-on-US-GAAP.pdf)
+    
+
+**生產要素成本分析**
+
+> **DUV 系統 ｜ 貢獻佔比 ~21.9% ｜ 毛利率 ~50–55%（估算，成熟產品毛利較高）**
+
+| 生產要素       | 成本佔比    | 要素來源                                                                                                                                          | 在生產中的作用                                                                                                                                        | 重要性評分（1–5）                                          | 數據來源                                                                                                                                                    |
+| ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 光學系統與精密零部件 | ~45–50% | 外部供應商（[[Carl Zeiss SMT]] 光學組件為主要來源之一；ArF 光源由 Cymer 提供）                                                                                        | 決定 DUV 系統解析度及疊對性能；NXT 系列浸潤技術的核心硬件                                                                                                              | **5/5**（精密光學和光源技術是 DUV 性能的物理基礎，供應商高度集中）             | [ourbrand.asml](https://ourbrand.asml.com/m/79d325b168e0fd7e/original/2024-Annual-Report-based-on-US-GAAP.pdf) 供應商章節（p.14）；[估算：基於 DUV 製造成本結構]           |
+| 製造勞工       | ~18–22% | 荷蘭 Veldhoven 總廠及亞洲製造基地                                                                                                                        | DUV 系統製造、測試及客戶交付前驗收                                                                                                                            | **4/5**（DUV 製程較 EUV 相對成熟，自動化比例可提升，但精密裝配仍需高技能人力）     | [估算：基於 [ourbrand.asml](https://ourbrand.asml.com/m/79d325b168e0fd7e/original/2024-Annual-Report-based-on-US-GAAP.pdf) 員工分佈及製造描述]                        |
+| R&D 成本攤薄   | ~10–12% | ASML 總 R&D €4.3bn 中分配至 DUV 的部分 [ourbrand.asml](https://ourbrand.asml.com/m/79d325b168e0fd7e/original/2024-Annual-Report-based-on-US-GAAP.pdf) | DUV 系統持續性能優化（如 NXT:870B 較前代大幅提升）及新型號開發                                                                                                         | **3/5**（DUV 為成熟技術，R&D 強度低於 EUV；主要為增量改進而非顛覆性創新）      | [ourbrand.asml](https://ourbrand.asml.com/m/79d325b168e0fd7e/original/2024-Annual-Report-based-on-US-GAAP.pdf) CEO Q&A（p.8）；Driving Innovation 章節（p.29） |
+| 製造設施與折舊    | ~10–12% | 共用 ASML 生產設施；CAPEX €2.07bn（公司整體）[sec](https://www.sec.gov/Archives/edgar/data/937966/000093796625000009/asml-20241231.htm)                    | 無塵室製造環境及測試基礎設施                                                                                                                                 | **3/5**（與 EUV 共用生產設施，固定成本可分攤；DUV 規模量較 EUV 大，攤薄效益明顯） | [sec](https://www.sec.gov/Archives/edgar/data/937966/000093796625000009/asml-20241231.htm)；MarketScreener FY2024 CAPEX 數據                               |
+| 物流與安裝      | ~8–10%  | 第三方物流；ASML 現場安裝團隊                                                                                                                             | DUV 系統運輸（2024 年首次試行海運 [ourbrand.asml](https://ourbrand.asml.com/m/79d325b168e0fd7e/original/2024-Annual-Report-based-on-US-GAAP.pdf)）及客戶工廠安裝調試 | **2/5**（DUV 重量/體積較 EUV 小，物流成本相對可控；海運試驗可降低碳排及成本）     | [ourbrand.asml](https://ourbrand.asml.com/m/79d325b168e0fd7e/original/2024-Annual-Report-based-on-US-GAAP.pdf) CEO Q&A（p.8）、ESG 章節                      |
