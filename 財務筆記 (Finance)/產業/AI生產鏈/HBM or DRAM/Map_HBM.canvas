@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"05f1f15013f58034","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307224.jpg","x":-240,"y":-120,"width":400,"height":201},
+		{"id":"b06820386885e90b","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307223.jpg","x":160,"y":-119,"width":400,"height":200},
+		{"id":"4a6586d382361fa1","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307222.jpg","x":-240,"y":81,"width":400,"height":226},
+		{"id":"3a379782af596a62","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307220.jpg","x":160,"y":81,"width":399,"height":195},
+		{"id":"f6e0361515f833c8","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307225.jpg","x":-240,"y":-515,"width":799,"height":395},
+		{"id":"682d38b3fe4cebd0","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307215.jpg","x":560,"y":-515,"width":400,"height":209},
+		{"id":"4846e4464cd20078","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307212.jpg","x":560,"y":-295,"width":400,"height":215},
+		{"id":"d627bbf9178b3b76","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307219.jpg","x":-640,"y":-515,"width":400,"height":182},
+		{"id":"9a8f2ae706a2eac7","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307218.jpg","x":-640,"y":-333,"width":400,"height":174},
+		{"id":"189167e2f5d39fcc","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307217.jpg","x":-640,"y":-159,"width":400,"height":182},
+		{"id":"61f483d76d813738","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307208.jpg","x":-640,"y":23,"width":400,"height":200},
+		{"id":"d7f63a8c85c578f0","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307206.jpg","x":560,"y":-80,"width":400,"height":201},
+		{"id":"d51f28f728fbc61b","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307211.jpg","x":560,"y":121,"width":400,"height":194},
+		{"id":"8760e21d1eaf1256","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307204.jpg","x":-1160,"y":-554,"width":400,"height":260},
+		{"id":"f1251daf47d48f0a","type":"file","file":"財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/assets/Map_HBM/file-20260411110307201.jpg","x":-1160,"y":-1029,"width":334,"height":400},
+		{"id":"f2f9cb52896d786d","type":"link","url":"https://www.youtube.com/watch?v=tzEWYNQmnmc","x":-640,"y":-1100,"width":840,"height":520}
+	],
+	"edges":[]
+}

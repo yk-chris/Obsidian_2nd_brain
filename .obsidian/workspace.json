@@ -13,91 +13,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "財務筆記 (Finance)/產業/AI生產鏈/HBM/Map_HBM.canvas",
+                "file": "財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/Map_HBM.canvas",
                 "viewState": {
-                  "x": -100,
-                  "y": -442.5,
-                  "zoom": -1.6657516334767695
+                  "x": 131.27569507229867,
+                  "y": -283.49616448448967,
+                  "zoom": -1.3333333333333328
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Map_HBM"
             }
-          },
-          {
-            "id": "249b075b9c42fdc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "財務筆記 (Finance)/生產要素/EUV 極紫外光刻系統 全球分析報告.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EUV 極紫外光刻系統 全球分析報告"
-            }
-          },
-          {
-            "id": "b0af3d0fd7481454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "財務筆記 (Finance)/生產要素/矽晶圓（Silicon Wafer）全球分析報告.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "矽晶圓（Silicon Wafer）全球分析報告"
-            }
-          },
-          {
-            "id": "25cb020a1834b55b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "財務筆記 (Finance)/生產要素/TSV（矽穿孔）製程技術 全球分析報告Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TSV（矽穿孔）製程技術 全球分析報告Untitled"
-            }
-          },
-          {
-            "id": "12c026c78fcdc7e6",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "table of contents.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "table of contents"
-            }
-          },
-          {
-            "id": "a60dd47d43dad10d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "財務筆記 (Finance)/map_invest.canvas",
-                "viewState": {
-                  "x": 565.5,
-                  "y": -399,
-                  "zoom": -1.6365175280341713
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_invest"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 295.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -260,55 +187,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a60dd47d43dad10d",
+  "active": "6a2cd226960fa371",
   "lastOpenFiles": [
-    "財務筆記 (Finance)/生產要素/HBM（高頻寬記憶體）全球分析報告.md",
-    "財務筆記 (Finance)/生產要素/HBM 先進封裝材料（TSV、基板）全球分析報告.md",
+    "財務筆記 (Finance)/Map_財務筆記.canvas",
+    "SKILLs/Map_invest_skills.canvas",
+    "SKILLs/assets/Map_invest_skills",
+    "SKILLs/assets/__temp__Map_invest_skills",
+    "SKILLs/skill_invest/evaluate_company/trading-arbitrage-emotion.md",
+    "SKILLs/skill_invest/evaluate_company/invest-stock-valuation.md",
+    "SKILLs/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
+    "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md",
+    "財務筆記 (Finance)/企業概要",
+    "SKILLs/skill_invest/search_company (know-how)/invest-cost-return.md",
+    "SKILLs/skill_invest/search_company (know-how)/invest-enterprise-business.md",
+    "SKILLs/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/SK Hynix.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/Micron Technology（MU）.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/三星電子.md",
+    "財務筆記 (Finance)/生產要素/矽晶圓（Silicon Wafer）全球分析報告.md",
     "財務筆記 (Finance)/生產要素/EUV 極紫外光刻系統 全球分析報告.md",
+    "目錄.base",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/SK Hynix_NAND Flash.md",
+    "財務筆記 (Finance)/生產要素/TSV（矽穿孔）製程技術 全球分析報告Untitled.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/Map_HBM.canvas",
+    "財務筆記 (Finance)/產業/AI生產鏈/Carl Zeiss SMT.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/ASML.md",
+    "SKILLs/assets/map_invest_skills",
+    "SKILLs/assets",
+    "財務筆記 (Finance)/assets/map_invest_skills",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/MU_CDBU（Core Data Center BU）.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/MU_AEBU（Automotive & Embedded BU）.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/MU_MCBU（Mobile & Client BU）.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/MU_CMBU（Cloud Memory BU）.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/Carl Zeiss SMT_DUV 光刻光學系統.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/ASML_服務與現場升級（Service & Field Option）.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
     "財務筆記 (Finance)/生產要素/assets/HBM 先進封裝材料（TSV、基板）全球分析報告/file-20260411112119837.jpg",
     "財務筆記 (Finance)/生產要素/assets/HBM 先進封裝材料（TSV、基板）全球分析報告/file-20260411112109218.jpg",
     "財務筆記 (Finance)/生產要素/assets/HBM 先進封裝材料（TSV、基板）全球分析報告",
     "財務筆記 (Finance)/生產要素/assets/HBM（高頻寬記憶體）全球分析報告",
     "財務筆記 (Finance)/生產要素/assets",
     "財務筆記 (Finance)/生產要素/assets/HBM（高頻寬記憶體）全球分析報告/file-20260411112059951.jpg",
-    "assets/HBM（高頻寬記憶體）全球分析報告",
-    "assets",
-    "財務筆記 (Finance)/產業/AI生產鏈/ASML.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/Carl Zeiss SMT.md",
-    "table of contents.base",
-    "財務筆記 (Finance)/map_invest.canvas",
-    "財務筆記 (Finance)/assets/map_invest/file-20260411111748984.jpg",
-    "財務筆記 (Finance)/assets/map_invest",
-    "財務筆記 (Finance)/assets",
+    "SKILLs/assets/Map_invest_skills/file-20260411125320315.jpg",
     "財務筆記 (Finance)/img_flow_create_value.png",
     "財務筆記 (Finance)/worklfow_invest.png",
-    "學習筆記 (Learn)/AI-learning/解構Anthropic Managed Agent.md",
-    "學習筆記 (Learn)/AI-learning/assets/解構Anthropic Managed Agent",
-    "學習筆記 (Learn)/AI-learning/assets",
     "學習筆記 (Learn)/AI-learning/assets/解構Anthropic Managed Agent/file-20260411111657092.jpg",
     "學習筆記 (Learn)/AI-learning/assets/解構Anthropic Managed Agent/file-20260411111657091 1.jpg",
     "學習筆記 (Learn)/AI-learning/assets/解構Anthropic Managed Agent/file-20260411111657091.jpg",
     "學習筆記 (Learn)/AI-learning/assets/解構Anthropic Managed Agent/file-20260411111657084.jpg",
-    "財務筆記 (Finance)/生產要素/TSV（矽穿孔）製程技術 全球分析報告Untitled.md",
-    "財務筆記 (Finance)/生產要素/矽晶圓（Silicon Wafer）全球分析報告.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/HBM/Map_HBM.canvas",
-    "may_HBM.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/DUV 系統.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/DUV 光刻光學系統.md",
-    "HBM.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/EUV 系統.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/光罩基礎設施與量測.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/EUV 光刻光學系統.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/服務與現場升級（Service & Field Option）.md",
-    "SKILLs/skill_act_roles/act-Elon-Musk.md",
-    "SKILLs/skill_act_roles/act-chinese-strategy.md",
-    "SKILLs/skill_act_roles/act-Elon-Musk-bottleneck.md",
-    "SKILLs/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
-    "SKILLs/skill_act_roles/act-McKinsey-adv.md",
-    "SKILLs/skill_act_roles/act-Warren-Buffett.md",
-    "SKILLs/skill_act_roles/act-Ray-Dalio.md",
-    "SKILLs/skill_act_roles/act-Musk-Buffett-Navar.md",
-    "SKILLs/skill_act_roles/act-expert.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas"

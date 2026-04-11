@@ -14,6 +14,6 @@ views:
         direction: DESC
     columnSize:
       file.folder: 271
-      file.name: 225
+      file.name: 317
   - type: list
     name: View
