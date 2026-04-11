@@ -10,8 +10,8 @@
 		{"id":"cb4e2aa613cb9aff","type":"file","file":"SKILLs/skill_invest/search_company (background)/dive-deep-bottlenecks.md","x":-600,"y":520,"width":400,"height":288},
 		{"id":"3aad15eba9c4e279","type":"text","text":"技術分析","x":920,"y":-200,"width":400,"height":60},
 		{"id":"2b084674208b6d10","type":"file","file":"SKILLs/skill_invest/evaluate_company/invest-stock-valuation.md","x":920,"y":-101,"width":400,"height":261},
-		{"id":"d3e8f3d6598f3659","type":"file","file":"SKILLs/skill_invest/evaluate_company/trading-arbitrage-emotion.md","x":920,"y":200,"width":400,"height":261},
-		{"id":"fdc0129e0312cd12","type":"file","file":"SKILLs/skill_invest/evaluate_company/trading-divergence.md","x":920,"y":480,"width":400,"height":261}
+		{"id":"fdc0129e0312cd12","type":"file","file":"SKILLs/skill_invest/evaluate_company/trading-divergence.md","x":920,"y":200,"width":400,"height":261},
+		{"id":"d3e8f3d6598f3659","type":"file","file":"SKILLs/skill_invest/evaluate_company/trading-arbitrage-emotion.md","x":920,"y":500,"width":400,"height":261}
 	],
 	"edges":[
 		{"id":"d1d312ede99a8bea","fromNode":"dafbb8590b3d51e7","fromSide":"right","toNode":"60be3cba39372f3a","toSide":"left"},
