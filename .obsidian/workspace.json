@@ -11,10 +11,17 @@
             "id": "6a2cd226960fa371",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "財務筆記 (Finance)/產業/AI生產鏈/HBM/Map_HBM.canvas",
+                "viewState": {
+                  "x": -100,
+                  "y": -362.5,
+                  "zoom": -1.6657516334767695
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Map_HBM"
             }
           }
         ]
@@ -74,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 245.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -176,35 +183,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf7e290d8dd3db84",
+  "active": "6a2cd226960fa371",
   "lastOpenFiles": [
+    "財務筆記 (Finance)/產業/AI生產鏈/ASML.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/Map_HBM.canvas",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM",
+    "學習筆記 (Learn)",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307201.jpg",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307204.jpg",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307206.jpg",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307208.jpg",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307211.jpg",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307212.jpg",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307215.jpg",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307217.jpg",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307218.jpg",
+    "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM/file-20260411110307219.jpg",
+    "assets/Map_HBM",
+    "assets",
+    "財務筆記/產業/AI生產鏈/HBM記憶體/assets/Map_HBM",
+    "財務筆記/產業/AI生產鏈/HBM記憶體/assets",
+    "may_HBM.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/DUV 系統.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/DUV 光刻光學系統.md",
     "New Text Document.txt",
-    "Pasted image 20260411091712.png",
     "HBM.md",
-    "財務筆記/產業/AI生產鏈/ASML.md",
-    "財務筆記/產業/AI生產鏈/Carl Zeiss SMT.md",
-    "財務筆記/產業/AI生產鏈/光刻機/EUV 系統.md",
-    "財務筆記/產業/AI生產鏈/AI雲端",
-    "財務筆記/產業/AI生產鏈/CoWoS封裝",
-    "財務筆記/產業/AI生產鏈/HBM記憶體",
-    "財務筆記/產業/AI生產鏈/光刻機/光罩基礎設施與量測.md",
-    "財務筆記/產業/AI生產鏈/光刻機/DUV 光刻光學系統.md",
-    "財務筆記/產業/AI生產鏈/光刻機/EUV 光刻光學系統.md",
-    "財務筆記/產業/AI生產鏈/光刻機/DUV 系統.md",
-    "財務筆記/產業/AI生產鏈/光刻機/服務與現場升級（Service & Field Option）.md",
-    "財務筆記/worklfow_invest.png",
-    "財務筆記/map_invest.canvas",
-    "財務筆記/img_flow_create_value.png",
-    "財務筆記/產業/AI生產鏈",
-    "財務筆記/產業/AI生產鏈/光刻機",
-    "財務筆記/生產要素",
-    "財務筆記/產業",
-    "財務筆記",
+    "財務筆記 (Finance)/產業/AI生產鏈/Carl Zeiss SMT.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/EUV 系統.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/AI雲端",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/光罩基礎設施與量測.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/EUV 光刻光學系統.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/服務與現場升級（Service & Field Option）.md",
+    "財務筆記 (Finance)/map_invest.canvas",
     "SKILLs/skill_act_roles/act-Elon-Musk.md",
-    "SKILLs",
     "SKILLs/skill_act_roles/act-chinese-strategy.md",
     "SKILLs/skill_act_roles/act-Elon-Musk-bottleneck.md",
     "SKILLs/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
@@ -213,15 +230,12 @@
     "SKILLs/skill_act_roles/act-Ray-Dalio.md",
     "SKILLs/skill_act_roles/act-Musk-Buffett-Navar.md",
     "SKILLs/skill_act_roles/act-expert.md",
-    "SKILLs/skill_act_roles",
     "Welcome.md",
-    "Pasted image 20260409193919.png",
     "SKILLs/skill_invest/evaluate_company/trading-divergence.md",
     "SKILLs/skill_invest/evaluate_company/trading-arbitrage-emotion.md",
     "SKILLs/skill_invest/evaluate_company/invest-stock-valuation.md",
     "SKILLs/skill_invest/search_company (background)/invest-competitive-adv.md",
     "SKILLs/skill_invest/search_company (know-how)/invest-cost-return.md",
-    "SKILLs/skill_convertor/create-presentation-html.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas"
