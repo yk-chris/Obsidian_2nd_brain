@@ -16,15 +16,58 @@
                 "file": "財務筆記 (Finance)/產業/AI生產鏈/HBM/Map_HBM.canvas",
                 "viewState": {
                   "x": -100,
-                  "y": -362.5,
+                  "y": -442.5,
                   "zoom": -1.6657516334767695
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Map_HBM"
             }
+          },
+          {
+            "id": "249b075b9c42fdc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "財務筆記 (Finance)/生產要素/EUV 極紫外光刻系統 全球分析報告.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EUV 極紫外光刻系統 全球分析報告"
+            }
+          },
+          {
+            "id": "b0af3d0fd7481454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "財務筆記 (Finance)/生產要素/矽晶圓（Silicon Wafer）全球分析報告.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矽晶圓（Silicon Wafer）全球分析報告"
+            }
+          },
+          {
+            "id": "25cb020a1834b55b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "財務筆記 (Finance)/生產要素/TSV（矽穿孔）製程技術 全球分析報告Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TSV（矽穿孔）製程技術 全球分析報告Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,10 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a2cd226960fa371",
+  "active": "bf7e290d8dd3db84",
   "lastOpenFiles": [
-    "財務筆記 (Finance)/產業/AI生產鏈/ASML.md",
+    "財務筆記 (Finance)/生產要素/矽晶圓（Silicon Wafer）全球分析報告.md",
+    "財務筆記 (Finance)/生產要素/TSV（矽穿孔）製程技術 全球分析報告Untitled.md",
+    "財務筆記 (Finance)/生產要素/EUV 極紫外光刻系統 全球分析報告.md",
     "財務筆記 (Finance)/產業/AI生產鏈/HBM/Map_HBM.canvas",
+    "財務筆記 (Finance)/產業/AI生產鏈/ASML.md",
     "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets/Map_HBM",
     "財務筆記 (Finance)/產業/AI生產鏈/HBM/assets",
     "財務筆記 (Finance)/產業/AI生產鏈/HBM",
@@ -234,8 +280,6 @@
     "SKILLs/skill_invest/evaluate_company/trading-divergence.md",
     "SKILLs/skill_invest/evaluate_company/trading-arbitrage-emotion.md",
     "SKILLs/skill_invest/evaluate_company/invest-stock-valuation.md",
-    "SKILLs/skill_invest/search_company (background)/invest-competitive-adv.md",
-    "SKILLs/skill_invest/search_company (know-how)/invest-cost-return.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas"
