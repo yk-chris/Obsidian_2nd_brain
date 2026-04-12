@@ -39,62 +39,6 @@
             }
           },
           {
-            "id": "da957b1a98ffcd75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "財務筆記 (Finance)/企業概要/阿里巴巴（BABA）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "阿里巴巴（BABA）"
-            }
-          },
-          {
-            "id": "96b6640d8c721102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "財務筆記 (Finance)/企業概要/微軟（MSFT）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "微軟（MSFT）"
-            }
-          },
-          {
-            "id": "a403f9ed91434ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "財務筆記 (Finance)/企業概要/阿里巴巴（BABA）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "阿里巴巴（BABA）"
-            }
-          },
-          {
-            "id": "2cd1453875ad7c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "財務筆記 (Finance)/企業概要/GOOGL (Alphabet Inc.).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GOOGL (Alphabet Inc.)"
-            }
-          },
-          {
             "id": "fad80dc4f0f4fc6e",
             "type": "leaf",
             "state": {
@@ -114,30 +58,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "財務筆記 (Finance)/企業概要/ASML.md",
+                "file": "Daily小發現/2026/April/2026-04-12 日記.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASML"
-            }
-          },
-          {
-            "id": "be328561c0a5a7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily小發現/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-12 「石油→柴油→農機→糧食」"
+              "title": "2026-04-12 日記"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -272,20 +202,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Daily小發現/2026/April/2026-04-12 日記.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 2026-04-12 日記"
+            }
+          },
+          {
+            "id": "988dad2f498bcf82",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 244.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -296,29 +237,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": true,
+      "obsidian-git:Open Git source control": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "be328561c0a5a7ed",
+  "active": "fa32a7c65ff6b223",
   "lastOpenFiles": [
-    "學習筆記 (Learn)/AI-learning/解構Anthropic Managed Agent.md",
+    "財務筆記 (Finance)/Map_HBM.canvas",
+    "Daily小發現/2026/April/2026-04-12 日記.md",
     "Daily小發現/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-    "2026-04-12.md",
+    "財務筆記 (Finance)/企業概要/ASML.md",
+    "SKILLs/skill_daily_agenda/search-news-finance.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/ASML.md",
+    "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md",
+    "財務筆記 (Finance)/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
+    "財務筆記 (Finance)/生產要素/HBM 先進封裝材料（TSV、基板）全球分析報告.md",
+    "學習筆記 (Learn)/AI-learning/解構Anthropic Managed Agent.md",
+    "財務筆記 (Finance)/Map_財務筆記.canvas",
+    "Daily小發現/2026/April/2026-04-11 Pin Script (TradingView).md",
+    "財務筆記 (Finance)/企業概要/Micron Technology (MU).md",
+    "財務筆記 (Finance)/企業概要/GOOGL (Alphabet Inc.).md",
+    "財務筆記 (Finance)/企業概要/阿里巴巴（BABA）.md",
+    "財務筆記 (Finance)/企業概要/微軟（MSFT）.md",
+    "Untitled.base",
     "Daily小發現/2026",
     "Daily小發現/2026/April",
-    "財務筆記 (Finance)/Map_HBM.canvas",
     "Daily小發現",
     "財務筆記 (Finance)/assets/Map_HBM/file-20260412075555651.jpg",
     "財務筆記 (Finance)/assets/Map_HBM/file-20260412075331603.jpg",
-    "財務筆記 (Finance)/企業概要/Micron Technology (MU).md",
-    "財務筆記 (Finance)/企業概要/微軟（MSFT）.md",
-    "財務筆記 (Finance)/企業概要/阿里巴巴（BABA）.md",
-    "財務筆記 (Finance)/企業概要/ASML.md",
-    "財務筆記 (Finance)/企業概要/GOOGL (Alphabet Inc.).md",
     "財務筆記 (Finance)/企業概要/Rocket Lab Corporation（RKLB）.md",
     "財務筆記 (Finance)/企業概要/Amazon（AMZN）.md",
-    "財務筆記 (Finance)/Map_財務筆記.canvas",
     "財務筆記 (Finance)/企業概要/特斯拉 (TSLA).md",
     "財務筆記 (Finance)/生產要素/IOC vs NOC：全球石油巨頭競合格局.md",
     "財務筆記 (Finance)/生產要素/原油 全球分析報告.md",
@@ -336,7 +286,6 @@
     "財務筆記 (Finance)/assets/Map_原油/file-20260411201206254.jpg",
     "財務筆記 (Finance)/assets/Map_原油/file-20260411201206251.jpg",
     "assets/Map_原油",
-    "assets",
     "財務筆記 (Finance)/生產要素/原油舉升成本（Lifting Cost）.md",
     "財務筆記 (Finance)/生產要素/assets/原油舉升成本（Lifting Cost）/file-20260411200829235.jpg",
     "財務筆記 (Finance)/生產要素/assets/原油舉升成本（Lifting Cost）/file-20260411200829243.jpg",
@@ -345,14 +294,6 @@
     "財務筆記 (Finance)/技術分析/技術分析_BABA.md",
     "SKILLs/skill_convertor/convert-programming-v2.md",
     "財務筆記 (Finance)/生產要素/CoWoS（Chip-on-Wafer-on-Substrate）全球分析報告.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/Samsung_三星電子.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/CoWoS封裝/TSMC_其他平台（Others）.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/CoWoS封裝/TSMC_車用電子（Automotive）.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/CoWoS封裝/TSMC_高效能運算（HPC）.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/CoWoS封裝/TSMC_智慧型手機（Smartphone）.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/CoWoS封裝/TSMC_數位消費電子（DCE）.md",
-    "財務筆記 (Finance)/產業/AI生產鏈/HBM or DRAM/三星電子_DX（Device eXperience）.md",
     "SKILLs/Map_invest_skills.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
