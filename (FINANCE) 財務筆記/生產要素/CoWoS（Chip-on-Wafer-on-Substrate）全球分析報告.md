@@ -1,7 +1,7 @@
 ## CoWoS（Chip-on-Wafer-on-Substrate）全球分析報告
 
 https://www.perplexity.ai/search/cowos-soic-feng-zhuang-zhi-che-9dk.4Gr6TQu5gGMFnmID3Q?preview=1
-![](assets/CoWoS（Chip-on-Wafer-on-Substrate）全球分析報告/file-20260411165523179.jpg)
+![](assets/CoWoS（Chip-on-Wafer-on-Substrate）全球分析報告/file-20260413075735273.jpg)
 **報告生成日期：** 2026 年 04 月 07 日  
 **數據主要覆蓋期間：** 2024 年 Q1 – 2026 年 Q1
 

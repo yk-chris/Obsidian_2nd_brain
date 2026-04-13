@@ -1,0 +1,23 @@
+{
+	"nodes": [
+		{
+			"id": "579cac04f803ede4",
+			"type": "text",
+			"text": "以下是 **EWY（iShares MSCI South Korea ETF）** 多維估值比較分析，基於 2026 年 4 月 10 日收盤數據與最新財務指標。\n\n---\n\n> ⚠️ **ETF 估值說明：** EWY 為被動追蹤指數 ETF，不具單一公司 FCF/EBITDA，因此 DCF 以**P/E 均值回歸（盈利正常化）** 替代、EV/EBITDA 及 PS 法因 ETF 加總層面數據不直接可用而排除，加權比重重新分配至四個適用模型。\n\n---\n\n## 加權綜合結論\n\n- **標的：** EWY — iShares MSCI South Korea ETF（NYSE Arca）\n    \n- **綜合公允價值：** $109.21\n    \n- **現價：** $138.00（2026-04-10 收盤）investing+1\n    \n- **總體偏離幅度：** **−20.9%（高估 20.9%）**\n    \n- **安全邊際評級：** ❌ **不足（現處高估狀態，無安全邊際）**\n    \n- **核心觀點：** EWY 現以 TTM P/E 19.18 倍交易 ，顯著高於韓國市場 10 年歷史均值 14.32 倍（韓國交易所官方數據）。驅動力包括：①SK 海力士主導 HBM/AI 半導體週期；②政府「企業價值提升計劃」（Value-Up）推動 KOSPI P/B 從 2024 年底 0.88 倍反彈至 1.67 倍 ；③麥格理預測 2026E EPS 增長 48%、KOSPI 目標 6,000 點 。主要風險：①P/E 估值較 5 年均值高出約 4.8 個標準差 ；②美國關稅不確定性衝擊韓國出口；③三星電子晶片業務復甦進度。前瞻亮點：若 48% EPS 增長實現，前瞻 P/E 降至 12.96 倍（低於歷史均值），對應公允價值 $152.49，具備向上修復空間。ishares+5\n    \n\n---\n\n## 估值模型矩陣\n\n|估值模型|方法類型|關鍵假設|公允價值|偏離幅度|加權比重|\n|---|---|---|---|---|---|\n|**P/E 均值回歸（DCF等效）**|絕對估值|P/E(TTM)=19.18x；Implied EPS=$7.19；**Fair P/E=15.0x**（10Y均值14.32x + Value-Up溢價）[koreabizdaily](https://www.koreabizdaily.com/en-us/articles/856593)|**$107.92**|−21.8%|**35%**|\n|**P/B 淨資產法**|資產基礎|Current P/B=2.18x [ishares](https://www.ishares.com/us/products/239681/ishares-msci-south-korea-capped-etf)；BV/Share=$63.30；**Fair P/B=1.8x**（10Y均值1.09x，EWY科技偏重加成，日本改革後1.5x類比）robeco+1|**$113.94**|−17.4%|**25%**|\n|**DDM 股息折現**|收益折現|TTM實際股息=$2.04（2025年12月派息）[divvydiary](https://divvydiary.com/en/ishares-msci-south-korea-etf-US4642867729)；**正常化殖利率=2.0%**（韓國歷史均值）|**$102.00**|−26.1%|**20%**|\n|**EM 同業 PE 比較**|同業倍數|MSCI EM均值 P/E=15.67x [worldperatio](https://worldperatio.com/area/south-korea/)；Implied Korea EPS=$7.19|**$112.75**|−18.3%|**20%**|\n|EV/EBITDA|同業倍數|❌ ETF加總層面不適用|N/A|N/A|0%（排除）|\n|PS 收入倍數|同業倍數|❌ ETF加總層面不適用|N/A|N/A|0%（排除）|\n\n> **模型收斂度：** 公允價值標準差 $4.70（CV = 4.3%），遠低於 30% 警戒線，四模型高度收斂。\n\n---\n\n## 估值矩陣摘要表\n\n|日期|Ticker|標的名稱|現價|綜合公允價值|總體偏離幅度|低估/高估|安全邊際評級|P/E均值回歸（DCF等效）|PE同業比較（EM）|EV/EBITDA|PS收入倍數|PB淨資產法|核心觀點|\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|2026-04-11|**EWY**|iShares MSCI South Korea ETF|$138.00|**$109.21**|**−20.9%**|🔴 **高估**|❌ 不足|$107.92|$112.75|N/A|N/A|$113.94|P/E 19.18x 高於10Y均值14.32x；Value-Up改革支撐P/B再評級；SK海力士HBM為核心驅動；最大風險為全球關稅衝擊及三星盈利復甦節奏。前瞻亮點：若2026E EPS+48%實現，前瞻P/E降至12.97x，目標價$152.49，具備向上修復條件。|\n\n---\n\n## 關鍵假設彙整\n\n|參數|數值|來源|\n|---|---|---|\n\n|參數|數值|來源|\n|---|---|---|\n|EWY 現價|$138.00|NYSE Arca，2026-04-10 收盤 [investing](https://www.investing.com/etfs/ishares-south-korea-index-historical-data)|\n|ETF P/E（TTM）|19.18x|iShares 官方，2026-04-09 [ishares](https://www.ishares.com/us/products/239681/ishares-msci-south-korea-capped-etf)|\n|ETF P/B|2.18x|iShares 官方，2026-04-09 [ishares](https://www.ishares.com/us/products/239681/ishares-msci-south-korea-capped-etf)|\n|韓國市場 P/E 10年均值|14.32x|韓國交易所（KRX）官方數據 [koreabizdaily](https://www.koreabizdaily.com/en-us/articles/856593)|\n|韓國市場 P/B 10年均值|1.09x|韓國交易所官方數據 [koreabizdaily](https://www.koreabizdaily.com/en-us/articles/856593)|\n|MSCI EM 平均 P/E|15.67x|worldperatio.com，2026-04-10 [worldperatio](https://worldperatio.com/area/south-korea/)|\n|EWY 12m TTM 股息|$2.04/share|2025年12月實際派息 [divvydiary](https://divvydiary.com/en/ishares-msci-south-korea-etf-US4642867729)|\n|EWY 前瞻股息（FWD）|$3.30/share|DivvyDiary，2026預測 [divvydiary](https://divvydiary.com/en/ishares-msci-south-korea-etf-US4642867729)|\n|前瞻 EPS 增長（2026E）|+48%|Macquarie 研究，2025-12 [investing](https://www.investing.com/news/stock-market-news/south-koreas-kospi-market-outlook-for-2026-as-per-macquarie-4386420)|\n|韓國 AUM|$18.0B|iShares，2026-04-10 [ishares](https://www.ishares.com/us/products/239681/ishares-msci-south-korea-capped-etf)|",
+			"x": -680,
+			"y": -200,
+			"width": 659,
+			"height": 572
+		},
+		{
+			"id": "a8916ec80d85b82b",
+			"type": "file",
+			"file": "(FINANCE) 財務筆記/TA技術分析/assets/技術分析_EWY/file-20260413075734543.jpg",
+			"x": -680,
+			"y": -520,
+			"width": 599,
+			"height": 304
+		}
+	],
+	"edges": []
+}

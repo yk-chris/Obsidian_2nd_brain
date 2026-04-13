@@ -1,7 +1,7 @@
 # HBM（高頻寬記憶體）全球分析報告
 
 https://www.perplexity.ai/search/hbm-sheng-chan-she-ji-jing-mi-5pP.r5oQSFW3CJgWiMN85g?preview=1
-![](assets/HBM（高頻寬記憶體）全球分析報告/file-20260411112059951.jpg)
+![](assets/HBM（高頻寬記憶體）全球分析報告/file-20260413075736852.jpg)
 **報告生成日期：** 2026 年 04 月 06 日  
 **數據主要覆蓋期間：** 2024 年 Q1 – 2026 年 Q1
 

@@ -1,5 +1,5 @@
-![](assets/先進封裝（Advanced%20Packaging）全球分析報告/file-20260411133945350.jpg)
-![](assets/先進封裝（Advanced%20Packaging）全球分析報告/file-20260411133945341.jpg)
+![](assets/先進封裝（Advanced%20Packaging）全球分析報告/file-20260413075738409.jpg)
+![](assets/先進封裝（Advanced%20Packaging）全球分析報告/file-20260413075738408.jpg)
 **報告生成日期：** 2026 年 04 月 06 日  
 **數據主要覆蓋期間：** 2024 年 Q1 – 2026 年 Q1
 
