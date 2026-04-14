@@ -95,7 +95,7 @@
       {
         "id": "073329e4589d0ef5",
         "type": "tabs",
-        "dimension": 28.985507246376812,
+        "dimension": 28.98550724637681,
         "children": [
           {
             "id": "5499962cf8f15ab4",
@@ -207,13 +207,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ba4fdb4f627889d7",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,16 +237,20 @@
       "bases:Create new base": true,
       "obsidian-git:Open Git source control": true,
       "random-note:Open random note": true,
-      "markdown-importer:Open format converter": false
+      "claudian:Open Claudian": false
     }
   },
   "active": "58e28601d76be43f",
   "lastOpenFiles": [
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205428180.json",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205403443.jpg",
+    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
+    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+    "IDEAVERSE/2026/April/2026-04-12 日記.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md",
     "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/ASML.md",
     "Untitled.md",
-    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414194228656.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414194222610.jpg",
     "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md",
@@ -248,11 +262,8 @@
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192323787.jpg",
     "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414191721202.jpg",
-    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414191331821.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414191310053.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin",
-    "IDEAVERSE/2026/April/2026-04-12 日記.md",
     "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
     "assets/2026-04-14 Obsidian Plugin",
     "assets",
@@ -280,7 +291,6 @@
     "SKILLs/skill_convertor/convert-programming-v2.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/CODEBASE_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",

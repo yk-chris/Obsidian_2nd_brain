@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=a-beIdZBe6k
 
+### Claudian
+- C:\Users\chirs.yk\Documents\GitHub\Obsidian_2nd_brain\.obsidian\plugins\claudian
+- https://github.com/YishenTu/claudian
+- https://github.com/kepano/obsidian-skills
+![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414205403443.jpg)
+
 ### Omnisearch
 ![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414191721202.jpg)
 ![558](assets/2026-04-14%20Obsidian%20Plugin/file-20260414194228656.jpg)
