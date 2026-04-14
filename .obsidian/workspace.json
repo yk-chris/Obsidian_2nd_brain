@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meeting_20260413"
+              "title": "codebase_mail_preinduction"
             }
           },
           {
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of meeting_20260413"
+              "title": "Outline of codebase_mail_preinduction"
             }
           },
           {
@@ -204,15 +204,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
       "obsidian-git:Open Git source control": false,
-      "random-note:Open random note": false,
-      "markdown-importer:Open format converter": false
+      "random-note:Open random note": false
     }
   },
-  "active": "bf7e290d8dd3db84",
+  "active": "6357ed6cdd90e557",
   "lastOpenFiles": [
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260414102303317.jpg",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/codebase_mail_preinduction/file-20260414102303317.jpg",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
     "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
     "SKILLs/skill_convertor/convert-programming-v2.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/CODEBASE_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
@@ -241,7 +242,6 @@
     "WORK/Projects_HAESL/proj_digital_streamer/assets/UAT_streamer_20260413/file-20260413121105632.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413",
     "(LEARN) 學習筆記/AI-learning/assets/解構Anthropic Managed Agent/file-20260411111657092.jpg",
-    "(LEARN) 學習筆記/AI-learning/assets/解構Anthropic Managed Agent/file-20260411111657091.jpg",
     "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
@@ -255,7 +255,6 @@
     "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_DS（Device Solutions）.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/SK Hynix_NAND Flash.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/SK Hynix_DRAM.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_MCBU（Mobile & Client BU）.md",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",
