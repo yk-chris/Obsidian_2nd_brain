@@ -11,14 +11,17 @@
             "id": "6357ed6cdd90e557",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
-                "mode": "source",
-                "source": false
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 363.5,
+                  "y": 47.5,
+                  "zoom": -1.1508761938499192
+                }
               },
-              "icon": "lucide-file",
-              "title": "meeting_20260413"
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
             }
           },
           {
@@ -168,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of meeting_20260413"
+              "title": "Outline of map_Induction_WSI_workflow"
             }
           },
           {
@@ -192,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +212,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bf7e290d8dd3db84",
+  "active": "6357ed6cdd90e557",
   "lastOpenFiles": [
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121758229.jpg",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121439862.jpg",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121301477.jpg",
@@ -217,7 +223,6 @@
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage/file-20260414102935820.jpg",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets",
     "WORK/Projects_HAESL/proj_stamp_holder_manage",
@@ -232,8 +237,6 @@
     "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
     "SKILLs/skill_convertor/convert-programming-v2.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/CODEBASE_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
