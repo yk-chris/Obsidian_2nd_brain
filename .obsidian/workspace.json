@@ -11,13 +11,26 @@
             "id": "6357ed6cdd90e557",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "目錄.base",
-                "viewName": "Table"
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "目錄"
+              "icon": "lucide-file",
+              "title": "meeting_20260413"
+            }
+          },
+          {
+            "id": "2a56edb16b84e584",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "file-20260413164235357"
             }
           }
         ]
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 326.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -155,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily小發現/2026/April/2026-04-12 日記.md",
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-12 日記"
+              "title": "Outline of meeting_20260413"
             }
           },
           {
@@ -179,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,40 +204,42 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
       "obsidian-git:Open Git source control": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "6357ed6cdd90e557",
+  "active": "bf7e290d8dd3db84",
   "lastOpenFiles": [
+    "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
+    "SKILLs/skill_convertor/convert-programming-v2.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/prompt_convert_mail_preinduction.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/CODEBASE_mail_preinduction.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/__temp__CODEBASE_mail_preinduction",
+    "目錄.base",
     "WORK/Meeting Minutes/20260408_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
     "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/codebase_mail_preinduction",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/raw_convert_mail_preinduction.md",
     "Daily小發現/2026/April/2026-04-12 日記.md",
-    "(INSIGHT) 小發現/2026/April/2026-04-12 日記.md",
-    "(INSIGHT) 小發現/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-    "(INSIGHT) 小發現/2026/April/2026-04-11 Pin Script (TradingView).md",
-    "(INSIGHT) 小發現/2026/April",
-    "(INSIGHT) 小發現/2026",
-    "(INSIGHT) 小發現",
+    "IDEAVERSE/2026/April/2026-04-12 日記.md",
+    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
+    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
+    "IDEAVERSE/2026/April",
+    "IDEAVERSE/2026",
+    "IDEAVERSE",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235358.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235355.jpg",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235354.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/UAT_streamer_20260413/file-20260413121154810.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/UAT_streamer_20260413/file-20260413121204789.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/UAT_streamer_20260413/file-20260413121141144.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/UAT_streamer_20260413/file-20260413121105632.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/codebase_mail_preinduction/file-20260413191447312.xlsm",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/codebase_mail_preinduction/file-20260413191447314.xlsm",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/UAT_streamer_20260413",
-    "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
     "(LEARN) 學習筆記/AI-learning/assets/解構Anthropic Managed Agent/file-20260411111657092.jpg",
     "(LEARN) 學習筆記/AI-learning/assets/解構Anthropic Managed Agent/file-20260411111657091.jpg",
     "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
