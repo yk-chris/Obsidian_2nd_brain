@@ -8,20 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "917c6c55259af3d4",
+            "id": "6357ed6cdd90e557",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-                "viewState": {
-                  "x": -11.136213675586731,
-                  "y": 129.48887045115424,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_stamp_holder_manage"
+              "icon": "lucide-file",
+              "title": "meeting_20260413"
+            }
+          },
+          {
+            "id": "2a56edb16b84e584",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "file-20260413164235357"
             }
           }
         ]
@@ -159,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map_stamp_holder_manage"
+              "title": "Outline of meeting_20260413"
             }
           },
           {
@@ -183,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,45 +204,46 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
       "obsidian-git:Open Git source control": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "917c6c55259af3d4",
+  "active": "bf7e290d8dd3db84",
   "lastOpenFiles": [
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121758229.jpg",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121439862.jpg",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121301477.jpg",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121238724.jpg",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage/file-20260414102935820.jpg",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260414102303317.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120656343.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120254300.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120107417.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120051536.jpg",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235354.jpg",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
-    "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow",
-    "assets/map_Induction_WSI_workflow",
-    "assets/Untitled",
-    "assets",
     "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets",
-    "assets/logic_stamp_holder_manage",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage",
     "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
     "SKILLs/skill_convertor/convert-programming-v2.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/CODEBASE_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/__temp__CODEBASE_mail_preinduction",
+    "目錄.base",
     "WORK/Meeting Minutes/20260408_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/codebase_mail_preinduction",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets",
     "Daily小發現/2026/April/2026-04-12 日記.md",
     "IDEAVERSE/2026/April/2026-04-12 日記.md",
     "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
