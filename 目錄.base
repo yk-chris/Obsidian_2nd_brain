@@ -13,7 +13,8 @@ views:
       - property: file.folder
         direction: DESC
     columnSize:
-      file.folder: 307
+      file.folder: 408
       file.name: 317
+      note.name: 266
   - type: list
     name: View

@@ -4,36 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa76001690892717",
+        "id": "57dcf3d518ebd054",
         "type": "tabs",
         "children": [
           {
-            "id": "6357ed6cdd90e557",
+            "id": "a45814a6ded997ba",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-                "viewState": {
-                  "x": 363.5,
-                  "y": 47.5,
-                  "zoom": -1.1508761938499192
-                }
+                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_Induction_WSI_workflow"
-            }
-          },
-          {
-            "id": "2a56edb16b84e584",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "file-20260413164235357"
+              "icon": "lucide-file",
+              "title": "2026-04-14 Obsidian Plugin"
             }
           }
         ]
@@ -48,6 +33,7 @@
       {
         "id": "c6ffe81819e77c4e",
         "type": "tabs",
+        "dimension": 71.01449275362319,
         "children": [
           {
             "id": "bf7e290d8dd3db84",
@@ -90,10 +76,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "073329e4589d0ef5",
+        "type": "tabs",
+        "dimension": 28.985507246376812,
+        "children": [
+          {
+            "id": "5499962cf8f15ab4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 243.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -171,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map_Induction_WSI_workflow"
+              "title": "Outline of 2026-04-14 Obsidian Plugin"
             }
           },
           {
@@ -209,65 +212,67 @@
       "bases:Create new base": true,
       "obsidian-git:Open Git source control": false,
       "random-note:Open random note": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "6357ed6cdd90e557",
+  "active": "a45814a6ded997ba",
   "lastOpenFiles": [
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414194228656.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414194222610.jpg",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/ASML.md",
+    "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md",
+    "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
+    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+    "目錄.base",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192449942.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192431001.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192405234.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192346835.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192323787.jpg",
+    "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414191721202.jpg",
+    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414191331821.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414191310053.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414191303495.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin",
+    "IDEAVERSE/2026/April/2026-04-12 日記.md",
+    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
+    "assets/2026-04-14 Obsidian Plugin",
+    "assets",
+    "Untitled.md",
+    "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
+    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_CMBU（Cloud Memory BU）.md",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "SKILLs/skill_invest/search_company (know-how)/invest-cost-return.md",
+    "IDEAVERSE/2026/April/assets/2026-04-14 - Context Engineering",
+    "IDEAVERSE/2026/April/assets/20260414 - Context Engineering",
+    "IDEAVERSE/2026/April/assets",
+    "assets/20260414 - Context Engineering",
+    "assets/Untitled",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/TSMC_台積電.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/Samsung_三星電子.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_CDBU（Core Data Center BU）.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121758229.jpg",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121439862.jpg",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121301477.jpg",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121238724.jpg",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage/file-20260414102935820.jpg",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260414102303317.jpg",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120656343.jpg",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120254300.jpg",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120107417.jpg",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120051536.jpg",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow",
     "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
     "SKILLs/skill_convertor/convert-programming-v2.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/CODEBASE_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/__temp__CODEBASE_mail_preinduction",
-    "目錄.base",
-    "WORK/Meeting Minutes/20260408_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/codebase_mail_preinduction",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets",
-    "Daily小發現/2026/April/2026-04-12 日記.md",
-    "IDEAVERSE/2026/April/2026-04-12 日記.md",
-    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
-    "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_DUV 光刻光學系統.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_服務與現場升級（Service & Field Option）.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_DUV 系統.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_SDC（Samsung Display）.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_Harman.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_DX（Device eXperience）.md",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "(FINANCE) 財務筆記/Map_原油.canvas",
     "(FINANCE) 財務筆記/Map_HBM.canvas",
     "財務筆記 (Finance)/Map_HBM.canvas",
-    "財務筆記 (Finance)/Map_財務筆記.canvas",
-    "財務筆記 (Finance)/Map_原油.canvas"
+    "財務筆記 (Finance)/Map_財務筆記.canvas"
   ]
 }

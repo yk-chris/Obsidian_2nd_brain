@@ -1,4 +1,9 @@
 [
   "obsidian-custom-attachment-location",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-sort-and-permute-lines",
+  "settings-search",
+  "recent-files-obsidian",
+  "obsidian-paste-image-rename",
+  "omnisearch"
 ]
