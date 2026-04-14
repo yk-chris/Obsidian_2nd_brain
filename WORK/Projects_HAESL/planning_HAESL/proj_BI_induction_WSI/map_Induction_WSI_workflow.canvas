@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"ac839da9d3c20766","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120051536.jpg","x":-340,"y":-80,"width":399,"height":186},
+		{"id":"e2d3b0fb7985e2da","type":"text","text":"V:\\Customer & Planning\\Common\\Induction Plan","x":-340,"y":140,"width":470,"height":60},
+		{"id":"620c84434a7d09b4","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120254300.jpg","x":-340,"y":220,"width":400,"height":155},
+		{"id":"ff1cc5cc4aa82603","type":"text","text":"(ex) Induction Planning > a list of Engine Serial ","x":-341,"y":-280,"width":400,"height":60,"color":"6"},
+		{"id":"2d81c95e66013ebc","type":"text","text":"V:\\Customer & Planning\\Common\\Engine Module files","x":-340,"y":-180,"width":450,"height":60},
+		{"id":"56f1280e7bf1bd61","type":"text","text":"(db) AIR > eIM > WSI Status = \"WIP /Done\"","x":160,"y":-280,"width":400,"height":60,"color":"6"},
+		{"id":"2631e9cc1ef9c86b","type":"text","text":"(Dashboard) WSI from WIP -> Done","x":680,"y":-279,"width":388,"height":59,"color":"4"},
+		{"id":"1a072d35d9056a8a","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235354.jpg","x":160,"y":-157,"width":400,"height":154},
+		{"id":"753d8f7e092f34b6","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235355.jpg","x":160,"y":38,"width":399,"height":102},
+		{"id":"9bf460aff9d96888","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg","x":668,"y":-157,"width":400,"height":141}
+	],
+	"edges":[
+		{"id":"db04a2189143682c","fromNode":"ff1cc5cc4aa82603","fromSide":"right","toNode":"56f1280e7bf1bd61","toSide":"left"},
+		{"id":"6a2806ec8b319593","fromNode":"56f1280e7bf1bd61","fromSide":"right","toNode":"2631e9cc1ef9c86b","toSide":"left"}
+	]
+}
