@@ -10,7 +10,7 @@
     "isTypewriterScrollEnabled": false,
     "isOnlyMaintainTypewriterOffsetWhenReachedEnabled": false,
     "isTypewriterOnlyUseCommandsEnabled": false,
-    "typewriterOffset": 0.5
+    "typewriterOffset": 0
   },
   "keepLinesAboveAndBelow": {
     "isKeepLinesAboveAndBelowEnabled": false,
@@ -40,7 +40,7 @@
     "currentLineHighlightStyle": "box",
     "currentLineHighlightUnderlineThickness": 1,
     "currentLineHighlightColor-dark": "rgba(23, 23, 35, 1)",
-    "currentLineHighlightColor-light": "rgba(106, 54, 247, 1)"
+    "currentLineHighlightColor-light": "rgba(239, 241, 245, 1)"
   },
   "writingFocus": {
     "doesWritingFocusShowHeader": false,

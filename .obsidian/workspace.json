@@ -33,7 +33,6 @@
       {
         "id": "c6ffe81819e77c4e",
         "type": "tabs",
-        "dimension": 71.86261558784676,
         "children": [
           {
             "id": "bf7e290d8dd3db84",
@@ -76,23 +75,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "654ad7f7c007e369",
-        "type": "tabs",
-        "dimension": 28.13738441215324,
-        "children": [
-          {
-            "id": "b3c36c888ed3387e",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -105,40 +87,8 @@
       {
         "id": "7648766eae0bd1d6",
         "type": "tabs",
+        "dimension": 57.565011820330966,
         "children": [
-          {
-            "id": "de11c486b444a1d4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
-            }
-          },
-          {
-            "id": "f8932bb3a3cb78ef",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Welcome.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
-            }
-          },
           {
             "id": "999f9e59355eff8d",
             "type": "leaf",
@@ -152,20 +102,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "ba7827b2a422f78e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
             }
           },
           {
@@ -184,13 +120,13 @@
             }
           },
           {
-            "id": "988dad2f498bcf82",
+            "id": "b3c36c888ed3387e",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "recent-files",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -204,6 +140,61 @@
             }
           },
           {
+            "id": "7f813ddb5d4401a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-04-15 streamer_off-module"
+            }
+          },
+          {
+            "id": "697a34e5af840a89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-04-15 streamer_off-module"
+            }
+          },
+          {
+            "id": "f5dbce112eb543a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b889fec81be043e3",
+        "type": "tabs",
+        "dimension": 42.434988179669034,
+        "children": [
+          {
             "id": "7d90f9584060d592",
             "type": "leaf",
             "state": {
@@ -213,12 +204,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,6 +227,9 @@
   },
   "active": "0187d25d10167c27",
   "lastOpenFiles": [
+    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
+    "WORK/Meeting Minutes/2026-04-10_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
+    "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415212028152.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415204620706.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415203615835.jpg",
@@ -246,7 +239,6 @@
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543426.jpg",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543427.jpg",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543429.jpg",
-    "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_meeting_clarify_off-module",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543425.jpg",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543421.jpg",
@@ -259,11 +251,8 @@
     "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135220842.jpg",
     "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement",
-    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-    "WORK/Meeting Minutes/2026-04-10_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
     "WORK/Meeting Minutes/2026-04-08_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
     "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040668.jpg",
-    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040670.jpg",
     "WORK/Meeting Minutes/assets/2026-04-15 - Renovation arrangement",
     "WORK/Meeting Minutes/assets",
     "IDEAVERSE/2026/April/2026-04-12 日記.md",
