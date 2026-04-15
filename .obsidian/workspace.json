@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d9d15bd6d167ed5",
+        "id": "beb60dd7fca972d0",
         "type": "tabs",
         "children": [
           {
-            "id": "843e335daf9fc39b",
+            "id": "0187d25d10167c27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+                "file": "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-14 Obsidian Plugin"
+              "title": "2026-04-15 streamer_off-module"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "c6ffe81819e77c4e",
         "type": "tabs",
+        "dimension": 71.86261558784676,
         "children": [
           {
             "id": "bf7e290d8dd3db84",
@@ -75,10 +76,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "654ad7f7c007e369",
+        "type": "tabs",
+        "dimension": 28.13738441215324,
+        "children": [
+          {
+            "id": "b3c36c888ed3387e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 296.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -87,7 +105,6 @@
       {
         "id": "7648766eae0bd1d6",
         "type": "tabs",
-        "dimension": 46.15384615384615,
         "children": [
           {
             "id": "de11c486b444a1d4",
@@ -109,6 +126,20 @@
             }
           },
           {
+            "id": "f8932bb3a3cb78ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
             "id": "999f9e59355eff8d",
             "type": "leaf",
             "state": {
@@ -124,31 +155,7 @@
             }
           },
           {
-            "id": "190e976e967cabc7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "ba4fdb4f627889d7",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
-            "id": "724bd55a1862b79c",
+            "id": "ba7827b2a422f78e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,7 +169,22 @@
             }
           },
           {
-            "id": "71b1a9bf4b4dbfba",
+            "id": "190e976e967cabc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-04-14 Obsidian Plugin"
+            }
+          },
+          {
+            "id": "988dad2f498bcf82",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -172,7 +194,17 @@
             }
           },
           {
-            "id": "a94624dd5bf8de6d",
+            "id": "ca7ef0db5728a1a7",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "7d90f9584060d592",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -180,111 +212,81 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "51b1b4a1176e36ac",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-14 Obsidian Plugin"
-            }
           }
         ],
         "currentTab": 6
-      },
-      {
-        "id": "267e126257f6aa2a",
-        "type": "tabs",
-        "dimension": 53.84615384615385,
-        "children": [
-          {
-            "id": "5499962cf8f15ab4",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
       "omnisearch:Omnisearch": false,
-      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
+      "command-palette:Open command palette": true,
       "bases:Create new base": true,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
       "random-note:Open random note": true,
       "claudian:Open Claudian": false
     }
   },
-  "active": "5499962cf8f15ab4",
+  "active": "0187d25d10167c27",
   "lastOpenFiles": [
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_DUV 系統.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_智慧型手機（Smartphone）.md",
-    "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
-    "2026-04-15.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
-    "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415212028152.jpg",
-    "Untitled.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415204620706.jpg",
-    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415203615835.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 - Context Engineering/file-20260414175538411.jpg",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md",
-    "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
-    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
-    "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
-    "目錄.base",
-    "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415112851687.xlsx",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111919080.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111902288.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111655728.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111246208.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111235893.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111110925.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415",
-    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement",
+    "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module",
-    "WORK/Meeting Minutes/assets",
+    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543426.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543427.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543429.jpg",
+    "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_meeting_clarify_off-module",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543425.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543421.jpg",
+    "目錄.base",
+    "assets/2026-04-15 streamer_meeting_clarify_off-module",
+    "assets/2026-04-15 streamer_meeting_clarify_off-module-swap",
+    "assets/2026-04-15",
+    "assets",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135220842.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement",
     "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Meeting Minutes/2026-04-10_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
     "WORK/Meeting Minutes/2026-04-08_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "WORK/Meeting Minutes/20260408_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/UAT_streamer_20260413",
-    "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205428180.json",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040668.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040670.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15 - Renovation arrangement",
+    "WORK/Meeting Minutes/assets",
     "IDEAVERSE/2026/April/2026-04-12 日記.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/ASML.md",
-    "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin",
-    "assets/2026-04-14 Obsidian Plugin",
-    "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
+    "Untitled.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/Carl Zeiss SMT.md",
+    "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+    "IDEAVERSE/2026/April/2026-04-15 fjhg.md",
+    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
+    "SKILLs/skill_convertor/convert-programming-v2.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/CODEBASE_mail_preinduction.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
+    "Daily小發現/2026/April/2026-04-12 日記.md",
+    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
+    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
+    "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",
