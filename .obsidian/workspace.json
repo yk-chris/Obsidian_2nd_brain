@@ -87,6 +87,7 @@
       {
         "id": "7648766eae0bd1d6",
         "type": "tabs",
+        "dimension": 46.15384615384615,
         "children": [
           {
             "id": "de11c486b444a1d4",
@@ -161,16 +162,6 @@
             }
           },
           {
-            "id": "5499962cf8f15ab4",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
             "id": "71b1a9bf4b4dbfba",
             "type": "leaf",
             "state": {
@@ -178,6 +169,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "a94624dd5bf8de6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -195,20 +196,21 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
-        "id": "e9900b2c2417f6a8",
+        "id": "267e126257f6aa2a",
         "type": "tabs",
+        "dimension": 53.84615384615385,
         "children": [
           {
-            "id": "a94624dd5bf8de6d",
+            "id": "5499962cf8f15ab4",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "recent-files",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -232,7 +234,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "843e335daf9fc39b",
+  "active": "5499962cf8f15ab4",
   "lastOpenFiles": [
     "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
