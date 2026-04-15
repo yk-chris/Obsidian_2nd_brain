@@ -7,15 +7,15 @@
 
 
 #### Question 2: which tasks would be transferred from engine streamer to module streamer?
-![](assets/2026-04-15/file-20260415160908799.jpg)
 
-![](assets/2026-04-15/file-20260415161528274.jpg)
+![](assets/2026-04-15%20streamer_meeting_clarify_off-module/file-20260415164603215.jpg)
+![](assets/2026-04-15%20streamer_meeting_clarify_off-module/file-20260415164603234.jpg)
 
 #### Question 3: swap module between two engine streamer
-![](assets/2026-04-15/file-20260415163111172.jpg)
 
+![](assets/2026-04-15%20streamer_meeting_clarify_off-module/file-20260415164603235.jpg)
 #### When the input type is "module", it still need to put into the off-module list
-![](assets/2026-04-15/file-20260415163217965.jpg)
 
+![](assets/2026-04-15%20streamer_meeting_clarify_off-module/file-20260415164603238.jpg)
 
 > A module without module streamer cannot be nominated.
