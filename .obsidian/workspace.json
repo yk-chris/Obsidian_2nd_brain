@@ -11,17 +11,14 @@
             "id": "917c6c55259af3d4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-                "viewState": {
-                  "x": 50.00722983579553,
-                  "y": 3.8839738055905286,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_stamp_holder_manage"
+              "icon": "lucide-file",
+              "title": "2026-04-14 Obsidian Plugin"
             }
           }
         ]
@@ -36,6 +33,7 @@
       {
         "id": "c6ffe81819e77c4e",
         "type": "tabs",
+        "dimension": 71.86261558784676,
         "children": [
           {
             "id": "bf7e290d8dd3db84",
@@ -75,6 +73,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "654ad7f7c007e369",
+        "type": "tabs",
+        "dimension": 28.13738441215324,
+        "children": [
+          {
+            "id": "b3c36c888ed3387e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -159,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map_stamp_holder_manage"
+              "title": "Outline of 2026-04-14 Obsidian Plugin"
             }
           },
           {
@@ -177,30 +192,44 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ca7ef0db5728a1a7",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
+    "width": 386.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
       "bases:Create new base": true,
-      "obsidian-git:Open Git source control": false,
-      "random-note:Open random note": false
+      "obsidian-git:Open Git source control": true,
+      "random-note:Open random note": true,
+      "claudian:Open Claudian": false
     }
   },
-  "active": "bf7e290d8dd3db84",
+  "active": "917c6c55259af3d4",
   "lastOpenFiles": [
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415083346001.jpg",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205428180.json",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205403443.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414194228656.jpg",
@@ -219,7 +248,6 @@
     "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
     "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
@@ -229,7 +257,6 @@
     "assets",
     "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
     "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
     "SKILLs/skill_convertor/convert-programming-v2.md",
