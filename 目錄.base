@@ -25,3 +25,4 @@ views:
       - file.name
       - file.tags
       - description
+      - file.ctime

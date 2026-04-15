@@ -5,7 +5,14 @@
         "Mod"
       ],
       "key": "O"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "workspace:goto-tab-1": []
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57dcf3d518ebd054",
+        "id": "7be0215a8ab885cc",
         "type": "tabs",
         "children": [
           {
-            "id": "a45814a6ded997ba",
+            "id": "7eae1dae381856fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-04-14 Obsidian Plugin"
             }
-          },
-          {
-            "id": "58e28601d76be43f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +33,6 @@
       {
         "id": "c6ffe81819e77c4e",
         "type": "tabs",
-        "dimension": 71.01449275362319,
         "children": [
           {
             "id": "bf7e290d8dd3db84",
@@ -91,27 +75,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "073329e4589d0ef5",
-        "type": "tabs",
-        "dimension": 28.98550724637681,
-        "children": [
-          {
-            "id": "5499962cf8f15ab4",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 273.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -170,42 +137,18 @@
             }
           },
           {
-            "id": "ba7827b2a422f78e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "190e976e967cabc7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
+                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討"
-            }
-          },
-          {
-            "id": "988dad2f498bcf82",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 2026-04-14 Obsidian Plugin"
             }
           },
           {
@@ -217,14 +160,39 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "5499962cf8f15ab4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
+      },
+      {
+        "id": "e9900b2c2417f6a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a94624dd5bf8de6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,12 +209,24 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "58e28601d76be43f",
+  "active": "7eae1dae381856fa",
   "lastOpenFiles": [
-    "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415204620706.jpg",
+    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
+    "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
     "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
-    "WORK/Meeting Minutes/20260408_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415203615835.jpg",
+    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
+    "IDEAVERSE/2026/April/assets/2026-04-14 - Context Engineering/file-20260414175538411.jpg",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_智慧型手機（Smartphone）.md",
+    "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md",
+    "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
+    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
+    "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
+    "目錄.base",
+    "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415112851687.xlsx",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111919080.jpg",
@@ -257,39 +237,28 @@
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111110925.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111037291.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415105919525.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415105152869.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415104411540.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415",
     "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module",
     "WORK/Meeting Minutes/assets",
-    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
-    "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
+    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
+    "WORK/Meeting Minutes/2026-04-10_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
+    "WORK/Meeting Minutes/2026-04-08_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
+    "WORK/Meeting Minutes/20260408_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/UAT_streamer_20260413",
     "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
-    "WORK/Meeting Minutes/2026-04-08_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205428180.json",
-    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
     "IDEAVERSE/2026/April/2026-04-12 日記.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md",
-    "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/ASML.md",
     "Untitled.md",
     "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md",
-    "目錄.base",
-    "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin",
-    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
     "assets/2026-04-14 Obsidian Plugin",
     "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
     "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_CMBU（Cloud Memory BU）.md",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "SKILLs/skill_invest/search_company (know-how)/invest-cost-return.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/TSMC_台積電.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/Samsung_三星電子.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_CDBU（Core Data Center BU）.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",

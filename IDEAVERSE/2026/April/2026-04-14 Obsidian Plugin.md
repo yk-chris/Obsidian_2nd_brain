@@ -1,27 +1,30 @@
 https://www.youtube.com/watch?v=a-beIdZBe6k
 
-### Claudian
+### 1.Claudian
 - C:\Users\chirs.yk\Documents\GitHub\Obsidian_2nd_brain\.obsidian\plugins\claudian
 - copy three below files from https://github.com/YishenTu/claudian
 - copy the skills developed by the obsidian founder from https://github.com/kepano/obsidian-skills
 ![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414205403443.jpg)
 
-### Omnisearch
+### 2.Omnisearch
 ![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414191721202.jpg)
 #### Change hotkeys for omnisearch as "Ctrl + O"
 ![558](assets/2026-04-14%20Obsidian%20Plugin/file-20260414194228656.jpg)
 
-### Recent Files
+### 3.Calendar
+![](assets/2026-04-14%20Obsidian%20Plugin/file-20260415203615835.jpg)
+### 4.Recent Files
 ![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414192323787.jpg)
 
-### Custom Attachment Location
+### 5.Custom Attachment Location
 ![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414190818974.jpg)
 ![550](assets/2026-04-14%20Obsidian%20Plugin/file-20260414190848905.jpg)
-
-### Sort & Permute lines
+### 6.Various complements
+![](assets/2026-04-14%20Obsidian%20Plugin/file-20260415204620706.jpg)
+### 7.Sort & Permute lines
 ![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414192346835.jpg)
 
-### Settings Search
+### 8.Settings Search
 ![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414192405234.jpg)
 
 ### Tag Wrangle
