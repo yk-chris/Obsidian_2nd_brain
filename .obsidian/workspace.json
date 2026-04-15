@@ -15,8 +15,8 @@
               "state": {
                 "file": "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
                 "viewState": {
-                  "x": -11.136213675586731,
-                  "y": 129.48887045115424,
+                  "x": 50.00722983579553,
+                  "y": 3.8839738055905286,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 263.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -199,7 +199,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "917c6c55259af3d4",
+  "active": "bf7e290d8dd3db84",
   "lastOpenFiles": [
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121758229.jpg",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121439862.jpg",
