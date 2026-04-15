@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7be0215a8ab885cc",
+        "id": "0d9d15bd6d167ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "7eae1dae381856fa",
+            "id": "843e335daf9fc39b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -108,20 +108,6 @@
             }
           },
           {
-            "id": "f8932bb3a3cb78ef",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Welcome.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
-            }
-          },
-          {
             "id": "999f9e59355eff8d",
             "type": "leaf",
             "state": {
@@ -142,13 +128,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-14 Obsidian Plugin"
+              "title": "Outline"
             }
           },
           {
@@ -162,6 +147,20 @@
             }
           },
           {
+            "id": "724bd55a1862b79c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
             "id": "5499962cf8f15ab4",
             "type": "leaf",
             "state": {
@@ -169,6 +168,30 @@
               "state": {},
               "icon": "clock",
               "title": "Recent Files"
+            }
+          },
+          {
+            "id": "71b1a9bf4b4dbfba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "51b1b4a1176e36ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-04-14 Obsidian Plugin"
             }
           }
         ],
@@ -204,23 +227,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "bases:Create new base": true,
-      "obsidian-git:Open Git source control": true,
+      "obsidian-git:Open Git source control": false,
       "random-note:Open random note": true,
       "claudian:Open Claudian": false
     }
   },
-  "active": "7eae1dae381856fa",
+  "active": "843e335daf9fc39b",
   "lastOpenFiles": [
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_DUV 系統.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_智慧型手機（Smartphone）.md",
+    "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+    "2026-04-15.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
+    "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
+    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415212028152.jpg",
+    "Untitled.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415204620706.jpg",
     "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-    "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
-    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415203615835.jpg",
-    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
     "IDEAVERSE/2026/April/assets/2026-04-14 - Context Engineering/file-20260414175538411.jpg",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_智慧型手機（Smartphone）.md",
-    "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md",
     "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
     "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
@@ -235,8 +264,6 @@
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111246208.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111235893.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111110925.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111037291.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415105919525.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415",
     "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module",
@@ -251,16 +278,11 @@
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205428180.json",
     "IDEAVERSE/2026/April/2026-04-12 日記.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/ASML.md",
-    "Untitled.md",
     "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin",
     "assets/2026-04-14 Obsidian Plugin",
     "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
-    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_CMBU（Cloud Memory BU）.md",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",

@@ -27,6 +27,8 @@ https://www.youtube.com/watch?v=a-beIdZBe6k
 ### 8.Settings Search
 ![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414192405234.jpg)
 
+### File Explorer Note Count
+![](assets/2026-04-14%20Obsidian%20Plugin/file-20260415212028152.jpg)
 ### Tag Wrangle
 ![](assets/2026-04-14%20Obsidian%20Plugin/file-20260414192431001.jpg)
 
