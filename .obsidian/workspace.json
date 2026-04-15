@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/Meeting Minutes/2026-04-15 streamer_meeting_clarify_off-module.md",
+                "file": "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-15 streamer_meeting_clarify_off-module"
+              "title": "2026-04-15 streamer_off-module"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 378.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -228,14 +228,15 @@
   },
   "active": "0187d25d10167c27",
   "lastOpenFiles": [
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module",
     "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_meeting_clarify_off-module/file-20260415164603235.jpg",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_meeting_clarify_off-module/file-20260415164603234.jpg",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_meeting_clarify_off-module/file-20260415164603215.jpg",
-    "WORK/Meeting Minutes/2026-04-15 streamer_meeting_clarify_off-module.md",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543426.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543427.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543429.jpg",
+    "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_meeting_clarify_off-module",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_meeting_clarify_off-module/file-20260415164603236.jpg",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_meeting_clarify_off-module/file-20260415164603238.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543425.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543421.jpg",
     "目錄.base",
     "assets/2026-04-15 streamer_meeting_clarify_off-module",
     "assets/2026-04-15 streamer_meeting_clarify_off-module-swap",
