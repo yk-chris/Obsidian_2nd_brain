@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aa76001690892717",
+        "id": "46979a85b4afaf75",
         "type": "tabs",
         "children": [
           {
-            "id": "917c6c55259af3d4",
+            "id": "ef3c06753ebea956",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
-                "mode": "source",
-                "source": false
+                "file": "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -52,
+                  "zoom": -0.42142717456794315
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-04-14 Obsidian Plugin"
+              "icon": "lucide-layout-dashboard",
+              "title": "map_stamp_holder_manage"
             }
           }
         ]
@@ -96,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 323.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -226,46 +229,50 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "917c6c55259af3d4",
+  "active": "ef3c06753ebea956",
   "lastOpenFiles": [
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415083346001.jpg",
+    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205428180.json",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205403443.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414194228656.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414194222610.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192449942.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192431001.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192405234.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192346835.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414192323787.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414191721202.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414191331821.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin",
-    "IDEAVERSE/2026/April/assets/2026-04-14 - Context Engineering",
-    "IDEAVERSE/2026/April/assets",
-    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
-    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
-    "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow",
-    "assets/map_Induction_WSI_workflow",
-    "assets/Untitled",
+    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135220842.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement",
+    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
+    "WORK/Meeting Minutes/2026-04-10_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
+    "WORK/Meeting Minutes/2026-04-08_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040668.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040670.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040672.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040673.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040675.jpg",
+    "WORK/Meeting Minutes/assets/2026-04-15 - Renovation arrangement",
+    "WORK/Meeting Minutes/assets",
+    "assets/2026-04-15 - Renovation arrangement",
+    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040676.jpg",
+    "assets/2026-04-15 - Rennovation arrangement",
     "assets",
-    "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/~$file-20260415112851687.xlsx",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415112851687.xlsx",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111919080.jpg",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111902288.jpg",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111655728.jpg",
+    "目錄.base",
+    "IDEAVERSE/2026/April/2026-04-12 日記.md",
+    "Untitled.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/Carl Zeiss SMT.md",
     "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+    "IDEAVERSE/2026/April/2026-04-15 fjhg.md",
+    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
     "SKILLs/skill_convertor/convert-programming-v2.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/CODEBASE_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-    "WORK/Meeting Minutes/20260408_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
     "Daily小發現/2026/April/2026-04-12 日記.md",
-    "IDEAVERSE/2026/April/2026-04-12 日記.md",
     "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
     "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
     "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
@@ -273,16 +280,11 @@
     "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_DUV 光刻光學系統.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_服務與現場升級（Service & Field Option）.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_DUV 系統.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_SDC（Samsung Display）.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_Harman.md",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "(FINANCE) 財務筆記/Map_原油.canvas",
     "(FINANCE) 財務筆記/Map_HBM.canvas",
-    "財務筆記 (Finance)/Map_HBM.canvas",
-    "財務筆記 (Finance)/Map_財務筆記.canvas"
+    "財務筆記 (Finance)/Map_HBM.canvas"
   ]
 }

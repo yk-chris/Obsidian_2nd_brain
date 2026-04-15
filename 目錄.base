@@ -18,3 +18,10 @@ views:
       note.name: 266
   - type: list
     name: View
+    filters:
+      and:
+        - '!file.name.contains("jpg")'
+    order:
+      - file.name
+      - file.tags
+      - description
