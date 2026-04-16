@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bf05a32dbaeb5ea6",
+        "id": "f94bf55cb4b30b0d",
         "type": "tabs",
         "children": [
           {
-            "id": "13f3d4a8402b72da",
+            "id": "a87b6f715275ee1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md"
               },
-              "icon": "lucide-file",
-              "title": "2026-04-15 streamer_off-module"
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_2026-04-16_.SKILL.md (Invest)"
             }
           }
         ]
@@ -235,13 +233,42 @@
       "bases:Create new base": true,
       "obsidian-git:Open Git source control": false,
       "random-note:Open random note": true,
-      "claudian:Open Claudian": false
+      "claudian:Open Claudian": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "13f3d4a8402b72da",
+  "active": "a87b6f715275ee1e",
   "lastOpenFiles": [
-    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
+    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+    "Excalidraw/Excalidraw_2026-04-16_.excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈",
+    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI Agent",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628028.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628030.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628034.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628036.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628037.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628038.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628039.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628040.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628041.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628042.png",
+    "Excalidraw/assets/Drawing 2026-04-16 19.42.13.excalidraw",
+    "Excalidraw/assets/Drawing 2026-04-16 19.37.57.AI Agent",
+    "Excalidraw/assets/Drawing 2026-04-16 19.37.57.excalidraw",
+    "Excalidraw/assets",
+    "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
+    "Excalidraw/Drawing 2026-04-16 19.34.51.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-04-16 19.35.28.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-16 19.37.07.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-16 19.35.13.excalidraw.md",
+    "SKILLs/Map_invest_skills.canvas",
     "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
+    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
+    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
@@ -252,48 +279,20 @@
     "2026-04-15.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
     "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415212028152.jpg",
     "Untitled.md",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415204620706.jpg",
     "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415203615835.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 - Context Engineering/file-20260414175538411.jpg",
     "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md",
     "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
     "目錄.base",
     "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415112851687.xlsx",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111919080.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111902288.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111655728.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111246208.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111235893.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415111110925.jpg",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415",
-    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module",
-    "WORK/Meeting Minutes/assets",
-    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-    "WORK/Meeting Minutes/2026-04-10_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "WORK/Meeting Minutes/2026-04-08_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Meeting Minutes/20260410_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "WORK/Meeting Minutes/20260408_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/UAT_streamer_20260413",
-    "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260414205428180.json",
-    "IDEAVERSE/2026/April/2026-04-12 日記.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/ASML.md",
-    "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin",
-    "assets/2026-04-14 Obsidian Plugin",
-    "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "(FINANCE) 財務筆記/Map_原油.canvas",
-    "(FINANCE) 財務筆記/Map_HBM.canvas",
-    "財務筆記 (Finance)/Map_HBM.canvas"
+    "(FINANCE) 財務筆記/Map_HBM.canvas"
   ]
 }
