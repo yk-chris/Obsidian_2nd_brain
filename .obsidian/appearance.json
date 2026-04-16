@@ -1,3 +1,6 @@
 {
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 20,
+  "baseFontSizeAction": false,
+  "accentColor": "#7f4cbd"
 }

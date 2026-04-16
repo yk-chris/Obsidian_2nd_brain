@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f94bf55cb4b30b0d",
+        "id": "22e38a44ad4f1758",
         "type": "tabs",
         "children": [
           {
-            "id": "a87b6f715275ee1e",
+            "id": "a9ce5a0503299550",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md"
+                "file": "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excalidraw_2026-04-16_.SKILL.md (Invest)"
+              "title": "Excalidraw_2026-04-16_.AI Agent"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 264.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -88,22 +88,15 @@
         "dimension": 46.15384615384615,
         "children": [
           {
-            "id": "de11c486b444a1d4",
+            "id": "a94624dd5bf8de6d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -127,24 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "a94624dd5bf8de6d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "pinned": true,
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of Excalidraw_2026-04-16_.AI Agent"
             }
           },
           {
@@ -194,9 +176,27 @@
               "icon": "links-going-out",
               "title": "Outgoing links from 2026-04-15 streamer_off-module"
             }
+          },
+          {
+            "id": "f77540ebc35b7ef7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Excalidraw_2026-04-16_.AI Agent"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "267e126257f6aa2a",
@@ -237,13 +237,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a87b6f715275ee1e",
+  "active": "a9ce5a0503299550",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
-    "Excalidraw/Excalidraw_2026-04-16_.excalidraw.md",
-    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈",
+    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
+    "Clippings/Obsidian Web Clipper.md",
+    "Clippings/name US Short-Term Trading Strategy & Pine Script Generatordescription.md",
+    "Excalidraw_2026-04-16_.excalidraw.md",
+    "Clippings",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
+    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
+    "Excalidraw/Excalidraw_2026-04-16_.excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-16__1.excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-16__0.excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI Agent",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628028.png",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628030.png",
@@ -279,15 +286,9 @@
     "2026-04-15.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md",
     "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
-    "Untitled.md",
-    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md",
-    "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
     "目錄.base",
-    "WORK/Meeting Minutes/20260413_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415112851687.xlsx",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
