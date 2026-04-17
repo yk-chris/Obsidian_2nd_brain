@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "beb60dd7fca972d0",
+        "id": "110168281d1a91c7",
         "type": "tabs",
         "children": [
           {
-            "id": "0187d25d10167c27",
+            "id": "c7f309f98126e8b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-15 streamer_off-module"
+              "title": "New tab"
             }
           }
         ]
@@ -122,9 +118,11 @@
           {
             "id": "b3c36c888ed3387e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "recent-files",
               "state": {},
+              "pinned": true,
               "icon": "clock",
               "title": "Recent Files"
             }
@@ -145,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,21 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-15 streamer_off-module"
-            }
-          },
-          {
-            "id": "697a34e5af840a89",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-15 streamer_off-module"
+              "title": "Backlinks"
             }
           },
           {
@@ -225,17 +208,29 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "0187d25d10167c27",
+  "active": "c7f309f98126e8b4",
   "lastOpenFiles": [
-    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Meeting Minutes/2026-04-10_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
+    "WORK/Meeting Minutes/2026-04-08_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "2026-04-16 - Imaging-system deployed (v1.16.2).md",
+    "assets/2026-04-16 - Imaging-system deployed (v1.16.2)/file-20260416163705382.jpg",
+    "assets/2026-04-16 - Imaging-system deployed (v1.16.2)",
+    "assets",
+    "(FINANCE) 財務筆記/Map_HBM.canvas",
+    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "Untitled.md",
+    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
+    "WORK/Meeting Minutes/2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "WORK/Meeting Minutes/2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
+    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415212028152.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415204620706.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415203615835.jpg",
     "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module",
-    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543426.jpg",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543427.jpg",
     "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543429.jpg",
@@ -246,21 +241,13 @@
     "assets/2026-04-15 streamer_meeting_clarify_off-module",
     "assets/2026-04-15 streamer_meeting_clarify_off-module-swap",
     "assets/2026-04-15",
-    "assets",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135220842.jpg",
     "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement",
-    "WORK/Meeting Minutes/2026-04-08_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135040668.jpg",
     "WORK/Meeting Minutes/assets/2026-04-15 - Renovation arrangement",
-    "WORK/Meeting Minutes/assets",
     "IDEAVERSE/2026/April/2026-04-12 日記.md",
-    "Untitled.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/Carl Zeiss SMT.md",
     "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
     "IDEAVERSE/2026/April/2026-04-15 fjhg.md",
     "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
@@ -274,13 +261,10 @@
     "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
     "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
     "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "(FINANCE) 財務筆記/Map_原油.canvas",
-    "(FINANCE) 財務筆記/Map_HBM.canvas",
     "財務筆記 (Finance)/Map_HBM.canvas"
   ]
 }
