@@ -1,168 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
-    },
-    {
-      "basename": "file-20260414120051536",
-      "path": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120051536.jpg"
-    },
-    {
-      "basename": "file-20260413164235357",
-      "path": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235357.jpg"
-    },
-    {
-      "basename": "map_stamp_holder_manage",
-      "path": "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
-    },
-    {
-      "basename": "file-20260414121758229",
-      "path": "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121758229.jpg"
-    },
-    {
-      "basename": "file-20260414102935820",
-      "path": "WORK/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage/file-20260414102935820.jpg"
-    },
-    {
-      "basename": "目錄",
-      "path": "目錄.base"
-    },
-    {
-      "basename": "MoM_20260417_iMRO_integration_workshop",
-      "path": "WORK/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
-    },
-    {
-      "basename": "map_UAT_streamer_20260415",
-      "path": "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
-    },
-    {
-      "basename": "file-20260415094853523",
-      "path": "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415094853523.jpg"
-    },
-    {
-      "basename": "file-20260415112851687",
-      "path": "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415112851687.xlsx"
-    },
-    {
-      "basename": "Excalidraw_2026-04-16_.AI產業鏈",
-      "path": "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md"
-    },
-    {
       "basename": "Excalidraw_2026-04-16_.AI Agent",
       "path": "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
     },
     {
-      "basename": "2026-04-15 - 原油煉製產品",
-      "path": "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md"
-    },
-    {
-      "basename": "2026-04-17 - Map_oil_industry",
-      "path": "2026-04-17 - Map_oil_industry.canvas"
-    },
-    {
-      "basename": "Excalidraw_2026-04-17_.excalidraw",
-      "path": "Excalidraw/Excalidraw_2026-04-17_.excalidraw.md"
-    },
-    {
-      "basename": "2026-04-12 「石油→柴油→農機→糧食」",
-      "path": "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md"
-    },
-    {
-      "basename": "file-20260417120244743",
-      "path": "assets/2026-04-17 - Map_oil_industry/file-20260417120244743.jpg"
-    },
-    {
-      "basename": "file-20260417120244775",
-      "path": "assets/2026-04-17 - Map_oil_industry/file-20260417120244775.jpg"
-    },
-    {
-      "basename": "file-20260417120244763",
-      "path": "assets/2026-04-17 - Map_oil_industry/file-20260417120244763.jpg"
-    },
-    {
-      "basename": "file-20260417120244759",
-      "path": "assets/2026-04-17 - Map_oil_industry/file-20260417120244759.jpg"
-    },
-    {
-      "basename": "2026-04-11 Pin Script (TradingView)",
-      "path": "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md"
-    },
-    {
-      "basename": "2026-04-12 日記",
-      "path": "IDEAVERSE/2026/April/2026-04-12 日記.md"
-    },
-    {
-      "basename": "MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討",
-      "path": "WORK/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md"
-    },
-    {
-      "basename": "codebase_mail_preinduction",
-      "path": "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md"
-    },
-    {
-      "basename": "file-20260413164235354",
-      "path": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235354.jpg"
-    },
-    {
-      "basename": "file-20260417092241290",
-      "path": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg"
-    },
-    {
-      "basename": "file-20260417104127876",
-      "path": "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417104127876.jpg"
-    },
-    {
-      "basename": "file-20260417110645467",
-      "path": "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417110645467.jpg"
-    },
-    {
-      "basename": "file-20260417112348500",
-      "path": "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417112348500.jpg"
-    },
-    {
-      "basename": "file-20260417111039368",
-      "path": "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417111039368.jpg"
-    },
-    {
-      "basename": "MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示",
-      "path": "WORK/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md"
-    },
-    {
-      "basename": "file-20260413164235355",
-      "path": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235355.jpg"
-    },
-    {
-      "basename": "file-20260414120254300",
-      "path": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120254300.jpg"
-    },
-    {
-      "basename": "file-20260417092105908",
-      "path": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092105908.jpg"
+      "basename": "Karpathy's LLM Wiki - Full Beginner Setup Guide",
+      "path": "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md"
     },
     {
       "basename": "Obsidian Web Clipper",
       "path": "Clippings/Obsidian Web Clipper.md"
     },
     {
+      "basename": "Excalidraw_2026-04-16_.AI產業鏈",
+      "path": "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md"
+    },
+    {
       "basename": "Excalidraw_2026-04-16_.SKILL.md (Invest)",
       "path": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md"
     },
     {
-      "basename": "MoM_2026-04-15 streamer_off-module",
-      "path": "WORK/Meeting/MoM_2026-04-15 streamer_off-module.md"
+      "basename": "解構Anthropic Managed Agent",
+      "path": "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md"
     },
     {
-      "basename": "MoM_2026-04-15_Renovation arrangement",
-      "path": "WORK/Meeting/MoM_2026-04-15_Renovation arrangement.md"
+      "basename": "Map_invest_skills",
+      "path": "SKILLs/Map_invest_skills.canvas"
     },
     {
-      "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
-      "path": "WORK/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
+      "basename": "file-20260411125320315",
+      "path": "SKILLs/assets/Map_invest_skills/file-20260411125320315.jpg"
     },
     {
-      "basename": "Karpathy's LLM Wiki - Full Beginner Setup Guide",
-      "path": "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md"
+      "basename": "2026-04-14 Obsidian Plugin",
+      "path": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md"
+    },
+    {
+      "basename": "logic_stamp_holder_manage",
+      "path": "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
+    },
+    {
+      "basename": "2026-04-14 - Context Engineering",
+      "path": "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas"
+    },
+    {
+      "basename": "ASML_DUV 系統",
+      "path": "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_DUV 系統.md"
+    },
+    {
+      "basename": "TSMC_智慧型手機（Smartphone）",
+      "path": "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_智慧型手機（Smartphone）.md"
+    },
+    {
+      "basename": "2026-04-15 - 原油煉製產品",
+      "path": "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md"
+    },
+    {
+      "basename": "map_stamp_holder_manage",
+      "path": "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
+    },
+    {
+      "basename": "ASML_EUV 系統",
+      "path": "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_EUV 系統.md"
+    },
+    {
+      "basename": "Rocket Lab Corporation（RKLB）",
+      "path": "(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md"
+    },
+    {
+      "basename": "2026-04-12 「石油→柴油→農機→糧食」",
+      "path": "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md"
+    },
+    {
+      "basename": "file-20260414175538411",
+      "path": "IDEAVERSE/2026/April/assets/2026-04-14 - Context Engineering/file-20260414175538411.jpg"
+    },
+    {
+      "basename": "TSMC_物聯網（IoT）",
+      "path": "(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_物聯網（IoT）.md"
+    },
+    {
+      "basename": "原油 全球分析報告",
+      "path": "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md"
+    },
+    {
+      "basename": "目錄",
+      "path": "目錄.base"
+    },
+    {
+      "basename": "2026-04-12 日記",
+      "path": "IDEAVERSE/2026/April/2026-04-12 日記.md"
+    },
+    {
+      "basename": "ASML",
+      "path": "(FINANCE) 財務筆記/產業/AI生產鏈/ASML.md"
+    },
+    {
+      "basename": "invest-moat-margin-2",
+      "path": "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md"
     }
   ],
   "omittedPaths": [],

@@ -1,27 +1,20 @@
 {
   "main": {
-    "id": "188f9d7f989fa4a9",
+    "id": "b0b1015c933e7dd9",
     "type": "split",
     "children": [
       {
-        "id": "9948024f495108bc",
+        "id": "d33947b85904f0c7",
         "type": "tabs",
         "children": [
           {
-            "id": "0fe284b509d417ee",
+            "id": "783b1c55f21b0a5f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-                "viewState": {
-                  "x": -108.86195541100619,
-                  "y": 115.81362529026728,
-                  "zoom": 1.1102230246251565e-16
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_Induction_WSI_workflow"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -30,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "56229ae77f424aea",
+    "id": "bf74ecd00042d27c",
     "type": "split",
     "children": [
       {
-        "id": "04d18dc25f035411",
+        "id": "c6ffe81819e77c4e",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a7386214db7ba2",
+            "id": "bf7e290d8dd3db84",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +44,7 @@
             }
           },
           {
-            "id": "c81c407f08b180c9",
+            "id": "26e32847286aae2a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +61,7 @@
             }
           },
           {
-            "id": "634fe3340b199ff0",
+            "id": "ed93abcee6ca5efb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,52 +74,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 264.5
   },
   "right": {
-    "id": "bf1cfae4a89f7895",
+    "id": "8d1dddcd12a12a6f",
     "type": "split",
     "children": [
       {
-        "id": "01c080dbf3b746a6",
+        "id": "7648766eae0bd1d6",
         "type": "tabs",
-        "dimension": 36.434108527131784,
+        "dimension": 46.15384615384615,
         "children": [
           {
-            "id": "e57126b235f56243",
+            "id": "a94624dd5bf8de6d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for map_UAT_streamer_20260415"
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "612407de34bebd70",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from map_UAT_streamer_20260415"
-            }
-          },
-          {
-            "id": "3c1539d154df3a5b",
+            "id": "999f9e59355eff8d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +113,32 @@
             }
           },
           {
-            "id": "bd4e65fae6afff5c",
+            "id": "190e976e967cabc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Excalidraw_2026-04-16_.AI Agent"
+            }
+          },
+          {
+            "id": "ba4fdb4f627889d7",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "724bd55a1862b79c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,53 +152,63 @@
             }
           },
           {
-            "id": "d70fd4ff936c5c71",
+            "id": "71b1a9bf4b4dbfba",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "51b1b4a1176e36ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-04-15 streamer_off-module"
             }
           },
           {
-            "id": "9eb52c9c284c758b",
+            "id": "f77540ebc35b7ef7",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "6f80aaf0bb388b82",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Excalidraw_2026-04-16_.SKILL.md (Invest)"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
-        "id": "a86de48f4655422d",
+        "id": "267e126257f6aa2a",
         "type": "tabs",
-        "dimension": 63.565891472868216,
+        "dimension": 53.84615384615385,
         "children": [
           {
-            "id": "d92f8e0b01ac73f9",
+            "id": "5499962cf8f15ab4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "recent-files",
               "state": {},
+              "pinned": true,
               "icon": "clock",
               "title": "Recent Files"
             }
@@ -210,68 +217,81 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": true,
       "omnisearch:Omnisearch": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "switcher:Open quick switcher": true,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
-      "random-note:Open random note": true,
       "bases:Create new base": true,
-      "obsidian-git:Open Git source control": true,
-      "claudian:Open Claudian": false
+      "obsidian-git:Open Git source control": false,
+      "random-note:Open random note": true,
+      "claudian:Open Claudian": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0fe284b509d417ee",
+  "active": "bf7e290d8dd3db84",
   "lastOpenFiles": [
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "目錄.base",
-    "WORK/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
-    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415094853523.jpg",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/594D8010",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/~$file-20260415112851687.xlsx",
-    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/1F0D8010",
-    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
-    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
-    "2026-04-17 - Map_oil_industry.canvas",
-    "assets/2026-04-17 - Map_oil_industry",
-    "Excalidraw/Excalidraw_2026-04-17_.excalidraw.md",
-    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-    "assets/2026-04-17 - Map_oil_industry/file-20260417120244743.jpg",
-    "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
-    "assets/Map_oil_industry",
     "assets/2026-04-17 - Map_oil_industry/file-20260417120244775.jpg",
     "assets/2026-04-17 - Map_oil_industry/file-20260417120244763.jpg",
     "assets/2026-04-17 - Map_oil_industry/file-20260417120244759.jpg",
-    "assets/Untitled",
+    "assets/2026-04-17 - Map_oil_industry/file-20260417120244743.jpg",
+    "assets/2026-04-17 - Map_oil_industry",
     "assets",
-    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
-    "IDEAVERSE/2026/April/2026-04-12 日記.md",
-    "WORK/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235354.jpg",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg",
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417112348500.jpg",
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417111039368.jpg",
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417110645467.jpg",
+    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417104127876.jpg",
+    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337267.jpg",
+    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337266.jpg",
+    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337256.jpg",
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop",
-    "assets/MoM_20260417_iMRO_integration_workshop",
-    "WORK/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "Clippings/Obsidian Web Clipper.md",
-    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
-    "Clippings/proj Digital Streamer.md",
-    "Excalidraw/Excalidraw_2026-04-17__0.excalidraw.md",
-    "WORK/Meeting/MoM_2026-04-15 streamer_off-module.md",
+    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement",
+    "WORK/Meeting/assets/MoM_2026-04-15 streamer_off-module",
+    "WORK/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "WORK/Meeting/MoM_2026-04-15_Renovation arrangement.md",
+    "WORK/Meeting/MoM_2026-04-15 streamer_off-module.md",
     "WORK/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md"
+    "WORK/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
+    "WORK/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "WORK/Meeting/assets",
+    "WORK/Meeting",
+    "Excalidraw/Excalidraw_2026-04-17_.excalidraw.md",
+    "2026-04-17 - Map_oil_industry.canvas",
+    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
+    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
+    "Clippings/Obsidian Web Clipper.md",
+    "Clippings/name US Short-Term Trading Strategy & Pine Script Generatordescription.md",
+    "Excalidraw_2026-04-16_.excalidraw.md",
+    "Clippings",
+    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
+    "Excalidraw/Excalidraw_2026-04-16_.excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-16__1.excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-16__0.excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI Agent",
+    "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
+    "Excalidraw/Drawing 2026-04-16 19.34.51.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-16 19.35.28.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-16 19.37.07.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-16 19.35.13.excalidraw.md",
+    "SKILLs/Map_invest_skills.canvas",
+    "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
+    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
+    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
+    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
+    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
+    "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
+    "(FINANCE) 財務筆記/Map_財務筆記.canvas"
   ]
 }
