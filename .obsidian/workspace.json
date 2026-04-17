@@ -11,10 +11,14 @@
             "id": "048a3aeec769a2e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Obsidian Web Clipper.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Obsidian Web Clipper"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 308.5
   },
   "right": {
     "id": "bf1cfae4a89f7895",
@@ -83,6 +87,7 @@
       {
         "id": "01c080dbf3b746a6",
         "type": "tabs",
+        "dimension": 40.543735224586285,
         "children": [
           {
             "id": "e57126b235f56243",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Clippings/Obsidian Web Clipper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Obsidian Web Clipper"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Clippings/Obsidian Web Clipper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Obsidian Web Clipper"
             }
           },
           {
@@ -169,7 +176,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
+      },
+      {
+        "id": "a86de48f4655422d",
+        "type": "tabs",
+        "dimension": 59.456264775413715,
+        "children": [
+          {
+            "id": "d92f8e0b01ac73f9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,6 +217,19 @@
   },
   "active": "048a3aeec769a2e4",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
+    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
+    "WORK/Meeting/MoM_2026-04-15 streamer_off-module.md",
+    "WORK/Meeting/assets/MoM_2026-04-15 streamer_off-module",
+    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement",
+    "WORK/Meeting/MoM_2026-04-15_Renovation arrangement.md",
+    "WORK/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "WORK/Meeting/MoM_MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
+    "WORK/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
+    "目錄.base",
+    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
+    "Clippings/Obsidian Web Clipper.md",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628047.png",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628046.png",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628045.png",
@@ -203,16 +240,10 @@
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628039.png",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628037.png",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628036.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628034.png",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI Agent",
-    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
-    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
-    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
     "Excalidraw/assets",
     "Excalidraw",
-    "Clippings/Obsidian Web Clipper.md",
-    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
     "Clippings"
   ]
 }

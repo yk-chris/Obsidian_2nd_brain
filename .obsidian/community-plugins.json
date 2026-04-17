@@ -3,7 +3,6 @@
   "obsidian-git",
   "obsidian-sort-and-permute-lines",
   "settings-search",
-  "recent-files-obsidian",
   "obsidian-paste-image-rename",
   "omnisearch",
   "claudian",
@@ -13,5 +12,6 @@
   "obsidian-doubleshift",
   "url-into-selection",
   "typewriter-mode",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "recent-files-obsidian"
 ]
