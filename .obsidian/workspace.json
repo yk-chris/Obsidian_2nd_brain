@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b0b1015c933e7dd9",
+    "id": "188f9d7f989fa4a9",
     "type": "split",
     "children": [
       {
-        "id": "110168281d1a91c7",
+        "id": "faff3e552c8c9d0c",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f309f98126e8b4",
+            "id": "048a3aeec769a2e4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bf74ecd00042d27c",
+    "id": "56229ae77f424aea",
     "type": "split",
     "children": [
       {
-        "id": "c6ffe81819e77c4e",
+        "id": "04d18dc25f035411",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7e290d8dd3db84",
+            "id": "b0a7386214db7ba2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "26e32847286aae2a",
+            "id": "c81c407f08b180c9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "ed93abcee6ca5efb",
+            "id": "634fe3340b199ff0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,71 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 246.5
   },
   "right": {
-    "id": "8d1dddcd12a12a6f",
+    "id": "bf1cfae4a89f7895",
     "type": "split",
     "children": [
       {
-        "id": "7648766eae0bd1d6",
+        "id": "01c080dbf3b746a6",
         "type": "tabs",
-        "dimension": 57.565011820330966,
         "children": [
           {
-            "id": "999f9e59355eff8d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "190e976e967cabc7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2026-04-14 Obsidian Plugin"
-            }
-          },
-          {
-            "id": "b3c36c888ed3387e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "pinned": true,
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "ca7ef0db5728a1a7",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
-            "id": "7f813ddb5d4401a1",
+            "id": "e57126b235f56243",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -156,7 +103,35 @@
             }
           },
           {
-            "id": "f5dbce112eb543a6",
+            "id": "612407de34bebd70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3c1539d154df3a5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd4e65fae6afff5c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -168,17 +143,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b889fec81be043e3",
-        "type": "tabs",
-        "dimension": 42.434988179669034,
-        "children": [
+          },
           {
-            "id": "7d90f9584060d592",
+            "id": "d70fd4ff936c5c71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "9eb52c9c284c758b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -187,91 +168,51 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "omnisearch:Omnisearch": false,
-      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": false,
       "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": true,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "bases:Create new base": true,
-      "obsidian-git:Open Git source control": true,
       "random-note:Open random note": true,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": true,
       "claudian:Open Claudian": false
     }
   },
-  "active": "c7f309f98126e8b4",
+  "active": "048a3aeec769a2e4",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "WORK/Meeting Minutes/2026-04-10_系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "WORK/Meeting Minutes/2026-04-08_新版TRT Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-=======
->>>>>>> Stashed changes
-    "2026-04-16 - Imaging-system deployed (v1.16.2).md",
-    "assets/2026-04-16 - Imaging-system deployed (v1.16.2)/file-20260416163705382.jpg",
-    "assets/2026-04-16 - Imaging-system deployed (v1.16.2)",
-    "assets",
-    "(FINANCE) 財務筆記/Map_HBM.canvas",
-    "WORK/Meeting Minutes/2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-    "WORK/Meeting Minutes/2026-04-15 streamer_off-module.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "Untitled.md",
-    "WORK/Meeting Minutes/2026-04-15_Renovation arrangement.md",
-    "WORK/Meeting Minutes/2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Meeting Minutes/2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "IDEAVERSE/2026/April/2026-04-14 Obsidian Plugin.md",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415212028152.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415204620706.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260415203615835.jpg",
-    "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543426.jpg",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543427.jpg",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543429.jpg",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_meeting_clarify_off-module",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543425.jpg",
-    "WORK/Meeting Minutes/assets/2026-04-15 streamer_off-module/file-20260415165543421.jpg",
-    "目錄.base",
-    "assets/2026-04-15 streamer_meeting_clarify_off-module",
-    "assets/2026-04-15 streamer_meeting_clarify_off-module-swap",
-    "assets/2026-04-15",
-    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement/file-20260415135220842.jpg",
-    "WORK/Meeting Minutes/assets/2026-04-15_Renovation arrangement",
-    "WORK/Meeting Minutes/assets/2026-04-15 - Renovation arrangement",
-    "IDEAVERSE/2026/April/2026-04-12 日記.md",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/Carl Zeiss SMT.md",
-    "WORK/Projects_HAESL/proj_digital_streamer/UAT_streamer_20260413.md",
-    "IDEAVERSE/2026/April/2026-04-15 fjhg.md",
-    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/meeting_20260413.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
-    "SKILLs/skill_convertor/convert-programming-v2.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/CODEBASE_mail_preinduction.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
-    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-    "Daily小發現/2026/April/2026-04-12 日記.md",
-    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
-    "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
-<<<<<<< Updated upstream
-=======
-    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md",
->>>>>>> Stashed changes
-    "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
-    "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
-    "(FINANCE) 財務筆記/Map_財務筆記.canvas",
-    "(FINANCE) 財務筆記/Map_原油.canvas",
-    "財務筆記 (Finance)/Map_HBM.canvas"
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628047.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628046.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628045.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628042.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628041.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628040.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628038.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628039.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628037.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628036.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628034.png",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈",
+    "Excalidraw/assets/Excalidraw_2026-04-16_.AI Agent",
+    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
+    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
+    "Excalidraw/assets",
+    "Excalidraw",
+    "Clippings/Obsidian Web Clipper.md",
+    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
+    "Clippings"
   ]
 }
