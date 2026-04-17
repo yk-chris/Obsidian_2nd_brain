@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d33947b85904f0c7",
+        "id": "ac32e11fb739348e",
         "type": "tabs",
         "children": [
           {
-            "id": "783b1c55f21b0a5f",
+            "id": "d6ffd6a05b8f72f8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Excalidraw_2026-04-16_.SKILL.md (Invest)"
+              "title": "Backlinks"
             }
           }
         ]
@@ -235,8 +234,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bf7e290d8dd3db84",
+  "active": "d6ffd6a05b8f72f8",
   "lastOpenFiles": [
+    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
+    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
     "assets/2026-04-17 - Map_oil_industry/file-20260417120244775.jpg",
     "assets/2026-04-17 - Map_oil_industry/file-20260417120244763.jpg",
     "assets/2026-04-17 - Map_oil_industry/file-20260417120244759.jpg",
@@ -249,7 +250,6 @@
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417104127876.jpg",
     "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337267.jpg",
     "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337266.jpg",
-    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337256.jpg",
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop",
     "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement",
     "WORK/Meeting/assets/MoM_2026-04-15 streamer_off-module",
@@ -264,7 +264,6 @@
     "Excalidraw/Excalidraw_2026-04-17_.excalidraw.md",
     "2026-04-17 - Map_oil_industry.canvas",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
-    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
     "Clippings/Obsidian Web Clipper.md",
     "Clippings/name US Short-Term Trading Strategy & Pine Script Generatordescription.md",
     "Excalidraw_2026-04-16_.excalidraw.md",
@@ -273,7 +272,6 @@
     "Excalidraw/Excalidraw_2026-04-16_.excalidraw.md",
     "Excalidraw/Excalidraw_2026-04-16__1.excalidraw.md",
     "Excalidraw/Excalidraw_2026-04-16__0.excalidraw.md",
-    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI Agent",
     "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
