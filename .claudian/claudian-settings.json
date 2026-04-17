@@ -42,9 +42,9 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "installationMethod": "native-windows",
-      "installationMethodsByHost": {},
-      "wslDistroOverride": "",
+      "installationMethodsByHost": {
+        "110236-PBS": "native-windows"
+      },
       "wslDistroOverridesByHost": {}
     }
   },

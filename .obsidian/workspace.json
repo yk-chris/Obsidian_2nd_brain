@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "faff3e552c8c9d0c",
+        "id": "8f1d4a8bdab31058",
         "type": "tabs",
         "children": [
           {
-            "id": "048a3aeec769a2e4",
+            "id": "f6d631f50e7173a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Clippings/Obsidian Web Clipper.md",
-                "mode": "source",
-                "source": false
+                "file": "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+                "viewState": {
+                  "x": 865.0396456256922,
+                  "y": 88.65470653377616,
+                  "zoom": -2.0666947467958674
+                }
               },
-              "icon": "lucide-file",
-              "title": "Obsidian Web Clipper"
+              "icon": "lucide-layout-dashboard",
+              "title": "map_UAT_streamer_20260415"
             }
           }
         ]
@@ -78,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 269.5
   },
   "right": {
     "id": "bf1cfae4a89f7895",
@@ -87,7 +90,7 @@
       {
         "id": "01c080dbf3b746a6",
         "type": "tabs",
-        "dimension": 40.543735224586285,
+        "dimension": 36.434108527131784,
         "children": [
           {
             "id": "e57126b235f56243",
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Obsidian Web Clipper.md",
+                "file": "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian Web Clipper"
+              "title": "Backlinks for map_UAT_streamer_20260415"
             }
           },
           {
@@ -114,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/Obsidian Web Clipper.md",
+                "file": "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Obsidian Web Clipper"
+              "title": "Outgoing links from map_UAT_streamer_20260415"
             }
           },
           {
@@ -174,6 +177,16 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "6f80aaf0bb388b82",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
@@ -181,7 +194,7 @@
       {
         "id": "a86de48f4655422d",
         "type": "tabs",
-        "dimension": 59.456264775413715,
+        "dimension": 63.565891472868216,
         "children": [
           {
             "id": "d92f8e0b01ac73f9",
@@ -197,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,43 +220,58 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "random-note:Open random note": true,
-      "bases:Create new base": false,
+      "bases:Create new base": true,
       "obsidian-git:Open Git source control": true,
       "claudian:Open Claudian": false
     }
   },
-  "active": "048a3aeec769a2e4",
+  "active": "f6d631f50e7173a5",
   "lastOpenFiles": [
     "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
-    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
+    "2026-04-17 - Map_oil_industry.canvas",
+    "assets/2026-04-17 - Map_oil_industry",
+    "Excalidraw/Excalidraw_2026-04-17_.excalidraw.md",
+    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
+    "assets/2026-04-17 - Map_oil_industry/file-20260417120244743.jpg",
+    "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
+    "assets/Map_oil_industry",
+    "assets/2026-04-17 - Map_oil_industry/file-20260417120244775.jpg",
+    "assets/2026-04-17 - Map_oil_industry/file-20260417120244763.jpg",
+    "assets/2026-04-17 - Map_oil_industry/file-20260417120244759.jpg",
+    "assets/Untitled",
+    "assets",
+    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
+    "IDEAVERSE/2026/April/2026-04-12 日記.md",
+    "WORK/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
+    "WORK/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235354.jpg",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg",
+    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417112348500.jpg",
+    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417111039368.jpg",
+    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417110645467.jpg",
+    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop",
+    "assets/MoM_20260417_iMRO_integration_workshop",
+    "WORK/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "assets/MoM_2",
+    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417104127876.jpg",
+    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "Clippings/Obsidian Web Clipper.md",
+    "目錄.base",
+    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "Clippings/proj Digital Streamer.md",
+    "Excalidraw/Excalidraw_2026-04-17__0.excalidraw.md",
     "WORK/Meeting/MoM_2026-04-15 streamer_off-module.md",
     "WORK/Meeting/assets/MoM_2026-04-15 streamer_off-module",
     "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement",
     "WORK/Meeting/MoM_2026-04-15_Renovation arrangement.md",
-    "WORK/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Meeting/MoM_MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "目錄.base",
-    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
-    "Clippings/Obsidian Web Clipper.md",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628047.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628046.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628045.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628042.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628041.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628040.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628038.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628039.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628037.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈/file-20260416194628036.png",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI Agent",
-    "Excalidraw/assets",
-    "Excalidraw",
-    "Clippings"
+    "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md"
   ]
 }

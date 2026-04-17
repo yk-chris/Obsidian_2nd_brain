@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"adc6c3319f707700","type":"file","file":"IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md","x":285,"y":162,"width":575,"height":563},
+		{"id":"91fa98d47f7a6458","type":"file","file":"IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md","x":285,"y":-497,"width":575,"height":582},
+		{"id":"6b0bc22264d5b632","type":"text","text":"一桶原油\n（42 美制加侖，約 159 公升）","x":-824,"y":-309,"width":175,"height":359},
+		{"id":"4606c6d014b10e29","type":"text","text":"汽油","x":-315,"y":-439,"width":175,"height":171},
+		{"id":"745bae04f17f6d1c","type":"text","text":"柴油","x":-315,"y":-241,"width":175,"height":112},
+		{"id":"424cd879782a74f6","type":"text","text":"航空煤油","x":-315,"y":-83,"width":175,"height":50},
+		{"id":"ccef30fff018a168","type":"text","text":"乙烯","x":-140,"y":135,"width":175,"height":50},
+		{"id":"28aaa17e4528eff2","type":"text","text":"丙烯","x":-140,"y":214,"width":175,"height":50},
+		{"id":"9a7c10fc4ec75ba5","type":"text","text":"石腦油","x":-433,"y":85,"width":175,"height":50}
+	],
+	"edges":[
+		{"id":"32db5a8100739dfd","fromNode":"9a7c10fc4ec75ba5","fromSide":"right","toNode":"ccef30fff018a168","toSide":"left"},
+		{"id":"26ed00326ef053f1","fromNode":"9a7c10fc4ec75ba5","fromSide":"right","toNode":"28aaa17e4528eff2","toSide":"left"},
+		{"id":"8e94d19180e6b0bc","fromNode":"6b0bc22264d5b632","fromSide":"right","toNode":"4606c6d014b10e29","toSide":"left","label":"46%"},
+		{"id":"ee1b280282eb8575","fromNode":"6b0bc22264d5b632","fromSide":"right","toNode":"745bae04f17f6d1c","toSide":"left","label":"29.7%"},
+		{"id":"f97d90d6168622ea","fromNode":"6b0bc22264d5b632","fromSide":"right","toNode":"424cd879782a74f6","toSide":"left","label":"10.5%"},
+		{"id":"681d15500b20b244","fromNode":"6b0bc22264d5b632","fromSide":"right","toNode":"9a7c10fc4ec75ba5","toSide":"left","label":"below 1%"}
+	]
+}
