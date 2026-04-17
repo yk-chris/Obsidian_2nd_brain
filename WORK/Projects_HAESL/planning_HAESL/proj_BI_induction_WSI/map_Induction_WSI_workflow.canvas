@@ -7,10 +7,10 @@
 		{"id":"2d81c95e66013ebc","type":"text","text":"V:\\Customer & Planning\\Common\\Engine Module files","x":-715,"y":-181,"width":450,"height":60},
 		{"id":"ac839da9d3c20766","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120051536.jpg","x":-715,"y":-81,"width":450,"height":210},
 		{"id":"be9aeb715b55da2f","type":"text","text":"Standardized the induction input","x":-177,"y":-281,"width":329,"height":60,"color":"5"},
-		{"id":"909c0678999c1f2a","x":-132,"y":-151,"width":193,"height":363,"type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092105908.jpg"},
+		{"id":"909c0678999c1f2a","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092105908.jpg","x":-132,"y":-151,"width":193,"height":362},
 		{"id":"e2d3b0fb7985e2da","type":"text","text":"V:\\Customer & Planning\\Common\\Induction Plan","x":-716,"y":247,"width":450,"height":60},
 		{"id":"620c84434a7d09b4","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120254300.jpg","x":-716,"y":327,"width":450,"height":174},
-		{"id":"127eafe3b412059d","x":-132,"y":247,"width":310,"height":400,"type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg"},
+		{"id":"127eafe3b412059d","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg","x":-132,"y":247,"width":310,"height":400},
 		{"id":"1a072d35d9056a8a","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235354.jpg","x":316,"y":-121,"width":400,"height":154},
 		{"id":"753d8f7e092f34b6","type":"file","file":"WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235355.jpg","x":317,"y":110,"width":399,"height":102}
 	],

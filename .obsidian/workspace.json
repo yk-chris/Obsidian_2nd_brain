@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8f1d4a8bdab31058",
+        "id": "9948024f495108bc",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d631f50e7173a5",
+            "id": "0fe284b509d417ee",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+                "file": "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 865.0396456256922,
-                  "y": 88.65470653377616,
-                  "zoom": -2.0666947467958674
+                  "x": -108.86195541100619,
+                  "y": 115.81362529026728,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "map_UAT_streamer_20260415"
+              "title": "map_Induction_WSI_workflow"
             }
           }
         ]
@@ -228,8 +228,16 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "f6d631f50e7173a5",
+  "active": "0fe284b509d417ee",
   "lastOpenFiles": [
+    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "目錄.base",
+    "WORK/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
+    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415094853523.jpg",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/594D8010",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/~$file-20260415112851687.xlsx",
+    "WORK/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/1F0D8010",
     "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
     "2026-04-17 - Map_oil_industry.canvas",
@@ -246,7 +254,6 @@
     "assets",
     "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
     "IDEAVERSE/2026/April/2026-04-12 日記.md",
-    "WORK/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "WORK/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/meeting_20260413/file-20260413164235354.jpg",
@@ -257,19 +264,12 @@
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop",
     "assets/MoM_20260417_iMRO_integration_workshop",
     "WORK/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "assets/MoM_2",
-    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417104127876.jpg",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Clippings/Obsidian Web Clipper.md",
-    "目錄.base",
     "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
-    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "Clippings/proj Digital Streamer.md",
     "Excalidraw/Excalidraw_2026-04-17__0.excalidraw.md",
     "WORK/Meeting/MoM_2026-04-15 streamer_off-module.md",
-    "WORK/Meeting/assets/MoM_2026-04-15 streamer_off-module",
-    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement",
     "WORK/Meeting/MoM_2026-04-15_Renovation arrangement.md",
     "WORK/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
     "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md"
