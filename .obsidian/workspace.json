@@ -11,10 +11,17 @@
             "id": "d6ffd6a05b8f72f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas",
+                "viewState": {
+                  "x": -1107.137542313669,
+                  "y": -614.9505138632496,
+                  "zoom": -0.9999999999999998
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2026-04-17 - Map_石油生產鏈"
             }
           }
         ]
@@ -236,12 +243,16 @@
   },
   "active": "d6ffd6a05b8f72f8",
   "lastOpenFiles": [
+    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈",
+    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_oil_industry",
+    "Excalidraw/Excalidraw_2026-04-17_.excalidraw.md",
     "Clippings/Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
     "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
-    "assets/2026-04-17 - Map_oil_industry/file-20260417120244775.jpg",
-    "assets/2026-04-17 - Map_oil_industry/file-20260417120244763.jpg",
-    "assets/2026-04-17 - Map_oil_industry/file-20260417120244759.jpg",
-    "assets/2026-04-17 - Map_oil_industry/file-20260417120244743.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210693.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210683.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210663.jpg",
+    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210650.jpg",
     "assets/2026-04-17 - Map_oil_industry",
     "assets",
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417112348500.jpg",
@@ -249,7 +260,6 @@
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417110645467.jpg",
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417104127876.jpg",
     "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337267.jpg",
-    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337266.jpg",
     "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop",
     "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement",
     "WORK/Meeting/assets/MoM_2026-04-15 streamer_off-module",
@@ -261,8 +271,7 @@
     "WORK/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
     "WORK/Meeting/assets",
     "WORK/Meeting",
-    "Excalidraw/Excalidraw_2026-04-17_.excalidraw.md",
-    "2026-04-17 - Map_oil_industry.canvas",
+    "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
     "Clippings/Obsidian Web Clipper.md",
     "Clippings/name US Short-Term Trading Strategy & Pine Script Generatordescription.md",
@@ -273,7 +282,6 @@
     "Excalidraw/Excalidraw_2026-04-16__1.excalidraw.md",
     "Excalidraw/Excalidraw_2026-04-16__0.excalidraw.md",
     "Excalidraw/assets/Excalidraw_2026-04-16_.AI產業鏈",
-    "Excalidraw/assets/Excalidraw_2026-04-16_.AI Agent",
     "(LEARN) 學習筆記/AI-learning/解構Anthropic Managed Agent.md",
     "Excalidraw/Drawing 2026-04-16 19.34.51.excalidraw.md",
     "Excalidraw/Drawing 2026-04-16 19.35.28.excalidraw.md",
