@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac32e11fb739348e",
+        "id": "e70c2487534d148f",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ffd6a05b8f72f8",
+            "id": "12d5a4e8d16836f4",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "目錄.base",
-                "viewName": "Table"
+                "file": "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "目錄"
+              "icon": "lucide-file",
+              "title": "Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州"
             }
           }
         ]
@@ -109,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "目錄.base",
+                "file": "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 目錄"
+              "title": "Outline of Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州"
             }
           },
           {
@@ -150,6 +151,16 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
+            }
+          },
+          {
+            "id": "79a3df7c5c91b4da",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -189,70 +200,71 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "bases:Create new base": true,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
       "random-note:Open random note": true,
       "claudian:Open Claudian": false,
       "obsidian-kanban:Create new board": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "tickticksync:TickTickSync": false
     }
   },
-  "active": "d6ffd6a05b8f72f8",
+  "active": "12d5a4e8d16836f4",
   "lastOpenFiles": [
-    "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
+    "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md",
+    "📓Project.md",
+    "💼Job Miscs.md",
+    "💹Invest.md",
+    "💸Routine Payment.md",
+    "💡Idea.md",
+    "👩🏻Mom.md",
+    "🏖️Events.md",
+    "🎂Birthday.md",
+    "📝AI-learning.md",
+    "🦄Wish list.md",
+    "🎯Goals.md",
+    "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
+    "IDEAVERSE/2026/April/2026-04-12 -「石油→柴油→農機→糧食」.md",
+    "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas",
+    "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md",
+    "(FINANCE) 財務筆記/企業概要/概要_群核科技.md",
+    "Clippings/2026/April/Clip_20260418 - “杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌.md",
+    "Clippings/2026/April/Clip_20260418 - 上市了，就不得不向华尔街低头吗.md",
+    "(FINANCE) 財務筆記/企業概要/map_群核科技.canvas",
+    "(FINANCE) 財務筆記/產業/業務_群核科技.md",
+    "Clippings/2026/April/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？.md",
+    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技",
+    "(FINANCE) 財務筆記/企業概要/assets",
+    "(FINANCE) 財務筆記/生產要素/assets/Map_原油",
+    "(FINANCE) 財務筆記/生產要素/assets/Map_HBM",
+    "Clippings/2026/April/assets/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？/file-20260418112037270.jpg",
+    "Clippings/2026/April/assets/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？",
+    "Clippings/2026/April/assets",
+    "(FINANCE) 財務筆記/TA技術分析/估值_群核科技.md",
+    "(FINANCE) 財務筆記/assets/map_群核科技",
+    "(FINANCE) 財務筆記/founders的故事",
+    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226173.jpg",
+    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226170.jpg",
+    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226161.jpg",
+    "assets/map_群核科技",
+    "assets/map_",
+    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226142.jpg",
     "Clippings/2026/April/Clip_20260418 - How To Learn To Code In 2026.md",
+    "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
     "Clippings/2026/April/Clip_20260418 - Local AI Agents In 26 Minutes.md",
     "Clippings/2026/April/Clip_20260418 - 為什麼遠離你身邊的大多數人「公開版」.md",
     "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
     "Clippings/2026/April/Clip_20260418 - How To Learn To Code In 2026 1.md",
-    "Clippings/2026/April",
-    "Clippings/2026",
-    "Clippings/2026/April/Clip_20260416 - Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
-    "Clippings/2026/April/Clip_20260416 - Obsidian Web Clipper.md",
-    "Clippings/Clip_2026-04-18T080248+0800 - How To Learn To Code In 2026.md",
-    "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas",
-    "Untitled Kanban.md",
-    "Kanban_toDoList.md",
-    "Untitled Kanban 1.md",
-    "IDEAVERSE/2026/April/2026-04-12 「石油→柴油→農機→糧食」.md",
-    "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md",
-    "Excalidraw/Excalidraw_2026-04-17_.excalidraw.md",
-    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈",
     "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_oil_industry",
-    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
     "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210693.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210683.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210663.jpg",
     "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210650.jpg",
-    "assets/2026-04-17 - Map_oil_industry",
-    "assets",
-    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417112348500.jpg",
-    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417111039368.jpg",
-    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417110645467.jpg",
-    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417104127876.jpg",
-    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337267.jpg",
-    "WORK/Meeting/assets/MoM_20260417_iMRO_integration_workshop",
-    "WORK/Meeting/assets/MoM_2026-04-15_Renovation arrangement",
-    "WORK/Meeting/assets/MoM_2026-04-15 streamer_off-module",
     "WORK/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
-    "WORK/Meeting/MoM_2026-04-15_Renovation arrangement.md",
-    "WORK/Meeting/MoM_2026-04-15 streamer_off-module.md",
-    "WORK/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "WORK/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-    "WORK/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "WORK/Meeting/assets",
-    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
-    "Clippings/name US Short-Term Trading Strategy & Pine Script Generatordescription.md",
-    "Excalidraw_2026-04-16_.excalidraw.md",
-    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
-    "Excalidraw/Excalidraw_2026-04-16_.excalidraw.md",
     "SKILLs/Map_invest_skills.canvas",
     "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
-    "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
-    "(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas"
   ]
 }
