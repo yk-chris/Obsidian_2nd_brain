@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "453bc75cfca41fe3",
+        "id": "42a68e21bd7aa78d",
         "type": "tabs",
         "children": [
           {
-            "id": "aa76ce02a09b74b1",
+            "id": "880394e3520b3e70",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
-                "viewState": {
-                  "x": 3349.762877276977,
-                  "y": 1224.7886751796282,
-                  "zoom": -1.3333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Map_原油"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -81,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -114,13 +106,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Map_原油"
+              "title": "Outline"
             }
           },
           {
@@ -166,6 +157,37 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5a35a1e03d1ba06b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "55498650eb16a305",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ],
         "currentTab": 4
@@ -208,40 +230,46 @@
       "obsidian-git:Open Git source control": false,
       "random-note:Open random note": true,
       "claudian:Open Claudian": false,
-      "obsidian-kanban:Create new board": false,
-      "card-board:CardBoard": false,
-      "tickticksync:TickTickSync": false
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro timer": false,
+      "tasknotes:Open pomodoro statistics": false,
+      "tasknotes:Create new task": false
     }
   },
-  "active": "aa76ce02a09b74b1",
+  "active": "bf7e290d8dd3db84",
   "lastOpenFiles": [
-    "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418212734819.jpg",
-    "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas",
-    "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
     "Untitled.md",
+    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "目錄.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/calendar-default.base",
+    "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views",
+    "TaskNotes",
     "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
+    "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418212734819.jpg",
+    "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
     "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_AMZN.md",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA",
     "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_BABA.md",
-    "assets/估值_BABA",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA/file-20260418183449461.jpg",
-    "assets/Untitled",
-    "assets",
     "(FINANCE) 財務筆記/TA技術分析/估值_GOOGL.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_MU.md",
-    "(FINANCE) 財務筆記/TA技術分析/assets/估值_MU",
     "(FINANCE) 財務筆記/TA技術分析/估值_ASML.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_AMAT.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_ Tokyo Electron Limited（東京威力科創）.md",
-    "assets/估值_MU",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_MU/file-20260418182137822.jpg",
-    "(FINANCE) 財務筆記/TA技術分析/assets/估值_AMAT",
-    "(FINANCE) 財務筆記/TA技術分析/assets/估值_ Tokyo Electron Limited（東京威力科創）",
-    "(FINANCE) 財務筆記/TA技術分析/assets/估值_ASML",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_ASML/file-20260418182019819.jpg",
-    "assets/估值_ASML",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_AMAT/file-20260418182020585.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_ Tokyo Electron Limited（東京威力科創）/file-20260418182020249.jpg",
     "(FINANCE) 財務筆記/生產要素/Semiconductor Systems（半導體系統）.md",
@@ -251,7 +279,7 @@
     "Untitled.canvas",
     "(FINANCE) 財務筆記/產業/AI生產鏈/Samsung_三星電子.md",
     "(FINANCE) 財務筆記/企業概要/map_群核科技.canvas",
-    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-11 Pin Script (TradingView).md",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
     "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md",
     "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
@@ -265,11 +293,9 @@
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226173.jpg",
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226170.jpg",
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226161.jpg",
-    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226142.jpg",
-    "WORK/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
-    "SKILLs/Map_invest_skills.canvas",
-    "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
-    "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
+    "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
+    "(SKILLs) 技能/Map_invest_skills.canvas",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-14 - Context Engineering.canvas",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
   ]
 }

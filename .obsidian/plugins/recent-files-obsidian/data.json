@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "map_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
+    },
+    {
+      "basename": "目錄",
+      "path": "目錄.base"
+    },
+    {
+      "basename": "agenda-default",
+      "path": "TaskNotes/Views/agenda-default.base"
+    },
+    {
+      "basename": "tasks-default",
+      "path": "TaskNotes/Views/tasks-default.base"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "relationships",
+      "path": "TaskNotes/Views/relationships.base"
+    },
+    {
+      "basename": "calendar-default",
+      "path": "TaskNotes/Views/calendar-default.base"
+    },
+    {
+      "basename": "Map_HBM",
+      "path": "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas"
+    },
+    {
       "basename": "Map_原油",
       "path": "(FINANCE) 財務筆記/生產要素/Map_原油.canvas"
     },
     {
       "basename": "2026-04-12 -「石油→柴油→農機→糧食」",
-      "path": "IDEAVERSE/2026/April/2026-04-12 -「石油→柴油→農機→糧食」.md"
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-12 -「石油→柴油→農機→糧食」.md"
     },
     {
       "basename": "2026-04-15 - 原油煉製產品",
-      "path": "IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md"
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-15 - 原油煉製產品.md"
     },
     {
       "basename": "原油 全球分析報告",
@@ -26,23 +58,15 @@
     },
     {
       "basename": "file-20260417223210638",
-      "path": "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg"
+      "path": "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg"
     },
     {
       "basename": "file-20260418113223229",
       "path": "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223229.jpg"
     },
     {
-      "basename": "Map_HBM",
-      "path": "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas"
-    },
-    {
       "basename": "Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所",
       "path": "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Excalidraw_2026-04-18_.excalidraw",
@@ -89,10 +113,6 @@
       "path": "(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md"
     },
     {
-      "basename": "目錄",
-      "path": "目錄.base"
-    },
-    {
       "basename": "Applied Global Services（AGS，應用全球服務）",
       "path": "(FINANCE) 財務筆記/生產要素/Applied Global Services（AGS，應用全球服務）.md"
     },
@@ -118,7 +138,7 @@
     },
     {
       "basename": "2026-04-11 Pin Script (TradingView)",
-      "path": "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md"
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-11 Pin Script (TradingView).md"
     },
     {
       "basename": "Excalidraw_2026-04-16_.AI Agent",
@@ -175,30 +195,6 @@
     {
       "basename": "估值_群核科技",
       "path": "(FINANCE) 財務筆記/TA技術分析/估值_群核科技.md"
-    },
-    {
-      "basename": "業務_群核科技",
-      "path": "(FINANCE) 財務筆記/產業/業務_群核科技.md"
-    },
-    {
-      "basename": "Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？",
-      "path": "Clippings/2026/April/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？.md"
-    },
-    {
-      "basename": "file-20260418113226161",
-      "path": "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226161.jpg"
-    },
-    {
-      "basename": "file-20260418113226173",
-      "path": "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226173.jpg"
-    },
-    {
-      "basename": "file-20260418113226170",
-      "path": "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226170.jpg"
-    },
-    {
-      "basename": "file-20260418113226142",
-      "path": "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226142.jpg"
     }
   ],
   "omittedPaths": [],

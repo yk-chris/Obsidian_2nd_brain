@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"88ec4d82a7590cbf","type":"text","text":"汽油","x":3011,"y":614,"width":175,"height":171},
 		{"id":"d6b238341373c90d","type":"text","text":"沙特阿美","x":1994,"y":415,"width":187,"height":139},
-		{"id":"462ea4ece5cdf746","type":"file","file":"IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg","x":1567,"y":412,"width":400,"height":277},
+		{"id":"462ea4ece5cdf746","type":"file","file":"(IDEAVERSE) 思維系統/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg","x":1567,"y":412,"width":400,"height":277},
 		{"id":"455cb98344e0d5c9","type":"text","text":"**上游供應方 (勘探) ** ","x":1567,"y":314,"width":614,"height":50,"color":"5"},
 		{"id":"1bb2be74d8264489","type":"file","file":"(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223220.jpg","x":1029,"y":581,"width":400,"height":241},
 		{"id":"1ff0991ad78ad44b","type":"file","file":"(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223214.jpg","x":1029,"y":847,"width":400,"height":221},
@@ -42,8 +42,8 @@
 		{"id":"7130a497a3ccc8a1","type":"text","text":"**ExxonMobil**","x":1994,"y":580,"width":187,"height":64},
 		{"id":"591d693c3d9d7019","type":"text","text":"阿布達比 ADNOC","x":1994,"y":659,"width":187,"height":60},
 		{"id":"6c2d265ed221c4bc","x":4395,"y":1407,"width":404,"height":60,"type":"text","text":"回收標誌「5」儀表板、保險桿及電池外殼"},
-		{"id":"0add95892b6f0105","type":"file","file":"IDEAVERSE/2026/April/2026-04-12 -「石油→柴油→農機→糧食」.md","x":260,"y":1493,"width":733,"height":875},
-		{"id":"06dcafca5fada347","type":"file","file":"IDEAVERSE/2026/April/2026-04-15 - 原油煉製產品.md","x":-598,"y":1494,"width":790,"height":875},
+		{"id":"0add95892b6f0105","type":"file","file":"(IDEAVERSE) 思維系統/2026/April/2026-04-12 -「石油→柴油→農機→糧食」.md","x":260,"y":1493,"width":733,"height":875},
+		{"id":"06dcafca5fada347","type":"file","file":"(IDEAVERSE) 思維系統/2026/April/2026-04-15 - 原油煉製產品.md","x":-598,"y":1494,"width":790,"height":875},
 		{"id":"33d28d39a6a1f401","type":"text","text":"科威特石油","x":1994,"y":773,"width":187,"height":50}
 	],
 	"edges":[

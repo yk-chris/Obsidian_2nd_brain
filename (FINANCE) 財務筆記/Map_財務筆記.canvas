@@ -3,7 +3,7 @@
 		{
 			"id": "deb1f96abc2c9e71",
 			"type": "file",
-			"file": "SKILLs/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md",
+			"file": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md",
 			"x": 360,
 			"y": -120,
 			"width": 400,
@@ -30,7 +30,7 @@
 		{
 			"id": "a723aef164a798bf",
 			"type": "file",
-			"file": "SKILLs/skill_invest/search_company (know-how)/invest-cost-return.md",
+			"file": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
 			"x": -120,
 			"y": -120,
 			"width": 400,
@@ -48,7 +48,7 @@
 		{
 			"id": "cb4e2aa613cb9aff",
 			"type": "file",
-			"file": "SKILLs/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
+			"file": "(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
 			"x": -600,
 			"y": 520,
 			"width": 400,
@@ -66,7 +66,7 @@
 		{
 			"id": "2b084674208b6d10",
 			"type": "file",
-			"file": "SKILLs/skill_invest/evaluate_company/invest-stock-valuation.md",
+			"file": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
 			"x": 920,
 			"y": -101,
 			"width": 400,
@@ -75,7 +75,7 @@
 		{
 			"id": "fdc0129e0312cd12",
 			"type": "file",
-			"file": "SKILLs/skill_invest/evaluate_company/trading-divergence.md",
+			"file": "(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md",
 			"x": 920,
 			"y": 200,
 			"width": 400,
@@ -84,7 +84,7 @@
 		{
 			"id": "d3e8f3d6598f3659",
 			"type": "file",
-			"file": "SKILLs/skill_invest/evaluate_company/trading-arbitrage-emotion.md",
+			"file": "(SKILLs) 技能/skill_invest/evaluate_company/trading-arbitrage-emotion.md",
 			"x": 920,
 			"y": 500,
 			"width": 400,
@@ -93,7 +93,7 @@
 		{
 			"id": "77845570dfe73a1b",
 			"type": "file",
-			"file": "SKILLs/skill_invest/search_company (background)/invest-moat-margin-2.md",
+			"file": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md",
 			"x": -600,
 			"y": -120,
 			"width": 400,
@@ -102,7 +102,7 @@
 		{
 			"id": "0a00ff5d2a0cfc3d",
 			"type": "file",
-			"file": "SKILLs/skill_invest/search_company (know-how)/invest-enterprise-business.md",
+			"file": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md",
 			"x": -600,
 			"y": 200,
 			"width": 400,
