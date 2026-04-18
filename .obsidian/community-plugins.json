@@ -1,6 +1,5 @@
 [
   "obsidian-custom-attachment-location",
-  "obsidian-git",
   "obsidian-sort-and-permute-lines",
   "settings-search",
   "obsidian-paste-image-rename",
@@ -13,5 +12,6 @@
   "typewriter-mode",
   "obsidian-excalidraw-plugin",
   "recent-files-obsidian",
-  "calendar"
+  "calendar",
+  "obsidian-git"
 ]

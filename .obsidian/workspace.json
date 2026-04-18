@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e70c2487534d148f",
+        "id": "7718c7d963f4b792",
         "type": "tabs",
         "children": [
           {
-            "id": "12d5a4e8d16836f4",
+            "id": "de5cfdc26bc43144",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -110,13 +107,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州"
+              "title": "Outline"
             }
           },
           {
@@ -154,7 +150,7 @@
             }
           },
           {
-            "id": "79a3df7c5c91b4da",
+            "id": "22a66fd8eba5511f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -187,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +197,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "bases:Create new base": true,
-      "obsidian-git:Open Git source control": true,
+      "obsidian-git:Open Git source control": false,
       "random-note:Open random note": true,
       "claudian:Open Claudian": false,
       "obsidian-kanban:Create new board": false,
@@ -208,8 +205,44 @@
       "tickticksync:TickTickSync": false
     }
   },
-  "active": "12d5a4e8d16836f4",
+  "active": "de5cfdc26bc43144",
   "lastOpenFiles": [
+    "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
+    "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas",
+    "(FINANCE) 財務筆記/TA技術分析/估值_AMZN.md",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA",
+    "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md",
+    "(FINANCE) 財務筆記/TA技術分析/估值_BABA.md",
+    "assets/估值_BABA",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA/file-20260418183449461.jpg",
+    "assets/Untitled",
+    "assets",
+    "(FINANCE) 財務筆記/TA技術分析/估值_GOOGL.md",
+    "(FINANCE) 財務筆記/TA技術分析/估值_MU.md",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_MU",
+    "(FINANCE) 財務筆記/TA技術分析/估值_ASML.md",
+    "(FINANCE) 財務筆記/TA技術分析/估值_AMAT.md",
+    "(FINANCE) 財務筆記/TA技術分析/估值_ Tokyo Electron Limited（東京威力科創）.md",
+    "assets/估值_MU",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_MU/file-20260418182137822.jpg",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_AMAT",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_ Tokyo Electron Limited（東京威力科創）",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_ASML",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_ASML/file-20260418182019819.jpg",
+    "assets/估值_ASML",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_AMAT/file-20260418182020585.jpg",
+    "(FINANCE) 財務筆記/TA技術分析/assets/估值_ Tokyo Electron Limited（東京威力科創）/file-20260418182020249.jpg",
+    "(FINANCE) 財務筆記/生產要素/Semiconductor Systems（半導體系統）.md",
+    "(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md",
+    "(FINANCE) 財務筆記/生產要素/Applied Global Services（AGS，應用全球服務）.md",
+    "(FINANCE) 財務筆記/生產要素/Display（顯示器設備）.md",
+    "Untitled.canvas",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/Samsung_三星電子.md",
+    "(FINANCE) 財務筆記/企業概要/map_群核科技.canvas",
+    "IDEAVERSE/2026/April/2026-04-11 Pin Script (TradingView).md",
+    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
+    "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md",
+    "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
     "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md",
     "📓Project.md",
     "💼Job Miscs.md",
@@ -218,53 +251,16 @@
     "💡Idea.md",
     "👩🏻Mom.md",
     "🏖️Events.md",
-    "🎂Birthday.md",
-    "📝AI-learning.md",
-    "🦄Wish list.md",
-    "🎯Goals.md",
-    "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
-    "IDEAVERSE/2026/April/2026-04-12 -「石油→柴油→農機→糧食」.md",
     "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas",
-    "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md",
-    "(FINANCE) 財務筆記/企業概要/概要_群核科技.md",
-    "Clippings/2026/April/Clip_20260418 - “杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌.md",
-    "Clippings/2026/April/Clip_20260418 - 上市了，就不得不向华尔街低头吗.md",
-    "(FINANCE) 財務筆記/企業概要/map_群核科技.canvas",
-    "(FINANCE) 財務筆記/產業/業務_群核科技.md",
-    "Clippings/2026/April/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？.md",
-    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技",
-    "(FINANCE) 財務筆記/企業概要/assets",
-    "(FINANCE) 財務筆記/生產要素/assets/Map_原油",
-    "(FINANCE) 財務筆記/生產要素/assets/Map_HBM",
     "Clippings/2026/April/assets/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？/file-20260418112037270.jpg",
-    "Clippings/2026/April/assets/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？",
-    "Clippings/2026/April/assets",
-    "(FINANCE) 財務筆記/TA技術分析/估值_群核科技.md",
-    "(FINANCE) 財務筆記/assets/map_群核科技",
-    "(FINANCE) 財務筆記/founders的故事",
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226173.jpg",
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226170.jpg",
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226161.jpg",
-    "assets/map_群核科技",
-    "assets/map_",
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226142.jpg",
-    "Clippings/2026/April/Clip_20260418 - How To Learn To Code In 2026.md",
-    "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
-    "Clippings/2026/April/Clip_20260418 - Local AI Agents In 26 Minutes.md",
-    "Clippings/2026/April/Clip_20260418 - 為什麼遠離你身邊的大多數人「公開版」.md",
-    "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
-    "Clippings/2026/April/Clip_20260418 - How To Learn To Code In 2026 1.md",
-    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210693.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210683.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210663.jpg",
-    "IDEAVERSE/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210650.jpg",
     "WORK/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "SKILLs/Map_invest_skills.canvas",
     "IDEAVERSE/2026/April/2026-04-14 - Context Engineering.canvas",
     "WORK/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "WORK/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas"
+    "WORK/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
   ]
 }

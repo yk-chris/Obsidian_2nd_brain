@@ -1,3 +1,4 @@
+
 (Strategy) KC + ADX + VP + Pivots
 ```pin
 //@version=6
