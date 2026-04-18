@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - '!file.name.contains("jpg")'
+        - '!file.name.contains("png")'
     order:
       - file.folder
       - file.name
