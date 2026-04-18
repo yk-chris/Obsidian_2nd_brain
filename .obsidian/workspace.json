@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "097341073a8299e4",
+        "id": "453bc75cfca41fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "3578efab30c713c4",
+            "id": "aa76ce02a09b74b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
+                "viewState": {
+                  "x": 3349.762877276977,
+                  "y": 1224.7886751796282,
+                  "zoom": -1.3333333333333333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Map_原油"
             }
           }
         ]
@@ -107,12 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Map_原油"
             }
           },
           {
@@ -205,11 +213,14 @@
       "tickticksync:TickTickSync": false
     }
   },
-  "active": "3578efab30c713c4",
+  "active": "aa76ce02a09b74b1",
   "lastOpenFiles": [
+    "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418212734819.jpg",
+    "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas",
+    "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
+    "Untitled.md",
     "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
     "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
-    "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas",
     "(FINANCE) 財務筆記/TA技術分析/估值_AMZN.md",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA",
     "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md",
@@ -249,8 +260,6 @@
     "💼Job Miscs.md",
     "💹Invest.md",
     "💸Routine Payment.md",
-    "💡Idea.md",
-    "👩🏻Mom.md",
     "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas",
     "Clippings/2026/April/assets/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？/file-20260418112037270.jpg",
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226173.jpg",
