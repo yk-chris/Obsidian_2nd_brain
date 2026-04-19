@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b82b45b274c283",
+        "id": "6de35eff53e38614",
         "type": "tabs",
         "children": [
           {
-            "id": "e8d34ef223094a72",
+            "id": "5b681584bca56e71",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -241,19 +240,26 @@
       "tasknotes:Create new task": true
     }
   },
-  "active": "e8d34ef223094a72",
+  "active": "5b681584bca56e71",
   "lastOpenFiles": [
+    "Clippings/2026/April/Clip_20260416 - Obsidian Web Clipper.md",
+    "(LEARN) 學習筆記/map_原油.canvas",
+    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
+    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+    "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
+    "(SKILLs) 技能/llm-wiki.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "TaskNotes/Views/kanban-default.base",
-    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
     "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg",
     "TaskNotes/Views/assets/calendar-default",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI",
@@ -262,22 +268,17 @@
     "(IDEAVERSE) 思維系統/2026/April/19ami4",
     "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
     "Excalidraw/Excalidraw_2026-04-19__0.excalidraw.md",
-    "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md",
     "(LEARN) 學習筆記/map_HBM.canvas",
-    "(LEARN) 學習筆記/map_原油.canvas",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-10 - 解構Anthropic Managed Agent.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-10 - 解構Anthropic Managed Agent",
     "(LEARN) 學習筆記/assets/2026-04-10 - 解構Anthropic Managed Agent",
     "(LEARN) 學習筆記/assets/2026-04-1解構Anthropic Managed Agent",
     "(LEARN) 學習筆記/assets/map_原油",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - asdf.md",
-    "Untitled.md",
     "TaskNotes/Tasks/test for new ,.md",
     "(IDEAVERSE) 思維系統1/2026/April/2026-04-19.md",
     "2026/April/2026-04-19.md",
@@ -291,7 +292,6 @@
     "TaskNotes/Tasks/watch Youtube video to learn , normal,.md",
     "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
     "(LEARN) 學習筆記/assets/map_原油/file-20260419110146546.jpg",
-    "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA/file-20260418183449461.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_MU/file-20260418182137822.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_ASML/file-20260418182019819.jpg",
