@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce840b04dd8f4a5",
+        "id": "20ba256a3e5d4187",
         "type": "tabs",
         "children": [
           {
-            "id": "3a82d8131942ac93",
+            "id": "d94de859f7b94e7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "黃曉煌（Huang Xiaohuang）"
             }
           }
         ]
@@ -85,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5,
-    "collapsed": true
+    "width": 591.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -254,19 +257,21 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "3a82d8131942ac93",
+  "active": "d94de859f7b94e7a",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg",
+    "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
     "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
     "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/calendar-default.base",
     "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
     "Clippings/2026/April/Clip_20260418 - 上市了，就不得不向华尔街低头吗.md",
     "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md",
     "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md",
-    "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
     "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
     "Clippings/2026/April/Clip_20260419 - Mythos 要來了，你的舊提示詞正在拖垮新模型？.md",
     "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
@@ -276,7 +281,6 @@
     "(LEARN) 學習筆記/map_原油.canvas",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952719.jpg",
     "(LEARN) 學習筆記/assets/Book_原油產業全景",
@@ -302,10 +306,8 @@
     "Clippings/2026/April/Clip_20260418 - How To Learn To Code In 2026.md",
     "Clippings/2026/April/Clip_20260416 - Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
     "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(SKILLs) 技能/llm-wiki.md",
     "Clippings/2026/April/Clip_20260416 - Obsidian Web Clipper.md",
-    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "Untitled.canvas",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "TaskNotes/Views/assets/calendar-default",

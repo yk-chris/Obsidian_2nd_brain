@@ -447,7 +447,15 @@
   "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},
-  "folderIcons": {},
+  "folderIcons": {
+    "TaskNotes": "tasknotes-simple",
+    "Clippings": "clipboard",
+    "Excalidraw": "excalidraw-icon",
+    "(WORK) 工作": "warehouse",
+    "(LEARN) 學習筆記": "notebook-pen",
+    "(IDEAVERSE) 思維系統": "globe",
+    "(FINANCE) 財務筆記": "wallet"
+  },
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
@@ -525,6 +533,12 @@
     },
     "/": {
       "mode": "compact"
+    },
+    "Clippings": {
+      "titleRows": 2
+    },
+    "Excalidraw": {
+      "titleRows": 2
     }
   },
   "tagIcons": {},
