@@ -36,7 +36,7 @@ Telegram ID：Laotangmeigu
 \*Disclaimer\*  
 All my videos express merely my personal opinions. My opinions may be incorrect, and my videos should not be viewed as investment advice. Please make your own decisions concerning any investment, trade, or choice. I am not accountable for your gains or losses. Investing in the stock market carries risks, so think carefully before committing your funds.  
   
-#stockmarket #stocks #investing #investment #finance #invest #investor #trader #ai #chatgpt
+#stockmarket #stocks #investment #investment #finance #invest #investor #trader #ai #AI
 
 ## Transcript
 

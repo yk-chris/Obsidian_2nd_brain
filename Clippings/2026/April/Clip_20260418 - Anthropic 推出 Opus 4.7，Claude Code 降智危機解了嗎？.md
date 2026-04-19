@@ -26,7 +26,7 @@ tags:
 📢 追蹤我的頻道  
 👍 覺得有幫助請按讚、訂閱、開小鈴鐺！  
   
-#ClaudeCode #Anthropic #Claude降智 #Opus47 #AI開發
+#AI #AI #AI #Opus47 #AI
 
 ## Transcript
 

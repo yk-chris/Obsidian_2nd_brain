@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8aeb79d181c1e14",
+        "id": "6ce840b04dd8f4a5",
         "type": "tabs",
         "children": [
           {
-            "id": "3822102b6ae49821",
+            "id": "3a82d8131942ac93",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,12 +69,24 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "bb7877e4106a8c54",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 591.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -238,20 +250,35 @@
       "tasknotes:Open pomodoro timer": true,
       "tasknotes:Open pomodoro statistics": true,
       "tasknotes:Create new task": true,
-      "marp:Marp: Open Preview": true
+      "marp:Marp: Open Preview": true,
+      "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bf7e290d8dd3db84",
+  "active": "3a82d8131942ac93",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
+    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
+    "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
+    "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
+    "Clippings/2026/April/Clip_20260418 - 上市了，就不得不向华尔街低头吗.md",
+    "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md",
+    "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md",
+    "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
+    "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
+    "Clippings/2026/April/Clip_20260419 - Mythos 要來了，你的舊提示詞正在拖垮新模型？.md",
+    "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
+    "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
     "(LEARN) 學習筆記/Book_原油產業全景.md",
     "(LEARN) 學習筆記/map_原油.canvas",
-    "TaskNotes/Views/kanban-default.base",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952719.jpg",
-    "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
     "(LEARN) 學習筆記/assets/Book_原油產業全景",
     "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600929.jpg",
     "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600932.jpg",
@@ -260,7 +287,6 @@
     "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600938.jpg",
     "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600941.jpg",
     "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600942.jpg",
-    "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600945.jpg",
     "assets/Book_原油產業全景",
     "assets",
     "Untitled",
@@ -277,24 +303,12 @@
     "Clippings/2026/April/Clip_20260416 - Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
     "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
-    "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
     "(SKILLs) 技能/llm-wiki.md",
     "Clippings/2026/April/Clip_20260416 - Obsidian Web Clipper.md",
-    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
-    "Untitled.md",
     "Untitled.canvas",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/assets/calendar-default",
-    "(IDEAVERSE) 思維系統/2026/April/19ami4/19/20262026_2026-04-19.md",
-    "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
-    "Excalidraw/Excalidraw_2026-04-19__0.excalidraw.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-10 - 解構Anthropic Managed Agent.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas"
