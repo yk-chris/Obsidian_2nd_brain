@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3199147ff69484c9",
+        "id": "30053ff03f38754d",
         "type": "tabs",
         "children": [
           {
-            "id": "a8358e314b8616ef",
+            "id": "59d00dd1c93b245c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -241,8 +241,9 @@
       "marp:Marp: Open Preview": true
     }
   },
-  "active": "a8358e314b8616ef",
+  "active": "59d00dd1c93b245c",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
     "(LEARN) 學習筆記/Book_原油產業全景.md",
     "(LEARN) 學習筆記/assets/Book_原油產業全景",
     "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600929.jpg",
@@ -260,7 +261,6 @@
     "!摘要! 原油產業全景-assets 2",
     "!摘要! 原油產業全景-assets 1",
     "!摘要! 原油產業全景-assets",
-    "TaskNotes/Views/kanban-default.base",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "map_Induction_WSI_workflow.md",
