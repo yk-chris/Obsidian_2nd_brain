@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "880d0da3e733b824",
+        "id": "a8aeb79d181c1e14",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ce23b472d28622",
+            "id": "3822102b6ae49821",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -241,11 +241,12 @@
       "marp:Marp: Open Preview": true
     }
   },
-  "active": "a4ce23b472d28622",
+  "active": "bf7e290d8dd3db84",
   "lastOpenFiles": [
+    "(LEARN) 學習筆記/Book_原油產業全景.md",
+    "(LEARN) 學習筆記/map_原油.canvas",
     "TaskNotes/Views/kanban-default.base",
     "(LEARN) 學習筆記/map_HBM.canvas",
-    "(LEARN) 學習筆記/Book_原油產業全景.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg",
     "(LEARN) 學習筆記/map_群核科技.canvas",
@@ -274,7 +275,6 @@
     "(FINANCE) 財務筆記/生產要素/Applied Global Services（AGS，應用全球服務）.md",
     "Clippings/2026/April/Clip_20260418 - How To Learn To Code In 2026.md",
     "Clippings/2026/April/Clip_20260416 - Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
-    "(LEARN) 學習筆記/map_原油.canvas",
     "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
