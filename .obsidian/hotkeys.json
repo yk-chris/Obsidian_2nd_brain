@@ -120,5 +120,15 @@
       ],
       "key": "F4"
     }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "marp:open-preview": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6de35eff53e38614",
+        "id": "e85b8b629bd7dc4d",
         "type": "tabs",
         "children": [
           {
-            "id": "5b681584bca56e71",
+            "id": "097578fb51d1686a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -237,22 +237,27 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro timer": true,
       "tasknotes:Open pomodoro statistics": true,
-      "tasknotes:Create new task": true
+      "tasknotes:Create new task": true,
+      "marp:Marp: Open Preview": false
     }
   },
-  "active": "5b681584bca56e71",
+  "active": "097578fb51d1686a",
   "lastOpenFiles": [
-    "Clippings/2026/April/Clip_20260416 - Obsidian Web Clipper.md",
+    "(FINANCE) 財務筆記/生產要素/Applied Global Services（AGS，應用全球服務）.md",
+    "Clippings/2026/April/Clip_20260418 - How To Learn To Code In 2026.md",
+    "Clippings/2026/April/Clip_20260416 - Karpathy's LLM Wiki - Full Beginner Setup Guide.md",
     "(LEARN) 學習筆記/map_原油.canvas",
+    "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
+    "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
+    "(SKILLs) 技能/llm-wiki.md",
+    "Clippings/2026/April/Clip_20260416 - Obsidian Web Clipper.md",
     "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
-    "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
-    "(SKILLs) 技能/llm-wiki.md",
     "Untitled.md",
     "Untitled.canvas",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "TaskNotes/Views/kanban-default.base",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
@@ -284,13 +289,9 @@
     "2026/April/2026-04-19.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "TaskNotes/Tasks/1. MISC-job Fit module ( Spare) issue (accept no ARC date).md",
-    "TaskNotes/Views/Excalidraw_2026-04-19_.excalidraw.md",
     "TaskNotes/Views/assets/kanban-default/file-20260419101516198.jpg",
     "TaskNotes/Views/assets/kanban-default/file-20260419101503124.jpg",
     "TaskNotes/Views/assets/kanban-default/file-20260419084954983.jpg",
-    "TaskNotes/Tasks/test for task, high,.md",
-    "TaskNotes/Tasks/watch Youtube video to learn , normal,.md",
-    "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
     "(LEARN) 學習筆記/assets/map_原油/file-20260419110146546.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA/file-20260418183449461.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_MU/file-20260418182137822.jpg",
