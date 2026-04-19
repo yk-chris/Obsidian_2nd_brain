@@ -56,7 +56,6 @@ views:
       - contexts
       - file.tags
       - blockedBy
-      - file.name
       - recurrence
       - complete_instances
       - file.tasks

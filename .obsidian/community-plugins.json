@@ -6,7 +6,6 @@
   "omnisearch",
   "claudian",
   "various-complements",
-  "file-explorer-note-count",
   "obsidian-doubleshift",
   "url-into-selection",
   "typewriter-mode",
@@ -15,5 +14,6 @@
   "calendar",
   "obsidian-git",
   "tasknotes",
-  "marp"
+  "marp",
+  "file-explorer-note-count"
 ]

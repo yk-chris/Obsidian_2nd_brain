@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "map_HBM",
+      "path": "(LEARN) 學習筆記/map_HBM.canvas"
+    },
+    {
+      "basename": "Book_原油產業全景",
+      "path": "(LEARN) 學習筆記/Book_原油產業全景.md"
+    },
+    {
       "basename": "2026-04-14 Obsidian Plugin",
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md"
     },
@@ -21,20 +33,8 @@
       "path": "(FINANCE) 財務筆記/TA技術分析/估值_群核科技.md"
     },
     {
-      "basename": "map_HBM",
-      "path": "(LEARN) 學習筆記/map_HBM.canvas"
-    },
-    {
       "basename": "Clip_20260418 - Project Management In Obsidian NEW (and it's awesome)",
       "path": "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
-      "basename": "Book_原油產業全景",
-      "path": "(LEARN) 學習筆記/Book_原油產業全景.md"
     },
     {
       "basename": "map_Induction_WSI_workflow",
