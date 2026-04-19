@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "map_HBM",
+      "path": "(LEARN) 學習筆記/map_HBM.canvas"
+    },
+    {
+      "basename": "map_原油",
+      "path": "(LEARN) 學習筆記/map_原油.canvas"
+    },
+    {
+      "basename": "map_群核科技",
+      "path": "(LEARN) 學習筆記/map_群核科技.canvas"
+    },
+    {
+      "basename": "2026-04-10 - 解構Anthropic Managed Agent",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-10 - 解構Anthropic Managed Agent.md"
+    },
+    {
       "basename": "2026-04-19 - Create obsidian Hotkeys",
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
     },
@@ -11,18 +27,6 @@
     {
       "basename": "kanban-default",
       "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
-      "basename": "map_群核科技",
-      "path": "(LEARN) 學習筆記/map_群核科技.canvas"
-    },
-    {
-      "basename": "Map_原油",
-      "path": "(LEARN) 學習筆記/Map_原油.canvas"
-    },
-    {
-      "basename": "Map_HBM",
-      "path": "(LEARN) 學習筆記/Map_HBM.canvas"
     },
     {
       "basename": "WSI_outstanding_amendment_BI",
@@ -97,8 +101,8 @@
       "path": "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md"
     },
     {
-      "basename": "file-20260419105024957",
-      "path": "(LEARN) 學習筆記/assets/Map_原油/file-20260419105024957.jpg"
+      "basename": "file-20260419110146546",
+      "path": "(LEARN) 學習筆記/assets/map_原油/file-20260419110146546.jpg"
     },
     {
       "basename": "原油舉升成本（Lifting Cost）",
@@ -109,8 +113,8 @@
       "path": "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg"
     },
     {
-      "basename": "file-20260419105024964",
-      "path": "(LEARN) 學習筆記/assets/Map_原油/file-20260419105024964.jpg"
+      "basename": "file-20260419110146547",
+      "path": "(LEARN) 學習筆記/assets/map_原油/file-20260419110146547.jpg"
     },
     {
       "basename": "Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所",
@@ -165,12 +169,12 @@
       "path": "(FINANCE) 財務筆記/生產要素/Display（顯示器設備）.md"
     },
     {
-      "basename": "file-20260419105011697 1",
-      "path": "(LEARN) 學習筆記/assets/Map_HBM/file-20260419105011697 1.jpg"
+      "basename": "file-20260419110142896",
+      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142896.jpg"
     },
     {
-      "basename": "file-20260419105011702",
-      "path": "(LEARN) 學習筆記/assets/Map_HBM/file-20260419105011702.jpg"
+      "basename": "file-20260419110142894",
+      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142894.jpg"
     },
     {
       "basename": "Samsung_三星電子",
@@ -187,10 +191,6 @@
     {
       "basename": "Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】",
       "path": "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md"
-    },
-    {
-      "basename": "Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州",
-      "path": "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md"
     }
   ],
   "omittedPaths": [],
