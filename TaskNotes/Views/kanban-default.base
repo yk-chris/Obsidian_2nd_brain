@@ -66,3 +66,4 @@ views:
     options:
       columnWidth: 280
       hideEmptyColumns: false
+    columnOrder: '{"note.status":["to-do","in-progress","done","archived"]}'

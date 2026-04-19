@@ -1,3 +1,15 @@
+---
+title: logic_stamp_holder_manage
+status: done
+priority: normal
+contexts:
+  - goals-2026
+dateCreated: 2026-04-19T08:51:37.353+08:00
+dateModified: 2026-04-19T08:51:52.761+08:00
+tags:
+  - task
+completedDate: 2026-04-19
+---
 
 ![](assets/logic_stamp_holder_manage/file-20260414102935820.jpg)
 

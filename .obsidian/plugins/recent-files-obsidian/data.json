@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "calendar-default",
+      "path": "TaskNotes/Views/calendar-default.base"
+    },
+    {
+      "basename": "1. MISC-job Fit module ( Spare) issue (accept no ARC date)",
+      "path": "TaskNotes/Tasks/1. MISC-job Fit module ( Spare) issue (accept no ARC date).md"
+    },
+    {
+      "basename": "WSI_outstanding_amendment_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_amendment_BI.md"
+    },
+    {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
+      "basename": "logic_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
+    },
+    {
       "basename": "map_stamp_holder_manage",
       "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
     },
     {
-      "basename": "目錄",
-      "path": "目錄.base"
-    },
-    {
-      "basename": "agenda-default",
-      "path": "TaskNotes/Views/agenda-default.base"
+      "basename": "map_UAT_streamer_20260415",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
     },
     {
       "basename": "tasks-default",
       "path": "TaskNotes/Views/tasks-default.base"
     },
     {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
+      "basename": "agenda-default",
+      "path": "TaskNotes/Views/agenda-default.base"
+    },
+    {
+      "basename": "mini-calendar-default",
+      "path": "TaskNotes/Views/mini-calendar-default.base"
+    },
+    {
+      "basename": "Clip_20260418 - Project Management In Obsidian NEW (and it's awesome)",
+      "path": "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md"
     },
     {
       "basename": "relationships",
       "path": "TaskNotes/Views/relationships.base"
     },
     {
-      "basename": "calendar-default",
-      "path": "TaskNotes/Views/calendar-default.base"
+      "basename": "目錄",
+      "path": "目錄.base"
     },
     {
       "basename": "Map_HBM",
@@ -171,30 +199,6 @@
     {
       "basename": "file-20260418113223202",
       "path": "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223202.jpg"
-    },
-    {
-      "basename": "file-20260418113223220",
-      "path": "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223220.jpg"
-    },
-    {
-      "basename": "黃曉煌（Huang Xiaohuang）",
-      "path": "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md"
-    },
-    {
-      "basename": "概要_群核科技",
-      "path": "(FINANCE) 財務筆記/企業概要/概要_群核科技.md"
-    },
-    {
-      "basename": "Clip_20260418 - “杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌",
-      "path": "Clippings/2026/April/Clip_20260418 - “杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌.md"
-    },
-    {
-      "basename": "Clip_20260418 - 上市了，就不得不向华尔街低头吗",
-      "path": "Clippings/2026/April/Clip_20260418 - 上市了，就不得不向华尔街低头吗.md"
-    },
-    {
-      "basename": "估值_群核科技",
-      "path": "(FINANCE) 財務筆記/TA技術分析/估值_群核科技.md"
     }
   ],
   "omittedPaths": [],

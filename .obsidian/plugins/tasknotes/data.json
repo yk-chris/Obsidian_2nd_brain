@@ -9,7 +9,7 @@
   "taskPropertyValue": "",
   "excludedFolders": "",
   "defaultTaskPriority": "normal",
-  "defaultTaskStatus": "open",
+  "defaultTaskStatus": "to-do",
   "taskOrgFiltersCollapsed": false,
   "taskFilenameFormat": "zettel",
   "storeTitleInFilename": true,
@@ -22,7 +22,7 @@
     "defaultTimeEstimate": 0,
     "defaultRecurrence": "none",
     "defaultDueDate": "none",
-    "defaultScheduledDate": "today",
+    "defaultScheduledDate": "none",
     "bodyTemplate": "",
     "useBodyTemplate": false,
     "defaultReminders": []
@@ -42,16 +42,16 @@
     "defaultShowDue": true,
     "defaultShowDueWhenScheduled": true,
     "defaultShowScheduledToDueSpan": false,
-    "defaultShowTimeEntries": false,
+    "defaultShowTimeEntries": true,
     "defaultShowRecurring": true,
     "defaultShowICSEvents": true,
-    "enableTimeblocking": false,
+    "enableTimeblocking": true,
     "defaultShowTimeblocks": true,
     "defaultTimeblockColor": "#6366f1",
     "timeblockAttachmentSearchOrder": "name-asc",
     "nowIndicator": true,
     "selectMirror": true,
-    "weekNumbers": false,
+    "weekNumbers": true,
     "showTodayHighlight": true,
     "eventMinHeight": 15,
     "slotEventOverlap": true,
@@ -67,7 +67,7 @@
   "pomodoroAutoStartWork": false,
   "pomodoroNotifications": true,
   "pomodoroSoundEnabled": true,
-  "pomodoroSoundVolume": 50,
+  "pomodoroSoundVolume": 100,
   "pomodoroStorageLocation": "plugin",
   "pomodoroMobileSidebar": "tab",
   "enableTaskLinkOverlay": true,
@@ -155,9 +155,9 @@
   "customStatuses": [
     {
       "id": "open",
-      "value": "open",
-      "label": "Open",
-      "color": "#808080",
+      "value": "to-do",
+      "label": "To-Do",
+      "color": "#d09a9a",
       "isCompleted": false,
       "order": 0,
       "autoArchive": false,
@@ -181,6 +181,17 @@
       "isCompleted": true,
       "order": 2,
       "autoArchive": false,
+      "autoArchiveDelay": 5
+    },
+    {
+      "id": "status_1776557290045",
+      "value": "archived",
+      "label": "Archived",
+      "color": "#3c3c3e",
+      "completed": false,
+      "isCompleted": true,
+      "order": 3,
+      "autoArchive": true,
       "autoArchiveDelay": 5
     }
   ],
@@ -216,7 +227,7 @@
   ],
   "recurrenceMigrated": false,
   "showReleaseNotesOnUpdate": true,
-  "showTrackedTasksInStatusBar": false,
+  "showTrackedTasksInStatusBar": true,
   "autoStopTimeTrackingOnComplete": true,
   "autoStopTimeTrackingNotification": false,
   "showRelationships": true,
@@ -439,5 +450,27 @@
         "defaultCollapsed": false
       }
     ]
-  }
+  },
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500
+  },
+  "lastPomodoroDate": "2026-04-18",
+  "pomodoroHistory": [
+    {
+      "id": "1776558249892",
+      "startTime": "2026-04-19T08:24:09.892+08:00",
+      "endTime": "2026-04-19T08:24:15.716+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-04-19T08:24:09.892+08:00",
+          "endTime": "2026-04-19T08:24:15.716+08:00"
+        }
+      ]
+    }
+  ],
+  "autoArchiveQueue": []
 }

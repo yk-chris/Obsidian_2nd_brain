@@ -6,6 +6,11 @@
       "command": "omnisearch:show-modal",
       "key": "ShiftLeft",
       "lastKeyUpTime": 0
+    },
+    {
+      "command": "command-palette:open",
+      "key": "ControlLeft",
+      "lastKeyUpTime": 0
     }
   ]
 }

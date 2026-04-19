@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "42a68e21bd7aa78d",
+        "id": "ceb98424ac4346d0",
         "type": "tabs",
         "children": [
           {
-            "id": "880394e3520b3e70",
+            "id": "f62b7124cea7d1c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
             }
           }
         ]
@@ -49,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for kanban-default"
             }
           },
           {
@@ -182,11 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from kanban-default"
             }
           }
         ],
@@ -224,42 +229,51 @@
       "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "bases:Create new base": true,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
       "random-note:Open random note": true,
       "claudian:Open Claudian": false,
-      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open mini calendar view": true,
       "tasknotes:Open calendar view": false,
-      "tasknotes:Open tasks view": false,
-      "tasknotes:Open agenda view": false,
+      "tasknotes:Open tasks view": true,
+      "tasknotes:Open agenda view": true,
       "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro timer": false,
-      "tasknotes:Open pomodoro statistics": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Open pomodoro timer": true,
+      "tasknotes:Open pomodoro statistics": true,
+      "tasknotes:Create new task": true
     }
   },
-  "active": "bf7e290d8dd3db84",
+  "active": "f62b7124cea7d1c2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "目錄.base",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/calendar-default.base",
-    "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Tasks/1. MISC-job Fit module ( Spare) issue (accept no ARC date).md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_amendment_BI.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_amendment_BI",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "TaskNotes/Views/assets/kanban-default/file-20260419084954983.jpg",
+    "TaskNotes/Views/assets/kanban-default",
+    "TaskNotes/Views/assets",
+    "TaskNotes/Tasks",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Tasks/test for task, high,.md",
+    "TaskNotes/Tasks/watch Youtube video to learn , normal,.md",
+    "Untitled.md",
     "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views",
-    "TaskNotes",
+    "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
+    "TaskNotes/Views/relationships.base",
+    "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas",
     "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
     "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418212734819.jpg",
     "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
     "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_AMZN.md",
-    "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA",
     "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_BABA.md",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA/file-20260418183449461.jpg",
@@ -282,20 +296,11 @@
     "(IDEAVERSE) 思維系統/2026/April/2026-04-11 Pin Script (TradingView).md",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
     "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md",
-    "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md",
-    "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md",
-    "📓Project.md",
-    "💼Job Miscs.md",
-    "💹Invest.md",
-    "💸Routine Payment.md",
     "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas",
     "Clippings/2026/April/assets/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？/file-20260418112037270.jpg",
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226173.jpg",
     "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226170.jpg",
-    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226161.jpg",
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
-    "(SKILLs) 技能/Map_invest_skills.canvas",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-14 - Context Engineering.canvas",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
+    "(SKILLs) 技能/Map_invest_skills.canvas"
   ]
 }

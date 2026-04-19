@@ -59,7 +59,7 @@ views:
       - file.tasks
     options:
       showPropertyBasedEvents: false
-    calendarView: listWeek
+    calendarView: multiMonthYear
     startDateProperty: file.ctime
     listDayCount: 7
     titleProperty: file.basename
