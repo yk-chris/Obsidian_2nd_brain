@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f3767c6db9e3c9e1",
+        "id": "5e75eb3869f6b61c",
         "type": "tabs",
         "children": [
           {
-            "id": "e46bdc0b2c0cb0b1",
+            "id": "4e4b3ed4dca73a71",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
-              },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -257,8 +254,22 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "e46bdc0b2c0cb0b1",
+  "active": "4e4b3ed4dca73a71",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Clippings/2026/April/Clip_20260419 - Why 5 Million People Are OBSESSED With Excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
+    "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md",
+    "(SKILLs) 技能/Map_invest_skills.canvas",
+    "Untitled.md",
+    "Clippings/2026/April/Clip_20260419 - Mythos 要來了，你的舊提示詞正在拖垮新模型？.md",
+    "(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg",
+    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
+    "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
     "TaskNotes/Views/kanban-default.base",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142872.jpg",
@@ -282,8 +293,6 @@
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg",
     "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
-    "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
-    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg",
     "TaskNotes/Views/calendar-default.base",
     "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
@@ -291,28 +300,17 @@
     "Clippings/2026/April/Clip_20260418 - 上市了，就不得不向华尔街低头吗.md",
     "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md",
     "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md",
-    "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
-    "Clippings/2026/April/Clip_20260419 - Mythos 要來了，你的舊提示詞正在拖垮新模型？.md",
-    "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
-    "(LEARN) 學習筆記/Book_原油產業全景.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952719.jpg",
     "(LEARN) 學習筆記/assets/Book_原油產業全景",
-    "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600929.jpg",
-    "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600932.jpg",
     "assets/Book_原油產業全景",
     "assets",
     "Untitled",
     "!摘要! 原油產業全景-assets 2",
     "!摘要! 原油產業全景-assets 1",
-    "!摘要! 原油產業全景-assets",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "Untitled.canvas",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "TaskNotes/Views/assets/calendar-default",
-    "Untitled 2.canvas"
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
   ]
 }
