@@ -1,32 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
+      "basename": "2026-04-19 - Create obsidian Hotkeys",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
     },
     {
       "basename": "calendar-default",
       "path": "TaskNotes/Views/calendar-default.base"
     },
     {
-      "basename": "1. MISC-job Fit module ( Spare) issue (accept no ARC date)",
-      "path": "TaskNotes/Tasks/1. MISC-job Fit module ( Spare) issue (accept no ARC date).md"
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "map_群核科技",
+      "path": "(LEARN) 學習筆記/map_群核科技.canvas"
+    },
+    {
+      "basename": "Map_原油",
+      "path": "(LEARN) 學習筆記/Map_原油.canvas"
+    },
+    {
+      "basename": "Map_HBM",
+      "path": "(LEARN) 學習筆記/Map_HBM.canvas"
     },
     {
       "basename": "WSI_outstanding_amendment_BI",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_amendment_BI.md"
     },
     {
+      "basename": "4. Delivery note resize, QTY & exportimport",
+      "path": "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md"
+    },
+    {
+      "basename": "Excalidraw_2026-04-19__0.excalidraw",
+      "path": "Excalidraw/Excalidraw_2026-04-19__0.excalidraw.md"
+    },
+    {
       "basename": "map_Induction_WSI_workflow",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
-      "basename": "logic_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
+      "basename": "codebase_mail_preinduction",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md"
     },
     {
-      "basename": "map_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
+      "basename": "PROMPT_convert_mail_preinduction",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md"
+    },
+    {
+      "basename": "RAW_convert_mail_preinduction",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md"
     },
     {
       "basename": "map_UAT_streamer_20260415",
@@ -37,32 +61,28 @@
       "path": "TaskNotes/Views/tasks-default.base"
     },
     {
-      "basename": "agenda-default",
-      "path": "TaskNotes/Views/agenda-default.base"
+      "basename": "Excalidraw_2026-04-19_.excalidraw",
+      "path": "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md"
     },
     {
-      "basename": "mini-calendar-default",
-      "path": "TaskNotes/Views/mini-calendar-default.base"
+      "basename": "Excalidraw_2026-04-18_.excalidraw",
+      "path": "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md"
+    },
+    {
+      "basename": "logic_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
+    },
+    {
+      "basename": "map_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
     },
     {
       "basename": "Clip_20260418 - Project Management In Obsidian NEW (and it's awesome)",
       "path": "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md"
     },
     {
-      "basename": "relationships",
-      "path": "TaskNotes/Views/relationships.base"
-    },
-    {
       "basename": "目錄",
       "path": "目錄.base"
-    },
-    {
-      "basename": "Map_HBM",
-      "path": "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas"
-    },
-    {
-      "basename": "Map_原油",
-      "path": "(FINANCE) 財務筆記/生產要素/Map_原油.canvas"
     },
     {
       "basename": "2026-04-12 -「石油→柴油→農機→糧食」",
@@ -77,8 +97,8 @@
       "path": "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md"
     },
     {
-      "basename": "file-20260418212734819",
-      "path": "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418212734819.jpg"
+      "basename": "file-20260419105024957",
+      "path": "(LEARN) 學習筆記/assets/Map_原油/file-20260419105024957.jpg"
     },
     {
       "basename": "原油舉升成本（Lifting Cost）",
@@ -89,16 +109,12 @@
       "path": "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg"
     },
     {
-      "basename": "file-20260418113223229",
-      "path": "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223229.jpg"
+      "basename": "file-20260419105024964",
+      "path": "(LEARN) 學習筆記/assets/Map_原油/file-20260419105024964.jpg"
     },
     {
       "basename": "Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所",
       "path": "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md"
-    },
-    {
-      "basename": "Excalidraw_2026-04-18_.excalidraw",
-      "path": "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md"
     },
     {
       "basename": "估值_AMZN",
@@ -149,20 +165,16 @@
       "path": "(FINANCE) 財務筆記/生產要素/Display（顯示器設備）.md"
     },
     {
-      "basename": "file-20260418113221538",
-      "path": "(FINANCE) 財務筆記/生產要素/assets/Map_HBM/file-20260418113221538.jpg"
+      "basename": "file-20260419105011697 1",
+      "path": "(LEARN) 學習筆記/assets/Map_HBM/file-20260419105011697 1.jpg"
     },
     {
-      "basename": "file-20260418113221543",
-      "path": "(FINANCE) 財務筆記/生產要素/assets/Map_HBM/file-20260418113221543.jpg"
+      "basename": "file-20260419105011702",
+      "path": "(LEARN) 學習筆記/assets/Map_HBM/file-20260419105011702.jpg"
     },
     {
       "basename": "Samsung_三星電子",
       "path": "(FINANCE) 財務筆記/產業/AI生產鏈/Samsung_三星電子.md"
-    },
-    {
-      "basename": "map_群核科技",
-      "path": "(FINANCE) 財務筆記/企業概要/map_群核科技.canvas"
     },
     {
       "basename": "2026-04-11 Pin Script (TradingView)",
@@ -179,26 +191,6 @@
     {
       "basename": "Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州",
       "path": "Clippings/2026/April/Clip_20260418 - 军工复合体的完美样本：一架F35如何哺育美国40州.md"
-    },
-    {
-      "basename": "Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？",
-      "path": "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md"
-    },
-    {
-      "basename": "file-20260418113223225",
-      "path": "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223225.jpg"
-    },
-    {
-      "basename": "file-20260418113223214",
-      "path": "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223214.jpg"
-    },
-    {
-      "basename": "file-20260418113223210",
-      "path": "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223210.jpg"
-    },
-    {
-      "basename": "file-20260418113223202",
-      "path": "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418113223202.jpg"
     }
   ],
   "omittedPaths": [],

@@ -22,7 +22,7 @@
     "defaultTimeEstimate": 0,
     "defaultRecurrence": "none",
     "defaultDueDate": "none",
-    "defaultScheduledDate": "none",
+    "defaultScheduledDate": "today",
     "bodyTemplate": "",
     "useBodyTemplate": false,
     "defaultReminders": []
@@ -42,16 +42,16 @@
     "defaultShowDue": true,
     "defaultShowDueWhenScheduled": true,
     "defaultShowScheduledToDueSpan": false,
-    "defaultShowTimeEntries": true,
+    "defaultShowTimeEntries": false,
     "defaultShowRecurring": true,
     "defaultShowICSEvents": true,
-    "enableTimeblocking": true,
+    "enableTimeblocking": false,
     "defaultShowTimeblocks": true,
     "defaultTimeblockColor": "#6366f1",
     "timeblockAttachmentSearchOrder": "name-asc",
     "nowIndicator": true,
     "selectMirror": true,
-    "weekNumbers": true,
+    "weekNumbers": false,
     "showTodayHighlight": true,
     "eventMinHeight": 15,
     "slotEventOverlap": true,
@@ -67,7 +67,7 @@
   "pomodoroAutoStartWork": false,
   "pomodoroNotifications": true,
   "pomodoroSoundEnabled": true,
-  "pomodoroSoundVolume": 100,
+  "pomodoroSoundVolume": 50,
   "pomodoroStorageLocation": "plugin",
   "pomodoroMobileSidebar": "tab",
   "enableTaskLinkOverlay": true,
@@ -157,7 +157,7 @@
       "id": "open",
       "value": "to-do",
       "label": "To-Do",
-      "color": "#d09a9a",
+      "color": "#f29c9c",
       "isCompleted": false,
       "order": 0,
       "autoArchive": false,
@@ -184,10 +184,10 @@
       "autoArchiveDelay": 5
     },
     {
-      "id": "status_1776557290045",
+      "id": "status_1776565770146",
       "value": "archived",
       "label": "Archived",
-      "color": "#3c3c3e",
+      "color": "#76767f",
       "completed": false,
       "isCompleted": true,
       "order": 3,
@@ -227,7 +227,7 @@
   ],
   "recurrenceMigrated": false,
   "showReleaseNotesOnUpdate": true,
-  "showTrackedTasksInStatusBar": true,
+  "showTrackedTasksInStatusBar": false,
   "autoStopTimeTrackingOnComplete": true,
   "autoStopTimeTrackingNotification": false,
   "showRelationships": true,
@@ -450,27 +450,5 @@
         "defaultCollapsed": false
       }
     ]
-  },
-  "pomodoroState": {
-    "isRunning": false,
-    "timeRemaining": 1500
-  },
-  "lastPomodoroDate": "2026-04-18",
-  "pomodoroHistory": [
-    {
-      "id": "1776558249892",
-      "startTime": "2026-04-19T08:24:09.892+08:00",
-      "endTime": "2026-04-19T08:24:15.716+08:00",
-      "plannedDuration": 25,
-      "type": "work",
-      "completed": false,
-      "activePeriods": [
-        {
-          "startTime": "2026-04-19T08:24:09.892+08:00",
-          "endTime": "2026-04-19T08:24:15.716+08:00"
-        }
-      ]
-    }
-  ],
-  "autoArchiveQueue": []
+  }
 }

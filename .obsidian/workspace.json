@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb98424ac4346d0",
+        "id": "7a1c452161114836",
         "type": "tabs",
         "children": [
           {
-            "id": "f62b7124cea7d1c2",
+            "id": "507abd77c9007161",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
-              },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -167,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for kanban-default"
+              "title": "Backlinks"
             }
           },
           {
@@ -186,12 +183,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from kanban-default"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -234,8 +230,8 @@
       "bases:Create new base": true,
       "obsidian-git:Open Git source control": true,
       "random-note:Open random note": true,
-      "claudian:Open Claudian": false,
       "tasknotes:Open mini calendar view": true,
+      "claudian:Open Claudian": false,
       "tasknotes:Open calendar view": false,
       "tasknotes:Open tasks view": true,
       "tasknotes:Open agenda view": true,
@@ -245,61 +241,62 @@
       "tasknotes:Create new task": true
     }
   },
-  "active": "f62b7124cea7d1c2",
+  "active": "507abd77c9007161",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-19.md",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Tasks/1. MISC-job Fit module ( Spare) issue (accept no ARC date).md",
+    "(LEARN) 學習筆記/map_群核科技.canvas",
+    "(LEARN) 學習筆記/Map_原油.canvas",
+    "(LEARN) 學習筆記/Map_HBM.canvas",
+    "(LEARN) 學習筆記/assets/解構Anthropic Managed Agent",
+    "(LEARN) 學習筆記/assets/Map_原油",
+    "(LEARN) 學習筆記/assets/Map_HBM",
+    "(LEARN) 學習筆記/assets/map_群核科技",
+    "(LEARN) 學習筆記/assets",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_amendment_BI.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_amendment_BI",
+    "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - asdf.md",
+    "Excalidraw/Excalidraw_2026-04-19__0.excalidraw.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "TaskNotes/Tasks/test for new ,.md",
+    "(IDEAVERSE) 思維系統1/2026/April/2026-04-19.md",
+    "(IDEAVERSE) 思維系統1/2026/April",
+    "(IDEAVERSE) 思維系統1/2026",
+    "(IDEAVERSE) 思維系統1",
+    "2026/April/2026-04-19.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md",
+    "TaskNotes/Tasks/1. MISC-job Fit module ( Spare) issue (accept no ARC date).md",
+    "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
+    "TaskNotes/Views/Excalidraw_2026-04-19_.excalidraw.md",
+    "TaskNotes/Views/assets/kanban-default/file-20260419101516198.jpg",
+    "TaskNotes/Views/assets/kanban-default/file-20260419101503124.jpg",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "TaskNotes/Views/assets/kanban-default/file-20260419084954983.jpg",
-    "TaskNotes/Views/assets/kanban-default",
-    "TaskNotes/Views/assets",
-    "TaskNotes/Tasks",
-    "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Tasks/test for task, high,.md",
     "TaskNotes/Tasks/watch Youtube video to learn , normal,.md",
-    "Untitled.md",
-    "TaskNotes/Views/mini-calendar-default.base",
     "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
-    "TaskNotes/Views/relationships.base",
-    "(FINANCE) 財務筆記/生產要素/Map_HBM.canvas",
-    "(FINANCE) 財務筆記/生產要素/Map_原油.canvas",
-    "(FINANCE) 財務筆記/生產要素/assets/Map_原油/file-20260418212734819.jpg",
+    "(LEARN) 學習筆記/assets/Map_原油/file-20260419105024957.jpg",
     "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
-    "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_AMZN.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_BABA.md",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA/file-20260418183449461.jpg",
     "(FINANCE) 財務筆記/TA技術分析/估值_GOOGL.md",
-    "(FINANCE) 財務筆記/TA技術分析/估值_MU.md",
-    "(FINANCE) 財務筆記/TA技術分析/估值_ASML.md",
-    "(FINANCE) 財務筆記/TA技術分析/估值_AMAT.md",
-    "(FINANCE) 財務筆記/TA技術分析/估值_ Tokyo Electron Limited（東京威力科創）.md",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_MU/file-20260418182137822.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_ASML/file-20260418182019819.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_AMAT/file-20260418182020585.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_ Tokyo Electron Limited（東京威力科創）/file-20260418182020249.jpg",
-    "(FINANCE) 財務筆記/生產要素/Semiconductor Systems（半導體系統）.md",
-    "(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md",
-    "(FINANCE) 財務筆記/生產要素/Applied Global Services（AGS，應用全球服務）.md",
-    "(FINANCE) 財務筆記/生產要素/Display（顯示器設備）.md",
-    "Untitled.canvas",
-    "(FINANCE) 財務筆記/產業/AI生產鏈/Samsung_三星電子.md",
-    "(FINANCE) 財務筆記/企業概要/map_群核科技.canvas",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-11 Pin Script (TradingView).md",
-    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md",
-    "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md",
     "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas",
     "Clippings/2026/April/assets/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？/file-20260418112037270.jpg",
-    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226173.jpg",
-    "(FINANCE) 財務筆記/企業概要/assets/map_群核科技/file-20260418113226170.jpg",
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "(SKILLs) 技能/Map_invest_skills.canvas"
   ]
