@@ -1,17 +1,15 @@
 ### Create Action
-- ==Alt + D== to Create Daily Note
+- ==Alt + D== to Create Daily note
 - ==Alt + N== to Create new note
 - ==Alt + C== to Create new canvas
 - ==Alt + E== to Create new Excalidraw canvas
-- ==Alt + T== to Create & serach tasks note
-
-
+- ==Alt + T== to Create & search tasks note
+- ==Ctrl + Shift + N== to Convert the note into a taskNote
 ### Screen Navigation
 - ==Ctrl + Tab== to  toggle left-sidebar
 - ==Ctrl + shift + Tab== to toggle right-sidebar
 - ==Ctrl + T== to open new tab
 - ==Ctrl + Shift + T== to recover closed tab
-
 ### Extra Functions
 - ==Shift + Shift== to open mni-search
 - ==Ctrl + Ctrl ==to open command palette

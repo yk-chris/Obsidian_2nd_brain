@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-19 - Create obsidian Hotkeys",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "logic_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
+    },
+    {
+      "basename": "codebase_mail_preinduction",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md"
+    },
+    {
+      "basename": "RAW_convert_mail_preinduction",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md"
+    },
+    {
+      "basename": "PROMPT_convert_mail_preinduction",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md"
+    },
+    {
+      "basename": "map_UAT_streamer_20260415",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
+    },
+    {
+      "basename": "map_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
+    },
+    {
+      "basename": "4. Delivery note resize, QTY & exportimport",
+      "path": "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md"
+    },
+    {
+      "basename": "calendar-default",
+      "path": "TaskNotes/Views/calendar-default.base"
+    },
+    {
       "basename": "map_HBM",
       "path": "(LEARN) 學習筆記/map_HBM.canvas"
     },
@@ -17,68 +57,16 @@
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-10 - 解構Anthropic Managed Agent.md"
     },
     {
-      "basename": "2026-04-19 - Create obsidian Hotkeys",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
-    },
-    {
-      "basename": "calendar-default",
-      "path": "TaskNotes/Views/calendar-default.base"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
-      "basename": "WSI_outstanding_amendment_BI",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_amendment_BI.md"
-    },
-    {
-      "basename": "4. Delivery note resize, QTY & exportimport",
-      "path": "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md"
-    },
-    {
-      "basename": "Excalidraw_2026-04-19__0.excalidraw",
-      "path": "Excalidraw/Excalidraw_2026-04-19__0.excalidraw.md"
+      "basename": "WSI_outstanding_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
     },
     {
       "basename": "map_Induction_WSI_workflow",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
-      "basename": "codebase_mail_preinduction",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md"
-    },
-    {
-      "basename": "PROMPT_convert_mail_preinduction",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md"
-    },
-    {
-      "basename": "RAW_convert_mail_preinduction",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md"
-    },
-    {
-      "basename": "map_UAT_streamer_20260415",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
-    },
-    {
       "basename": "tasks-default",
       "path": "TaskNotes/Views/tasks-default.base"
-    },
-    {
-      "basename": "Excalidraw_2026-04-19_.excalidraw",
-      "path": "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md"
-    },
-    {
-      "basename": "Excalidraw_2026-04-18_.excalidraw",
-      "path": "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md"
-    },
-    {
-      "basename": "logic_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
-    },
-    {
-      "basename": "map_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
     },
     {
       "basename": "Clip_20260418 - Project Management In Obsidian NEW (and it's awesome)",

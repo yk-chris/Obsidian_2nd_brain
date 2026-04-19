@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "396271bc191771be",
+        "id": "a9b82b45b274c283",
         "type": "tabs",
         "children": [
           {
-            "id": "68a9561d88cf4b14",
+            "id": "e8d34ef223094a72",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "(LEARN) 學習筆記/map_HBM.canvas",
-                "viewState": {
-                  "x": 280.5,
-                  "y": 31,
-                  "zoom": -2.061019970327791
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_HBM"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -81,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -247,8 +241,29 @@
       "tasknotes:Create new task": true
     }
   },
-  "active": "68a9561d88cf4b14",
+  "active": "e8d34ef223094a72",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
+    "TaskNotes/Views/kanban-default.base",
+    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
+    "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg",
+    "TaskNotes/Views/assets/calendar-default",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI",
+    "(IDEAVERSE) 思維系統/2026/April/19ami4/19/20262026_2026-04-19.md",
+    "(IDEAVERSE) 思維系統/2026/April/19ami4/19",
+    "(IDEAVERSE) 思維系統/2026/April/19ami4",
+    "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-19__0.excalidraw.md",
+    "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md",
+    "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/map_原油.canvas",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-10 - 解構Anthropic Managed Agent.md",
@@ -256,53 +271,32 @@
     "(LEARN) 學習筆記/assets/2026-04-10 - 解構Anthropic Managed Agent",
     "(LEARN) 學習筆記/assets/2026-04-1解構Anthropic Managed Agent",
     "(LEARN) 學習筆記/assets/map_原油",
-    "(LEARN) 學習筆記/assets/__temp__map_原油",
-    "(LEARN) 學習筆記/assets/map_HBM",
-    "(LEARN) 學習筆記/assets/__temp__map_HBM",
-    "(LEARN) 學習筆記/map_HBM.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19.md",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/kanban-default.base",
-    "(LEARN) 學習筆記/assets/解構Anthropic Managed Agent",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_amendment_BI.md",
-    "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - asdf.md",
-    "Excalidraw/Excalidraw_2026-04-19__0.excalidraw.md",
     "Untitled.md",
     "TaskNotes/Tasks/test for new ,.md",
     "(IDEAVERSE) 思維系統1/2026/April/2026-04-19.md",
     "2026/April/2026-04-19.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md",
     "TaskNotes/Tasks/1. MISC-job Fit module ( Spare) issue (accept no ARC date).md",
-    "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
     "TaskNotes/Views/Excalidraw_2026-04-19_.excalidraw.md",
     "TaskNotes/Views/assets/kanban-default/file-20260419101516198.jpg",
     "TaskNotes/Views/assets/kanban-default/file-20260419101503124.jpg",
-    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "TaskNotes/Views/assets/kanban-default/file-20260419084954983.jpg",
     "TaskNotes/Tasks/test for task, high,.md",
     "TaskNotes/Tasks/watch Youtube video to learn , normal,.md",
     "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
     "(LEARN) 學習筆記/assets/map_原油/file-20260419110146546.jpg",
     "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md",
-    "(FINANCE) 財務筆記/TA技術分析/估值_AMZN.md",
-    "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_BABA/file-20260418183449461.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_MU/file-20260418182137822.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_ASML/file-20260418182019819.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_AMAT/file-20260418182020585.jpg",
     "(FINANCE) 財務筆記/TA技術分析/assets/估值_ Tokyo Electron Limited（東京威力科創）/file-20260418182020249.jpg",
-    "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas",
-    "Clippings/2026/April/assets/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？/file-20260418112037270.jpg"
+    "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas"
   ]
 }

@@ -67,3 +67,15 @@ views:
       columnWidth: 280
       hideEmptyColumns: false
     columnOrder: '{"note.status":["to-do","in-progress","done","archived"]}'
+  - type: table
+    name: Custom View
+    order:
+      - contexts
+      - status
+      - priority
+      - file.name
+    sort:
+      - property: contexts
+        direction: DESC
+      - property: status
+        direction: DESC
