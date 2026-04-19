@@ -141,7 +141,10 @@
   "confirmBeforeDelete": true,
   "deleteAttachments": "ask",
   "moveFileConflicts": "ask",
-  "externalIconProviders": {},
+  "externalIconProviders": {
+    "bootstrap-icons": true,
+    "fontawesome-solid": true
+  },
   "checkForUpdatesOnStart": true,
   "pinNavigationBanner": true,
   "showNoteCount": true,
@@ -206,7 +209,7 @@
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,
   "optimizeNoteHeight": true,
-  "compactItemHeight": 23,
+  "compactItemHeight": 22,
   "compactItemHeightScaleText": true,
   "showQuickActions": true,
   "quickActionRevealInFolder": false,
@@ -542,7 +545,11 @@
     }
   },
   "tagIcons": {},
-  "tagColors": {},
+  "tagColors": {
+    "excalidraw": "#8b5cf6",
+    "task": "#f97316",
+    "clippings": "#3b82f6"
+  },
   "tagBackgroundColors": {},
   "tagSortOverrides": {},
   "tagTreeSortOverrides": {},

@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "黃曉煌（Huang Xiaohuang）",
-      "path": "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md"
-    },
-    {
       "basename": "kanban-default",
       "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "map_HBM",
+      "path": "(LEARN) 學習筆記/map_HBM.canvas"
+    },
+    {
+      "basename": "file-20260419110142872",
+      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142872.jpg"
+    },
+    {
+      "basename": "file-20260419110142882",
+      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142882.jpg"
+    },
+    {
+      "basename": "map_原油",
+      "path": "(LEARN) 學習筆記/map_原油.canvas"
+    },
+    {
+      "basename": "MoM_2026-04-15_Renovation arrangement",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md"
+    },
+    {
+      "basename": "MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md"
+    },
+    {
+      "basename": "MoM_2026-04-15 streamer_off-module",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md"
+    },
+    {
+      "basename": "MoM_20260417_iMRO_integration_workshop",
+      "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
+    },
+    {
+      "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
+    },
+    {
+      "basename": "MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md"
+    },
+    {
+      "basename": "file-20260417082339910",
+      "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-15 streamer_off-module/file-20260417082339910.jpg"
+    },
+    {
+      "basename": "file-20260417082339914",
+      "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-15 streamer_off-module/file-20260417082339914.jpg"
+    },
+    {
+      "basename": "file-20260417082337255",
+      "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337255.jpg"
+    },
+    {
+      "basename": "估值_AMZN",
+      "path": "(FINANCE) 財務筆記/TA技術分析/估值_AMZN.md"
+    },
+    {
+      "basename": "估值_BABA",
+      "path": "(FINANCE) 財務筆記/TA技術分析/估值_BABA.md"
+    },
+    {
+      "basename": "估值_MSFT",
+      "path": "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md"
+    },
+    {
+      "basename": "估值_GOOGL",
+      "path": "(FINANCE) 財務筆記/TA技術分析/估值_GOOGL.md"
+    },
+    {
+      "basename": "Map_財務筆記",
+      "path": "(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    },
+    {
+      "basename": "黃曉煌（Huang Xiaohuang）",
+      "path": "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md"
     },
     {
       "basename": "2026-04-19 - Create obsidian Hotkeys",
@@ -65,28 +137,12 @@
       "path": "Clippings/2026/April/Clip_20260419 - Mythos 要來了，你的舊提示詞正在拖垮新模型？.md"
     },
     {
-      "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
-    },
-    {
-      "basename": "MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md"
-    },
-    {
       "basename": "Excalidraw_2026-04-19_.Karpthy_knowledge_base",
       "path": "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md"
     },
     {
       "basename": "Book_原油產業全景",
       "path": "(LEARN) 學習筆記/Book_原油產業全景.md"
-    },
-    {
-      "basename": "map_原油",
-      "path": "(LEARN) 學習筆記/map_原油.canvas"
-    },
-    {
-      "basename": "map_HBM",
-      "path": "(LEARN) 學習筆記/map_HBM.canvas"
     },
     {
       "basename": "2026-04-14 Obsidian Plugin",
@@ -143,62 +199,6 @@
     {
       "basename": "Clip_20260416 - Obsidian Web Clipper",
       "path": "Clippings/2026/April/Clip_20260416 - Obsidian Web Clipper.md"
-    },
-    {
-      "basename": "logic_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
-    },
-    {
-      "basename": "codebase_mail_preinduction",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md"
-    },
-    {
-      "basename": "RAW_convert_mail_preinduction",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md"
-    },
-    {
-      "basename": "PROMPT_convert_mail_preinduction",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md"
-    },
-    {
-      "basename": "map_UAT_streamer_20260415",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
-    },
-    {
-      "basename": "2026-04-10 - 解構Anthropic Managed Agent",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-10 - 解構Anthropic Managed Agent.md"
-    },
-    {
-      "basename": "tasks-default",
-      "path": "TaskNotes/Views/tasks-default.base"
-    },
-    {
-      "basename": "目錄",
-      "path": "目錄.base"
-    },
-    {
-      "basename": "2026-04-12 -「石油→柴油→農機→糧食」",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-12 -「石油→柴油→農機→糧食」.md"
-    },
-    {
-      "basename": "2026-04-15 - 原油煉製產品",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-15 - 原油煉製產品.md"
-    },
-    {
-      "basename": "file-20260419110146546",
-      "path": "(LEARN) 學習筆記/assets/map_原油/file-20260419110146546.jpg"
-    },
-    {
-      "basename": "原油舉升成本（Lifting Cost）",
-      "path": "(FINANCE) 財務筆記/生產要素/原油舉升成本（Lifting Cost）.md"
-    },
-    {
-      "basename": "file-20260417223210638",
-      "path": "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-17 - Map_石油生產鏈/file-20260417223210638.jpg"
-    },
-    {
-      "basename": "file-20260419110146547",
-      "path": "(LEARN) 學習筆記/assets/map_原油/file-20260419110146547.jpg"
     }
   ],
   "omittedPaths": [],
