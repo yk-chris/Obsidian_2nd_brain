@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Book_原油產業全景",
+      "path": "(LEARN) 學習筆記/Book_原油產業全景.md"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
+      "basename": "WSI_outstanding_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
+    },
+    {
+      "basename": "map_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
+    },
+    {
+      "basename": "概要_群核科技",
+      "path": "(FINANCE) 財務筆記/企業概要/概要_群核科技.md"
+    },
+    {
       "basename": "Applied Global Services（AGS，應用全球服務）",
       "path": "(FINANCE) 財務筆記/生產要素/Applied Global Services（AGS，應用全球服務）.md"
     },
@@ -49,14 +73,6 @@
       "path": "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md"
     },
     {
-      "basename": "WSI_outstanding_BI",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
       "basename": "codebase_mail_preinduction",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md"
     },
@@ -73,10 +89,6 @@
       "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
     },
     {
-      "basename": "map_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
-    },
-    {
       "basename": "calendar-default",
       "path": "TaskNotes/Views/calendar-default.base"
     },
@@ -91,10 +103,6 @@
     {
       "basename": "2026-04-10 - 解構Anthropic Managed Agent",
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-10 - 解構Anthropic Managed Agent.md"
-    },
-    {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
       "basename": "tasks-default",
@@ -191,14 +199,6 @@
     {
       "basename": "file-20260419110142894",
       "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142894.jpg"
-    },
-    {
-      "basename": "Samsung_三星電子",
-      "path": "(FINANCE) 財務筆記/產業/AI生產鏈/Samsung_三星電子.md"
-    },
-    {
-      "basename": "2026-04-11 Pin Script (TradingView)",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-11 Pin Script (TradingView).md"
     }
   ],
   "omittedPaths": [],

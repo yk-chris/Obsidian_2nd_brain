@@ -130,5 +130,14 @@
       ],
       "key": "P"
     }
+  ],
+  "tasknotes:open-kanban-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }
