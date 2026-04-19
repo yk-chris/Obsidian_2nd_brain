@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30053ff03f38754d",
+        "id": "02cb2bbc0f3e85ae",
         "type": "tabs",
         "children": [
           {
-            "id": "59d00dd1c93b245c",
+            "id": "0a5a7ab0e80d0580",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 255.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -241,8 +241,14 @@
       "marp:Marp: Open Preview": true
     }
   },
-  "active": "59d00dd1c93b245c",
+  "active": "0a5a7ab0e80d0580",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg",
+    "(LEARN) 學習筆記/map_群核科技.canvas",
+    "(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952719.jpg",
+    "(LEARN) 學習筆記/map_HBM.canvas",
+    "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
     "TaskNotes/Views/kanban-default.base",
     "(LEARN) 學習筆記/Book_原油產業全景.md",
     "(LEARN) 學習筆記/assets/Book_原油產業全景",
@@ -254,7 +260,6 @@
     "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600941.jpg",
     "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600942.jpg",
     "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600945.jpg",
-    "(LEARN) 學習筆記/assets/Book_原油產業全景/file-20260419153600947.jpg",
     "assets/Book_原油產業全景",
     "assets",
     "Untitled",
@@ -285,18 +290,14 @@
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg",
     "TaskNotes/Views/assets/calendar-default",
     "(IDEAVERSE) 思維系統/2026/April/19ami4/19/20262026_2026-04-19.md",
     "Excalidraw/Excalidraw_2026-04-18_.excalidraw.md",
     "Excalidraw/Excalidraw_2026-04-19__0.excalidraw.md",
-    "(LEARN) 學習筆記/map_HBM.canvas",
-    "(LEARN) 學習筆記/map_群核科技.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-10 - 解構Anthropic Managed Agent.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - asdf.md",
     "IDEAVERSE/2026/April/2026-04-17 - Map_石油生產鏈.canvas"
   ]
 }

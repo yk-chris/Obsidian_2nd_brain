@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=a-beIdZBe6k
 
+![](assets/2026-04-14%20Obsidian%20Plugin/file-20260419172437487.jpg)
+
 ### 1.Claudian
 - C:\Users\chirs.yk\Documents\GitHub\Obsidian_2nd_brain\.obsidian\plugins\claudian
 - copy three below files from https://github.com/YishenTu/claudian

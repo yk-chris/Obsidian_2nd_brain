@@ -1,13 +1,13 @@
 ---
 title: "Project Management In Obsidian: NEW (and it's awesome)"
-source: "https://www.youtube.com/watch?v=vihPqFnM0dU"
+source: https://www.youtube.com/watch?v=vihPqFnM0dU
 author:
   - "[[Obsidian Explained (No Code Required)]]"
 published: 2025-09-24
 created: 2026-04-18
-description: "If you've ever wished for a magic wand to manage tasks, track your time, and organize everything in one place, this video is your answer.Join the community & level up your creativity-powered business"
+description: (Introduction of TaskNote Plugin) If you've ever wished for a magic wand to manage tasks, track your time, and organize everything in one place, this video is your answer.Join the community & level up your creativity-powered business
 tags:
-  - "clippings"
+  - clippings
 ---
 ![](https://www.youtube.com/watch?v=vihPqFnM0dU)
 

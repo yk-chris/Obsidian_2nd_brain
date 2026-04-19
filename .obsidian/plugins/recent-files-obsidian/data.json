@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-14 Obsidian Plugin",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md"
+    },
+    {
+      "basename": "業務_群核科技",
+      "path": "(FINANCE) 財務筆記/產業/業務_群核科技.md"
+    },
+    {
+      "basename": "map_群核科技",
+      "path": "(LEARN) 學習筆記/map_群核科技.canvas"
+    },
+    {
+      "basename": "file-20260419104952719",
+      "path": "(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952719.jpg"
+    },
+    {
+      "basename": "估值_群核科技",
+      "path": "(FINANCE) 財務筆記/TA技術分析/估值_群核科技.md"
+    },
+    {
+      "basename": "map_HBM",
+      "path": "(LEARN) 學習筆記/map_HBM.canvas"
+    },
+    {
+      "basename": "Clip_20260418 - Project Management In Obsidian NEW (and it's awesome)",
+      "path": "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md"
+    },
+    {
       "basename": "kanban-default",
       "path": "TaskNotes/Views/kanban-default.base"
     },
@@ -93,24 +121,12 @@
       "path": "TaskNotes/Views/calendar-default.base"
     },
     {
-      "basename": "map_HBM",
-      "path": "(LEARN) 學習筆記/map_HBM.canvas"
-    },
-    {
-      "basename": "map_群核科技",
-      "path": "(LEARN) 學習筆記/map_群核科技.canvas"
-    },
-    {
       "basename": "2026-04-10 - 解構Anthropic Managed Agent",
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-10 - 解構Anthropic Managed Agent.md"
     },
     {
       "basename": "tasks-default",
       "path": "TaskNotes/Views/tasks-default.base"
-    },
-    {
-      "basename": "Clip_20260418 - Project Management In Obsidian NEW (and it's awesome)",
-      "path": "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md"
     },
     {
       "basename": "目錄",
@@ -183,22 +199,6 @@
     {
       "basename": "Semiconductor Systems（半導體系統）",
       "path": "(FINANCE) 財務筆記/生產要素/Semiconductor Systems（半導體系統）.md"
-    },
-    {
-      "basename": "Applied Materials (AMAT)",
-      "path": "(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md"
-    },
-    {
-      "basename": "Display（顯示器設備）",
-      "path": "(FINANCE) 財務筆記/生產要素/Display（顯示器設備）.md"
-    },
-    {
-      "basename": "file-20260419110142896",
-      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142896.jpg"
-    },
-    {
-      "basename": "file-20260419110142894",
-      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142894.jpg"
     }
   ],
   "omittedPaths": [],
