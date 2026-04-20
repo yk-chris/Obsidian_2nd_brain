@@ -112,7 +112,7 @@
   "showTooltips": false,
   "showTooltipPath": true,
   "desktopBackground": "primary",
-  "desktopScale": 1,
+  "desktopScale": 1.05,
   "mobileScale": 1,
   "useFloatingToolbars": true,
   "toolbarVisibility": {
@@ -209,7 +209,7 @@
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,
   "optimizeNoteHeight": true,
-  "compactItemHeight": 22,
+  "compactItemHeight": 24,
   "compactItemHeightScaleText": true,
   "showQuickActions": true,
   "quickActionRevealInFolder": false,
@@ -468,7 +468,6 @@
       "titleRows": 2
     },
     "(WORK) 工作": {
-      "groupBy": "folder",
       "mode": "compact"
     },
     "(WORK) 工作/Projects_HAESL": {

@@ -1,16 +1,144 @@
 {
   "recentFiles": [
     {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
+      "basename": "file-20260420164411578",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx"
+    },
+    {
+      "basename": "file-20260420151905917",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151905917.jpg"
+    },
+    {
+      "basename": "file-20260420153307644",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153307644.jpg"
+    },
+    {
+      "basename": "file-20260420153242391",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153242391.jpg"
+    },
+    {
+      "basename": "file-20260420153105015",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153105015.jpg"
+    },
+    {
+      "basename": "file-20260420153045807",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153045807.jpg"
+    },
+    {
+      "basename": "file-20260420151841364",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151841364.jpg"
+    },
+    {
+      "basename": "file-20260419112721912",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721912.jpg"
+    },
+    {
+      "basename": "file-20260419112721909",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721909.jpg"
+    },
+    {
+      "basename": "WSI_outstanding_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
+    },
+    {
+      "basename": "map_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
+    },
+    {
+      "basename": "file-20260420123026471",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420123026471.jpg"
+    },
+    {
+      "basename": "Excalidraw_2026-04-19_.Karpthy_knowledge_base",
+      "path": "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md"
+    },
+    {
+      "basename": "Map_原油",
+      "path": "(LEARN) 學習筆記/Map_原油.canvas"
+    },
+    {
+      "basename": "MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md"
+    },
+    {
+      "basename": "原油舉升成本（Lifting Cost）",
+      "path": "(FINANCE) 財務筆記/生產要素/原油舉升成本（Lifting Cost）.md"
+    },
+    {
+      "basename": "map_UAT_streamer_20260415",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
+    },
+    {
+      "basename": "file-20260420122843962",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420122843962.jpg"
+    },
+    {
+      "basename": "file-20260420122833572",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420122833572.jpg"
+    },
+    {
+      "basename": "file-20260420122839399",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420122839399.jpg"
+    },
+    {
+      "basename": "file-20260420110806382",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420110806382.jpg"
+    },
+    {
+      "basename": "file-20260420110831111",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420110831111.jpg"
+    },
+    {
+      "basename": "file-20260420111131941",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420111131941.jpg"
+    },
+    {
+      "basename": "map_群核科技",
+      "path": "(LEARN) 學習筆記/map_群核科技.canvas"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "file-20260419112916186",
+      "path": "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg"
+    },
+    {
+      "basename": "Clip_20260418 - Project Management In Obsidian NEW (and it's awesome)",
+      "path": "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md"
+    },
+    {
+      "basename": "file-20260418112037270",
+      "path": "Clippings/2026/April/assets/Clip_20260418 - Anthropic 推出 Opus 4.7，Claude Code 降智危機解了嗎？/file-20260418112037270.jpg"
+    },
+    {
+      "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
+    },
+    {
+      "basename": "logic_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
+    },
+    {
+      "basename": "估值_AMAT",
+      "path": "(FINANCE) 財務筆記/TA技術分析/估值_AMAT.md"
+    },
+    {
       "basename": "Excalidraw_2026-04-16_.AI產業鏈",
       "path": "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md"
     },
     {
       "basename": "Clip_20260419 - Why 5 Million People Are OBSESSED With Excalidraw",
       "path": "Clippings/2026/April/Clip_20260419 - Why 5 Million People Are OBSESSED With Excalidraw.md"
-    },
-    {
-      "basename": "Excalidraw_2026-04-19_.Karpthy_knowledge_base",
-      "path": "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md"
     },
     {
       "basename": "Map_invest_skills",
@@ -33,10 +161,6 @@
       "path": "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md"
     },
     {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
       "basename": "map_HBM",
       "path": "(LEARN) 學習筆記/map_HBM.canvas"
     },
@@ -57,20 +181,12 @@
       "path": "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md"
     },
     {
-      "basename": "MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md"
-    },
-    {
       "basename": "MoM_2026-04-15 streamer_off-module",
       "path": "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md"
     },
     {
       "basename": "MoM_20260417_iMRO_integration_workshop",
       "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
-    },
-    {
-      "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
     },
     {
       "basename": "MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示",
@@ -83,122 +199,6 @@
     {
       "basename": "file-20260417082339914",
       "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-15 streamer_off-module/file-20260417082339914.jpg"
-    },
-    {
-      "basename": "file-20260417082337255",
-      "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-15_Renovation arrangement/file-20260417082337255.jpg"
-    },
-    {
-      "basename": "估值_AMZN",
-      "path": "(FINANCE) 財務筆記/TA技術分析/估值_AMZN.md"
-    },
-    {
-      "basename": "估值_BABA",
-      "path": "(FINANCE) 財務筆記/TA技術分析/估值_BABA.md"
-    },
-    {
-      "basename": "估值_MSFT",
-      "path": "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md"
-    },
-    {
-      "basename": "估值_GOOGL",
-      "path": "(FINANCE) 財務筆記/TA技術分析/估值_GOOGL.md"
-    },
-    {
-      "basename": "Map_財務筆記",
-      "path": "(FINANCE) 財務筆記/Map_財務筆記.canvas"
-    },
-    {
-      "basename": "黃曉煌（Huang Xiaohuang）",
-      "path": "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md"
-    },
-    {
-      "basename": "2026-04-19 - Create obsidian Hotkeys",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
-    },
-    {
-      "basename": "file-20260419172437487",
-      "path": "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg"
-    },
-    {
-      "basename": "Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所",
-      "path": "Clippings/2026/April/Clip_20260418 - 點解我哋成日後悔？愛因斯坦高維度物理學拆解：原來你人生嘅遺憾，從來無消失過｜星際啟示錄 Interstellar深度解讀 心流研究所.md"
-    },
-    {
-      "basename": "file-20260419112916186",
-      "path": "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg"
-    },
-    {
-      "basename": "calendar-default",
-      "path": "TaskNotes/Views/calendar-default.base"
-    },
-    {
-      "basename": "原油 全球分析報告",
-      "path": "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md"
-    },
-    {
-      "basename": "Carl Zeiss SMT_EUV 光刻光學系統",
-      "path": "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md"
-    },
-    {
-      "basename": "Clip_20260418 - 上市了，就不得不向华尔街低头吗",
-      "path": "Clippings/2026/April/Clip_20260418 - 上市了，就不得不向华尔街低头吗.md"
-    },
-    {
-      "basename": "Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？",
-      "path": "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md"
-    },
-    {
-      "basename": "Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】",
-      "path": "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md"
-    },
-    {
-      "basename": "Clip_20260418 - Project Management In Obsidian NEW (and it's awesome)",
-      "path": "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md"
-    },
-    {
-      "basename": "Book_原油產業全景",
-      "path": "(LEARN) 學習筆記/Book_原油產業全景.md"
-    },
-    {
-      "basename": "2026-04-14 Obsidian Plugin",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md"
-    },
-    {
-      "basename": "業務_群核科技",
-      "path": "(FINANCE) 財務筆記/產業/業務_群核科技.md"
-    },
-    {
-      "basename": "map_群核科技",
-      "path": "(LEARN) 學習筆記/map_群核科技.canvas"
-    },
-    {
-      "basename": "file-20260419104952719",
-      "path": "(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952719.jpg"
-    },
-    {
-      "basename": "估值_群核科技",
-      "path": "(FINANCE) 財務筆記/TA技術分析/估值_群核科技.md"
-    },
-    {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
-    },
-    {
-      "basename": "WSI_outstanding_BI",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
-    },
-    {
-      "basename": "map_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
-    },
-    {
-      "basename": "概要_群核科技",
-      "path": "(FINANCE) 財務筆記/企業概要/概要_群核科技.md"
-    },
-    {
-      "basename": "Applied Global Services（AGS，應用全球服務）",
-      "path": "(FINANCE) 財務筆記/生產要素/Applied Global Services（AGS，應用全球服務）.md"
     }
   ],
   "omittedPaths": [],
