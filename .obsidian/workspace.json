@@ -11,10 +11,17 @@
             "id": "4e4b3ed4dca73a71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 1347.9608844076788,
+                  "y": 920.5409221405266,
+                  "zoom": -0.661933147930178
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
             }
           }
         ]
@@ -85,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 591.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
