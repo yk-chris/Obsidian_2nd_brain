@@ -112,7 +112,7 @@
   "showTooltips": false,
   "showTooltipPath": true,
   "desktopBackground": "primary",
-  "desktopScale": 1.05,
+  "desktopScale": 1,
   "mobileScale": 1,
   "useFloatingToolbars": true,
   "toolbarVisibility": {
@@ -209,7 +209,7 @@
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,
   "optimizeNoteHeight": true,
-  "compactItemHeight": 24,
+  "compactItemHeight": 22,
   "compactItemHeightScaleText": true,
   "showQuickActions": true,
   "quickActionRevealInFolder": false,
@@ -461,13 +461,16 @@
   },
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "(WORK) 工作/Projects_HAESL/planning_HAESL": "filename-asc"
+  },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
     "Clippings/2026/April": {
       "titleRows": 2
     },
     "(WORK) 工作": {
+      "groupBy": "folder",
       "mode": "compact"
     },
     "(WORK) 工作/Projects_HAESL": {
@@ -496,7 +499,8 @@
       "mode": "compact"
     },
     "(WORK) 工作/Projects_HAESL/planning_HAESL": {
-      "mode": "compact"
+      "mode": "compact",
+      "groupBy": "folder"
     },
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction": {
       "mode": "compact"

@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e75eb3869f6b61c",
+        "id": "8ce9111fb83994ab",
         "type": "tabs",
         "children": [
           {
-            "id": "4e4b3ed4dca73a71",
+            "id": "bf85cd937ce73289",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-                "viewState": {
-                  "x": 1347.9608844076788,
-                  "y": 920.5409221405266,
-                  "zoom": -0.661933147930178
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_Induction_WSI_workflow"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -261,17 +254,24 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "4e4b3ed4dca73a71",
+  "active": "bf85cd937ce73289",
   "lastOpenFiles": [
+    "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120656343.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120254300.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120107417.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120051536.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260414102303317.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092105908.jpg",
     "Untitled.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420122839399.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420122833572.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420111131941.jpg",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420110831111.jpg",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420110806382.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx",
     "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -280,13 +280,10 @@
     "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md",
     "(SKILLs) 技能/Map_invest_skills.canvas",
     "Clippings/2026/April/Clip_20260419 - Mythos 要來了，你的舊提示詞正在拖垮新模型？.md",
-    "(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg",
     "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md",
     "TaskNotes/Views/kanban-default.base",
     "(LEARN) 學習筆記/map_HBM.canvas",
-    "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142872.jpg",
-    "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142882.jpg",
     "(LEARN) 學習筆記/map_原油.canvas",
     "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md",
     "(WORK) 工作/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
@@ -294,7 +291,6 @@
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
     "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-15 streamer_off-module/file-20260417082339910.jpg",
     "(FINANCE) 財務筆記/TA技術分析/估值_AMZN.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_BABA.md",
     "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md",
@@ -306,15 +302,12 @@
     "TaskNotes/Views/calendar-default.base",
     "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md",
     "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
-    "Clippings/2026/April/Clip_20260418 - 上市了，就不得不向华尔街低头吗.md",
-    "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "(LEARN) 學習筆記/assets/Book_原油產業全景",
     "assets/Book_原油產業全景",
     "assets",
     "Untitled",
     "!摘要! 原油產業全景-assets 2",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "Untitled.canvas",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
