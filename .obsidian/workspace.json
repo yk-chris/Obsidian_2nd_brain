@@ -15,9 +15,9 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 594.4606101286674,
-                  "y": -79.92064546539788,
-                  "zoom": 1.1102230246251565e-16
+                  "x": 880,
+                  "y": 682.5,
+                  "zoom": -1.6653878473864878
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -263,6 +263,7 @@
   },
   "active": "376470ba8ba63d1d",
   "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153307644.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153242391.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153105015.jpg",
@@ -283,7 +284,6 @@
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420122843962.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420122839399.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420122833572.jpg",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420111131941.jpg",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "TaskNotes/Views/kanban-default.base",
     "Untitled.md",
