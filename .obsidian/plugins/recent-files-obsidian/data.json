@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "MoM_2026-04-21_iMRO SAP",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO SAP.md"
+    },
+    {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
       "basename": "event-timeline",
       "path": "(SKILLs) 技能/skill_general/event-timeline.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？",
       "path": "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md"
-    },
-    {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
       "basename": "WSI_outstanding_BI",
@@ -195,10 +199,6 @@
     {
       "basename": "file-20260419112916186",
       "path": "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg"
-    },
-    {
-      "basename": "calendar-default",
-      "path": "TaskNotes/Views/calendar-default.base"
     }
   ],
   "omittedPaths": [],
