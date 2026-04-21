@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f598052941841e",
+        "id": "4774bba8d95ae247",
         "type": "tabs",
         "children": [
           {
-            "id": "98bba8c304ff8676",
+            "id": "d327e333dd6f259c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5
+    "width": 613.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -253,8 +253,9 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "98bba8c304ff8676",
+  "active": "d327e333dd6f259c",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553198.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553200.jpg",
@@ -282,7 +283,6 @@
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421110907797.xlsx",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (category issues)",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
