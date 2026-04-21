@@ -1,8 +1,7 @@
 ### Timeline Agenda
 ![](assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553186.jpg)
 
-testing for sync via git
-testing to sync from my own desktop
+try not to upload via git 
 
 ![](assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553200.jpg)
 

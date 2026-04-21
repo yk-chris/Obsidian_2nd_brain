@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd276bcfecfd7af1",
+        "id": "674bd2f64f5d6479",
         "type": "tabs",
         "children": [
           {
-            "id": "35720b98c25cfafa",
+            "id": "f7c9a9609fb5d0a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-19 - Create obsidian Hotkeys"
             }
           }
         ]
@@ -175,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-04-19 - Create obsidian Hotkeys"
             }
           },
           {
@@ -201,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "267e126257f6aa2a",
@@ -224,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +257,9 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "f7c9a9609fb5d0a1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
