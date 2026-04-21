@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a884d4d5f54d238",
+        "id": "1986d562c6a0d1fb",
         "type": "tabs",
         "children": [
           {
-            "id": "edc747367fa9538a",
+            "id": "a7c21b5694686a41",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -253,8 +253,9 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "edc747367fa9538a",
+  "active": "a7c21b5694686a41",
   "lastOpenFiles": [
+    "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md",
     "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md",
     "(SKILLs) 技能/skill_invest/invest-IPO.md",
     "(SKILLs) 技能/skill_general/explain-layman.md",
@@ -303,7 +304,6 @@
     "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
     "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md",
     "(SKILLs) 技能/Map_invest_skills.canvas",
-    "Clippings/2026/April/Clip_20260419 - Mythos 要來了，你的舊提示詞正在拖垮新模型？.md",
     "TaskNotes/Views/kanban-default.base",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/map_原油.canvas",
