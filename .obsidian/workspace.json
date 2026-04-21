@@ -11,13 +11,30 @@
             "id": "9467b308789069c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-21"
+            }
+          },
+          {
+            "id": "14d6bc3e0d15281c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_streamer_clarification"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 613.5
+    "width": 613.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -253,12 +271,13 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "9467b308789069c9",
+  "active": "14d6bc3e0d15281c",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(IDEAVERSE) 思維系統/2026/April/add one more.md",
     "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md",
     "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md",
-    "(IDEAVERSE) 思維系統/2026/April/add one more.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553198.jpg",
@@ -306,7 +325,6 @@
     "(WORK.md",
     "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
     "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "(FINANCE) 財務筆記/TA技術分析/估值_AMAT.md",
     "(SKILLs) 技能/Map_invest_skills.canvas",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/map_原油.canvas",
