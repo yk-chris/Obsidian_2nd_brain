@@ -11,14 +11,17 @@
             "id": "acb40cca11f5ad04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
-                "mode": "source",
-                "source": false
+                "file": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -52,
+                  "zoom": -0.9163997983820595
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-04-21 Streamer feedback review (issue category)"
+              "icon": "lucide-layout-dashboard",
+              "title": "map_stamp_holder_manage"
             }
           }
         ]
@@ -260,6 +263,9 @@
   },
   "active": "acb40cca11f5ad04",
   "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/CFD08100",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/~$file-20260421110907797.xlsx",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop",
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
@@ -271,9 +277,7 @@
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553188.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553190.jpg",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/4197A000",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/~$file-20260421110907797.xlsx",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421110907797.xlsx",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (category issues)",
@@ -284,7 +288,6 @@
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618956.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618954.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-21 Streamer feedback review (category issues)",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO SAP",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
