@@ -5,10 +5,9 @@ priority: normal
 contexts:
   - goals-2026
 dateCreated: 2026-04-19T08:51:37.353+08:00
-dateModified: 2026-04-20T07:45:36.208+08:00
+dateModified: 2026-04-21T09:53:11.967+08:00
 tags:
   - "#task"
-  - task
 tasknotes_manual_order: "0|hzzzzz:"
 ---
 

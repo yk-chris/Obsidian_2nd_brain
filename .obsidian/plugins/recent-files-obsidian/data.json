@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "MoM_2026-04-21_iMRO SAP",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO SAP.md"
+    },
+    {
       "basename": "map_Induction_WSI_workflow",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
+      "basename": "2026-04-21 Streamer feedback review (issue category)",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "2026-04-19 - Create obsidian Hotkeys",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
+    },
+    {
+      "basename": "2026-04-14 Obsidian Plugin",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md"
+    },
+    {
+      "basename": "logic_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
+    },
+    {
+      "basename": "WSI_outstanding_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
+    },
+    {
+      "basename": "file-20260419112721909",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721909.jpg"
+    },
+    {
+      "basename": "file-20260420164411578",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx"
+    },
+    {
+      "basename": "file-20260420153242391",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153242391.jpg"
+    },
+    {
+      "basename": "file-20260417092105908",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092105908.jpg"
     },
     {
       "basename": "file-20260417092241290",
@@ -33,20 +77,8 @@
       "path": "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md"
     },
     {
-      "basename": "WSI_outstanding_BI",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
-    },
-    {
       "basename": "codebase_mail_preinduction",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md"
-    },
-    {
-      "basename": "file-20260420153242391",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153242391.jpg"
-    },
-    {
-      "basename": "file-20260420164411578",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx"
     },
     {
       "basename": "file-20260420151905917",
@@ -71,10 +103,6 @@
     {
       "basename": "file-20260419112721912",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721912.jpg"
-    },
-    {
-      "basename": "file-20260419112721909",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721909.jpg"
     },
     {
       "basename": "file-20260420123026471",
@@ -125,10 +153,6 @@
       "path": "(LEARN) 學習筆記/map_群核科技.canvas"
     },
     {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -147,10 +171,6 @@
     {
       "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
       "path": "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
-    },
-    {
-      "basename": "logic_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md"
     },
     {
       "basename": "估值_AMAT",
@@ -179,26 +199,6 @@
     {
       "basename": "MISC-job Fit module ( Spare) issue (accept no ARC date)",
       "path": "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md"
-    },
-    {
-      "basename": "4. Delivery note resize, QTY & exportimport",
-      "path": "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md"
-    },
-    {
-      "basename": "map_HBM",
-      "path": "(LEARN) 學習筆記/map_HBM.canvas"
-    },
-    {
-      "basename": "file-20260419110142872",
-      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142872.jpg"
-    },
-    {
-      "basename": "file-20260419110142882",
-      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142882.jpg"
-    },
-    {
-      "basename": "map_原油",
-      "path": "(LEARN) 學習筆記/map_原油.canvas"
     }
   ],
   "omittedPaths": [],
