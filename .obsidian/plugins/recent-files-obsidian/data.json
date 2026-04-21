@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "event-timeline",
-      "path": "(SKILLs) 技能/skill_general/event-timeline.md"
+      "basename": "2026-04-19 - Create obsidian Hotkeys",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
     },
     {
       "basename": "invest-moat-margin-2",
       "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md"
+    },
+    {
+      "basename": "explain-layman",
+      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
+    },
+    {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
+      "basename": "2026-04-21 Streamer feedback review (issue category)",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
+    },
+    {
+      "basename": "event-timeline",
+      "path": "(SKILLs) 技能/skill_general/event-timeline.md"
     },
     {
       "basename": "invest-cost-return",
@@ -21,20 +37,12 @@
       "path": "(SKILLs) 技能/skill_general/clarify-context.md"
     },
     {
-      "basename": "explain-layman",
-      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
-    },
-    {
       "basename": "invest-production-factors-v1.2.0",
       "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
     },
     {
       "basename": "Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？",
       "path": "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md"
-    },
-    {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
       "basename": "WSI_outstanding_BI",
@@ -181,10 +189,6 @@
       "path": "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md"
     },
     {
-      "basename": "2026-04-19 - Create obsidian Hotkeys",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
-    },
-    {
       "basename": "file-20260419172437487",
       "path": "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "file-20260419112916186",
       "path": "TaskNotes/Views/assets/calendar-default/file-20260419112916186.jpg"
-    },
-    {
-      "basename": "calendar-default",
-      "path": "TaskNotes/Views/calendar-default.base"
     }
   ],
   "omittedPaths": [],

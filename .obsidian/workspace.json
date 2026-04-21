@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce9111fb83994ab",
+        "id": "cc3460c481e1bcbd",
         "type": "tabs",
         "children": [
           {
-            "id": "bf85cd937ce73289",
+            "id": "6ed1273eb5f581dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(SKILLs) 技能/skill_general/event-timeline.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "event-timeline"
+              "title": "New tab"
             }
           }
         ]
@@ -89,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 591.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -257,8 +254,14 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "6ed1273eb5f581dd",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
+    "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md",
+    "(SKILLs) 技能/skill_general/explain-layman.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
+    "(SKILLs) 技能/skill_general/event-timeline.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421110907797.xlsx",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618964.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618962.jpg",
@@ -268,22 +271,17 @@
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618954.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618951.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/~$file-20260420164411578.xlsx",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO SAP/file-20260421112449698.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO SAP/file-20260421095239797.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO SAP/file-20260421094327654.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO SAP",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO SAP.md",
-    "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md",
     "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md",
-    "(SKILLs) 技能/skill_general/event-timeline.md",
     "(SKILLs) 技能/skill_general/clarify-context.md",
-    "(SKILLs) 技能/skill_general/explain-layman.md",
     "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md",
     "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "Untitled.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx",
@@ -311,7 +309,6 @@
     "TaskNotes/Views/calendar-default.base",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "(LEARN) 學習筆記/assets/Book_原油產業全景",
-    "assets/Book_原油產業全景",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "Untitled.canvas",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
