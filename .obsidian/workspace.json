@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5,
-    "collapsed": true
+    "width": 591.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -254,7 +253,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "a2f31c77453426c9",
+  "active": "bb7877e4106a8c54",
   "lastOpenFiles": [
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
