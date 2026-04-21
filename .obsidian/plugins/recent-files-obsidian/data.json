@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "event-timeline",
+      "path": "(SKILLs) 技能/skill_general/event-timeline.md"
+    },
+    {
+      "basename": "invest-moat-margin-2",
+      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md"
+    },
+    {
+      "basename": "invest-cost-return",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+    },
+    {
+      "basename": "invest-enterprise-business",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
+    },
+    {
+      "basename": "clarify-context",
+      "path": "(SKILLs) 技能/skill_general/clarify-context.md"
+    },
+    {
+      "basename": "explain-layman",
+      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
+    },
+    {
+      "basename": "invest-production-factors-v1.2.0",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
+    },
+    {
       "basename": "Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？",
       "path": "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "calendar-default",
       "path": "TaskNotes/Views/calendar-default.base"
-    },
-    {
-      "basename": "原油 全球分析報告",
-      "path": "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md"
-    },
-    {
-      "basename": "Carl Zeiss SMT_EUV 光刻光學系統",
-      "path": "(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md"
-    },
-    {
-      "basename": "Clip_20260418 - 上市了，就不得不向华尔街低头吗",
-      "path": "Clippings/2026/April/Clip_20260418 - 上市了，就不得不向华尔街低头吗.md"
-    },
-    {
-      "basename": "Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？",
-      "path": "Clippings/2026/April/Clip_20260418 - 🔥 SpaceX 上市真係暴富機會？定係 2026 最大接火棒現場？.md"
-    },
-    {
-      "basename": "Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】",
-      "path": "Clippings/2026/April/Clip_20260418 - MSFT & ORCL大涨! ASML财报分析! 交易计划更新!【美股分析】.md"
-    },
-    {
-      "basename": "Clip_20260418 - Project Management In Obsidian NEW (and it's awesome)",
-      "path": "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md"
-    },
-    {
-      "basename": "Book_原油產業全景",
-      "path": "(LEARN) 學習筆記/Book_原油產業全景.md"
     }
   ],
   "omittedPaths": [],
