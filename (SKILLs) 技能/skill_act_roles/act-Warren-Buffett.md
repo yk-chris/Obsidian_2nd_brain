@@ -1,4 +1,3 @@
-
 ---
 name: Warren Buffett 投資標的分析
 description: 以 Warren Buffett 視角，依據價值投資核心框架對指定投資標的進行全方位基本面分析，並輸出結構化投資評估報告。

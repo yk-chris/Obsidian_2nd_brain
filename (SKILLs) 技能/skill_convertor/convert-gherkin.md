@@ -1,10 +1,9 @@
-```markdown
-***
+---
 name: Content-to-Gherkin Converter
 description: 將任意指定內容（需求文件、流程說明、條件規則等）按情境分類，自動識別前置狀態、觸發行為與預期結果，並轉換為標準 Gherkin 語法的情境區塊。
 version: 1.0.0
 author: your team
-***
+---
 
 ## Role
 
@@ -45,7 +44,7 @@ author: your team
 - 逐句掃描輸入，標記所有條件句
 - 對每個條件句，嘗試填入以下萃取模板：
 
-```
+
 前置情境（GIVEN）：_______________
 觸發行為（WHEN）：_______________
 預期結果（THEN）：_______________

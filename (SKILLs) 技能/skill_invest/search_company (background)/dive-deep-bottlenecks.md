@@ -1,15 +1,8 @@
-  
-
 ---
-
 name: Adaptive Periodic Research Tracker
-
 description: 輸入任意研究主題，自動搜尋指定時間窗口內的最新動態，分析主要瓶頸與解決方案，並拆解核心公司成本收益結構，輸出結構化 Markdown 研究報告。
-
 version: 1.0.0
-
 author: your team
-
 ---
 
   

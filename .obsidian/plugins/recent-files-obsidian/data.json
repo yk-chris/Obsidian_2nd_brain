@@ -1,20 +1,176 @@
 {
   "recentFiles": [
     {
-      "basename": "Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？",
-      "path": "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md"
+      "basename": "convert-programming-v2",
+      "path": "(SKILLs) 技能/skill_convertor/convert-programming-v2.md"
     },
     {
-      "basename": "Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）",
-      "path": "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md"
+      "basename": "summarize",
+      "path": "(SKILLs) 技能/skill_general/summarize.md"
+    },
+    {
+      "basename": "general-tell-summary",
+      "path": "(SKILLs) 技能/skill_general/general-tell-summary.md"
+    },
+    {
+      "basename": "search-macro-economic",
+      "path": "(SKILLs) 技能/skill_daily_agenda/search-macro-economic.md"
+    },
+    {
+      "basename": "search-news-finance",
+      "path": "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md"
+    },
+    {
+      "basename": "convert-gherkin",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
+    },
+    {
+      "basename": "create-presentation-html",
+      "path": "(SKILLs) 技能/skill_convertor/create-presentation-html.md"
+    },
+    {
+      "basename": "prompt-check",
+      "path": "(SKILLs) 技能/skill_convertor/prompt-check.md"
+    },
+    {
+      "basename": "prompt-make-v2",
+      "path": "(SKILLs) 技能/skill_convertor/prompt-make-v2.md"
+    },
+    {
+      "basename": "act-Warren-Buffett",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Warren-Buffett.md"
+    },
+    {
+      "basename": "Map_invest_skills",
+      "path": "(SKILLs) 技能/Map_invest_skills.canvas"
+    },
+    {
+      "basename": "file-20260411125320315",
+      "path": "(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg"
+    },
+    {
+      "basename": "act-chinese-strategy",
+      "path": "(SKILLs) 技能/skill_act_roles/act-chinese-strategy.md"
+    },
+    {
+      "basename": "act-Elon-Musk-bottleneck",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk-bottleneck.md"
+    },
+    {
+      "basename": "act-Elon-Musk",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md"
+    },
+    {
+      "basename": "act-expert",
+      "path": "(SKILLs) 技能/skill_act_roles/act-expert.md"
+    },
+    {
+      "basename": "act-McKinsey-adv",
+      "path": "(SKILLs) 技能/skill_act_roles/act-McKinsey-adv.md"
+    },
+    {
+      "basename": "act-Musk-Buffett-Navar",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Musk-Buffett-Navar.md"
+    },
+    {
+      "basename": "act-Ray-Dalio",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Ray-Dalio.md"
+    },
+    {
+      "basename": "invest-production-factors-v1.2.0",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
+    },
+    {
+      "basename": "identify-company",
+      "path": "(SKILLs) 技能/skill_invest/identify-company.md"
+    },
+    {
+      "basename": "invest-10K-analysis-report",
+      "path": "(SKILLs) 技能/skill_invest/invest-10K-analysis-report.md"
     },
     {
       "basename": "invest-IPO",
       "path": "(SKILLs) 技能/skill_invest/invest-IPO.md"
     },
     {
+      "basename": "invest-news",
+      "path": "(SKILLs) 技能/skill_invest/invest-news.md"
+    },
+    {
+      "basename": "invest-stock-valuation",
+      "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
+      "basename": "trading-arbitrage-emotion",
+      "path": "(SKILLs) 技能/skill_invest/evaluate_company/trading-arbitrage-emotion.md"
+    },
+    {
+      "basename": "trading-divergence",
+      "path": "(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md"
+    },
+    {
+      "basename": "dive-deep-bottlenecks",
+      "path": "(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
+    },
+    {
+      "basename": "invest-competitive-adv",
+      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-competitive-adv.md"
+    },
+    {
+      "basename": "invest-moat-margin-2",
+      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md"
+    },
+    {
+      "basename": "invest-cost-return",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+    },
+    {
+      "basename": "invest-enterprise-business",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
+    },
+    {
+      "basename": "clarify-context",
+      "path": "(SKILLs) 技能/skill_general/clarify-context.md"
+    },
+    {
+      "basename": "event-timeline",
+      "path": "(SKILLs) 技能/skill_general/event-timeline.md"
+    },
+    {
       "basename": "explain-layman",
       "path": "(SKILLs) 技能/skill_general/explain-layman.md"
+    },
+    {
+      "basename": "fact-check",
+      "path": "(SKILLs) 技能/skill_general/fact-check.md"
+    },
+    {
+      "basename": "general-answer-questions",
+      "path": "(SKILLs) 技能/skill_general/general-answer-questions.md"
+    },
+    {
+      "basename": "general-ask-questions",
+      "path": "(SKILLs) 技能/skill_general/general-ask-questions.md"
+    },
+    {
+      "basename": "general-proofread-paraphrase",
+      "path": "(SKILLs) 技能/skill_general/general-proofread-paraphrase.md"
+    },
+    {
+      "basename": "general-tell-insight",
+      "path": "(SKILLs) 技能/skill_general/general-tell-insight.md"
+    },
+    {
+      "basename": "search-commodity-futures-2",
+      "path": "(SKILLs) 技能/skill_daily_agenda/search-commodity-futures-2.md"
+    },
+    {
+      "basename": "Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？",
+      "path": "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md"
+    },
+    {
+      "basename": "Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）",
+      "path": "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md"
     },
     {
       "basename": "2026-04-21",
@@ -43,162 +199,6 @@
     {
       "basename": "file-20260421105618951",
       "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618951.jpg"
-    },
-    {
-      "basename": "map_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
-    },
-    {
-      "basename": "MoM_20260417_iMRO_integration_workshop",
-      "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
-      "basename": "calendar-default",
-      "path": "TaskNotes/Views/calendar-default.base"
-    },
-    {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
-    },
-    {
-      "basename": "event-timeline",
-      "path": "(SKILLs) 技能/skill_general/event-timeline.md"
-    },
-    {
-      "basename": "invest-moat-margin-2",
-      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md"
-    },
-    {
-      "basename": "invest-cost-return",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
-    },
-    {
-      "basename": "invest-enterprise-business",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
-    },
-    {
-      "basename": "clarify-context",
-      "path": "(SKILLs) 技能/skill_general/clarify-context.md"
-    },
-    {
-      "basename": "invest-production-factors-v1.2.0",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
-    },
-    {
-      "basename": "Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？",
-      "path": "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md"
-    },
-    {
-      "basename": "WSI_outstanding_BI",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
-    },
-    {
-      "basename": "file-20260414120656343",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120656343.jpg"
-    },
-    {
-      "basename": "file-20260414120254300",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120254300.jpg"
-    },
-    {
-      "basename": "file-20260414120107417",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120107417.jpg"
-    },
-    {
-      "basename": "file-20260414120051536",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120051536.jpg"
-    },
-    {
-      "basename": "file-20260414102303317",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260414102303317.jpg"
-    },
-    {
-      "basename": "file-20260417092241290",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg"
-    },
-    {
-      "basename": "file-20260417092105908",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092105908.jpg"
-    },
-    {
-      "basename": "Excalidraw_2026-04-16_.AI產業鏈",
-      "path": "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md"
-    },
-    {
-      "basename": "Clip_20260419 - Why 5 Million People Are OBSESSED With Excalidraw",
-      "path": "Clippings/2026/April/Clip_20260419 - Why 5 Million People Are OBSESSED With Excalidraw.md"
-    },
-    {
-      "basename": "Excalidraw_2026-04-19_.Karpthy_knowledge_base",
-      "path": "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md"
-    },
-    {
-      "basename": "Map_invest_skills",
-      "path": "(SKILLs) 技能/Map_invest_skills.canvas"
-    },
-    {
-      "basename": "Clip_20260419 - Mythos 要來了，你的舊提示詞正在拖垮新模型？",
-      "path": "Clippings/2026/April/Clip_20260419 - Mythos 要來了，你的舊提示詞正在拖垮新模型？.md"
-    },
-    {
-      "basename": "file-20260411125320315",
-      "path": "(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg"
-    },
-    {
-      "basename": "MISC-job Fit module ( Spare) issue (accept no ARC date)",
-      "path": "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md"
-    },
-    {
-      "basename": "4. Delivery note resize, QTY & exportimport",
-      "path": "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md"
-    },
-    {
-      "basename": "map_HBM",
-      "path": "(LEARN) 學習筆記/map_HBM.canvas"
-    },
-    {
-      "basename": "file-20260419110142872",
-      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142872.jpg"
-    },
-    {
-      "basename": "file-20260419110142882",
-      "path": "(LEARN) 學習筆記/assets/map_HBM/file-20260419110142882.jpg"
-    },
-    {
-      "basename": "map_原油",
-      "path": "(LEARN) 學習筆記/map_原油.canvas"
-    },
-    {
-      "basename": "MoM_2026-04-15_Renovation arrangement",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md"
-    },
-    {
-      "basename": "MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md"
-    },
-    {
-      "basename": "MoM_2026-04-15 streamer_off-module",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md"
-    },
-    {
-      "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
-    },
-    {
-      "basename": "MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md"
-    },
-    {
-      "basename": "file-20260417082339910",
-      "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-15 streamer_off-module/file-20260417082339910.jpg"
-    },
-    {
-      "basename": "file-20260417082339914",
-      "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-15 streamer_off-module/file-20260417082339914.jpg"
     }
   ],
   "omittedPaths": [],
