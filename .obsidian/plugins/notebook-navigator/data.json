@@ -470,6 +470,7 @@
       "titleRows": 2
     },
     "(WORK) 工作": {
+      "groupBy": "folder",
       "mode": "compact"
     },
     "(WORK) 工作/Projects_HAESL": {
