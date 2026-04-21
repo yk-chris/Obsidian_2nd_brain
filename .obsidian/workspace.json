@@ -11,14 +11,10 @@
             "id": "75fc82c6e3c4c298",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "RAW_convert_mail_preinduction"
+              "title": "New tab"
             }
           }
         ]
@@ -259,16 +255,17 @@
   },
   "active": "75fc82c6e3c4c298",
   "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md",
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153242391.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153307644.jpg",
@@ -306,7 +303,6 @@
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/map_原油.canvas",
     "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md",
-    "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "TaskNotes/Views/calendar-default.base",
     "(LEARN) 學習筆記/assets/Book_原油產業全景",
