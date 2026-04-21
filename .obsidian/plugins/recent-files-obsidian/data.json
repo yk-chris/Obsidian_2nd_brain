@@ -5,48 +5,44 @@
       "path": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md"
     },
     {
-      "basename": "explain-layman",
-      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
+      "basename": "2026-04-21 Streamer feedback review (issue category)",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
     },
     {
-      "basename": "Slideshow",
-      "path": "Excalidraw/Scripts/Downloaded/Slideshow.md"
-    },
-    {
-      "basename": "Slideshow",
-      "path": "Excalidraw/Scripts/Downloaded/Slideshow.svg"
-    },
-    {
-      "basename": "Excalidraw_2026-04-21-Dave Gray",
-      "path": "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw"
-    },
-    {
-      "basename": "MoM_20260417_iMRO_integration_workshop",
-      "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
+      "basename": "file-20260421105618951",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618951.jpg"
     },
     {
       "basename": "map_stamp_holder_manage",
       "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
     },
     {
-      "basename": "2026-04-19 - Create obsidian Hotkeys",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
+      "basename": "MoM_20260417_iMRO_integration_workshop",
+      "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
     },
     {
-      "basename": "invest-moat-margin-2",
-      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md"
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "calendar-default",
+      "path": "TaskNotes/Views/calendar-default.base"
     },
     {
       "basename": "map_Induction_WSI_workflow",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
-      "basename": "2026-04-21 Streamer feedback review (issue category)",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
-    },
-    {
       "basename": "event-timeline",
       "path": "(SKILLs) 技能/skill_general/event-timeline.md"
+    },
+    {
+      "basename": "invest-moat-margin-2",
+      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md"
     },
     {
       "basename": "invest-cost-return",
@@ -59,6 +55,10 @@
     {
       "basename": "clarify-context",
       "path": "(SKILLs) 技能/skill_general/clarify-context.md"
+    },
+    {
+      "basename": "explain-layman",
+      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
     },
     {
       "basename": "invest-production-factors-v1.2.0",
@@ -133,10 +133,6 @@
       "path": "TaskNotes/Tasks/4. Delivery note resize, QTY & exportimport.md"
     },
     {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
       "basename": "map_HBM",
       "path": "(LEARN) 學習筆記/map_HBM.canvas"
     },
@@ -195,6 +191,10 @@
     {
       "basename": "估值_MSFT",
       "path": "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md"
+    },
+    {
+      "basename": "估值_GOOGL",
+      "path": "(FINANCE) 財務筆記/TA技術分析/估值_GOOGL.md"
     }
   ],
   "omittedPaths": [],
