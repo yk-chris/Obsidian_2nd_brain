@@ -15,3 +15,9 @@
 PM session - subcontract
 
 ![](assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553184.jpg)
+
+
+
+![](assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161100494.jpg)
+![](assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161157572.jpg)
+![](assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161527212.jpg)
