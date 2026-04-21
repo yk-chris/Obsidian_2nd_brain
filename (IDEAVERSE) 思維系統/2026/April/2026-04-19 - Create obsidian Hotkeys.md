@@ -15,5 +15,3 @@
 ### Extra Functions
 - ==Shift + Shift== to open Omni-search
 - ==Ctrl + Ctrl ==to open command palette
-- Testing for input from HAESL desktop
-
