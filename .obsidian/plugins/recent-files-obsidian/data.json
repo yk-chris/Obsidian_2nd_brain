@@ -5,12 +5,16 @@
       "path": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md"
     },
     {
-      "basename": "map_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
-    },
-    {
       "basename": "2026-04-21 Streamer feedback review (issue category)",
       "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
+    },
+    {
+      "basename": "file-20260421105618951",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618951.jpg"
+    },
+    {
+      "basename": "map_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
     },
     {
       "basename": "MoM_20260417_iMRO_integration_workshop",
@@ -195,10 +199,6 @@
     {
       "basename": "Map_財務筆記",
       "path": "(FINANCE) 財務筆記/Map_財務筆記.canvas"
-    },
-    {
-      "basename": "黃曉煌（Huang Xiaohuang）",
-      "path": "(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md"
     }
   ],
   "omittedPaths": [],
