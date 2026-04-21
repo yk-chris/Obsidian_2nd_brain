@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "930f70b825b48b62",
+        "id": "5eb6ad35f8161af0",
         "type": "tabs",
         "children": [
           {
-            "id": "3468a54cf79885dc",
+            "id": "62b70854e133e211",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MoM_2026-04-21_iMRO_integration_workshop"
+              "title": "New tab"
             }
           }
         ]
@@ -257,9 +253,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "3468a54cf79885dc",
+  "active": "bb7877e4106a8c54",
   "lastOpenFiles": [
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553200.jpg",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
@@ -285,7 +282,6 @@
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (category issues)",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618964.jpg",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618962.jpg",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
@@ -310,7 +306,6 @@
     "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Clippings/2026/April/Clip_20260419 - Why 5 Million People Are OBSESSED With Excalidraw.md",
-    "Excalidraw/Excalidraw_2026-04-19_.excalidraw.md",
     "(SKILLs) 技能/Map_invest_skills.canvas",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/map_原油.canvas",
