@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "(SKILLs) 技能/test.md"
+    },
+    {
       "basename": "MoM_2026-04-21_iMRO_integration_workshop",
       "path": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "估值_MSFT",
       "path": "(FINANCE) 財務筆記/TA技術分析/估值_MSFT.md"
-    },
-    {
-      "basename": "估值_GOOGL",
-      "path": "(FINANCE) 財務筆記/TA技術分析/估值_GOOGL.md"
     }
   ],
   "omittedPaths": [],

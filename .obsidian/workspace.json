@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a64b9cd3da57597",
+        "id": "657911b2e1974b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "4f0e9802d23d7e2a",
+            "id": "a30258999c90a5e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -253,7 +253,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "a30258999c90a5e6",
   "lastOpenFiles": [
     "(SKILLs) 技能/test.md",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
