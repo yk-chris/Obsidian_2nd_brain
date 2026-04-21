@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "RAW_convert_mail_preinduction",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md"
+    },
+    {
+      "basename": "PROMPT_convert_mail_preinduction",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md"
+    },
+    {
+      "basename": "map_UAT_streamer_20260415",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
+    },
+    {
+      "basename": "map_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
+    },
+    {
+      "basename": "MoM_20260417_iMRO_integration_workshop",
+      "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
+    },
+    {
+      "basename": "MoM_2026-04-15_Renovation arrangement",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md"
+    },
+    {
+      "basename": "WSI_outstanding_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
+    },
+    {
+      "basename": "file-20260417092241290",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg"
+    },
+    {
+      "basename": "codebase_mail_preinduction",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md"
+    },
+    {
       "basename": "map_Induction_WSI_workflow",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
+      "basename": "file-20260420153242391",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153242391.jpg"
     },
     {
       "basename": "file-20260420164411578",
@@ -15,10 +55,6 @@
     {
       "basename": "file-20260420153307644",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153307644.jpg"
-    },
-    {
-      "basename": "file-20260420153242391",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153242391.jpg"
     },
     {
       "basename": "file-20260420153105015",
@@ -41,14 +77,6 @@
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721909.jpg"
     },
     {
-      "basename": "WSI_outstanding_BI",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
-    },
-    {
-      "basename": "map_stamp_holder_manage",
-      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
-    },
-    {
       "basename": "file-20260420123026471",
       "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260420123026471.jpg"
     },
@@ -67,10 +95,6 @@
     {
       "basename": "原油舉升成本（Lifting Cost）",
       "path": "(FINANCE) 財務筆記/生產要素/原油舉升成本（Lifting Cost）.md"
-    },
-    {
-      "basename": "map_UAT_streamer_20260415",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
     },
     {
       "basename": "file-20260420122843962",
@@ -175,30 +199,6 @@
     {
       "basename": "map_原油",
       "path": "(LEARN) 學習筆記/map_原油.canvas"
-    },
-    {
-      "basename": "MoM_2026-04-15_Renovation arrangement",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md"
-    },
-    {
-      "basename": "MoM_2026-04-15 streamer_off-module",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md"
-    },
-    {
-      "basename": "MoM_20260417_iMRO_integration_workshop",
-      "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
-    },
-    {
-      "basename": "MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md"
-    },
-    {
-      "basename": "file-20260417082339910",
-      "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-15 streamer_off-module/file-20260417082339910.jpg"
-    },
-    {
-      "basename": "file-20260417082339914",
-      "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-15 streamer_off-module/file-20260417082339914.jpg"
     }
   ],
   "omittedPaths": [],
