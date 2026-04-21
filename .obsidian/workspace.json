@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "10eee29837a7fa4f",
+        "id": "8ae53d18113966ba",
         "type": "tabs",
         "children": [
           {
-            "id": "92d08c711e6a2621",
+            "id": "15c1e888496594f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-21"
+              "title": "New tab"
             }
           }
         ]
@@ -257,8 +253,9 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "92d08c711e6a2621",
+  "active": "15c1e888496594f0",
   "lastOpenFiles": [
+    "(SKILLs) 技能/skill_general/explain-layman.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "conflict-files-obsidian-git.md",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
@@ -281,7 +278,6 @@
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553188.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop",
     "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md",
-    "(SKILLs) 技能/skill_general/explain-layman.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
     "(SKILLs) 技能/skill_general/event-timeline.md",
