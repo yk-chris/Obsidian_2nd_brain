@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e053c463b725c4d4",
+        "id": "e632990f9f872739",
         "type": "tabs",
         "children": [
           {
-            "id": "abd1dc3dfc468fc5",
+            "id": "834b5076e67bff95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-19 - Create obsidian Hotkeys"
             }
           }
         ]
@@ -253,8 +257,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "abd1dc3dfc468fc5",
+  "active": "bb7877e4106a8c54",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553184.jpg",
@@ -273,7 +279,6 @@
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553188.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553186.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
     "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md",
     "(SKILLs) 技能/skill_general/explain-layman.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
@@ -306,7 +311,6 @@
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/map_原油.canvas",
     "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md",
-    "(WORK) 工作/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "Untitled.canvas",
