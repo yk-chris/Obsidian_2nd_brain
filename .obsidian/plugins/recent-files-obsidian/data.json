@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-21",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "add one more",
+      "path": "(IDEAVERSE) 思維系統/2026/April/add one more.md"
+    },
+    {
+      "basename": "search-macro-economic",
+      "path": "(SKILLs) 技能/skill_daily_agenda/search-macro-economic.md"
+    },
+    {
+      "basename": "create-presentation-html",
+      "path": "(SKILLs) 技能/skill_convertor/create-presentation-html.md"
+    },
+    {
+      "basename": "prompt-make-v2",
+      "path": "(SKILLs) 技能/skill_convertor/prompt-make-v2.md"
+    },
+    {
       "basename": "convert-programming-v2",
       "path": "(SKILLs) 技能/skill_convertor/convert-programming-v2.md"
     },
@@ -13,10 +37,6 @@
       "path": "(SKILLs) 技能/skill_general/general-tell-summary.md"
     },
     {
-      "basename": "search-macro-economic",
-      "path": "(SKILLs) 技能/skill_daily_agenda/search-macro-economic.md"
-    },
-    {
       "basename": "search-news-finance",
       "path": "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md"
     },
@@ -25,16 +45,8 @@
       "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
     },
     {
-      "basename": "create-presentation-html",
-      "path": "(SKILLs) 技能/skill_convertor/create-presentation-html.md"
-    },
-    {
       "basename": "prompt-check",
       "path": "(SKILLs) 技能/skill_convertor/prompt-check.md"
-    },
-    {
-      "basename": "prompt-make-v2",
-      "path": "(SKILLs) 技能/skill_convertor/prompt-make-v2.md"
     },
     {
       "basename": "act-Warren-Buffett",
@@ -173,10 +185,6 @@
       "path": "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md"
     },
     {
-      "basename": "2026-04-21",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md"
-    },
-    {
       "basename": "2026-04-19 - Create obsidian Hotkeys",
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "file-20260421150553200",
       "path": "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553200.jpg"
-    },
-    {
-      "basename": "2026-04-21 Streamer feedback review (issue category)",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
-    },
-    {
-      "basename": "file-20260421105618951",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618951.jpg"
     }
   ],
   "omittedPaths": [],
