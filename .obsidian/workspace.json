@@ -11,12 +11,12 @@
             "id": "42f00cbaac1001b5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png"
+                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260422093645_286"
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_2026-04-16_.SKILL.md (Invest)"
             }
           }
         ]
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 591.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -257,6 +258,7 @@
   },
   "active": "42f00cbaac1001b5",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
