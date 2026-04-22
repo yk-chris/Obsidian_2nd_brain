@@ -11,12 +11,17 @@
             "id": "dbde16dbd9b21f6e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification - Copy.md"
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 1706.2611947242003,
+                  "y": 1503.5779719202646,
+                  "zoom": -1.2054207379653696
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification - Copy"
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
             }
           }
         ]
@@ -87,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5
+    "width": 623.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -214,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification - Copy.md",
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excalidraw_streamer_clarification - Copy"
+              "title": "Outline of map_Induction_WSI_workflow"
             }
           }
         ],
@@ -259,10 +265,10 @@
   },
   "active": "dbde16dbd9b21f6e",
   "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/Excalidraw_streamer_clarification - Copy.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "TaskNotes/Views/kanban-default.base",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
