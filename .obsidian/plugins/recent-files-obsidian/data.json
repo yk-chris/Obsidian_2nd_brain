@@ -9,6 +9,10 @@
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151905917.jpg"
     },
     {
+      "basename": "file-20260420151841364",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151841364.jpg"
+    },
+    {
       "basename": "file-20260420153045807",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153045807.jpg"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "general-ask-questions",
       "path": "(SKILLs) 技能/skill_general/general-ask-questions.md"
-    },
-    {
-      "basename": "general-proofread-paraphrase",
-      "path": "(SKILLs) 技能/skill_general/general-proofread-paraphrase.md"
     }
   ],
   "omittedPaths": [],
