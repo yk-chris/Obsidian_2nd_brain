@@ -18,26 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Excalidraw_streamer_clarification"
             }
-          },
-          {
-            "id": "28bc12e3f3ea3239",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-                "viewState": {
-                  "x": 936.8669141754378,
-                  "y": 1483.2201204764406,
-                  "zoom": -0.3333333333333332
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_Induction_WSI_workflow"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5,
-    "collapsed": true
+    "width": 623.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -274,10 +255,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "28bc12e3f3ea3239",
+  "active": "14d6bc3e0d15281c",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/4A9CE500",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/6C37E500",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/45E2E500",
@@ -286,7 +268,6 @@
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/~$file-20260420164411578.xlsx",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(IDEAVERSE) 思維系統/2026/April/add one more.md",
     "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md",
     "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md",
