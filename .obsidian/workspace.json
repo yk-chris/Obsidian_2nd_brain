@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e0d23247c75e7af",
+        "id": "36c821a68a0de3b8",
         "type": "tabs",
         "children": [
           {
-            "id": "dbde16dbd9b21f6e",
+            "id": "2a8c7211bb0b6863",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-                "viewState": {
-                  "x": 1706.2611947242003,
-                  "y": 1503.5779719202646,
-                  "zoom": -1.2054207379653696
-                }
+                "file": "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_Induction_WSI_workflow"
+              "icon": "lucide-file",
+              "title": "convert-gherkin-v2"
             }
           }
         ]
@@ -92,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5,
-    "collapsed": true
+    "width": 623.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -220,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "file": "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map_Induction_WSI_workflow"
+              "title": "Outline of convert-gherkin-v2"
             }
           }
         ],
@@ -263,12 +259,14 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "dbde16dbd9b21f6e",
+  "active": "2a8c7211bb0b6863",
   "lastOpenFiles": [
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
-    "Excalidraw/Excalidraw_streamer_clarification - Copy.md",
+    "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
+    "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+    "Excalidraw/Excalidraw_streamer_clarification - Copy.md",
     "TaskNotes/Views/kanban-default.base",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
@@ -297,7 +295,6 @@
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553198.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553200.jpg",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618951.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161527212.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161157572.jpg",
@@ -315,7 +312,6 @@
     "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md",
     "Excalidraw/Excalidraw_2026-04-20__0.excalidraw.md",
     "(LEARN) 學習筆記/Map_原油.canvas",
-    "Excalidraw/Excalidraw_2026-04-20_.excalidraw.md",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "(SKILLs) 技能/Map_invest_skills.canvas",
     "(LEARN) 學習筆記/map_HBM.canvas",
