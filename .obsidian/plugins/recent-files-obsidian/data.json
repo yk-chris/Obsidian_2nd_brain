@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
-    },
-    {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
+    },
+    {
+      "basename": "WSI_outstanding_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
       "basename": "2026-04-21",
@@ -87,10 +95,6 @@
     {
       "basename": "file-20260419112721911",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721911.jpg"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
     },
     {
       "basename": "search-macro-economic",
@@ -195,10 +199,6 @@
     {
       "basename": "trading-arbitrage-emotion",
       "path": "(SKILLs) 技能/skill_invest/evaluate_company/trading-arbitrage-emotion.md"
-    },
-    {
-      "basename": "trading-divergence",
-      "path": "(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md"
     }
   ],
   "omittedPaths": [],

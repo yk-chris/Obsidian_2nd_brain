@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14d6bc3e0d15281c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-                "viewState": {
-                  "x": 1122.4855428142569,
-                  "y": 858.519646080866,
-                  "zoom": -1.6666666666666663
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_Induction_WSI_workflow"
-            }
-          },
-          {
             "id": "9808344c095af34a",
             "type": "leaf",
             "state": {
@@ -232,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map_Induction_WSI_workflow"
+              "title": "Outline of Excalidraw_streamer_clarification"
             }
           }
         ],
@@ -275,10 +258,12 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "14d6bc3e0d15281c",
+  "active": "9808344c095af34a",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+    "TaskNotes/Views/kanban-default.base",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg",
@@ -313,11 +298,9 @@
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161100494.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/CFD08100",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/~$file-20260421110907797.xlsx",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop",
     "Untitled 1.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
     "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md",

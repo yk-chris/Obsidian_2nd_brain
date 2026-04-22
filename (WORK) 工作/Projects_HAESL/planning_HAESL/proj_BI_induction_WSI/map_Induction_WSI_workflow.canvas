@@ -30,7 +30,7 @@
 		{"id":"7088aa35f05773cb","type":"text","text":"### eIM List\n\n**Purpose**: CB notify other parties on behalf of customer\n**Nature** : \"Work Amend/Data Pack/ Workscope/...\" documents\n**WSI (Eng):** WIP/Completed\n**WSI (Mod):** WIP/Completed\n\n```\nSELECT eIM_ID, SalesOrder, ESN, Customer, Nature, Description, CreatedDate, CreatedBy, UpdatedDate, UpdatedBy\nFROM [AIR].[View_EIM] \nWHERE eIM_ID IN ( SELECT TOP 2000 eIM_ID FROM [AIR].[View_EIM] ORDER BY eIM_ID DESC) \nORDER BY eIM_ID DESC\n```\n","x":316,"y":490,"width":634,"height":402,"color":"5"},
 		{"id":"fb8b4bb2b42a9809","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx","x":1024,"y":1674,"width":742,"height":400},
 		{"id":"77117976cf1647d8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg","x":2653,"y":615,"width":763,"height":371},
-		{"id":"992cc60eae0a42f3","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg","x":2653,"y":1024,"width":1006,"height":412}
+		{"id":"992cc60eae0a42f3","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg","x":2653,"y":1024,"width":1005,"height":412}
 	],
 	"edges":[
 		{"id":"6a2806ec8b319593","fromNode":"56f1280e7bf1bd61","fromSide":"right","toNode":"2631e9cc1ef9c86b","toSide":"left"},
