@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4035ee37cb67150e",
+        "id": "87a47aa95acba582",
         "type": "tabs",
         "children": [
           {
-            "id": "8031c86abe33e598",
+            "id": "8a981eba3cef4f86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_2026-04-16_.SKILL.md (Invest)"
             }
           }
         ]
@@ -85,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 591.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -175,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Excalidraw_2026-04-16_.SKILL.md (Invest)"
             }
           },
           {
@@ -193,11 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Excalidraw_2026-04-16_.SKILL.md (Invest)"
             }
           }
         ],
@@ -253,15 +258,15 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "8031c86abe33e598",
+  "active": "8a981eba3cef4f86",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
     "(SKILLs) 技能/skill_convertor/prompt-make-v2.md",
     "(SKILLs) 技能/skill_general/explain-layman.md",
     "(SKILLs) 技能/skill_convertor/prompt-check.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
-    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
