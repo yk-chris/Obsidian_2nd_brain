@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 613.5
+    "width": 613.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -255,10 +256,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "14d6bc3e0d15281c",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(IDEAVERSE) 思維系統/2026/April/add one more.md",
     "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md",
     "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md",
