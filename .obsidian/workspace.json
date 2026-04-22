@@ -11,10 +11,12 @@
             "id": "dbde16dbd9b21f6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_streamer_clarification"
             }
           }
         ]
@@ -85,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5,
-    "collapsed": true
+    "width": 623.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -213,12 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Excalidraw_streamer_clarification"
             }
           }
         ],
