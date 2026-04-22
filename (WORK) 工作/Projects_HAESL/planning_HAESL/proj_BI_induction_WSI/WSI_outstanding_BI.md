@@ -11,7 +11,7 @@ tags:
 ---
 ## Case Study - produce some **power BI dashboard** for engine planning including induction WSI outstanding and WSI amendments
 
-[map_canvas](<obsidian://open?vault=Obsidian_2nd_brain&file=(WORK)%20%E5%B7%A5%E4%BD%9C%2FProjects_HAESL%2Fplanning_HAESL%2Fproj_BI_induction_WSI%2Fmap_Induction_WSI_workflow.canvas>)
+![](map_Induction_WSI_workflow.canvas)
 ### Source of WSI
 #### eIM list
 ![](assets/WSI_outstanding_BI/file-20260419112721909.jpg)
