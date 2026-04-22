@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9e9d7358c53452c5",
+        "id": "4035ee37cb67150e",
         "type": "tabs",
         "children": [
           {
-            "id": "42f00cbaac1001b5",
+            "id": "8031c86abe33e598",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_2026-04-16_.SKILL.md (Invest)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -87,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5,
-    "collapsed": true
+    "width": 591.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -204,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "267e126257f6aa2a",
@@ -256,33 +253,34 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "42f00cbaac1001b5",
+  "active": "8031c86abe33e598",
   "lastOpenFiles": [
+    "(SKILLs) 技能/skill_convertor/prompt-make-v2.md",
+    "(SKILLs) 技能/skill_general/explain-layman.md",
+    "(SKILLs) 技能/skill_convertor/prompt-check.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
+    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
     "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155053166.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg",
     "(SKILLs) 技能/skill_general/event-timeline.md",
-    "(SKILLs) 技能/skill_general/explain-layman.md",
     "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "TaskNotes/Views/kanban-default.base",
     "(IDEAVERSE) 思維系統/2026/April/add one more.md",
     "(SKILLs) 技能/skill_daily_agenda/search-macro-economic.md",
     "(SKILLs) 技能/skill_convertor/create-presentation-html.md",
-    "(SKILLs) 技能/skill_convertor/prompt-make-v2.md",
     "(SKILLs) 技能/skill_convertor/convert-programming-v2.md",
     "(SKILLs) 技能/skill_general/summarize.md",
     "(SKILLs) 技能/skill_general/general-tell-summary.md",
     "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
-    "(SKILLs) 技能/skill_convertor/prompt-check.md",
     "(SKILLs) 技能/skill_act_roles/act-Warren-Buffett.md",
     "(SKILLs) 技能/Map_invest_skills.canvas",
     "(SKILLs) 技能/skill_act_roles/act-chinese-strategy.md",
@@ -291,7 +289,6 @@
     "(SKILLs) 技能/skill_act_roles/act-expert.md",
     "(SKILLs) 技能/skill_act_roles/act-McKinsey-adv.md",
     "(SKILLs) 技能/skill_act_roles/act-Musk-Buffett-Navar.md",
-    "(SKILLs) 技能/skill_act_roles/act-Ray-Dalio.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553184.jpg",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
