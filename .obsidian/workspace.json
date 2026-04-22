@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6a0923cbbfb83f",
+        "id": "3421b9881be64c44",
         "type": "tabs",
         "children": [
           {
-            "id": "9808344c095af34a",
+            "id": "2a703d45164b6727",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -215,13 +213,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excalidraw_streamer_clarification"
+              "title": "Outline"
             }
           }
         ],
@@ -258,12 +255,12 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "9808344c095af34a",
+  "active": "2a703d45164b6727",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "TaskNotes/Views/kanban-default.base",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg",
