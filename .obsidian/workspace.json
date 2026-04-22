@@ -27,16 +27,17 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 1411.4428624432464,
-                  "y": 885.7325236501345,
-                  "zoom": -0.2969729455271272
+                  "x": 470.10061836856204,
+                  "y": 843.5633054610377,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "map_Induction_WSI_workflow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 613.5,
+    "width": 623.5,
     "collapsed": true
   },
   "right": {
@@ -273,10 +274,16 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "14d6bc3e0d15281c",
+  "active": "28bc12e3f3ea3239",
   "lastOpenFiles": [
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/4A9CE500",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/6C37E500",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/45E2E500",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/744AD500",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/~$file-20260420164411578.xlsx",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
@@ -289,7 +296,6 @@
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553200.jpg",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618951.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161527212.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161157572.jpg",
@@ -301,13 +307,9 @@
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "Untitled 1.md",
     "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/calendar-default.base",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553184.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553186.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553188.jpg",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/4197A000",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421110907797.xlsx",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
