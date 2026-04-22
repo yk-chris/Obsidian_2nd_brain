@@ -18,6 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "Excalidraw_streamer_clarification"
             }
+          },
+          {
+            "id": "28bc12e3f3ea3239",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 1411.4428624432464,
+                  "y": 885.7325236501345,
+                  "zoom": -0.2969729455271272
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
+            }
           }
         ]
       }
@@ -258,10 +275,11 @@
   },
   "active": "14d6bc3e0d15281c",
   "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(IDEAVERSE) 思維系統/2026/April/add one more.md",
     "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md",
     "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md",
@@ -286,9 +304,7 @@
     "TaskNotes/Views/calendar-default.base",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553184.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553186.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553188.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553190.jpg",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/4197A000",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421110907797.xlsx",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)",
