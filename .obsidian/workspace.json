@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "34b8c85a28594513",
+        "id": "9e9d7358c53452c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3deab6f4bba21b7e",
+            "id": "42f00cbaac1001b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20260422093645_286"
             }
           }
         ]
@@ -85,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5,
-    "collapsed": true
+    "width": 591.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -254,12 +255,13 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "3deab6f4bba21b7e",
+  "active": "42f00cbaac1001b5",
   "lastOpenFiles": [
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
-    "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
-    "Excalidraw/assets/Excalidraw_streamer_clarification",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
+    "Excalidraw/assets/Excalidraw_streamer_clarification",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155053166.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg",
@@ -298,7 +300,6 @@
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161157572.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161100494.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421110907797.xlsx",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/~$file-20260420164411578.xlsx",
