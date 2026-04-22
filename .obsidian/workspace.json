@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e06adad067e18c1a",
+        "id": "34b8c85a28594513",
         "type": "tabs",
         "children": [
           {
-            "id": "6d21c701bea81dd8",
+            "id": "3deab6f4bba21b7e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -254,7 +254,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "6d21c701bea81dd8",
+  "active": "3deab6f4bba21b7e",
   "lastOpenFiles": [
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
