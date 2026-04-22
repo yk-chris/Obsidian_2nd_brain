@@ -27,17 +27,16 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 519.8615345446221,
-                  "y": 1163.6159079041977,
-                  "zoom": -0.6666666666666665
+                  "x": 604.6788165981416,
+                  "y": 683.5245569390759,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "map_Induction_WSI_workflow"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,10 +273,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "28bc12e3f3ea3239",
+  "active": "14d6bc3e0d15281c",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/4A9CE500",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/6C37E500",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/45E2E500",
