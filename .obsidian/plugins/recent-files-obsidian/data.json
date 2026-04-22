@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
     },
     {
-      "basename": "2026-04-21",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md"
+      "basename": "2026-04-21 Streamer feedback review (issue category)",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
     },
     {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+      "basename": "map_UAT_streamer_20260415",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
+    },
+    {
+      "basename": "map_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
+    },
+    {
+      "basename": "MoM_20260417_iMRO_integration_workshop",
+      "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
+    },
+    {
+      "basename": "MoM_2026-04-21_iMRO_integration_workshop",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md"
+    },
+    {
+      "basename": "MoM_2026-04-15 streamer_off-module",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md"
+    },
+    {
+      "basename": "MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md"
+    },
+    {
+      "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
+    },
+    {
+      "basename": "2026-04-21",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md"
     },
     {
       "basename": "file-20260420151905917",
@@ -31,10 +63,6 @@
     {
       "basename": "file-20260420153307644",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153307644.jpg"
-    },
-    {
-      "basename": "2026-04-21 Streamer feedback review (issue category)",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
     },
     {
       "basename": "file-20260419112721911",
@@ -171,34 +199,6 @@
     {
       "basename": "invest-cost-return",
       "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
-    },
-    {
-      "basename": "invest-enterprise-business",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
-    },
-    {
-      "basename": "clarify-context",
-      "path": "(SKILLs) 技能/skill_general/clarify-context.md"
-    },
-    {
-      "basename": "event-timeline",
-      "path": "(SKILLs) 技能/skill_general/event-timeline.md"
-    },
-    {
-      "basename": "explain-layman",
-      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
-    },
-    {
-      "basename": "fact-check",
-      "path": "(SKILLs) 技能/skill_general/fact-check.md"
-    },
-    {
-      "basename": "general-answer-questions",
-      "path": "(SKILLs) 技能/skill_general/general-answer-questions.md"
-    },
-    {
-      "basename": "general-ask-questions",
-      "path": "(SKILLs) 技能/skill_general/general-ask-questions.md"
     }
   ],
   "omittedPaths": [],

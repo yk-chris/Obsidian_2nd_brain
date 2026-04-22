@@ -18,8 +18,26 @@
               "icon": "excalidraw-icon",
               "title": "Excalidraw_streamer_clarification"
             }
+          },
+          {
+            "id": "a1955246616187ab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 1067.2136827858062,
+                  "y": 1024.343670138198,
+                  "zoom": -0.16942435437252173
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5
+    "width": 623.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -255,16 +274,23 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "14d6bc3e0d15281c",
+  "active": "a1955246616187ab",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
+    "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
+    "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
+    "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md",
+    "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
+    "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/4A9CE500",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/6C37E500",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/45E2E500",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/744AD500",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/~$file-20260420164411578.xlsx",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification",
@@ -272,7 +298,6 @@
     "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md",
     "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
-    "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553198.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553200.jpg",
     "conflict-files-obsidian-git.md",
@@ -281,11 +306,9 @@
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161527212.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161157572.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161100494.jpg",
-    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/CFD08100",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/~$file-20260421110907797.xlsx",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop",
-    "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "Untitled 1.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553184.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553186.jpg",
@@ -295,7 +318,6 @@
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md",
     "(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/codebase_mail_preinduction.md",
@@ -305,9 +327,6 @@
     "Excalidraw/Excalidraw_2026-04-20_.excalidraw.md",
     "(WORK) 工作/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
     "(LEARN) 學習筆記/map_群核科技.canvas",
-    "Untitled.md",
-    "(WORK.md",
-    "Clippings/2026/April/Clip_20260418 - Project Management In Obsidian NEW (and it's awesome).md",
     "(SKILLs) 技能/Map_invest_skills.canvas",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/map_原油.canvas",
