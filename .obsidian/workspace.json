@@ -36,7 +36,8 @@
               "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map_Induction_WSI_workflow"
+              "title": "Outline of Excalidraw_2026-04-23_WSI_outstanding_amendment"
             }
           }
         ],
@@ -275,11 +276,12 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "f2f9eb51d1ca5c1f",
+  "active": "8a6dd9db736fee64",
   "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112344758.jpg",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
@@ -296,8 +298,6 @@
     "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155053166.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg",
     "Untitled.md",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
     "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",

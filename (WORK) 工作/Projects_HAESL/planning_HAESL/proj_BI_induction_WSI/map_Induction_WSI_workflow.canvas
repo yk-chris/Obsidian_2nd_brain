@@ -33,7 +33,7 @@
 		{"id":"14ab93df6cdda6f0","type":"text","text":"### Master Data\n**Purpose:** to create a base data on the AIR system\n\n\n","x":316,"y":448,"width":766,"height":107,"color":"5"},
 		{"id":"5f7549a67d66100d","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151905917.jpg","x":1209,"y":957,"width":699,"height":217},
 		{"id":"77117976cf1647d8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg","x":2867,"y":954,"width":763,"height":371},
-		{"id":"eb20903678f2ce36","x":3185,"y":1979,"width":588,"height":405,"type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112344758.jpg"}
+		{"id":"c08e0582cd3bb80a","x":3138,"y":1952,"width":660,"height":436,"type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg"}
 	],
 	"edges":[
 		{"id":"6a2806ec8b319593","fromNode":"56f1280e7bf1bd61","fromSide":"right","toNode":"2631e9cc1ef9c86b","toSide":"left"},
@@ -51,6 +51,6 @@
 		{"id":"6cd295bd9dfef85a","fromNode":"5f7549a67d66100d","fromSide":"right","toNode":"77117976cf1647d8","toSide":"left"},
 		{"id":"92f7f525c89a3042","fromNode":"77117976cf1647d8","fromSide":"right","toNode":"309a96656dc3f8c8","toSide":"left"},
 		{"id":"7140d42457530800","fromNode":"992cc60eae0a42f3","fromSide":"right","toNode":"309a96656dc3f8c8","toSide":"left"},
-		{"id":"b1b27b30e1a66be1","fromNode":"992cc60eae0a42f3","fromSide":"bottom","toNode":"eb20903678f2ce36","toSide":"top"}
+		{"id":"afe267628a30c6a0","fromNode":"992cc60eae0a42f3","fromSide":"bottom","toNode":"c08e0582cd3bb80a","toSide":"top"}
 	]
 }
