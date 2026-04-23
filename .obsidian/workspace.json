@@ -11,13 +11,33 @@
             "id": "13169607bbda8c44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_streamer_clarification"
+            }
+          },
+          {
+            "id": "8a6dd9db736fee64",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 2755.1355630453345,
+                  "y": 1047.4436759776363,
+                  "zoom": -0.3960758913979507
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 607.5
+    "width": 607.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -212,12 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of map_Induction_WSI_workflow"
             }
           }
         ],
@@ -254,7 +276,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "13169607bbda8c44",
+  "active": "8a6dd9db736fee64",
   "lastOpenFiles": [
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
