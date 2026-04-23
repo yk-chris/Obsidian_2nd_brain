@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b497f9660a5cc51d",
+            "id": "e2b57144f4a8ef76",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-23_.excalidraw.md"
+                "file": "Excalidraw/Excalidraw_2026-04-16_.INVEST.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excalidraw_2026-04-23_.excalidraw"
+              "title": "Excalidraw_2026-04-16_.INVEST"
             }
           }
         ]
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-23_.excalidraw.md",
+                "file": "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Excalidraw_2026-04-23_.excalidraw"
+              "title": "Backlinks for Excalidraw_2026-04-16_.INVEST"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-23_.excalidraw.md",
+                "file": "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Excalidraw_2026-04-23_.excalidraw"
+              "title": "Outgoing links from Excalidraw_2026-04-16_.INVEST"
             }
           }
         ],
@@ -258,12 +258,12 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "b497f9660a5cc51d",
+  "active": "e2b57144f4a8ef76",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_2026-04-23_.excalidraw.md",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
-    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+    "Excalidraw/Excalidraw_2026-04-23_.INVEST.md",
+    "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "Untitled.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg",
