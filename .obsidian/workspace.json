@@ -15,13 +15,25 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 3048.334155100822,
-                  "y": 1412.5984043006058,
-                  "zoom": 0.31044648713833917
+                  "x": 771.5,
+                  "y": 930.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "map_Induction_WSI_workflow"
+            }
+          },
+          {
+            "id": "8a6dd9db736fee64",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
             }
           }
         ]
@@ -265,11 +277,11 @@
   },
   "active": "f2f9eb51d1ca5c1f",
   "lastOpenFiles": [
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
+    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100459129.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100431929.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423092333627.jpg",
