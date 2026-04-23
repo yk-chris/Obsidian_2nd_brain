@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "convert-gherkin-v2",
-      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md"
-    },
-    {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
+    },
+    {
+      "basename": "2026-04-22",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md"
+    },
+    {
+      "basename": "file-20260422154908164",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg"
+    },
+    {
+      "basename": "file-20260422155053166",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155053166.jpg"
+    },
+    {
+      "basename": "file-20260422155120636",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "convert-gherkin",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
+    },
+    {
+      "basename": "convert-gherkin-v2",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md"
     },
     {
       "basename": "Excalidraw_2026-04-21-Dave Gray",
@@ -29,28 +53,12 @@
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md"
     },
     {
-      "basename": "2026-04-22",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md"
-    },
-    {
-      "basename": "file-20260422154908164",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg"
-    },
-    {
-      "basename": "file-20260422155120636",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg"
-    },
-    {
       "basename": "file-20260420164411578",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx"
     },
     {
       "basename": "file-20260420151905917",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151905917.jpg"
-    },
-    {
-      "basename": "file-20260422155053166",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155053166.jpg"
     },
     {
       "basename": "file-20260420153105015",
@@ -133,10 +141,6 @@
       "path": "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md"
     },
     {
-      "basename": "convert-gherkin",
-      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
-    },
-    {
       "basename": "prompt-check",
       "path": "(SKILLs) 技能/skill_convertor/prompt-check.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "invest-IPO",
       "path": "(SKILLs) 技能/skill_invest/invest-IPO.md"
-    },
-    {
-      "basename": "invest-news",
-      "path": "(SKILLs) 技能/skill_invest/invest-news.md"
     }
   ],
   "omittedPaths": [],
