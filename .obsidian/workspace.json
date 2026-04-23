@@ -27,17 +27,29 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 2755.1355630453345,
-                  "y": 1047.4436759776363,
-                  "zoom": -0.3960758913979507
+                  "x": 2165.6017248639027,
+                  "y": 1121.1354057503156,
+                  "zoom": -1.3960758913979505
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "map_Induction_WSI_workflow"
             }
+          },
+          {
+            "id": "52d0bf79a7251f0c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 607.5,
-    "collapsed": true
+    "width": 607.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -233,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map_Induction_WSI_workflow"
+              "title": "Outline of Excalidraw_2026-04-23_WSI_outstanding_amendment"
             }
           }
         ],
@@ -276,9 +287,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "8a6dd9db736fee64",
+  "active": "52d0bf79a7251f0c",
   "lastOpenFiles": [
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg",
@@ -287,7 +300,6 @@
     "Untitled.md",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
     "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "Excalidraw/Excalidraw_streamer_clarification - Copy.md",
     "TaskNotes/Views/kanban-default.base",
