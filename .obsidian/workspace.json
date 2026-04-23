@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2eeb8e24fdc90c2a",
+        "id": "749ab3047a89b451",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f9eb51d1ca5c1f",
+            "id": "b90c061a5d0ac0d1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification"
-            }
-          },
-          {
-            "id": "8a6dd9db736fee64",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -99,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 607.5,
-    "collapsed": true
+    "width": 607.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -227,13 +212,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excalidraw_streamer_clarification"
+              "title": "Outline"
             }
           }
         ],
@@ -270,16 +254,17 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "f2f9eb51d1ca5c1f",
+  "active": "b90c061a5d0ac0d1",
   "lastOpenFiles": [
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+    "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112344758.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100459129.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100431929.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423092333627.jpg",
@@ -303,7 +288,6 @@
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
-    "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md",
     "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
     "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/4A9CE500",
