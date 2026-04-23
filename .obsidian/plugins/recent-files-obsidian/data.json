@@ -5,12 +5,20 @@
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
-      "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
-      "path": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
+      "basename": "file-20260419112721913",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721913.jpg"
+    },
+    {
+      "basename": "WSI_outstanding_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
     },
     {
       "basename": "MoM_2026-04-23_iMRO_sentencing_BOM",
       "path": "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md"
+    },
+    {
+      "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
+      "path": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
     },
     {
       "basename": "file-20260423110708792",
@@ -117,10 +125,6 @@
       "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
     },
     {
-      "basename": "WSI_outstanding_BI",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
-    },
-    {
       "basename": "2026-04-21",
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "search-news-finance",
       "path": "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md"
-    },
-    {
-      "basename": "prompt-check",
-      "path": "(SKILLs) 技能/skill_convertor/prompt-check.md"
     }
   ],
   "omittedPaths": [],
