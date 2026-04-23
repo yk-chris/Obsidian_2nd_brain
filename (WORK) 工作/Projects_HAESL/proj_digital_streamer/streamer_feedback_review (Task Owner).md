@@ -13,7 +13,7 @@ I applied the review structure from [SKILL_feedback_review.docx](https://haesl-m
 
 ### 2) Notification Content, Deep-Linking, and Alert Visibility
 
-**Main concern:** Notifications do not provide enough context and do not allow users to move directly to the relevant record or clearly understand approval outcomes.  
+**Main concern:** Notifications ==do not provide enough context== and ==do not allow users to move directly to the relevant record== or ==clearly understand approval outcomes==.  
 **Included items:** 3, 10, 11, 14, 27, 37  
 **Consolidated comment:** Users reported that notifications lack important details such as ESN or change content, cannot be clicked to open the affected engine/task directly, and do not clearly communicate whether approvals were accepted or rejected. There is also a request for proactive alerts on expired tasks awaiting response. Together, these comments point to weak actionability and visibility in the current notification experience.  
 **Classification:** **Usability Improvement** 
