@@ -14,3 +14,4 @@ how to identify the difference between equipment and  BOM? No but can be customi
 PM session
 ![](assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134146973.jpg)
 
+![](assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134445627.jpg)
