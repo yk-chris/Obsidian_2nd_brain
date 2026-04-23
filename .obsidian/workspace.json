@@ -11,10 +11,12 @@
             "id": "b497f9660a5cc51d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-23_.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_2026-04-23_.excalidraw"
             }
           }
         ]
@@ -85,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 591.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -175,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-23_.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Excalidraw_2026-04-23_.excalidraw"
             }
           },
           {
@@ -193,11 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-23_.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Excalidraw_2026-04-23_.excalidraw"
             }
           }
         ],
@@ -253,8 +258,9 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "b497f9660a5cc51d",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_2026-04-23_.excalidraw.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
@@ -295,7 +301,6 @@
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
     "(SKILLs) 技能/skill_act_roles/act-Warren-Buffett.md",
     "(SKILLs) 技能/Map_invest_skills.canvas",
-    "(SKILLs) 技能/skill_act_roles/act-chinese-strategy.md",
     "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
