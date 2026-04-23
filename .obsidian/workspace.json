@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md"
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excalidraw_2026-04-16_.SKILL.md (Invest)"
+              "title": "Excalidraw_streamer_clarification"
             }
           }
         ]
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Excalidraw_2026-04-16_.SKILL.md (Invest)"
+              "title": "Backlinks for Excalidraw_streamer_clarification"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Excalidraw_2026-04-16_.SKILL.md (Invest)"
+              "title": "Outgoing links from Excalidraw_streamer_clarification"
             }
           }
         ],
@@ -260,20 +260,32 @@
   },
   "active": "8a981eba3cef4f86",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
+    "Untitled.md",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112344758.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804772.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804771.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804769.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804768.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804766.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804764.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804756.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
+    "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
+    "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
     "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
     "(SKILLs) 技能/skill_convertor/prompt-make-v2.md",
     "(SKILLs) 技能/skill_general/explain-layman.md",
     "(SKILLs) 技能/skill_convertor/prompt-check.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
-    "Excalidraw/Excalidraw_2026-04-16_.SKILL.md (Invest).md",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/assets/Excalidraw_streamer_clarification",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155053166.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg",
     "(SKILLs) 技能/skill_general/event-timeline.md",
     "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md",
@@ -289,27 +301,15 @@
     "(SKILLs) 技能/skill_act_roles/act-Warren-Buffett.md",
     "(SKILLs) 技能/Map_invest_skills.canvas",
     "(SKILLs) 技能/skill_act_roles/act-chinese-strategy.md",
-    "(SKILLs) 技能/skill_act_roles/act-Elon-Musk-bottleneck.md",
-    "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md",
-    "(SKILLs) 技能/skill_act_roles/act-expert.md",
-    "(SKILLs) 技能/skill_act_roles/act-McKinsey-adv.md",
-    "(SKILLs) 技能/skill_act_roles/act-Musk-Buffett-Navar.md",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-14 Obsidian Plugin/file-20260419172437487.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553184.jpg",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161527212.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161157572.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161100494.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421110907797.xlsx",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/~$file-20260420164411578.xlsx",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO SAP",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx",
-    "Excalidraw/Scripts/Downloaded",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/map_原油.canvas",
     "(FINANCE) 財務筆記/Map_財務筆記.canvas",
