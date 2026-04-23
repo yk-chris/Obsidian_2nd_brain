@@ -490,7 +490,8 @@
       "mode": "compact"
     },
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer": {
-      "mode": "compact"
+      "mode": "compact",
+      "groupBy": "folder"
     },
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets": {
       "mode": "compact"
