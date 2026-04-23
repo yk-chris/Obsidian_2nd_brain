@@ -15,9 +15,9 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 771.5,
-                  "y": 1023.5,
-                  "zoom": 0
+                  "x": 2651.3383224771883,
+                  "y": 1882.2489786821848,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -36,8 +36,7 @@
               "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excalidraw_2026-04-23_WSI_outstanding_amendment"
+              "title": "Outline of map_Induction_WSI_workflow"
             }
           }
         ],
@@ -276,10 +275,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "8a6dd9db736fee64",
+  "active": "f2f9eb51d1ca5c1f",
   "lastOpenFiles": [
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
