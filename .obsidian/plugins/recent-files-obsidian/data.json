@@ -1,60 +1,172 @@
 {
   "recentFiles": [
     {
-      "basename": "Excalidraw_2026-04-16_.INVEST",
-      "path": "Excalidraw/Excalidraw_2026-04-16_.INVEST.md"
+      "basename": "MoM_2026-04-23_iMRO_sentencing_BOM",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md"
     },
     {
       "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
       "path": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
     },
     {
-      "basename": "Excalidraw_streamer_clarification",
-      "path": "Excalidraw/Excalidraw_streamer_clarification.md"
-    },
-    {
-      "basename": "Excalidraw_2026-04-16_.AI產業鏈",
-      "path": "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md"
-    },
-    {
-      "basename": "prompt-make-v2",
-      "path": "(SKILLs) 技能/skill_convertor/prompt-make-v2.md"
-    },
-    {
-      "basename": "explain-layman",
-      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
-    },
-    {
-      "basename": "prompt-check",
-      "path": "(SKILLs) 技能/skill_convertor/prompt-check.md"
-    },
-    {
-      "basename": "2026-04-21",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md"
-    },
-    {
-      "basename": "2026-04-22",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md"
+      "basename": "WSI_outstanding_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
     },
     {
       "basename": "map_Induction_WSI_workflow",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
-      "basename": "event-timeline",
-      "path": "(SKILLs) 技能/skill_general/event-timeline.md"
+      "basename": "file-20260422154908164",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg"
     },
     {
-      "basename": "invest-cost-return",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+      "basename": "file-20260423112452959",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg"
     },
     {
-      "basename": "invest-moat-margin-2",
-      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md"
+      "basename": "file-20260419112721913",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721913.jpg"
+    },
+    {
+      "basename": "file-20260423110708792",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg"
+    },
+    {
+      "basename": "file-20260422155120636",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg"
     },
     {
       "basename": "kanban-default",
       "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "mini-calendar-default",
+      "path": "TaskNotes/Views/mini-calendar-default.base"
+    },
+    {
+      "basename": "calendar-default",
+      "path": "TaskNotes/Views/calendar-default.base"
+    },
+    {
+      "basename": "agenda-default",
+      "path": "TaskNotes/Views/agenda-default.base"
+    },
+    {
+      "basename": "streamer_feedback_review (Task Owner)",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md"
+    },
+    {
+      "basename": "Excalidraw_2026-04-16_.AI Agent",
+      "path": "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
+    },
+    {
+      "basename": "Excalidraw_2026-04-21-Dave Gray",
+      "path": "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw"
+    },
+    {
+      "basename": "Excalidraw_2026-04-19_.Karpthy_knowledge_base",
+      "path": "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md"
+    },
+    {
+      "basename": "Slideshow",
+      "path": "Excalidraw/Scripts/Downloaded/Slideshow.md"
+    },
+    {
+      "basename": "Excalidraw_streamer_clarification",
+      "path": "Excalidraw/Excalidraw_streamer_clarification.md"
+    },
+    {
+      "basename": "MoM_2026-04-15 streamer_off-module",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md"
+    },
+    {
+      "basename": "map_UAT_streamer_20260415",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
+    },
+    {
+      "basename": "file-20260423112344758",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112344758.jpg"
+    },
+    {
+      "basename": "file-20260423100459129",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100459129.jpg"
+    },
+    {
+      "basename": "file-20260420151905917",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151905917.jpg"
+    },
+    {
+      "basename": "file-20260420153105015",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153105015.jpg"
+    },
+    {
+      "basename": "file-20260423100431929",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100431929.jpg"
+    },
+    {
+      "basename": "convert-gherkin-v2",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md"
+    },
+    {
+      "basename": "2026-04-22",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md"
+    },
+    {
+      "basename": "file-20260422155053166",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155053166.jpg"
+    },
+    {
+      "basename": "convert-gherkin",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
+    },
+    {
+      "basename": "2026-04-21",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md"
+    },
+    {
+      "basename": "file-20260420164411578",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx"
+    },
+    {
+      "basename": "2026-04-21 Streamer feedback review (issue category)",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
+    },
+    {
+      "basename": "map_stamp_holder_manage",
+      "path": "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas"
+    },
+    {
+      "basename": "MoM_20260417_iMRO_integration_workshop",
+      "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
+    },
+    {
+      "basename": "MoM_2026-04-21_iMRO_integration_workshop",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md"
+    },
+    {
+      "basename": "MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md"
+    },
+    {
+      "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
+    },
+    {
+      "basename": "file-20260420151841364",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151841364.jpg"
+    },
+    {
+      "basename": "file-20260420153045807",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153045807.jpg"
+    },
+    {
+      "basename": "file-20260420153307644",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153307644.jpg"
+    },
+    {
+      "basename": "file-20260419112721911",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721911.jpg"
     },
     {
       "basename": "search-macro-economic",
@@ -63,6 +175,10 @@
     {
       "basename": "create-presentation-html",
       "path": "(SKILLs) 技能/skill_convertor/create-presentation-html.md"
+    },
+    {
+      "basename": "prompt-make-v2",
+      "path": "(SKILLs) 技能/skill_convertor/prompt-make-v2.md"
     },
     {
       "basename": "convert-programming-v2",
@@ -79,122 +195,6 @@
     {
       "basename": "search-news-finance",
       "path": "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md"
-    },
-    {
-      "basename": "convert-gherkin",
-      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
-    },
-    {
-      "basename": "act-Warren-Buffett",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Warren-Buffett.md"
-    },
-    {
-      "basename": "Map_invest_skills",
-      "path": "(SKILLs) 技能/Map_invest_skills.canvas"
-    },
-    {
-      "basename": "file-20260411125320315",
-      "path": "(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg"
-    },
-    {
-      "basename": "act-chinese-strategy",
-      "path": "(SKILLs) 技能/skill_act_roles/act-chinese-strategy.md"
-    },
-    {
-      "basename": "act-Elon-Musk-bottleneck",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk-bottleneck.md"
-    },
-    {
-      "basename": "act-Elon-Musk",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md"
-    },
-    {
-      "basename": "act-expert",
-      "path": "(SKILLs) 技能/skill_act_roles/act-expert.md"
-    },
-    {
-      "basename": "act-McKinsey-adv",
-      "path": "(SKILLs) 技能/skill_act_roles/act-McKinsey-adv.md"
-    },
-    {
-      "basename": "act-Musk-Buffett-Navar",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Musk-Buffett-Navar.md"
-    },
-    {
-      "basename": "act-Ray-Dalio",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Ray-Dalio.md"
-    },
-    {
-      "basename": "invest-production-factors-v1.2.0",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
-    },
-    {
-      "basename": "identify-company",
-      "path": "(SKILLs) 技能/skill_invest/identify-company.md"
-    },
-    {
-      "basename": "invest-10K-analysis-report",
-      "path": "(SKILLs) 技能/skill_invest/invest-10K-analysis-report.md"
-    },
-    {
-      "basename": "invest-IPO",
-      "path": "(SKILLs) 技能/skill_invest/invest-IPO.md"
-    },
-    {
-      "basename": "invest-news",
-      "path": "(SKILLs) 技能/skill_invest/invest-news.md"
-    },
-    {
-      "basename": "invest-stock-valuation",
-      "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
-    },
-    {
-      "basename": "trading-arbitrage-emotion",
-      "path": "(SKILLs) 技能/skill_invest/evaluate_company/trading-arbitrage-emotion.md"
-    },
-    {
-      "basename": "trading-divergence",
-      "path": "(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md"
-    },
-    {
-      "basename": "dive-deep-bottlenecks",
-      "path": "(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
-    },
-    {
-      "basename": "invest-competitive-adv",
-      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-competitive-adv.md"
-    },
-    {
-      "basename": "invest-enterprise-business",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
-    },
-    {
-      "basename": "clarify-context",
-      "path": "(SKILLs) 技能/skill_general/clarify-context.md"
-    },
-    {
-      "basename": "fact-check",
-      "path": "(SKILLs) 技能/skill_general/fact-check.md"
-    },
-    {
-      "basename": "general-answer-questions",
-      "path": "(SKILLs) 技能/skill_general/general-answer-questions.md"
-    },
-    {
-      "basename": "general-ask-questions",
-      "path": "(SKILLs) 技能/skill_general/general-ask-questions.md"
-    },
-    {
-      "basename": "general-proofread-paraphrase",
-      "path": "(SKILLs) 技能/skill_general/general-proofread-paraphrase.md"
-    },
-    {
-      "basename": "general-tell-insight",
-      "path": "(SKILLs) 技能/skill_general/general-tell-insight.md"
-    },
-    {
-      "basename": "search-commodity-futures-2",
-      "path": "(SKILLs) 技能/skill_daily_agenda/search-commodity-futures-2.md"
     }
   ],
   "omittedPaths": [],

@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "b0b1015c933e7dd9",
+    "id": "18df6e4bb1006a93",
     "type": "split",
     "children": [
       {
-        "id": "7c2dd83d4a84520b",
+        "id": "a5deae3521c71337",
         "type": "tabs",
         "children": [
           {
-            "id": "e2b57144f4a8ef76",
+            "id": "c49fc1088697bd50",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-16_.INVEST.md"
+                "file": "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_2026-04-16_.INVEST"
+              "icon": "lucide-file",
+              "title": "MoM_2026-04-23_iMRO_sentencing_BOM"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bf74ecd00042d27c",
+    "id": "b0e75a7bf45c31e7",
     "type": "split",
     "children": [
       {
-        "id": "c6ffe81819e77c4e",
+        "id": "1a97ce28ba1ded36",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7e290d8dd3db84",
+            "id": "3b6791c137d1c216",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,12 +48,12 @@
             }
           },
           {
-            "id": "26e32847286aae2a",
+            "id": "d67b9a8575cf11dd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +65,7 @@
             }
           },
           {
-            "id": "ed93abcee6ca5efb",
+            "id": "180b4fda6e1dd562",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "bb7877e4106a8c54",
+            "id": "b3889958a5b17040",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
@@ -87,20 +89,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5,
+    "width": 588.5,
     "collapsed": true
   },
   "right": {
-    "id": "8d1dddcd12a12a6f",
+    "id": "1277464457d96220",
     "type": "split",
     "children": [
       {
-        "id": "7648766eae0bd1d6",
+        "id": "e4941d5cd98d6fcd",
         "type": "tabs",
-        "dimension": 46.15384615384615,
         "children": [
           {
-            "id": "999f9e59355eff8d",
+            "id": "7f9ba6449f667f20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "339c621c0b5f270a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f2d82c7b34a6b80f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,31 +147,7 @@
             }
           },
           {
-            "id": "190e976e967cabc7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "ba4fdb4f627889d7",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
-            "id": "724bd55a1862b79c",
+            "id": "90ded1f5f1d04022",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,7 +161,21 @@
             }
           },
           {
-            "id": "ebde8b276190014e",
+            "id": "d5acdd9fad152637",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6813f1948d7531a7",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -161,92 +183,29 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "22a66fd8eba5511f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "5a35a1e03d1ba06b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Excalidraw_2026-04-16_.INVEST"
-            }
-          },
-          {
-            "id": "55498650eb16a305",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Excalidraw_2026-04-16_.INVEST"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "267e126257f6aa2a",
-        "type": "tabs",
-        "dimension": 53.84615384615385,
-        "children": [
-          {
-            "id": "5499962cf8f15ab4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "pinned": true,
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
       "omnisearch:Omnisearch": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "bases:Create new base": true,
-      "obsidian-git:Open Git source control": true,
       "random-note:Open random note": true,
-      "tasknotes:Open mini calendar view": true,
+      "bases:Create new base": true,
       "claudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": true,
+      "tasknotes:Open mini calendar view": true,
       "tasknotes:Open calendar view": false,
       "tasknotes:Open tasks view": true,
       "tasknotes:Open agenda view": true,
@@ -258,63 +217,23 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "e2b57144f4a8ef76",
+  "active": "c49fc1088697bd50",
   "lastOpenFiles": [
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
-    "Excalidraw/Excalidraw_2026-04-23_.INVEST.md",
-    "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
-    "Untitled.md",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112344758.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804772.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804771.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804769.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804768.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804766.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804764.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804756.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
-    "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
-    "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
-    "Excalidraw/Excalidraw_2026-04-16_.AI產業鏈.md",
-    "(SKILLs) 技能/skill_convertor/prompt-make-v2.md",
-    "(SKILLs) 技能/skill_general/explain-layman.md",
-    "(SKILLs) 技能/skill_convertor/prompt-check.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
-    "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260422093645_286.png",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "Excalidraw/assets/Excalidraw_streamer_clarification",
-    "(SKILLs) 技能/skill_general/event-timeline.md",
-    "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
-    "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md",
+    "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
+    "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804756.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804764.jpg",
+    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804766.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
     "TaskNotes/Views/kanban-default.base",
-    "(IDEAVERSE) 思維系統/2026/April/add one more.md",
-    "(SKILLs) 技能/skill_daily_agenda/search-macro-economic.md",
-    "(SKILLs) 技能/skill_convertor/create-presentation-html.md",
-    "(SKILLs) 技能/skill_convertor/convert-programming-v2.md",
-    "(SKILLs) 技能/skill_general/summarize.md",
-    "(SKILLs) 技能/skill_general/general-tell-summary.md",
-    "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md",
-    "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
-    "(SKILLs) 技能/skill_act_roles/act-Warren-Buffett.md",
-    "(SKILLs) 技能/Map_invest_skills.canvas",
-    "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
-    "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
-    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421110907797.xlsx",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/~$file-20260420164411578.xlsx",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO SAP",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx",
-    "(LEARN) 學習筆記/map_HBM.canvas",
-    "(LEARN) 學習筆記/map_原油.canvas",
-    "(FINANCE) 財務筆記/Map_財務筆記.canvas",
-    "(LEARN) 學習筆記/map_群核科技.canvas",
-    "Untitled.canvas",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
+    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
   ]
 }
