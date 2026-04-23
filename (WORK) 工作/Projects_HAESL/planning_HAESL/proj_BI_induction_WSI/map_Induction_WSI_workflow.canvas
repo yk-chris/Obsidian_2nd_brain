@@ -23,7 +23,6 @@
 		{"id":"54fa154c439b397d","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153105015.jpg","x":2284,"y":1495,"width":428,"height":211},
 		{"id":"992cc60eae0a42f3","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg","x":2867,"y":1428,"width":1005,"height":412},
 		{"id":"309a96656dc3f8c8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg","x":4064,"y":1227,"width":176,"height":374},
-		{"id":"84c755be36796510","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100459129.jpg","x":3176,"y":1952,"width":573,"height":392},
 		{"id":"e5aec9c4ed90e82a","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151841364.jpg","x":1224,"y":1449,"width":559,"height":233},
 		{"id":"acc8ea3fb122f73e","type":"text","text":"air View_WSI_attachment","x":1224,"y":1723,"width":559,"height":50,"color":"4"},
 		{"id":"5168c4cef3070e87","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153242391.jpg","x":1224,"y":1773,"width":558,"height":133},
@@ -33,7 +32,8 @@
 		{"id":"b60e98b006dfa3ef","type":"file","file":"Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md","x":1209,"y":482,"width":448,"height":251},
 		{"id":"14ab93df6cdda6f0","type":"text","text":"### Master Data\n**Purpose:** to create a base data on the AIR system\n\n\n","x":316,"y":448,"width":766,"height":107,"color":"5"},
 		{"id":"5f7549a67d66100d","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151905917.jpg","x":1209,"y":957,"width":699,"height":217},
-		{"id":"77117976cf1647d8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg","x":2867,"y":954,"width":763,"height":371}
+		{"id":"77117976cf1647d8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg","x":2867,"y":954,"width":763,"height":371},
+		{"id":"eb20903678f2ce36","x":3185,"y":1979,"width":588,"height":405,"type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112344758.jpg"}
 	],
 	"edges":[
 		{"id":"6a2806ec8b319593","fromNode":"56f1280e7bf1bd61","fromSide":"right","toNode":"2631e9cc1ef9c86b","toSide":"left"},
@@ -48,9 +48,9 @@
 		{"id":"b83ad344067eb226","fromNode":"55ae2194cf108716","fromSide":"right","toNode":"54fa154c439b397d","toSide":"left"},
 		{"id":"5d28618f0875347e","fromNode":"54fa154c439b397d","fromSide":"right","toNode":"992cc60eae0a42f3","toSide":"left"},
 		{"id":"51f9a37d81aa0032","fromNode":"14ab93df6cdda6f0","fromSide":"bottom","toNode":"7088aa35f05773cb","toSide":"top"},
-		{"id":"41b1a7855c6b0a43","fromNode":"992cc60eae0a42f3","fromSide":"bottom","toNode":"84c755be36796510","toSide":"top"},
 		{"id":"6cd295bd9dfef85a","fromNode":"5f7549a67d66100d","fromSide":"right","toNode":"77117976cf1647d8","toSide":"left"},
 		{"id":"92f7f525c89a3042","fromNode":"77117976cf1647d8","fromSide":"right","toNode":"309a96656dc3f8c8","toSide":"left"},
-		{"id":"7140d42457530800","fromNode":"992cc60eae0a42f3","fromSide":"right","toNode":"309a96656dc3f8c8","toSide":"left"}
+		{"id":"7140d42457530800","fromNode":"992cc60eae0a42f3","fromSide":"right","toNode":"309a96656dc3f8c8","toSide":"left"},
+		{"id":"b1b27b30e1a66be1","fromNode":"992cc60eae0a42f3","fromSide":"bottom","toNode":"eb20903678f2ce36","toSide":"top"}
 	]
 }
