@@ -27,9 +27,9 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 675.9760444590362,
-                  "y": 1142.4004707471215,
-                  "zoom": -0.06274255806461737
+                  "x": 2786.5871023883146,
+                  "y": 1370.7993615237829,
+                  "zoom": -1.0627425580646173
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-23_iMRO_sentencing_BOM"
+              "title": "Outline of map_Induction_WSI_workflow"
             }
           }
         ],
@@ -290,8 +290,9 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "f2f9eb51d1ca5c1f",
+  "active": "8a6dd9db736fee64",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423092333627.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423092001327.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM",
@@ -299,7 +300,6 @@
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_BOM",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423091924068.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23",
@@ -336,7 +336,6 @@
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553198.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553200.jpg",
     "conflict-files-obsidian-git.md",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618951.jpg",
     "Untitled 1.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
