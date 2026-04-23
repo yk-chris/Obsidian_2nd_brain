@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Excalidraw_2026-04-21-Dave Gray",
+      "path": "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw"
+    },
+    {
+      "basename": "Excalidraw_2026-04-19_.Karpthy_knowledge_base",
+      "path": "Excalidraw/Excalidraw_2026-04-19_.Karpthy_knowledge_base.md"
+    },
+    {
+      "basename": "Slideshow",
+      "path": "Excalidraw/Scripts/Downloaded/Slideshow.md"
+    },
+    {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "map_UAT_streamer_20260415",
       "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas"
-    },
-    {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
       "basename": "file-20260423112452959",
@@ -83,10 +95,6 @@
     {
       "basename": "convert-gherkin",
       "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
-    },
-    {
-      "basename": "Excalidraw_2026-04-21-Dave Gray",
-      "path": "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw"
     },
     {
       "basename": "WSI_outstanding_BI",
@@ -191,14 +199,6 @@
     {
       "basename": "act-chinese-strategy",
       "path": "(SKILLs) 技能/skill_act_roles/act-chinese-strategy.md"
-    },
-    {
-      "basename": "act-Elon-Musk-bottleneck",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk-bottleneck.md"
-    },
-    {
-      "basename": "act-Elon-Musk",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md"
     }
   ],
   "omittedPaths": [],

@@ -1,22 +1,20 @@
 {
   "main": {
-    "id": "b0b1015c933e7dd9",
+    "id": "18df6e4bb1006a93",
     "type": "split",
     "children": [
       {
-        "id": "421f6432d02cc67c",
+        "id": "2520b81c40db696e",
         "type": "tabs",
         "children": [
           {
-            "id": "af1b56823befe209",
+            "id": "b1597c2463bb442e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bf74ecd00042d27c",
+    "id": "b0e75a7bf45c31e7",
     "type": "split",
     "children": [
       {
-        "id": "c6ffe81819e77c4e",
+        "id": "1a97ce28ba1ded36",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7e290d8dd3db84",
+            "id": "3b6791c137d1c216",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +44,7 @@
             }
           },
           {
-            "id": "26e32847286aae2a",
+            "id": "d67b9a8575cf11dd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +61,7 @@
             }
           },
           {
-            "id": "ed93abcee6ca5efb",
+            "id": "180b4fda6e1dd562",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,94 +69,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "bb7877e4106a8c54",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 607.5
+    "width": 300
   },
   "right": {
-    "id": "8d1dddcd12a12a6f",
+    "id": "1277464457d96220",
     "type": "split",
     "children": [
       {
-        "id": "7648766eae0bd1d6",
+        "id": "e4941d5cd98d6fcd",
         "type": "tabs",
-        "dimension": 35.174418604651166,
         "children": [
           {
-            "id": "999f9e59355eff8d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "ba4fdb4f627889d7",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
-            "id": "724bd55a1862b79c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "ebde8b276190014e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "22a66fd8eba5511f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "5a35a1e03d1ba06b",
+            "id": "7f9ba6449f667f20",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -176,7 +103,7 @@
             }
           },
           {
-            "id": "55498650eb16a305",
+            "id": "339c621c0b5f270a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -187,133 +114,93 @@
               "icon": "links-going-out",
               "title": "Outgoing links"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "267e126257f6aa2a",
-        "type": "tabs",
-        "dimension": 64.82558139534885,
-        "children": [
+          },
           {
-            "id": "5499962cf8f15ab4",
+            "id": "f2d82c7b34a6b80f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "recent-files",
-              "state": {},
-              "pinned": true,
-              "icon": "clock",
-              "title": "Recent Files"
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "190e976e967cabc7",
+            "id": "90ded1f5f1d04022",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d5acdd9fad152637",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excalidraw_streamer_clarification"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6813f1948d7531a7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "omnisearch:Omnisearch": false,
-      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "bases:Create new base": true,
-      "obsidian-git:Open Git source control": true,
-      "random-note:Open random note": true,
-      "tasknotes:Open mini calendar view": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
       "claudian:Open Claudian": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
-      "tasknotes:Open tasks view": true,
-      "tasknotes:Open agenda view": true,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
       "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro timer": true,
-      "tasknotes:Open pomodoro statistics": true,
-      "tasknotes:Create new task": true,
-      "marp:Marp: Open Preview": true,
-      "notebook-navigator:Notebook Navigator": true
+      "tasknotes:Open pomodoro timer": false,
+      "tasknotes:Open pomodoro statistics": false,
+      "tasknotes:Create new task": false,
+      "marp:Marp: Open Preview": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "af1b56823befe209",
-  "lastOpenFiles": [
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
-    "Untitled.md",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
-    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
-    "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112344758.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100459129.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100431929.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423092333627.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423092001327.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423091924066.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_BOM",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423091924068.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23",
-    "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg",
-    "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
-    "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
-    "Excalidraw/Excalidraw_streamer_clarification - Copy.md",
-    "TaskNotes/Views/kanban-default.base",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-21.md",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
-    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
-    "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
-    "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/4A9CE500",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/6C37E500",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/45E2E500",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/744AD500",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/~$file-20260420164411578.xlsx",
-    "(IDEAVERSE) 思維系統/2026/April/add one more.md",
-    "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md",
-    "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled 1.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
-    "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-    "(LEARN) 學習筆記/Map_原油.canvas",
-    "(LEARN) 學習筆記/map_群核科技.canvas",
-    "(SKILLs) 技能/Map_invest_skills.canvas",
-    "(LEARN) 學習筆記/map_HBM.canvas",
-    "(LEARN) 學習筆記/map_原油.canvas",
-    "(FINANCE) 財務筆記/Map_財務筆記.canvas"
-  ]
+  "active": "b1597c2463bb442e",
+  "lastOpenFiles": []
 }
