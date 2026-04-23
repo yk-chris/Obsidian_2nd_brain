@@ -24,7 +24,7 @@ I applied the review structure from [SKILL_feedback_review.docx](https://haesl-m
 
 **Main concern:** The current approval and date-control logic appears inconsistent, incomplete, or operationally impractical for actual completion updates.  
 **Included items:** 8, 15, 24, 25, 28, 33, 34  
-**Consolidated comment:** This category covers concerns about future dates being selectable for actual completion, inconsistent approval triggering for delayed dates, delayed dates being accepted without approval for some tasks, inability to cancel submitted approvals, requests for a grace period for backdating, and the need for clearer delay-reason handling such as an “Other Reason” option. The overall pattern suggests that the business rule design for completion-date control and exception handling needs review and tighter consistency.  
+**Consolidated comment:** This category covers concerns about future dates being selectable for actual completion, inconsistent approval triggering for delayed dates, delayed dates being accepted without approval for some tasks, inability to cancel submitted approvals, ==requests for a grace period for backdating==, and the need for clearer delay-reason handling such as an “Other Reason” option. The overall pattern suggests that the business rule design for completion-date control and exception handling needs review and tighter consistency.  
 **Classification:** **Business Rule Clarification**
 
 ---
