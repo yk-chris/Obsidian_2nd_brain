@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "749ab3047a89b451",
+        "id": "fa5ecff044c43551",
         "type": "tabs",
         "children": [
           {
-            "id": "b90c061a5d0ac0d1",
+            "id": "c52b6e7f515daf55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "streamer_feedback_review (Task Owner).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "streamer_feedback_review (Task Owner)"
             }
           }
         ]
@@ -212,12 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "streamer_feedback_review (Task Owner).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of streamer_feedback_review (Task Owner)"
             }
           }
         ],
@@ -254,12 +259,13 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "b90c061a5d0ac0d1",
+  "active": "c52b6e7f515daf55",
   "lastOpenFiles": [
+    "streamer_feedback_review (Task Owner).md",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112344758.jpg",
@@ -277,7 +283,6 @@
     "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg",
-    "Untitled.md",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
     "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
