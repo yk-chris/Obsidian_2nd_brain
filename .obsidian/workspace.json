@@ -11,13 +11,17 @@
             "id": "c49fc1088697bd50",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 1353.8037846453678,
+                  "y": 1206.1716741585021,
+                  "zoom": -2.329261235160359
+                }
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
             }
           },
           {
@@ -229,12 +233,12 @@
   },
   "active": "c49fc1088697bd50",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/kanban-default.base",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
   ]
