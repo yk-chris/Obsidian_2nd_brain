@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e280deab39fe15ac",
+        "id": "2eeb8e24fdc90c2a",
         "type": "tabs",
         "children": [
           {
-            "id": "519c4c67f59398ff",
+            "id": "13169607bbda8c44",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -214,13 +212,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excalidraw_streamer_clarification"
+              "title": "Outline"
             }
           }
         ],
@@ -257,16 +254,16 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "519c4c67f59398ff",
+  "active": "13169607bbda8c44",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155053166.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "Untitled.md",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
-    "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
     "Excalidraw/Excalidraw_2026-04-21-Dave Gray.excalidraw",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
