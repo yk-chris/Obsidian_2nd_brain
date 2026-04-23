@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ce5dfb3ffb4590a",
+        "id": "c110f823e99a6bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "3bad680d94f3fc83",
+            "id": "708b49515f486a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 607.5
+    "width": 607.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -259,10 +260,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "3bad680d94f3fc83",
+  "active": "708b49515f486a3f",
   "lastOpenFiles": [
-    "Untitled.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
+    "Untitled.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md",
