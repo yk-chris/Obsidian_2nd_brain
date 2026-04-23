@@ -11,17 +11,14 @@
             "id": "c49fc1088697bd50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-                "viewState": {
-                  "x": 1353.8037846453678,
-                  "y": 1206.1716741585021,
-                  "zoom": -2.329261235160359
-                }
+                "file": "(IDEAVERSE) 思維系統/2026/April/MoM_2026-04-23_iMRO_sentencing_BOM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_Induction_WSI_workflow"
+              "icon": "lucide-file",
+              "title": "MoM_2026-04-23_iMRO_sentencing_BOM"
             }
           },
           {
@@ -35,8 +32,26 @@
               "icon": "excalidraw-icon",
               "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
             }
+          },
+          {
+            "id": "fc0bbfdc2426f4f7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 3588.807179539651,
+                  "y": 1489.9899811525577,
+                  "zoom": 0.3333333333333334
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 588.5
+    "width": 588.5,
+    "collapsed": true
   },
   "right": {
     "id": "1277464457d96220",
@@ -231,11 +247,15 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "c49fc1088697bd50",
+  "active": "fc0bbfdc2426f4f7",
   "lastOpenFiles": [
-    "TaskNotes/Views/kanban-default.base",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+    "(IDEAVERSE) 思維系統/2026/April/MoM_2026-04-23_iMRO_sentencing_BOM.md",
+    "(IDEAVERSE) 思維系統/2026/April/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134146973.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134145676.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/agenda-default.base",

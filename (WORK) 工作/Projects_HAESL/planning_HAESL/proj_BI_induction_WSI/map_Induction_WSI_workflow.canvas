@@ -22,7 +22,6 @@
 		{"id":"2f08caefd9cd4153","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153307644.jpg","x":1846,"y":1803,"width":866,"height":149},
 		{"id":"54fa154c439b397d","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153105015.jpg","x":2284,"y":1495,"width":428,"height":211},
 		{"id":"992cc60eae0a42f3","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg","x":2867,"y":1428,"width":1005,"height":412},
-		{"id":"309a96656dc3f8c8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg","x":4064,"y":1227,"width":176,"height":374},
 		{"id":"e5aec9c4ed90e82a","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151841364.jpg","x":1224,"y":1449,"width":559,"height":233},
 		{"id":"acc8ea3fb122f73e","type":"text","text":"air View_WSI_attachment","x":1224,"y":1723,"width":559,"height":50,"color":"4"},
 		{"id":"5168c4cef3070e87","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153242391.jpg","x":1224,"y":1773,"width":558,"height":133},
@@ -31,9 +30,10 @@
 		{"id":"22868ad161939896","type":"text","text":"### WSI List\n\n**Purpose**: to monitor each instruction added, amended by number of revision, and completed\n**Status**: WIP/ Completed\n\n```\nSELECT eWSI_ID, Module_ID, eIM_ID\n, SalesOrder, Revision, CreatedDate, CreatedBy, RequiredDate, RequiredBy, SignDate, SignBy\nFROM [AIR].[View_WSI_Amendment_Record]\n```\n\n```\nSELECT [WSI ID], [ModuleID], [Engine SN], [Engine / Module SN], [Customer], [Engine Type], [Status]\nFROM [AIR].[View_WSI_attachment]\n```\n\n### Combination\n#### full picture on WSI with all indication\n```\nSELECT a.[Status], IIF(r.Revision > 1, 'AMEND', 'INITIAL') AS [IsAmend], r.eWSI_ID, r.Module_ID, r.eIM_ID  \n, r.SalesOrder, a.[Customer], a.[Engine Type], a.[Engine SN], a.[Engine / Module SN], r.Revision  \n, r.CreatedDate, r.CreatedBy, r.RequiredDate, r.RequiredBy, r.SignDate, r.SignBy \nFROM [AIR].[View_WSI_Amendment_Record] as r \nINNER JOIN [AIR].[View_WSI_attachment] as a  \nON r.eWSI_ID = a.[WSI ID] \nWHERE r.CreatedDate >= DATEADD(YEAR, -3, GETDATE())  \nORDER BY r.SalesOrder desc, r.Revision, r.Module_ID \n```\n\n#### Check how many number of module in terms of salesOrder on each revision\n```\nSELECT r.SalesOrder, a.[Customer], a.[Engine Type], a.[Engine SN], r.Revision, a.[Status], COUNT(a.[Engine SN]) AS number_module, MAX(r.CreatedDate) As last_received_date \nFROM [AIR].[View_WSI_Amendment_Record] AS r \nINNER JOIN [AIR].[View_WSI_attachment] AS a \nON r.eWSI_ID = a.[WSI ID]  \nWHERE r.CreatedDate >= DateAdd(Year, -3, GETDATE()) \nGroup BY r.SalesOrder, a.[Customer], a.[Engine Type], a.[Engine SN], r.Revision, a.[status] \nOrder BY r.SalesOrder DESC, last_received_date DESC, r.Revision;\n\n```\n","x":316,"y":1355,"width":766,"height":1232,"color":"5"},
 		{"id":"14ab93df6cdda6f0","type":"text","text":"### Master Data\n**Purpose:** to create a base data on the AIR system\n\n\n","x":316,"y":448,"width":766,"height":107,"color":"5"},
 		{"id":"5f7549a67d66100d","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151905917.jpg","x":1209,"y":957,"width":699,"height":217},
-		{"id":"77117976cf1647d8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg","x":2867,"y":954,"width":763,"height":371},
-		{"id":"c08e0582cd3bb80a","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg","x":3138,"y":1952,"width":660,"height":436},
-		{"id":"2d1e39f043bbd64b","type":"text","text":"![[Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment]]","x":1332,"y":510,"width":449,"height":261}
+		{"id":"2d1e39f043bbd64b","type":"text","text":"![[Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment]]","x":1332,"y":510,"width":449,"height":261},
+		{"id":"77117976cf1647d8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg","x":2867,"y":996,"width":763,"height":371},
+		{"id":"c08e0582cd3bb80a","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg","x":3112,"y":1900,"width":660,"height":436},
+		{"id":"309a96656dc3f8c8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg","x":3978,"y":1071,"width":254,"height":541}
 	],
 	"edges":[
 		{"id":"6a2806ec8b319593","fromNode":"56f1280e7bf1bd61","fromSide":"right","toNode":"2631e9cc1ef9c86b","toSide":"left"},
@@ -51,6 +51,6 @@
 		{"id":"6cd295bd9dfef85a","fromNode":"5f7549a67d66100d","fromSide":"right","toNode":"77117976cf1647d8","toSide":"left"},
 		{"id":"92f7f525c89a3042","fromNode":"77117976cf1647d8","fromSide":"right","toNode":"309a96656dc3f8c8","toSide":"left"},
 		{"id":"7140d42457530800","fromNode":"992cc60eae0a42f3","fromSide":"right","toNode":"309a96656dc3f8c8","toSide":"left"},
-		{"id":"afe267628a30c6a0","fromNode":"992cc60eae0a42f3","fromSide":"bottom","toNode":"c08e0582cd3bb80a","toSide":"top"}
+		{"id":"2b76356f9a11468f","fromNode":"992cc60eae0a42f3","fromSide":"bottom","toNode":"c08e0582cd3bb80a","toSide":"top"}
 	]
 }
