@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2520b81c40db696e",
+        "id": "fbc02db806f710fd",
         "type": "tabs",
         "children": [
           {
-            "id": "b1597c2463bb442e",
+            "id": "3b29457680766e34",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,12 +69,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "b3889958a5b17040",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 655.5
   },
   "right": {
     "id": "1277464457d96220",
@@ -201,6 +212,6 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "b1597c2463bb442e",
+  "active": "b3889958a5b17040",
   "lastOpenFiles": []
 }
