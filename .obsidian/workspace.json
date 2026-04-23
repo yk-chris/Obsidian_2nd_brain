@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "fbc02db806f710fd",
+        "id": "a5deae3521c71337",
         "type": "tabs",
         "children": [
           {
-            "id": "3b29457680766e34",
+            "id": "c49fc1088697bd50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
+          },
+          {
+            "id": "d71d2425dbfd2d43",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
             }
           }
         ]
@@ -85,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 655.5
+    "width": 588.5
   },
   "right": {
     "id": "1277464457d96220",
@@ -188,30 +203,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
-      "claudian:Open Claudian": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "tasknotes:Open mini calendar view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "random-note:Open random note": true,
+      "bases:Create new base": true,
+      "claudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": true,
+      "tasknotes:Open mini calendar view": true,
       "tasknotes:Open calendar view": false,
-      "tasknotes:Open tasks view": false,
-      "tasknotes:Open agenda view": false,
+      "tasknotes:Open tasks view": true,
+      "tasknotes:Open agenda view": true,
       "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro timer": false,
-      "tasknotes:Open pomodoro statistics": false,
-      "tasknotes:Create new task": false,
-      "marp:Marp: Open Preview": false,
-      "notebook-navigator:Notebook Navigator": false
+      "tasknotes:Open pomodoro timer": true,
+      "tasknotes:Open pomodoro statistics": true,
+      "tasknotes:Create new task": true,
+      "marp:Marp: Open Preview": true,
+      "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "b3889958a5b17040",
-  "lastOpenFiles": []
+  "active": "c49fc1088697bd50",
+  "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
+    "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
+  ]
 }

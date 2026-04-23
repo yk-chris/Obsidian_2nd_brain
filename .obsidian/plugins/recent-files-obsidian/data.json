@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
+      "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
+      "path": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
+    },
+    {
+      "basename": "mini-calendar-default",
+      "path": "TaskNotes/Views/mini-calendar-default.base"
+    },
+    {
+      "basename": "calendar-default",
+      "path": "TaskNotes/Views/calendar-default.base"
+    },
+    {
+      "basename": "agenda-default",
+      "path": "TaskNotes/Views/agenda-default.base"
+    },
+    {
+      "basename": "streamer_feedback_review (Task Owner)",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md"
+    },
+    {
       "basename": "Excalidraw_2026-04-16_.AI Agent",
       "path": "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
     },
@@ -17,24 +45,12 @@
       "path": "Excalidraw/Scripts/Downloaded/Slideshow.md"
     },
     {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
-    },
-    {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
     },
     {
-      "basename": "streamer_feedback_review (Task Owner)",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md"
-    },
-    {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
-      "path": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
     },
     {
       "basename": "MoM_2026-04-15 streamer_off-module",
@@ -103,10 +119,6 @@
     {
       "basename": "WSI_outstanding_BI",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
     },
     {
       "basename": "2026-04-21",
@@ -187,18 +199,6 @@
     {
       "basename": "prompt-check",
       "path": "(SKILLs) 技能/skill_convertor/prompt-check.md"
-    },
-    {
-      "basename": "act-Warren-Buffett",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Warren-Buffett.md"
-    },
-    {
-      "basename": "Map_invest_skills",
-      "path": "(SKILLs) 技能/Map_invest_skills.canvas"
-    },
-    {
-      "basename": "file-20260411125320315",
-      "path": "(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg"
     }
   ],
   "omittedPaths": [],
