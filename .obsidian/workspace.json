@@ -11,17 +11,33 @@
             "id": "c49fc1088697bd50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
               },
-              "icon": "lucide-file",
-              "title": "MoM_2026-04-23_iMRO_sentencing_BOM"
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
+            }
+          },
+          {
+            "id": "836118e643935ec1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 1978.746232579059,
+                  "y": 1236.9285978667585,
+                  "zoom": -1.3346587307999012
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,13 +233,13 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "c49fc1088697bd50",
+  "active": "836118e643935ec1",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+    "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
-    "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804756.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804764.jpg",
