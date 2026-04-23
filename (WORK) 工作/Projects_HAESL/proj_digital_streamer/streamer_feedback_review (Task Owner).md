@@ -6,7 +6,7 @@ I applied the review structure from [SKILL_feedback_review.docx](https://haesl-m
 
 **Main concern:** Users cannot efficiently identify, filter, or focus on the tasks that require action, and key task/context information is not sufficiently visible on list or edit screens.  
 **Included items:** 2, 6, 7, 9, 20, 26, 30, 31, 32, 35, 36, 38, 39, 40  
-**Consolidated comment:** Feedback in this group indicates that the current task views and search/filter functions do not give users a fast, action-oriented way to identify outstanding work. Common requests include showing key identifiers such as task name, ESN/MSN, S/O, owner, and status directly on task-related pages; improving “My Tasks” so it highlights only outstanding or delayed work; expanding filter options (for example status, WIP, unlimited duration, saved filters, quick filters, due reports, and module serial number search); and improving sort behavior and visual cues such as due-date highlighting.  
+**Consolidated comment:** Feedback in this group indicates that the current task views and ==search/filter functions== do not give users a fast, action-oriented way to identify outstanding work. Common requests include showing key identifiers such as task name, ESN/MSN, S/O, owner, and status directly on task-related pages; improving “My Tasks” so it highlights only outstanding or delayed work; expanding filter options (for example status, WIP, unlimited duration, saved filters, quick filters, due reports, and module serial number search); and improving sort behavior and visual cues such as due-date highlighting.  
 **Classification:** **Usability Improvement** 
 
 ---
