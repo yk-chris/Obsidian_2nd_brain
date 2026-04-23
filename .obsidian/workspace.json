@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa5ecff044c43551",
+        "id": "7ce5dfb3ffb4590a",
         "type": "tabs",
         "children": [
           {
-            "id": "c52b6e7f515daf55",
+            "id": "3bad680d94f3fc83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 607.5,
-    "collapsed": true
+    "width": 607.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -260,7 +259,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "c52b6e7f515daf55",
+  "active": "3bad680d94f3fc83",
   "lastOpenFiles": [
     "Untitled.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
