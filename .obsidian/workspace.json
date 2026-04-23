@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13169607bbda8c44",
+            "id": "52d0bf79a7251f0c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification"
+              "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
             }
           },
           {
@@ -27,9 +27,9 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 1126.0219655707538,
-                  "y": -47.404880645021876,
-                  "zoom": -1.3960758913979505
+                  "x": 675.9760444590362,
+                  "y": 1142.4004707471215,
+                  "zoom": -0.06274255806461737
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -37,15 +37,17 @@
             }
           },
           {
-            "id": "52d0bf79a7251f0c",
+            "id": "f2f9eb51d1ca5c1f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_BOM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_2026-04-23_WSI_outstanding_amendment"
+              "icon": "lucide-file",
+              "title": "2026-04-23_iMRO_BOM"
             }
           }
         ],
@@ -245,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_BOM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map_Induction_WSI_workflow"
+              "title": "Outline of 2026-04-23_iMRO_BOM"
             }
           }
         ],
@@ -288,11 +290,15 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "52d0bf79a7251f0c",
+  "active": "f2f9eb51d1ca5c1f",
   "lastOpenFiles": [
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_BOM.md",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_BOM",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_BOM/file-20260423091739071.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23",
     "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-22.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg",
@@ -330,15 +336,11 @@
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/file-20260421105618951.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161527212.jpg",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161157572.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421161100494.jpg",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/CFD08100",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/2026-04-21 Streamer feedback review (issue category)/~$file-20260421110907797.xlsx",
     "Untitled 1.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
     "(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/PROMPT_convert_mail_preinduction.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
-    "Clippings/2026/April/Clip_20260420 - 智能体社交革命：AI Agent是怎么来到你我身边的？.md",
     "(LEARN) 學習筆記/Map_原油.canvas",
     "(LEARN) 學習筆記/map_群核科技.canvas",
     "(SKILLs) 技能/Map_invest_skills.canvas",

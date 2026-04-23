@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+      "basename": "2026-04-23_iMRO_BOM",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_BOM.md"
     },
     {
       "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
@@ -11,6 +11,10 @@
     {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
+    },
+    {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
       "basename": "convert-gherkin-v2",
@@ -195,10 +199,6 @@
     {
       "basename": "identify-company",
       "path": "(SKILLs) 技能/skill_invest/identify-company.md"
-    },
-    {
-      "basename": "invest-10K-analysis-report",
-      "path": "(SKILLs) 技能/skill_invest/invest-10K-analysis-report.md"
     }
   ],
   "omittedPaths": [],
