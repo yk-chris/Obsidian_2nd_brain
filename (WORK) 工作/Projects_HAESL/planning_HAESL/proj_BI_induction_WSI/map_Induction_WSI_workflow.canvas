@@ -31,7 +31,8 @@
 		{"id":"fb8b4bb2b42a9809","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx","x":1024,"y":1674,"width":742,"height":400},
 		{"id":"77117976cf1647d8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg","x":2653,"y":615,"width":763,"height":371},
 		{"id":"992cc60eae0a42f3","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg","x":2653,"y":1024,"width":1005,"height":412},
-		{"id":"b60e98b006dfa3ef","x":1024,"y":-872,"width":445,"height":265,"type":"file","file":"Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"}
+		{"id":"b60e98b006dfa3ef","x":1024,"y":-872,"width":445,"height":265,"type":"file","file":"Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"},
+		{"id":"84c755be36796510","x":2653,"y":1475,"width":573,"height":392,"type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100459129.jpg"}
 	],
 	"edges":[
 		{"id":"6a2806ec8b319593","fromNode":"56f1280e7bf1bd61","fromSide":"right","toNode":"2631e9cc1ef9c86b","toSide":"left"},
@@ -46,6 +47,7 @@
 		{"id":"7aac50f05bc3ddf7","fromNode":"e5aec9c4ed90e82a","fromSide":"right","toNode":"55ae2194cf108716","toSide":"left"},
 		{"id":"b83ad344067eb226","fromNode":"55ae2194cf108716","fromSide":"right","toNode":"54fa154c439b397d","toSide":"left"},
 		{"id":"5d28618f0875347e","fromNode":"54fa154c439b397d","fromSide":"right","toNode":"992cc60eae0a42f3","toSide":"left"},
-		{"id":"2f1eb9ff094e249d","fromNode":"5f7549a67d66100d","fromSide":"right","toNode":"77117976cf1647d8","toSide":"left"}
+		{"id":"2f1eb9ff094e249d","fromNode":"5f7549a67d66100d","fromSide":"right","toNode":"77117976cf1647d8","toSide":"left"},
+		{"id":"523474c35b8c8dfd","fromNode":"54fa154c439b397d","fromSide":"right","toNode":"84c755be36796510","toSide":"left"}
 	]
 }

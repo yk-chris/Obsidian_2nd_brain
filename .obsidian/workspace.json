@@ -27,9 +27,9 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 2786.5871023883146,
-                  "y": 1370.7993615237829,
-                  "zoom": -1.0627425580646173
+                  "x": 3088.061395918532,
+                  "y": 1379.0657169802005,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -50,8 +50,7 @@
               "title": "2026-04-23_iMRO_sentencing_BOM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,13 +246,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "file": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map_Induction_WSI_workflow"
+              "title": "Outline of Excalidraw_2026-04-23_WSI_outstanding_amendment"
             }
           }
         ],
@@ -290,8 +289,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "8a6dd9db736fee64",
+  "active": "52d0bf79a7251f0c",
   "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100459129.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100431929.jpg",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-23_iMRO_sentencing_BOM.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423092333627.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423092001327.jpg",
@@ -299,7 +301,6 @@
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423091924066.jpg",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_BOM",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23_iMRO_sentencing_BOM/file-20260423091924068.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-23",
@@ -333,8 +334,6 @@
     "Clippings/2026/April/Clip_20260421 - 【Tesla每日快訊】 別再嘲笑「只有2台」！Tesla 默默把 Robotaxi 變成進化飛輪🔥Cybertruck變移動發電廠（2026421-2）.md",
     "Clippings/2026/April/Clip_20260421 - Claude Design 使用評測，又一批新創公司遭殃？.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-19 - Create obsidian Hotkeys.md",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553198.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-21_iMRO_integration_workshop/file-20260421150553200.jpg",
     "conflict-files-obsidian-git.md",
     "Untitled 1.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-14 Obsidian Plugin.md",
