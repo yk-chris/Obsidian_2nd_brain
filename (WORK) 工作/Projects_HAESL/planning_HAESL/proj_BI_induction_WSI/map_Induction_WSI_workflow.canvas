@@ -17,7 +17,6 @@
 		{"id":"2631e9cc1ef9c86b","type":"text","text":"(Dashboard) WSI from WIP -> Amend -> Done","x":1281,"y":-290,"width":413,"height":59,"color":"4"},
 		{"id":"eacbbf3f29b3062a","type":"text","text":"WSI - Amend? Revision > 1","x":422,"y":-383,"width":264,"height":60,"color":"#7c52e0"},
 		{"id":"64646acbe626ceef","type":"text","text":"WSI - WIP","x":295,"y":-383,"width":127,"height":60,"color":"#7c52e0"},
-		{"id":"b60e98b006dfa3ef","type":"file","file":"Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md","x":3930,"y":647,"width":445,"height":265},
 		{"id":"5f7549a67d66100d","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420151905917.jpg","x":1209,"y":707,"width":699,"height":217},
 		{"id":"55ae2194cf108716","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420153045807.jpg","x":1846,"y":1338,"width":400,"height":203},
 		{"id":"47dbd8b7ae718db9","type":"text","text":"air View_WSI_Amendment_Record","x":1846,"y":1607,"width":866,"height":50,"color":"4"},
@@ -33,7 +32,8 @@
 		{"id":"14ab93df6cdda6f0","type":"text","text":"### Master Data\n**Purpose:** to create a base data on the AIR system\n\n\n","x":316,"y":307,"width":766,"height":107,"color":"5"},
 		{"id":"309a96656dc3f8c8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg","x":4064,"y":1086,"width":176,"height":374},
 		{"id":"77117976cf1647d8","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg","x":2867,"y":816,"width":763,"height":371},
-		{"id":"84c755be36796510","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100459129.jpg","x":3176,"y":1811,"width":573,"height":392}
+		{"id":"84c755be36796510","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423100459129.jpg","x":3176,"y":1811,"width":573,"height":392},
+		{"id":"b60e98b006dfa3ef","type":"file","file":"Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md","x":1209,"y":341,"width":448,"height":251}
 	],
 	"edges":[
 		{"id":"6a2806ec8b319593","fromNode":"56f1280e7bf1bd61","fromSide":"right","toNode":"2631e9cc1ef9c86b","toSide":"left"},
