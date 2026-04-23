@@ -5,6 +5,10 @@
       "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "act-Elon-Musk",
       "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md"
-    },
-    {
-      "basename": "act-expert",
-      "path": "(SKILLs) 技能/skill_act_roles/act-expert.md"
     }
   ],
   "omittedPaths": [],
