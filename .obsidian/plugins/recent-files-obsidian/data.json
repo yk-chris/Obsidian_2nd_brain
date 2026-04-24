@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Power_BI_learning",
+      "path": "Power_BI_learning.canvas"
+    },
+    {
+      "basename": "Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know",
+      "path": "Clippings/2026/April/Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know.md"
+    },
+    {
+      "basename": "map_原油",
+      "path": "(LEARN) 學習筆記/map_原油.canvas"
+    },
+    {
       "basename": "kanban-default",
       "path": "TaskNotes/Views/kanban-default.base"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "MoM_20260417_iMRO_integration_workshop",
       "path": "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
-    },
-    {
-      "basename": "MoM_2026-04-21_iMRO_integration_workshop",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md"
-    },
-    {
-      "basename": "MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md"
-    },
-    {
-      "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
     }
   ],
   "omittedPaths": [],
