@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "2026-04-24 case_study_eTRR"
             }
+          },
+          {
+            "id": "d6c2abff563e90c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-24 MoM_iMRO"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,16 +244,20 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "836118e643935ec1",
+  "active": "d6c2abff563e90c9",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO/file-20260424091919213.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO/file-20260424091823131.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-24 case_study_eTRR.md",
+    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424082615873.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424082334175.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424082106439.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-24 case_study_eTRR.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
-    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
     "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
