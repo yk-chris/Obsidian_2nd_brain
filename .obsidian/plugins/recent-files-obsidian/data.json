@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "streamer_feedback_review (Task Owner)",
+      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md"
+    },
+    {
+      "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
+      "path": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
+    },
+    {
       "basename": "2026-04-24 MoM_iMRO (ability to correlate to TVs)",
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md"
+    },
+    {
+      "basename": "Pasted Image 20260424161818_080",
+      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260424161818_080.png"
+    },
+    {
+      "basename": "2026-04-24 case_study_eTRR (Attachment)",
+      "path": "TaskNotes/Tasks/2026-04-24 case_study_eTRR (Attachment).md"
+    },
+    {
+      "basename": "map_Induction_WSI_workflow",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
       "basename": "file-20260424100830975",
@@ -13,32 +37,16 @@
       "path": "TaskNotes/Tasks/assets/2026-04-24 case_study_eTRR (Attachment)/file-20260424150057421.jpg"
     },
     {
-      "basename": "streamer_feedback_review (Task Owner)",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md"
-    },
-    {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
     },
     {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
-    },
-    {
-      "basename": "Pasted Image 20260424161818_080",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260424161818_080.png"
     },
     {
       "basename": "Pasted Image 20260424161736_017",
       "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260424161736_017.png"
-    },
-    {
-      "basename": "2026-04-24 case_study_eTRR (Attachment)",
-      "path": "TaskNotes/Tasks/2026-04-24 case_study_eTRR (Attachment).md"
-    },
-    {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
     {
       "basename": "file-20260424145154056",
@@ -61,10 +69,6 @@
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg"
     },
     {
-      "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
-      "path": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
-    },
-    {
       "basename": "file-20260419112721913",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721913.jpg"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "calendar-default",
       "path": "TaskNotes/Views/calendar-default.base"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
     },
     {
       "basename": "file-20260424145112903",
