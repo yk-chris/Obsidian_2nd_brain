@@ -9,7 +9,7 @@
 		{"id":"e185b29882fda50d","x":1205,"y":233,"width":188,"height":60,"type":"text","text":"YOY（年增率）"},
 		{"id":"882c20e310f752dc","x":2144,"y":-63,"width":337,"height":50,"type":"text","text":"TOTALYTD(銷售額, 日期表[日期])"},
 		{"id":"424d11863e204b6d","x":1465,"y":42,"width":407,"height":50,"type":"text","text":"TOTALYTD(SELECTEDMEASURE(), 日期表[日期])"},
-		{"id":"e0b2eb73cc36487b","x":657,"y":256,"width":509,"height":433,"type":"text","text":"\n```\n-- 使用 CALENDAR 建立日期表（涵蓋所有資料年份）\nDateTable = CALENDAR(DATE(2020,1,1), DATE(2026,12,31))\n\nYear       = YEAR('DateTable'[Date])\nMonth      = MONTH('DateTable'[Date])\nMonthName  = FORMAT('DateTable'[Date], \"MMM\")\nQuarter    = \"Q\" & QUARTER('DateTable'[Date])\n```"},
+		{"id":"e0b2eb73cc36487b","x":657,"y":256,"width":548,"height":591,"type":"text","text":"\n```\n-- 使用 CALENDAR 建立日期表（涵蓋所有資料年份）\nDateTable = CALENDAR(DATE(2020,1,1), DATE(2026,12,31))\n\nYear       = YEAR('DateTable'[Date])\nMonth      = MONTH('DateTable'[Date])\nMonthName  = FORMAT('DateTable'[Date], \"MMM\")\nQuarter    = \"Q\" & QUARTER('DateTable'[Date])\n```\n\n```\n-- 在計算群組「Time Intelligence」中，建立計算項目「YTD」：\nCALCULATE(\n    SELECTEDMEASURE(),              \n    -- 自動抓取當前選中的度量值\n    DATESYTD('DateTable'[Date])\n)\n```"},
 		{"id":"b3ee68c1e150a38e","x":754,"y":166,"width":270,"height":60,"type":"text","text":"時間智能（Time Intelligence）"}
 	],
 	"edges":[
