@@ -27,9 +27,9 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 2261.01604468516,
-                  "y": 1694.5723323692296,
-                  "zoom": -1.1120707410072883
+                  "x": 1390.316811066055,
+                  "y": 76.65608793510387,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -50,7 +50,8 @@
               "title": "2026-04-24 case_study_eTRR (Attachment)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,14 +247,16 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "c49fc1088697bd50",
+  "active": "41b45799c4860834",
   "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145154056.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145112903.jpg",
+    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-24 case_study_eTRR (Attachment).md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR (Attachment)",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md",
-    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/calendar-default.base",
@@ -268,7 +271,6 @@
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830960.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830975.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR (Attachment)/file-20260424133727839.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
