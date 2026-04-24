@@ -27,26 +27,13 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 847.3168110660549,
-                  "y": 886.6560879351039,
-                  "zoom": 1.1102230246251565e-16
+                  "x": 1348.7798333034232,
+                  "y": -30.529451734787536,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "map_Induction_WSI_workflow"
-            }
-          },
-          {
-            "id": "69a52cfd59d21997",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "TaskNotes/Views/calendar-default.base",
-                "viewName": "Calendar"
-              },
-              "icon": "tasknotes-simple",
-              "title": "calendar-default"
             }
           },
           {
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,14 +247,14 @@
   },
   "active": "efa159262ef8dd32",
   "lastOpenFiles": [
-    "TaskNotes/Views/calendar-default.base",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/assets/2026-04-24 case_study_eTRR (Attachment)",
     "TaskNotes/Tasks/assets",
     "TaskNotes/Tasks/2026-04-24 case_study_eTRR (Attachment).md",
-    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145154056.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145112903.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR (Attachment)",
