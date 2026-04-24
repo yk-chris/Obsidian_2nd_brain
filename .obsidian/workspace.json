@@ -27,9 +27,9 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 745.1484023333829,
-                  "y": 46.72249383309192,
-                  "zoom": -0.3333333333333332
+                  "x": 882.9032869288651,
+                  "y": 683.1277416915882,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -48,7 +48,8 @@
               "title": "Excalidraw_streamer_clarification"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,10 +245,13 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "c49fc1088697bd50",
+  "active": "41b45799c4860834",
   "lastOpenFiles": [
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260424161818_080.png",
+    "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260424161736_017.png",
+    "Excalidraw/assets/Excalidraw_streamer_clarification",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
@@ -266,15 +270,12 @@
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830903.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830909.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830925.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830942.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830960.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
     "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
-    "(IDEAVERSE) 思維系統/2026/April/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
   ]
 }
