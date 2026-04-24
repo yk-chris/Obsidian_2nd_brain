@@ -32,9 +32,21 @@
               "icon": "lucide-file",
               "title": "2026-04-24 MoM_iMRO (ability to correlate to TVs)"
             }
+          },
+          {
+            "id": "41b45799c4860834",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_streamer_clarification"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,12 +242,14 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "d6c2abff563e90c9",
+  "active": "41b45799c4860834",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)",
+    "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-24 case_study_eTRR.md",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424093310257.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830874.jpg",
@@ -256,9 +270,7 @@
     "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
     "(IDEAVERSE) 思維系統/2026/April/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
     "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/agenda-default.base",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
   ]
 }
