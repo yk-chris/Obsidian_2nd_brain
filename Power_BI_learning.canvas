@@ -4,7 +4,7 @@
 		{"id":"a31a182790b74c1d","x":275,"y":293,"width":250,"height":50,"type":"text","text":"Calculation Group"},
 		{"id":"b3ee68c1e150a38e","x":611,"y":161,"width":250,"height":60,"type":"text","text":"time intelligence"},
 		{"id":"0ff75bc273c7b9f4","x":275,"y":343,"width":250,"height":198,"type":"text","text":"measures like sales and forecast well that multiplies very quickly and with calculation groups you just write the pattern once "},
-		{"id":"dc07eb4168c7a059","x":919,"y":72,"width":250,"height":50,"type":"text","text":"Year to Date"}
+		{"id":"dc07eb4168c7a059","x":919,"y":72,"width":250,"height":50,"type":"text","text":"Year to Date (YTD)"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
