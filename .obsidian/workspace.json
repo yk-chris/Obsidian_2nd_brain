@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,10 +258,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "efa159262ef8dd32",
+  "active": "69a52cfd59d21997",
   "lastOpenFiles": [
-    "TaskNotes/Views/calendar-default.base",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/assets/2026-04-24 case_study_eTRR (Attachment)",
     "TaskNotes/Tasks/assets",
