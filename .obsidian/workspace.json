@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa9c1de0de5c9a5a",
+        "id": "9d23be7e4f2754b5",
         "type": "tabs",
         "children": [
           {
-            "id": "863b202cb4dee9c0",
+            "id": "882b889791bfc35a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-24 MoM_iMRO (ability to correlate to TVs)"
             }
           }
         ]
@@ -212,18 +216,29 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "863b202cb4dee9c0",
+  "active": "882b889791bfc35a",
   "lastOpenFiles": [
     "TaskNotes/Views/kanban-default.base",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424093310257.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424093004488.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424082615873.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424082334175.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424082106439.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830975.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830960.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830942.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830925.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830909.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-24 case_study_eTRR.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md",
     "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804756.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804764.jpg",
-    "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804766.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/calendar-default.base",

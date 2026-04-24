@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
-      "basename": "MoM_2026-04-23_iMRO_sentencing_BOM",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md"
+      "basename": "2026-04-24 MoM_iMRO (ability to correlate to TVs)",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md"
     },
     {
       "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
       "path": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
     },
     {
-      "basename": "WSI_outstanding_BI",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "2026-04-24 case_study_eTRR",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-24 case_study_eTRR.md"
     },
     {
       "basename": "map_Induction_WSI_workflow",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    },
+    {
+      "basename": "WSI_outstanding_BI",
+      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
+    },
+    {
+      "basename": "MoM_2026-04-23_iMRO_sentencing_BOM",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md"
     },
     {
       "basename": "file-20260422154908164",
@@ -191,10 +199,6 @@
     {
       "basename": "general-tell-summary",
       "path": "(SKILLs) 技能/skill_general/general-tell-summary.md"
-    },
-    {
-      "basename": "search-news-finance",
-      "path": "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md"
     }
   ],
   "omittedPaths": [],
