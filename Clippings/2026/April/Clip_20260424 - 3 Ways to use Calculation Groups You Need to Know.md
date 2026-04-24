@@ -71,7 +71,7 @@ Thanks for being a part of this channel and all your support! 💪 🙏
 
 ### Intro
 
-**0:00** · calculation groups in powerbi are amazing they basically let you create Dex patterns that you store in calculation items and those patterns you can apply to any measure you like in this way you don't have to write that many measures you can work much more efficiently in power be now time intelligence is a very common example of how to use calculation groups but in this video I'm going to show you three ways in which you can use calculation groups that you might not have seen before let's Dive In all right now the
+**0:00** · calculation groups in powerbi are amazing they basically let you create Dex patterns that you store in calculation items and those patterns you can apply to any measure you like in this way you don't have to write that many measures you can work much more efficiently in power be now== time intelligence== is a very common example of how to use calculation groups but in this video I'm going to show you three ways in which you can use calculation groups that you might not have seen before let's Dive In all right now the
 
 **0:30** · most common example for calculation groups is time intelligence because for almost any powerbi report you need calculations like year to date or year over year or the percentage growth rate month over month and if you have to write all of these different alternatives for many different main
 
