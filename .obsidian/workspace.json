@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9d23be7e4f2754b5",
+        "id": "6a33743b0113c802",
         "type": "tabs",
         "children": [
           {
-            "id": "882b889791bfc35a",
+            "id": "1170bbb9a863b0a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-24 MoM_iMRO (ability to correlate to TVs)"
+              "title": "New tab"
             }
           }
         ]
@@ -216,8 +212,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "882b889791bfc35a",
+  "active": "1170bbb9a863b0a5",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md",
     "TaskNotes/Views/kanban-default.base",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424093310257.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 case_study_eTRR/file-20260424093004488.jpg",
@@ -232,7 +231,6 @@
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830909.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-24 case_study_eTRR.md",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md",
     "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
@@ -243,7 +241,6 @@
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/agenda-default.base",
-    "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
   ]
 }
