@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,14 +258,14 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "efa159262ef8dd32",
+  "active": "69a52cfd59d21997",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/assets/2026-04-24 case_study_eTRR (Attachment)",
     "TaskNotes/Tasks/assets",
     "TaskNotes/Tasks/2026-04-24 case_study_eTRR (Attachment).md",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145154056.jpg",
@@ -289,7 +289,6 @@
     "Excalidraw/Excalidraw_2026-04-16_.INVEST.md",
     "(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
     "(IDEAVERSE) 思維系統/2026/April/assets/MoM_2026-04-23_iMRO_sentencing_BOM",
-    "TaskNotes/Views/mini-calendar-default.base",
     "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
   ]
 }
