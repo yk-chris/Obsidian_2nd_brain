@@ -8,8 +8,8 @@
 		{"id":"e2d3b0fb7985e2da","type":"text","text":"[V:\\Customer & Planning\\Common\\Induction Plan](file:///V:/Customer%20&%20Planning/Common/Induction%20Plan)","x":-716,"y":247,"width":450,"height":60},
 		{"id":"620c84434a7d09b4","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260414120254300.jpg","x":-716,"y":327,"width":450,"height":174},
 		{"id":"127eafe3b412059d","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260417092241290.jpg","x":-132,"y":247,"width":310,"height":400},
-		{"id":"1a072d35d9056a8a","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721909.jpg","x":316,"y":-158,"width":557,"height":214},
-		{"id":"753d8f7e092f34b6","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721912.jpg","x":316,"y":87,"width":557,"height":143},
+		{"id":"1a072d35d9056a8a","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721909.jpg","x":316,"y":-158,"width":555,"height":213},
+		{"id":"753d8f7e092f34b6","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721912.jpg","x":316,"y":86,"width":555,"height":142},
 		{"id":"be9aeb715b55da2f","type":"text","text":"Standardized the induction input","x":-176,"y":-291,"width":329,"height":60},
 		{"id":"ce62329f184e754d","type":"text","text":"Engine Inducted","x":-716,"y":-383,"width":192,"height":60,"color":"#847edd"},
 		{"id":"b1b856e1d7ff922e","type":"text","text":"WSI - Completed","x":686,"y":-383,"width":185,"height":60,"color":"#7c52e0"},
@@ -35,7 +35,7 @@
 		{"id":"2d1e39f043bbd64b","type":"text","text":"![[Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment]]","x":-90,"y":-856,"width":449,"height":261},
 		{"id":"e9fb344475e0021b","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721913.jpg","x":1295,"y":296,"width":209,"height":288},
 		{"id":"9bf460aff9d96888","type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721911.jpg","x":1295,"y":96,"width":514,"height":181},
-		{"id":"5eddfb67854546fd","x":1281,"y":-196,"width":498,"height":250,"type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145154056.jpg"}
+		{"id":"5eddfb67854546fd","x":1281,"y":-196,"width":528,"height":265,"type":"file","file":"(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145154056.jpg"}
 	],
 	"edges":[
 		{"id":"6a2806ec8b319593","fromNode":"56f1280e7bf1bd61","fromSide":"right","toNode":"2631e9cc1ef9c86b","toSide":"left"},

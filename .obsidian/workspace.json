@@ -48,8 +48,7 @@
               "title": "Excalidraw_streamer_clarification"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,10 +244,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "41b45799c4860834",
+  "active": "c49fc1088697bd50",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
