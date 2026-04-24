@@ -27,9 +27,9 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 1348.7798333034232,
-                  "y": -30.529451734787536,
-                  "zoom": 1
+                  "x": 745.1484023333829,
+                  "y": 46.72249383309192,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,10 +245,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "efa159262ef8dd32",
+  "active": "41b45799c4860834",
   "lastOpenFiles": [
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
