@@ -22,11 +22,13 @@
 		{"id":"5ac34e389a2d9e3d","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425102849449.jpg","x":780,"y":2039,"width":400,"height":296},
 		{"id":"15fb68a5b8f91a16","type":"text","text":"Create measure to put the value on it","x":1263,"y":1890,"width":400,"height":126},
 		{"id":"ded40dace6763db6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103049201.jpg","x":1263,"y":2041,"width":400,"height":324},
-		{"id":"719c53a440ffd7b1","x":1825,"y":2159,"width":510,"height":353,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg"},
-		{"id":"0e0431e28a2b974c","x":2480,"y":2291,"width":549,"height":351,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103808643.jpg"},
-		{"id":"09ec4a934eba9d80","x":2480,"y":2065,"width":549,"height":226,"type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Orientation > Rotate all text 270\n- Title > Font size > 8px\n- Title > Transparency > 100%\n- Background > Off\n- Padding > 0px"},
-		{"id":"f69b3e7a64d896c1","x":3144,"y":2291,"width":457,"height":307,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104141402.jpg"},
-		{"id":"5989a568f5d1b51b","x":3144,"y":2142,"width":457,"height":149,"type":"text","text":"Multi-category layout > \n- Border > off\n- Gap > 0px"}
+		{"id":"719c53a440ffd7b1","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg","x":1825,"y":2159,"width":510,"height":353},
+		{"id":"0e0431e28a2b974c","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103808643.jpg","x":2480,"y":2291,"width":549,"height":351},
+		{"id":"09ec4a934eba9d80","type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Orientation > Rotate all text 270\n- Title > Font size > 8px\n- Title > Transparency > 100%\n- Background > Off\n- Padding > 0px","x":2480,"y":2065,"width":549,"height":226},
+		{"id":"f69b3e7a64d896c1","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104141402.jpg","x":3144,"y":2291,"width":457,"height":307},
+		{"id":"5989a568f5d1b51b","type":"text","text":"Multi-category layout > \n- Border > off\n- Gap > 0px","x":3144,"y":2142,"width":457,"height":149},
+		{"id":"f7aed640a953b0e6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104329176.jpg","x":3747,"y":2363,"width":517,"height":354},
+		{"id":"01ab3577d849b50f","x":3747,"y":2217,"width":517,"height":146,"type":"text","text":"Reference labels >"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -38,6 +40,8 @@
 		{"id":"d5a6d0b1f63b6e95","fromNode":"c551a4b7b1a25779","fromSide":"right","toNode":"5ac34e389a2d9e3d","toSide":"left"},
 		{"id":"b9782f6b662d78f2","fromNode":"5ac34e389a2d9e3d","fromSide":"right","toNode":"ded40dace6763db6","toSide":"left"},
 		{"id":"604e56eef66bfc06","fromNode":"ded40dace6763db6","fromSide":"right","toNode":"719c53a440ffd7b1","toSide":"left"},
-		{"id":"9ed0cbfb76dca1d2","fromNode":"719c53a440ffd7b1","fromSide":"right","toNode":"0e0431e28a2b974c","toSide":"left"}
+		{"id":"9ed0cbfb76dca1d2","fromNode":"719c53a440ffd7b1","fromSide":"right","toNode":"0e0431e28a2b974c","toSide":"left"},
+		{"id":"f754da1a08728108","fromNode":"0e0431e28a2b974c","fromSide":"right","toNode":"f69b3e7a64d896c1","toSide":"left"},
+		{"id":"27d895f8d51ca1dd","fromNode":"f69b3e7a64d896c1","fromSide":"right","toNode":"f7aed640a953b0e6","toSide":"left"}
 	]
 }
