@@ -15,13 +15,14 @@
 		{"id":"e916b6bf1a592f3b","type":"link","url":"https://www.youtube.com/watch?v=-GCV4LvPMW0&t=8s","x":-503,"y":1128,"width":640,"height":360},
 		{"id":"67fb345a7d1f89d2","type":"text","text":"# Navigation-bar","x":-503,"y":1061,"width":640,"height":67},
 		{"id":"4d3284e4becdb7f1","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425101811426.jpg","x":284,"y":994,"width":241,"height":513},
-		{"id":"1cd8ee8bccb49647","type":"text","text":"Multi-category layout >Layout >\n-  Style: Title\n- Arrangement: Grid","x":811,"y":1888,"width":400,"height":126},
-		{"id":"5ac34e389a2d9e3d","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425102849449.jpg","x":811,"y":2039,"width":400,"height":296},
-		{"id":"15fb68a5b8f91a16","type":"text","text":"Create measure to put the value on it","x":1389,"y":1888,"width":400,"height":126},
-		{"id":"ded40dace6763db6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103049201.jpg","x":1389,"y":2039,"width":400,"height":324},
 		{"id":"014d7556d22361e6","type":"file","file":"Clippings/2026/April/Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless.md","x":-560,"y":1923,"width":660,"height":984},
 		{"id":"c551a4b7b1a25779","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425102733300.jpg","x":293,"y":1989,"width":400,"height":346},
-		{"id":"28aabc90457ab43d","type":"text","text":"Create a KPIs table","x":293,"y":1923,"width":400,"height":60}
+		{"id":"28aabc90457ab43d","type":"text","text":"Create a KPIs table","x":293,"y":1923,"width":400,"height":60},
+		{"id":"1cd8ee8bccb49647","type":"text","text":"Multi-category layout >Layout >\n-  Style: Title\n- Arrangement: Grid","x":780,"y":1888,"width":400,"height":126},
+		{"id":"5ac34e389a2d9e3d","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425102849449.jpg","x":780,"y":2039,"width":400,"height":296},
+		{"id":"15fb68a5b8f91a16","type":"text","text":"Create measure to put the value on it","x":1263,"y":1890,"width":400,"height":126},
+		{"id":"ded40dace6763db6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103049201.jpg","x":1263,"y":2041,"width":400,"height":324},
+		{"id":"719c53a440ffd7b1","x":1836,"y":2041,"width":510,"height":353,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -31,6 +32,7 @@
 		{"id":"8893bf17347fe5e2","fromNode":"aec52697d139750d","fromSide":"right","toNode":"4d3284e4becdb7f1","toSide":"left"},
 		{"id":"038f9b5557289cd6","fromNode":"014d7556d22361e6","fromSide":"right","toNode":"c551a4b7b1a25779","toSide":"left"},
 		{"id":"d5a6d0b1f63b6e95","fromNode":"c551a4b7b1a25779","fromSide":"right","toNode":"5ac34e389a2d9e3d","toSide":"left"},
-		{"id":"b9782f6b662d78f2","fromNode":"5ac34e389a2d9e3d","fromSide":"right","toNode":"ded40dace6763db6","toSide":"left"}
+		{"id":"b9782f6b662d78f2","fromNode":"5ac34e389a2d9e3d","fromSide":"right","toNode":"ded40dace6763db6","toSide":"left"},
+		{"id":"604e56eef66bfc06","fromNode":"ded40dace6763db6","fromSide":"right","toNode":"719c53a440ffd7b1","toSide":"left"}
 	]
 }
