@@ -28,7 +28,8 @@
 		{"id":"09ec4a934eba9d80","type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Orientation > Rotate all text 270\n- Title > Font size > 8px\n- Title > Transparency > 100%\n- Background > Off\n- Padding > 0px","x":2505,"y":1194,"width":549,"height":255},
 		{"id":"5989a568f5d1b51b","type":"text","text":"Multi-category layout > \n- Border > off\n- Gap > 0px","x":3054,"y":1194,"width":522,"height":255},
 		{"id":"01ab3577d849b50f","type":"text","text":"Reference labels >\n-  Card > \"KPI value\"\n- Add label > \n\nCards > Layout > Order > Reference label, callout, image","x":3576,"y":1194,"width":517,"height":255},
-		{"id":"2dc1a3047fa16714","x":4266,"y":1621,"width":400,"height":162,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425105801678.jpg"}
+		{"id":"2dc1a3047fa16714","x":3503,"y":1963,"width":663,"height":268,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425105801678.jpg"},
+		{"id":"bb735b52a44d8a22","x":2852,"y":2016,"width":536,"height":383,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425181336472.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -41,6 +42,8 @@
 		{"id":"604e56eef66bfc06","fromNode":"ded40dace6763db6","fromSide":"right","toNode":"719c53a440ffd7b1","toSide":"left"},
 		{"id":"9ed0cbfb76dca1d2","fromNode":"719c53a440ffd7b1","fromSide":"right","toNode":"0e0431e28a2b974c","toSide":"left"},
 		{"id":"f754da1a08728108","fromNode":"0e0431e28a2b974c","fromSide":"right","toNode":"f69b3e7a64d896c1","toSide":"left"},
-		{"id":"27d895f8d51ca1dd","fromNode":"f69b3e7a64d896c1","fromSide":"right","toNode":"f7aed640a953b0e6","toSide":"left"}
+		{"id":"27d895f8d51ca1dd","fromNode":"f69b3e7a64d896c1","fromSide":"right","toNode":"f7aed640a953b0e6","toSide":"left"},
+		{"id":"d556a706a2058cb3","fromNode":"f7aed640a953b0e6","fromSide":"right","toNode":"2dc1a3047fa16714","toSide":"right"},
+		{"id":"f70559543900f7b1","fromNode":"2dc1a3047fa16714","fromSide":"left","toNode":"bb735b52a44d8a22","toSide":"right"}
 	]
 }
