@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"aec52697d139750d","type":"group","x":-523,"y":1041,"width":680,"height":467},
+		{"id":"09ec4a934eba9d80","x":2387,"y":2114,"width":250,"height":60,"type":"text","text":""},
 		{"id":"90849bb808768a01","type":"file","file":"Clippings/2026/April/Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know.md","x":-520,"y":-234,"width":674,"height":1103,"color":"#ffffff"},
 		{"id":"a31a182790b74c1d","type":"text","text":"Calculation Groups","x":275,"y":293,"width":250,"height":50},
 		{"id":"0ff75bc273c7b9f4","type":"text","text":"measures like sales and forecast well that multiplies very quickly and with calculation groups you just write the pattern once ","x":275,"y":343,"width":250,"height":198},
