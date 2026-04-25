@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Power_BI_learning",
+      "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
+    },
+    {
+      "basename": "clarify-context",
+      "path": "(SKILLs) 技能/skill_general/clarify-context.md"
+    },
+    {
       "basename": "Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南",
       "path": "Clippings/2026/April/Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "file-20260425181514542",
       "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425181514542.jpg"
-    },
-    {
-      "basename": "Power_BI_learning",
-      "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
     },
     {
       "basename": "kanban-default",
@@ -195,10 +199,6 @@
     {
       "basename": "MoM_2026-04-23_iMRO_sentencing_BOM",
       "path": "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md"
-    },
-    {
-      "basename": "file-20260423110708792",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423110708792.jpg"
     }
   ],
   "omittedPaths": [],
