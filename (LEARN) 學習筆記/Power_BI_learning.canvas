@@ -13,12 +13,14 @@
 		{"id":"e0b2eb73cc36487b","type":"text","text":"\n```\n-- 使用 CALENDAR 建立日期表（涵蓋所有資料年份）\nDateTable = CALENDAR(DATE(2020,1,1), DATE(2026,12,31))\n\nYear       = YEAR('DateTable'[Date])\nMonth      = MONTH('DateTable'[Date])\nMonthName  = FORMAT('DateTable'[Date], \"MMM\")\nQuarter    = \"Q\" & QUARTER('DateTable'[Date])\n```\n\n```\n-- 在計算群組「Time Intelligence」中，建立計算項目「YTD」：\nCALCULATE(\n    SELECTEDMEASURE(),              \n    -- 自動抓取當前選中的度量值\n    DATESYTD('DateTable'[Date])\n)\n```","x":657,"y":256,"width":548,"height":591},
 		{"id":"b3ee68c1e150a38e","type":"text","text":"時間智能（Time Intelligence）","x":754,"y":166,"width":270,"height":60},
 		{"id":"e916b6bf1a592f3b","type":"link","url":"https://www.youtube.com/watch?v=-GCV4LvPMW0&t=8s","x":-503,"y":1128,"width":640,"height":360},
-		{"id":"67fb345a7d1f89d2","type":"text","text":"# Navigation-bar","x":-503,"y":1061,"width":640,"height":67}
+		{"id":"67fb345a7d1f89d2","type":"text","text":"# Navigation-bar","x":-503,"y":1061,"width":640,"height":67},
+		{"id":"4d3284e4becdb7f1","x":284,"y":994,"width":241,"height":514,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425101811426.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
 		{"id":"9cba0ac3b843c3be","fromNode":"b3ee68c1e150a38e","fromSide":"right","toNode":"dc07eb4168c7a059","toSide":"left"},
 		{"id":"a86599eb74eee98a","fromNode":"dc07eb4168c7a059","fromSide":"right","toNode":"424d11863e204b6d","toSide":"left"},
-		{"id":"e5a55b3393144acb","fromNode":"424d11863e204b6d","fromSide":"right","toNode":"882c20e310f752dc","toSide":"left","label":"apply"}
+		{"id":"e5a55b3393144acb","fromNode":"424d11863e204b6d","fromSide":"right","toNode":"882c20e310f752dc","toSide":"left","label":"apply"},
+		{"id":"8893bf17347fe5e2","fromNode":"aec52697d139750d","fromSide":"right","toNode":"4d3284e4becdb7f1","toSide":"left"}
 	]
 }
