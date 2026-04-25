@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "invest-fundamental-analysis",
+      "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
+    },
+    {
+      "basename": "summarize",
+      "path": "(SKILLs) 技能/skill_general/summarize.md"
+    },
+    {
+      "basename": "explain-layman",
+      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
+    },
+    {
       "basename": "Power_BI_learning",
       "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
     },
@@ -91,10 +103,6 @@
     {
       "basename": "20260425_AI-遠見",
       "path": "20260425_AI-遠見.canvas"
-    },
-    {
-      "basename": "explain-layman",
-      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
     },
     {
       "basename": "invest-moat-margin-2",
@@ -191,14 +199,6 @@
     {
       "basename": "file-20260424145112903",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145112903.jpg"
-    },
-    {
-      "basename": "WSI_outstanding_BI",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md"
-    },
-    {
-      "basename": "MoM_2026-04-23_iMRO_sentencing_BOM",
-      "path": "(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md"
     }
   ],
   "omittedPaths": [],
