@@ -22,8 +22,9 @@
 		{"id":"5ac34e389a2d9e3d","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425102849449.jpg","x":780,"y":2039,"width":400,"height":296},
 		{"id":"15fb68a5b8f91a16","type":"text","text":"Create measure to put the value on it","x":1263,"y":1890,"width":400,"height":126},
 		{"id":"ded40dace6763db6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103049201.jpg","x":1263,"y":2041,"width":400,"height":324},
-		{"id":"719c53a440ffd7b1","x":1836,"y":2041,"width":510,"height":353,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg"},
-		{"id":"09ec4a934eba9d80","x":2483,"y":2174,"width":454,"height":108,"type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Orientation > Rotate all text 270\n- Title > Font\n- Title > Transparency > 100%\n"}
+		{"id":"719c53a440ffd7b1","x":1825,"y":2159,"width":510,"height":353,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg"},
+		{"id":"0e0431e28a2b974c","x":2480,"y":2291,"width":549,"height":351,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103808643.jpg"},
+		{"id":"09ec4a934eba9d80","x":2480,"y":2100,"width":549,"height":174,"type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Orientation > Rotate all text 270\n- Title > Font size > 8px\n- Title > Transparency > 100%\n- Background >"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -34,6 +35,7 @@
 		{"id":"038f9b5557289cd6","fromNode":"014d7556d22361e6","fromSide":"right","toNode":"c551a4b7b1a25779","toSide":"left"},
 		{"id":"d5a6d0b1f63b6e95","fromNode":"c551a4b7b1a25779","fromSide":"right","toNode":"5ac34e389a2d9e3d","toSide":"left"},
 		{"id":"b9782f6b662d78f2","fromNode":"5ac34e389a2d9e3d","fromSide":"right","toNode":"ded40dace6763db6","toSide":"left"},
-		{"id":"604e56eef66bfc06","fromNode":"ded40dace6763db6","fromSide":"right","toNode":"719c53a440ffd7b1","toSide":"left"}
+		{"id":"604e56eef66bfc06","fromNode":"ded40dace6763db6","fromSide":"right","toNode":"719c53a440ffd7b1","toSide":"left"},
+		{"id":"9ed0cbfb76dca1d2","fromNode":"719c53a440ffd7b1","fromSide":"right","toNode":"0e0431e28a2b974c","toSide":"left"}
 	]
 }
