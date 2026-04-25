@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"aec52697d139750d","type":"group","x":-523,"y":1041,"width":680,"height":467},
-		{"id":"09ec4a934eba9d80","x":2387,"y":2114,"width":250,"height":60,"type":"text","text":""},
 		{"id":"90849bb808768a01","type":"file","file":"Clippings/2026/April/Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know.md","x":-520,"y":-234,"width":674,"height":1103,"color":"#ffffff"},
 		{"id":"a31a182790b74c1d","type":"text","text":"Calculation Groups","x":275,"y":293,"width":250,"height":50},
 		{"id":"0ff75bc273c7b9f4","type":"text","text":"measures like sales and forecast well that multiplies very quickly and with calculation groups you just write the pattern once ","x":275,"y":343,"width":250,"height":198},
@@ -23,7 +22,8 @@
 		{"id":"5ac34e389a2d9e3d","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425102849449.jpg","x":780,"y":2039,"width":400,"height":296},
 		{"id":"15fb68a5b8f91a16","type":"text","text":"Create measure to put the value on it","x":1263,"y":1890,"width":400,"height":126},
 		{"id":"ded40dace6763db6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103049201.jpg","x":1263,"y":2041,"width":400,"height":324},
-		{"id":"719c53a440ffd7b1","x":1836,"y":2041,"width":510,"height":353,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg"}
+		{"id":"719c53a440ffd7b1","x":1836,"y":2041,"width":510,"height":353,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg"},
+		{"id":"09ec4a934eba9d80","x":2483,"y":2174,"width":454,"height":60,"type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Prient\n"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
