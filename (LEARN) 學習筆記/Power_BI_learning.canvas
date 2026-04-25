@@ -1,0 +1,135 @@
+{
+	"nodes": [
+		{
+			"id": "90849bb808768a01",
+			"x": -520,
+			"y": -234,
+			"width": 674,
+			"height": 1103,
+			"color": "#ffffff",
+			"type": "file",
+			"file": "Clippings/2026/April/Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know.md"
+		},
+		{
+			"id": "a31a182790b74c1d",
+			"x": 275,
+			"y": 293,
+			"width": 250,
+			"height": 50,
+			"type": "text",
+			"text": "Calculation Groups"
+		},
+		{
+			"id": "0ff75bc273c7b9f4",
+			"x": 275,
+			"y": 343,
+			"width": 250,
+			"height": 198,
+			"type": "text",
+			"text": "measures like sales and forecast well that multiplies very quickly and with calculation groups you just write the pattern once "
+		},
+		{
+			"id": "ebfcd8bdc3da033b",
+			"x": 438,
+			"y": -53,
+			"width": 250,
+			"height": 60,
+			"type": "text",
+			"text": "SELECTEDMEASURE()"
+		},
+		{
+			"id": "dc07eb4168c7a059",
+			"x": 1205,
+			"y": 47,
+			"width": 188,
+			"height": 50,
+			"type": "text",
+			"text": "YTD（年初至今）"
+		},
+		{
+			"id": "4f797c1a917b4ded",
+			"x": 1205,
+			"y": 136,
+			"width": 188,
+			"height": 60,
+			"type": "text",
+			"text": "MTD（月初至今）"
+		},
+		{
+			"id": "e185b29882fda50d",
+			"x": 1205,
+			"y": 233,
+			"width": 188,
+			"height": 60,
+			"type": "text",
+			"text": "YOY（年增率）"
+		},
+		{
+			"id": "882c20e310f752dc",
+			"x": 2144,
+			"y": -63,
+			"width": 337,
+			"height": 50,
+			"type": "text",
+			"text": "TOTALYTD(銷售額, 日期表[日期])"
+		},
+		{
+			"id": "424d11863e204b6d",
+			"x": 1465,
+			"y": 42,
+			"width": 407,
+			"height": 50,
+			"type": "text",
+			"text": "TOTALYTD(SELECTEDMEASURE(), 日期表[日期])"
+		},
+		{
+			"id": "e0b2eb73cc36487b",
+			"x": 657,
+			"y": 256,
+			"width": 548,
+			"height": 591,
+			"type": "text",
+			"text": "\n```\n-- 使用 CALENDAR 建立日期表（涵蓋所有資料年份）\nDateTable = CALENDAR(DATE(2020,1,1), DATE(2026,12,31))\n\nYear       = YEAR('DateTable'[Date])\nMonth      = MONTH('DateTable'[Date])\nMonthName  = FORMAT('DateTable'[Date], \"MMM\")\nQuarter    = \"Q\" & QUARTER('DateTable'[Date])\n```\n\n```\n-- 在計算群組「Time Intelligence」中，建立計算項目「YTD」：\nCALCULATE(\n    SELECTEDMEASURE(),              \n    -- 自動抓取當前選中的度量值\n    DATESYTD('DateTable'[Date])\n)\n```"
+		},
+		{
+			"id": "b3ee68c1e150a38e",
+			"x": 754,
+			"y": 166,
+			"width": 270,
+			"height": 60,
+			"type": "text",
+			"text": "時間智能（Time Intelligence）"
+		}
+	],
+	"edges": [
+		{
+			"id": "e69a2f1ae10547bf",
+			"fromNode": "a31a182790b74c1d",
+			"fromSide": "right",
+			"toNode": "b3ee68c1e150a38e",
+			"toSide": "left"
+		},
+		{
+			"id": "9cba0ac3b843c3be",
+			"fromNode": "b3ee68c1e150a38e",
+			"fromSide": "right",
+			"toNode": "dc07eb4168c7a059",
+			"toSide": "left"
+		},
+		{
+			"id": "a86599eb74eee98a",
+			"fromNode": "dc07eb4168c7a059",
+			"fromSide": "right",
+			"toNode": "424d11863e204b6d",
+			"toSide": "left"
+		},
+		{
+			"id": "e5a55b3393144acb",
+			"fromNode": "424d11863e204b6d",
+			"fromSide": "right",
+			"toNode": "882c20e310f752dc",
+			"toSide": "left",
+			"label": "apply"
+		}
+	]
+}
