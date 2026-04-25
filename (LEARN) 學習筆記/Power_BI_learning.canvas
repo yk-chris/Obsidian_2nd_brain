@@ -28,7 +28,7 @@
 		{"id":"f69b3e7a64d896c1","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104141402.jpg","x":3144,"y":2291,"width":457,"height":307},
 		{"id":"5989a568f5d1b51b","type":"text","text":"Multi-category layout > \n- Border > off\n- Gap > 0px","x":3144,"y":2142,"width":457,"height":149},
 		{"id":"f7aed640a953b0e6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104329176.jpg","x":3747,"y":2363,"width":517,"height":354},
-		{"id":"01ab3577d849b50f","x":3747,"y":2217,"width":517,"height":146,"type":"text","text":"Reference labels >"}
+		{"id":"01ab3577d849b50f","x":3747,"y":2217,"width":517,"height":146,"type":"text","text":"Reference labels >\n-  Card > \"KPI value\"\n- Add label > "}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
