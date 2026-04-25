@@ -23,7 +23,7 @@
 		{"id":"15fb68a5b8f91a16","type":"text","text":"Create measure to put the value on it","x":1263,"y":1890,"width":400,"height":126},
 		{"id":"ded40dace6763db6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103049201.jpg","x":1263,"y":2041,"width":400,"height":324},
 		{"id":"719c53a440ffd7b1","x":1836,"y":2041,"width":510,"height":353,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg"},
-		{"id":"09ec4a934eba9d80","x":2483,"y":2174,"width":454,"height":60,"type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Prient\n"}
+		{"id":"09ec4a934eba9d80","x":2483,"y":2174,"width":454,"height":108,"type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Orientation > Rotate all text 270\n- Title > Font\n- Title > Transparency > 100%\n"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
