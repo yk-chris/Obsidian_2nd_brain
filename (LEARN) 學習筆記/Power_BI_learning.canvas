@@ -27,7 +27,8 @@
 		{"id":"f7aed640a953b0e6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104329176.jpg","x":3576,"y":1444,"width":517,"height":354},
 		{"id":"09ec4a934eba9d80","type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Orientation > Rotate all text 270\n- Title > Font size > 8px\n- Title > Transparency > 100%\n- Background > Off\n- Padding > 0px","x":2505,"y":1194,"width":549,"height":255},
 		{"id":"5989a568f5d1b51b","type":"text","text":"Multi-category layout > \n- Border > off\n- Gap > 0px","x":3054,"y":1194,"width":522,"height":255},
-		{"id":"01ab3577d849b50f","type":"text","text":"Reference labels >\n-  Card > \"KPI value\"\n- Add label > \n\nCards > Layout > Order > Reference label, callout, image","x":3576,"y":1194,"width":517,"height":255}
+		{"id":"01ab3577d849b50f","type":"text","text":"Reference labels >\n-  Card > \"KPI value\"\n- Add label > \n\nCards > Layout > Order > Reference label, callout, image","x":3576,"y":1194,"width":517,"height":255},
+		{"id":"2dc1a3047fa16714","x":4266,"y":1621,"width":400,"height":162,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425105801678.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
