@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "file-20260425181336472",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425181336472.jpg"
-    },
-    {
       "basename": "Power_BI_learning",
       "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
     },
     {
-      "basename": "file-20260425105801678",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425105801678.jpg"
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
     },
     {
       "basename": "Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless",
       "path": "Clippings/2026/April/Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless.md"
+    },
+    {
+      "basename": "file-20260425181514542",
+      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425181514542.jpg"
+    },
+    {
+      "basename": "file-20260425181336472",
+      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425181336472.jpg"
+    },
+    {
+      "basename": "file-20260425105801678",
+      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425105801678.jpg"
     },
     {
       "basename": "file-20260425102849449",
@@ -91,10 +99,6 @@
     {
       "basename": "map_原油",
       "path": "(LEARN) 學習筆記/map_原油.canvas"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
     },
     {
       "basename": "streamer_feedback_review (Task Owner)",
@@ -195,10 +199,6 @@
     {
       "basename": "agenda-default",
       "path": "TaskNotes/Views/agenda-default.base"
-    },
-    {
-      "basename": "Excalidraw_2026-04-16_.AI Agent",
-      "path": "Excalidraw/Excalidraw_2026-04-16_.AI Agent.md"
     }
   ],
   "omittedPaths": [],
