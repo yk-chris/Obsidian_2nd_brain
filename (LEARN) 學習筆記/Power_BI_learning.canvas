@@ -24,8 +24,9 @@
 		{"id":"ded40dace6763db6","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103049201.jpg","x":1263,"y":2041,"width":400,"height":324},
 		{"id":"719c53a440ffd7b1","x":1825,"y":2159,"width":510,"height":353,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg"},
 		{"id":"0e0431e28a2b974c","x":2480,"y":2291,"width":549,"height":351,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103808643.jpg"},
-		{"id":"09ec4a934eba9d80","x":2480,"y":2076,"width":549,"height":215,"type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Orientation > Rotate all text 270\n- Title > Font size > 8px\n- Title > Transparency > 100%\n- Background > Off\n- Padding > "},
-		{"id":"5989a568f5d1b51b","x":3168,"y":2154,"width":457,"height":60,"type":"text","text":""}
+		{"id":"09ec4a934eba9d80","x":2480,"y":2065,"width":549,"height":226,"type":"text","text":"Category Header > \n- Layout > Position > Left\n- Title > Orientation > Rotate all text 270\n- Title > Font size > 8px\n- Title > Transparency > 100%\n- Background > Off\n- Padding > 0px"},
+		{"id":"5989a568f5d1b51b","x":3168,"y":2154,"width":457,"height":60,"type":"text","text":"Multi-category layout > Border > off"},
+		{"id":"9f1829e5676b8706","x":3168,"y":2214,"width":457,"height":313,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104036958.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
