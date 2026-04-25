@@ -5,6 +5,10 @@
       "path": "Clippings/2026/April/Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南.md"
     },
     {
+      "basename": "file-20260425181514542",
+      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425181514542.jpg"
+    },
+    {
       "basename": "Power_BI_learning",
       "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless",
       "path": "Clippings/2026/April/Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless.md"
-    },
-    {
-      "basename": "file-20260425181514542",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425181514542.jpg"
     },
     {
       "basename": "file-20260425181336472",
@@ -195,10 +195,6 @@
     {
       "basename": "file-20260422155120636",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422155120636.jpg"
-    },
-    {
-      "basename": "mini-calendar-default",
-      "path": "TaskNotes/Views/mini-calendar-default.base"
     }
   ],
   "omittedPaths": [],
