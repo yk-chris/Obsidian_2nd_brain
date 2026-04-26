@@ -5,12 +5,16 @@
       "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
     },
     {
-      "basename": "Clip_20260426 - Making DAX Easy",
-      "path": "Clippings/2026/April/Clip_20260426 - Making DAX Easy.md"
-    },
-    {
       "basename": "Power_BI_learning",
       "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
+    },
+    {
+      "basename": "file-20260426120618125",
+      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426120618125.jpg"
+    },
+    {
+      "basename": "Clip_20260426 - Making DAX Easy",
+      "path": "Clippings/2026/April/Clip_20260426 - Making DAX Easy.md"
     },
     {
       "basename": "file-20260426120015107",
@@ -195,10 +199,6 @@
     {
       "basename": "invest-enterprise-business",
       "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
-    },
-    {
-      "basename": "identify-company",
-      "path": "(SKILLs) 技能/skill_invest/identify-company.md"
     }
   ],
   "omittedPaths": [],

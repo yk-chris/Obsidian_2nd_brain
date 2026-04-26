@@ -54,7 +54,9 @@
 		{"id":"453501569c28b079","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113413752.jpg","x":2425,"y":-2385,"width":400,"height":263},
 		{"id":"c9f15bec6604ca18","x":-168,"y":-2309,"width":400,"height":209,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426115931314.jpg"},
 		{"id":"2cc67699bd3b804e","x":232,"y":-1945,"width":350,"height":145,"type":"text","text":"Calculated Column added\n- for filter options\n- for chart breakdown"},
-		{"id":"b44f92f4c5d9f211","x":288,"y":-2363,"width":400,"height":263,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426120015107.jpg"}
+		{"id":"b44f92f4c5d9f211","x":288,"y":-2363,"width":400,"height":263,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426120015107.jpg"},
+		{"id":"dc0a47b73213e3d4","x":654,"y":-1926,"width":364,"height":126,"type":"text","text":"Measure for\n- weight average"},
+		{"id":"d4fabe6e3c2fb84f","x":818,"y":-2314,"width":400,"height":220,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426120618125.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -86,6 +88,7 @@
 		{"id":"e71546a7a620a48d","fromNode":"907ae0108db34e56","fromSide":"right","toNode":"add6f740bac4db0b","toSide":"left"},
 		{"id":"332bdc9486343773","fromNode":"da4d9cfb7b8f973f","fromSide":"top","toNode":"2cc67699bd3b804e","toSide":"bottom"},
 		{"id":"cd028a869c7934f7","fromNode":"2cc67699bd3b804e","fromSide":"top","toNode":"c9f15bec6604ca18","toSide":"bottom"},
-		{"id":"fe1387fa5a3f03d4","fromNode":"2cc67699bd3b804e","fromSide":"top","toNode":"b44f92f4c5d9f211","toSide":"bottom"}
+		{"id":"fe1387fa5a3f03d4","fromNode":"2cc67699bd3b804e","fromSide":"top","toNode":"b44f92f4c5d9f211","toSide":"bottom"},
+		{"id":"0cde50c18091613f","fromNode":"dc0a47b73213e3d4","fromSide":"top","toNode":"d4fabe6e3c2fb84f","toSide":"bottom"}
 	]
 }
