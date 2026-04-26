@@ -1,10 +1,8 @@
 ---
 name: Deep Tech Business Competitive Advantage Analyzer
-description: 針對指定投資標的，以毛利率由高至低拆解各業務單元，深度分析技術
-           護城河、定價能力與未來轉型潛力。同步量化各業務單元毛利貢獻佔比，
-           識別真正的利潤引擎。
+description: 針對指定投資標的，以毛利率由高至低拆解各業務單元，深度分析技術 護城河、定價能力與未來轉型潛力。同步量化各業務單元毛利貢獻佔比， 識別真正的利潤引擎。
 version: 2.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

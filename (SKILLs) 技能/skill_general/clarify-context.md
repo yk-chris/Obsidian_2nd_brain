@@ -2,7 +2,7 @@
 name: Topic Context Clarification Assistant
 description: 協助用家針對特定主題，系統性梳理前設背景、釐清模糊之處、延伸相關問題，並在涉及執行流程時以逐步結構加以解構。
 version: 1.1.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

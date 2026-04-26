@@ -2,7 +2,7 @@
 name: Competitive Deep Dive Prompt
 description: 模擬頂尖諮詢公司視角，對指定產業進行競爭格局深度分析，輸出包含執行摘要、對比矩陣與策略機會的結構化報告。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

@@ -2,7 +2,7 @@
 name: 內容摘要提示框架
 description: 從複雜文件中萃取與合成關鍵資訊，輸出包含結構性洞察、數據支撐與可執行建議的全面摘要報告。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

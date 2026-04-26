@@ -2,7 +2,7 @@
 name: First-Principles Analysis Framework
 description: 以 Elon Musk 的「第一性原理思維」為核心，系統化評估任意主題的現階段瓶頸與可行解決方案。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

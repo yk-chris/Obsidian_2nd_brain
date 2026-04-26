@@ -2,7 +2,7 @@
 name: Adaptive Markdown Conversion Prompt
 description: 將任意內容智能轉換為結構清晰的 Markdown 文件，自動判斷適用章節並動態組織內容層次；當條件邏輯複雜時，自動引入 Gherkin 語法強化可讀性。
 version: 2.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

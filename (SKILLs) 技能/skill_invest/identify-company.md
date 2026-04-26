@@ -2,7 +2,7 @@
 name: 事件影響上市公司分析 Prompt
 description: 根據提及的事件，識別最受影響的上市公司，列出其所屬行業與市場地位，並系統化分析影響嚴重程度及正負面效果。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

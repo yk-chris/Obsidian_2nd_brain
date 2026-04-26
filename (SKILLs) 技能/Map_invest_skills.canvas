@@ -3,7 +3,7 @@
 		{"id":"a4bc7eee5a1b732b","type":"group","x":120,"y":-769,"width":720,"height":1181,"label":"search_company (know-how)"},
 		{"id":"4da5a9303d829678","type":"group","x":-640,"y":-739,"width":660,"height":1120,"label":"search_company (background)"},
 		{"id":"d62f7598231dbf63","type":"group","x":920,"y":-769,"width":591,"height":1181,"label":"evaluate_company"},
-		{"id":"52a7361399df0412","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md","x":-620,"y":-23,"width":620,"height":284},
+		{"id":"52a7361399df0412","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md","x":-620,"y":-23,"width":620,"height":284},
 		{"id":"a6087b6a36989b67","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md","x":-620,"y":-658,"width":620,"height":279},
 		{"id":"f709f0be0abce965","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (background)/invest-competitive-adv.md","x":-620,"y":-338,"width":620,"height":250},
 		{"id":"96203c27a396c11e","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md","x":140,"y":-688,"width":660,"height":320},

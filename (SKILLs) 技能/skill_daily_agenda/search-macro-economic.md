@@ -2,7 +2,7 @@
 name: 實證宏觀指標市場預測框架
 description: 以歷史回測與學術實證為基礎，篩選具統計顯著預測力的宏觀指標，系統性評估市場方向並輸出可操作的投資建議。排除純理論推導，聚焦於過往數據驗證有效的領先訊號。
 version: 2.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

@@ -2,7 +2,7 @@
 name: 多維估值比較分析框架
 description: 運用多種企業估值模型對單一投資標的進行系統性評價，量化計算各模型公允價值，並綜合判斷現價相對內在價值的高估或低估幅度。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

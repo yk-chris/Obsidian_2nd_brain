@@ -5,32 +5,172 @@
       "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
     },
     {
-      "basename": "summarize",
-      "path": "(SKILLs) 技能/skill_general/summarize.md"
+      "basename": "invest-cost-return",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
     },
     {
-      "basename": "explain-layman",
-      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
+      "basename": "act-chinese-strategy",
+      "path": "(SKILLs) 技能/skill_act_roles/act-chinese-strategy.md"
     },
     {
-      "basename": "Power_BI_learning",
-      "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
+      "basename": "act-Elon-Musk",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md"
     },
     {
-      "basename": "clarify-context",
-      "path": "(SKILLs) 技能/skill_general/clarify-context.md"
+      "basename": "act-Elon-Musk-bottleneck",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk-bottleneck.md"
     },
     {
-      "basename": "Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南",
-      "path": "Clippings/2026/April/Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南.md"
+      "basename": "act-expert",
+      "path": "(SKILLs) 技能/skill_act_roles/act-expert.md"
+    },
+    {
+      "basename": "act-McKinsey-adv",
+      "path": "(SKILLs) 技能/skill_act_roles/act-McKinsey-adv.md"
+    },
+    {
+      "basename": "act-Musk-Buffett-Navar",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Musk-Buffett-Navar.md"
+    },
+    {
+      "basename": "act-Ray-Dalio",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Ray-Dalio.md"
+    },
+    {
+      "basename": "act-Warren-Buffett",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Warren-Buffett.md"
     },
     {
       "basename": "prompt-make-v2",
       "path": "(SKILLs) 技能/skill_convertor/prompt-make-v2.md"
     },
     {
+      "basename": "convert-gherkin-v2",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md"
+    },
+    {
+      "basename": "prompt-check",
+      "path": "(SKILLs) 技能/skill_convertor/prompt-check.md"
+    },
+    {
+      "basename": "create-presentation-html",
+      "path": "(SKILLs) 技能/skill_convertor/create-presentation-html.md"
+    },
+    {
+      "basename": "convert-programming-v2",
+      "path": "(SKILLs) 技能/skill_convertor/convert-programming-v2.md"
+    },
+    {
+      "basename": "convert-gherkin",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
+    },
+    {
+      "basename": "search-news-finance",
+      "path": "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md"
+    },
+    {
+      "basename": "search-macro-economic",
+      "path": "(SKILLs) 技能/skill_daily_agenda/search-macro-economic.md"
+    },
+    {
+      "basename": "search-commodity-futures-2",
+      "path": "(SKILLs) 技能/skill_daily_agenda/search-commodity-futures-2.md"
+    },
+    {
+      "basename": "summarize",
+      "path": "(SKILLs) 技能/skill_general/summarize.md"
+    },
+    {
+      "basename": "general-tell-summary",
+      "path": "(SKILLs) 技能/skill_general/general-tell-summary.md"
+    },
+    {
+      "basename": "general-tell-insight",
+      "path": "(SKILLs) 技能/skill_general/general-tell-insight.md"
+    },
+    {
+      "basename": "general-proofread-paraphrase",
+      "path": "(SKILLs) 技能/skill_general/general-proofread-paraphrase.md"
+    },
+    {
+      "basename": "general-ask-questions",
+      "path": "(SKILLs) 技能/skill_general/general-ask-questions.md"
+    },
+    {
+      "basename": "general-answer-questions",
+      "path": "(SKILLs) 技能/skill_general/general-answer-questions.md"
+    },
+    {
+      "basename": "fact-check",
+      "path": "(SKILLs) 技能/skill_general/fact-check.md"
+    },
+    {
+      "basename": "explain-layman",
+      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
+    },
+    {
+      "basename": "event-timeline",
+      "path": "(SKILLs) 技能/skill_general/event-timeline.md"
+    },
+    {
+      "basename": "clarify-context",
+      "path": "(SKILLs) 技能/skill_general/clarify-context.md"
+    },
+    {
+      "basename": "invest-moat-margin-v2",
+      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
+    },
+    {
+      "basename": "invest-production-factors-v1.2.0",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
+    },
+    {
+      "basename": "invest-enterprise-business",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
+    },
+    {
+      "basename": "identify-company",
+      "path": "(SKILLs) 技能/skill_invest/identify-company.md"
+    },
+    {
+      "basename": "invest-10K-analysis-report",
+      "path": "(SKILLs) 技能/skill_invest/invest-10K-analysis-report.md"
+    },
+    {
       "basename": "invest-IPO",
       "path": "(SKILLs) 技能/skill_invest/invest-IPO.md"
+    },
+    {
+      "basename": "invest-news",
+      "path": "(SKILLs) 技能/skill_invest/invest-news.md"
+    },
+    {
+      "basename": "invest-stock-valuation",
+      "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
+      "basename": "trading-arbitrage-emotion",
+      "path": "(SKILLs) 技能/skill_invest/evaluate_company/trading-arbitrage-emotion.md"
+    },
+    {
+      "basename": "trading-divergence",
+      "path": "(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md"
+    },
+    {
+      "basename": "dive-deep-bottlenecks",
+      "path": "(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
+    },
+    {
+      "basename": "invest-competitive-adv",
+      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-competitive-adv.md"
+    },
+    {
+      "basename": "Power_BI_learning",
+      "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
+    },
+    {
+      "basename": "Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南",
+      "path": "Clippings/2026/April/Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南.md"
     },
     {
       "basename": "file-20260425181514542",
@@ -59,146 +199,6 @@
     {
       "basename": "file-20260425101811426",
       "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425101811426.jpg"
-    },
-    {
-      "basename": "file-20260425104141402",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104141402.jpg"
-    },
-    {
-      "basename": "file-20260425104329176",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104329176.jpg"
-    },
-    {
-      "basename": "file-20260425103808643",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103808643.jpg"
-    },
-    {
-      "basename": "file-20260425104036958",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425104036958.jpg"
-    },
-    {
-      "basename": "file-20260425103306296",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103306296.jpg"
-    },
-    {
-      "basename": "file-20260425103415540",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103415540.jpg"
-    },
-    {
-      "basename": "file-20260425103049201",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425103049201.jpg"
-    },
-    {
-      "basename": "file-20260425102733300",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425102733300.jpg"
-    },
-    {
-      "basename": "calendar-default",
-      "path": "TaskNotes/Views/calendar-default.base"
-    },
-    {
-      "basename": "2026-04-25",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-25.md"
-    },
-    {
-      "basename": "20260425_AI-遠見",
-      "path": "20260425_AI-遠見.canvas"
-    },
-    {
-      "basename": "invest-moat-margin-2",
-      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-2.md"
-    },
-    {
-      "basename": "event-timeline",
-      "path": "(SKILLs) 技能/skill_general/event-timeline.md"
-    },
-    {
-      "basename": "dive-deep-bottlenecks",
-      "path": "(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
-    },
-    {
-      "basename": "Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know",
-      "path": "Clippings/2026/April/Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know.md"
-    },
-    {
-      "basename": "map_原油",
-      "path": "(LEARN) 學習筆記/map_原油.canvas"
-    },
-    {
-      "basename": "streamer_feedback_review (Task Owner)",
-      "path": "(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md"
-    },
-    {
-      "basename": "Excalidraw_2026-04-23_WSI_outstanding_amendment",
-      "path": "Excalidraw/Excalidraw_2026-04-23_WSI_outstanding_amendment.md"
-    },
-    {
-      "basename": "2026-04-24 MoM_iMRO (ability to correlate to TVs)",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md"
-    },
-    {
-      "basename": "Pasted Image 20260424161818_080",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260424161818_080.png"
-    },
-    {
-      "basename": "2026-04-24 case_study_eTRR (Attachment)",
-      "path": "TaskNotes/Tasks/2026-04-24 case_study_eTRR (Attachment).md"
-    },
-    {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
-    },
-    {
-      "basename": "file-20260424100830975",
-      "path": "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-24 MoM_iMRO (ability to correlate to TVs)/file-20260424100830975.jpg"
-    },
-    {
-      "basename": "file-20260424150057421",
-      "path": "TaskNotes/Tasks/assets/2026-04-24 case_study_eTRR (Attachment)/file-20260424150057421.jpg"
-    },
-    {
-      "basename": "Excalidraw_streamer_clarification",
-      "path": "Excalidraw/Excalidraw_streamer_clarification.md"
-    },
-    {
-      "basename": "Excalidraw_streamer_clarification",
-      "path": "Excalidraw/Excalidraw_streamer_clarification.md"
-    },
-    {
-      "basename": "Pasted Image 20260424161736_017",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260424161736_017.png"
-    },
-    {
-      "basename": "file-20260424145154056",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145154056.jpg"
-    },
-    {
-      "basename": "file-20260419112721911",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721911.jpg"
-    },
-    {
-      "basename": "file-20260424162545855",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424162545855.jpg"
-    },
-    {
-      "basename": "file-20260422154908164",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260422154908164.jpg"
-    },
-    {
-      "basename": "file-20260423112452959",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260423112452959.jpg"
-    },
-    {
-      "basename": "file-20260419112721913",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721913.jpg"
-    },
-    {
-      "basename": "file-20260419112721912",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721912.jpg"
-    },
-    {
-      "basename": "file-20260424145112903",
-      "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260424145112903.jpg"
     }
   ],
   "omittedPaths": [],
