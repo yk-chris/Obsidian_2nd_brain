@@ -446,7 +446,23 @@
     ]
   },
   "customVaultName": "",
-  "pinnedNotes": {},
+  "pinnedNotes": {
+    "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "(SKILLs) 技能/skill_general/explain-layman.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    }
+  },
   "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},

@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Map_invest_skills",
+      "path": "(SKILLs) 技能/Map_invest_skills.canvas"
+    },
+    {
       "basename": "invest-fundamental-analysis",
       "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
     },
     {
+      "basename": "dive-deep-bottlenecks",
+      "path": "(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
+    },
+    {
       "basename": "Power_BI_learning",
       "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
+    },
+    {
+      "basename": "summarize",
+      "path": "(SKILLs) 技能/skill_general/summarize.md"
+    },
+    {
+      "basename": "invest-cost-return",
+      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
     },
     {
       "basename": "file-20260426120618125",
@@ -77,10 +93,6 @@
       "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426112709630.jpg"
     },
     {
-      "basename": "invest-cost-return",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
-    },
-    {
       "basename": "act-chinese-strategy",
       "path": "(SKILLs) 技能/skill_act_roles/act-chinese-strategy.md"
     },
@@ -149,10 +161,6 @@
       "path": "(SKILLs) 技能/skill_daily_agenda/search-commodity-futures-2.md"
     },
     {
-      "basename": "summarize",
-      "path": "(SKILLs) 技能/skill_general/summarize.md"
-    },
-    {
       "basename": "general-tell-summary",
       "path": "(SKILLs) 技能/skill_general/general-tell-summary.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "invest-moat-margin-v2",
       "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
-    },
-    {
-      "basename": "invest-production-factors-v1.2.0",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
-    },
-    {
-      "basename": "invest-enterprise-business",
-      "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
     }
   ],
   "omittedPaths": [],
