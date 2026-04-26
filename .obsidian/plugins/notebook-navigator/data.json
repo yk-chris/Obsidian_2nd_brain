@@ -574,6 +574,10 @@
     },
     "(LEARN) 學習筆記": {
       "groupBy": "folder"
+    },
+    "(FINANCE) 財務筆記/TA技術分析": {
+      "groupBy": "folder",
+      "mode": "compact"
     }
   },
   "tagIcons": {},
