@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "invest-fundamental-analysis",
-      "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
-    },
-    {
-      "basename": "invest-stock-valuation",
-      "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+      "basename": "Map_invest_skills",
+      "path": "(SKILLs) 技能/Map_invest_skills.canvas"
     },
     {
       "basename": "2026-04-26 週期 (除了業務, 護城河)",
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-26 週期 (除了業務, 護城河).md"
     },
     {
-      "basename": "Map_invest_skills",
-      "path": "(SKILLs) 技能/Map_invest_skills.canvas"
+      "basename": "invest-fundamental-analysis",
+      "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
+    },
+    {
+      "basename": "act-Elon-Musk",
+      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md"
+    },
+    {
+      "basename": "Clip_20260416 - Karpathy's LLM Wiki - Full Beginner Setup Guide",
+      "path": "Clippings/2026/April/Clip_20260416 - Karpathy's LLM Wiki - Full Beginner Setup Guide.md"
+    },
+    {
+      "basename": "invest-stock-valuation",
+      "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
     },
     {
       "basename": "file-20260411125320315",
@@ -109,10 +117,6 @@
       "path": "(SKILLs) 技能/skill_act_roles/act-chinese-strategy.md"
     },
     {
-      "basename": "act-Elon-Musk",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md"
-    },
-    {
       "basename": "act-Elon-Musk-bottleneck",
       "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk-bottleneck.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "fact-check",
       "path": "(SKILLs) 技能/skill_general/fact-check.md"
-    },
-    {
-      "basename": "explain-layman",
-      "path": "(SKILLs) 技能/skill_general/explain-layman.md"
     }
   ],
   "omittedPaths": [],

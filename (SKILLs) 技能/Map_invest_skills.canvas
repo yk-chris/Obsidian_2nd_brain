@@ -7,13 +7,14 @@
 		{"id":"64c8d3c03247bfbd","type":"file","file":"(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md","x":940,"y":-640,"width":551,"height":250},
 		{"id":"dc99a6549b37cf8f","type":"file","file":"(SKILLs) 技能/skill_invest/evaluate_company/trading-arbitrage-emotion.md","x":940,"y":-328,"width":551,"height":267},
 		{"id":"a6087b6a36989b67","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md","x":-620,"y":-658,"width":620,"height":279},
-		{"id":"96203c27a396c11e","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md","x":140,"y":-688,"width":660,"height":320},
 		{"id":"508ce449571f628b","type":"file","file":"(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md","x":940,"y":-2,"width":551,"height":252},
-		{"id":"cdd839cd3e4b5997","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md","x":140,"y":-328,"width":660,"height":286},
-		{"id":"b56f06ffc724b691","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md","x":140,"y":12,"width":660,"height":300},
 		{"id":"52a7361399df0412","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md","x":-620,"y":-23,"width":620,"height":284},
 		{"id":"f709f0be0abce965","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (background)/invest-competitive-adv.md","x":-620,"y":-338,"width":620,"height":250},
-		{"id":"a760fc9fab3db2cc","type":"file","file":"(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg","x":-909,"y":-1212,"width":1939,"height":307}
+		{"id":"a760fc9fab3db2cc","type":"file","file":"(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg","x":-909,"y":-1212,"width":1939,"height":307},
+		{"id":"96203c27a396c11e","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md","x":140,"y":-688,"width":660,"height":320},
+		{"id":"cdd839cd3e4b5997","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md","x":140,"y":-328,"width":660,"height":286},
+		{"id":"b56f06ffc724b691","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md","x":140,"y":12,"width":660,"height":300},
+		{"id":"006aa3b39fac2849","x":-1336,"y":-707,"width":519,"height":189,"color":"6","type":"text","text":"**MVA（Minimum Viable Analysis，最小可行分析）**\n1. 業務拆解\n2. 護城河定性\n3. 週期性定位\n4. 競爭格局矩陣"}
 	],
 	"edges":[
 		{"id":"f7bc14e8b4c2b99b","fromNode":"a4bc7eee5a1b732b","fromSide":"right","toNode":"d62f7598231dbf63","toSide":"left"},
