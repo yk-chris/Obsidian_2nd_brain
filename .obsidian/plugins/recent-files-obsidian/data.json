@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "MU [4.0, 4.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [4.0, 4.5].md"
+    },
+    {
+      "basename": "00700.HK [4.0, 2.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [4.0, 2.0].md"
+    },
+    {
       "basename": "Map_invest_skills",
       "path": "(SKILLs) 技能/Map_invest_skills.canvas"
     },
     {
       "basename": "invest-fundamental-analysis",
       "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
-    },
-    {
-      "basename": "00700.HK [4.0, 2.0]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [4.0, 2.0].md"
     },
     {
       "basename": "BABA [2.8, 2.5]",
@@ -195,10 +199,6 @@
     {
       "basename": "convert-gherkin-v2",
       "path": "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md"
-    },
-    {
-      "basename": "prompt-check",
-      "path": "(SKILLs) 技能/skill_convertor/prompt-check.md"
     }
   ],
   "omittedPaths": [],
