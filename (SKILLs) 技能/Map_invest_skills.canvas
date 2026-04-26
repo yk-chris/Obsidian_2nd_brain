@@ -14,11 +14,13 @@
 		{"id":"96203c27a396c11e","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md","x":140,"y":-688,"width":660,"height":320},
 		{"id":"cdd839cd3e4b5997","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md","x":140,"y":-328,"width":660,"height":286},
 		{"id":"b56f06ffc724b691","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md","x":140,"y":12,"width":660,"height":300},
-		{"id":"006aa3b39fac2849","x":-1336,"y":-707,"width":519,"height":189,"color":"6","type":"text","text":"**MVA（Minimum Viable Analysis，最小可行分析）**\n1. 業務拆解\n2. 護城河定性\n3. 週期性定位\n4. 競爭格局矩陣"}
+		{"id":"006aa3b39fac2849","x":-1336,"y":-707,"width":519,"height":189,"color":"6","type":"text","text":"**MVA（Minimum Viable Analysis，最小可行分析）**\n1. 業務拆解\n2. 護城河定性\n3. 週期性定位\n4. 競爭格局矩陣"},
+		{"id":"54a3066969845e28","x":-2254,"y":-688,"width":733,"height":1025,"color":"6","type":"text","text":"## 模板的底層邏輯鏈條：為什麼是這五步？\n\n\n我們設計的五步驟流程：**「語法對齊 → 護城河定性 → 週期性定位 → 矩陣標記 → 快速小結」**，並不是隨機排列的，而是一套嚴密的邏輯鏈條。\n\n### 1. 語法對齊：定義衡量的尺\n\n沒有語法，就沒有比較。如果你不知道這個產業的「分母」是什麼（是靠產能利用率驅動的 EBIT，還是靠資產周轉率驅動的營收？），你根本無法進行下一步。\n\n- _例子_：在分析 HBM 時，我們發現「良率」就是它的「舉升成本」。這種語法上的映射，讓你立刻理解了 HBM 競爭的本質不是產能大戰，而是良率競賽。\n    \n\n### 2. 護城河定性：判斷超額利潤的來源\n\n在對齊語法後，我們要看的是誰能維持高於行業平均的利潤。我們將護城河分為五大類（資源、技術、生態、成本、監管）。\n\n- _思維路徑_：這家公司賺的是「辛苦錢」（低壁壘、規模競爭）還是「天賦錢」（資源壟斷、技術斷層）？\n    \n\n### 3. 週期性定位：定義獲利的時間背景\n\n護城河決定了公司「能賺多少」，而週期性決定了「什麼時候賺」。透過驅動源、長度與風險承擔者的分析，我們能判斷目前的繁榮是結構性的改變，還是只是暫時的庫存錯配。\n\n### 4. 矩陣標記：捕捉阿爾法與貝塔的張力\n\n這是全框架最精華的部分。將前兩步的得分標記在二維矩陣上。這一步讓你一眼看出，你面對的是一個「複利王」（Q1）還是「週期龍頭」（Q2）。這決定了你後續分析精力的分配。\n\n### 5. 快速小結：完成知識的「歸檔」\n\n最後一步是用標準化格式輸出。這不只是寫給別人看，更是寫給未來的自己看。一個好的小結應該能讓你一秒鐘想起：「喔，這個產業像石油，但週期比石油短，護城河更偏向技術而非資源。」"}
 	],
 	"edges":[
 		{"id":"f7bc14e8b4c2b99b","fromNode":"a4bc7eee5a1b732b","fromSide":"right","toNode":"d62f7598231dbf63","toSide":"left"},
 		{"id":"0409cb95dbc6271c","fromNode":"4da5a9303d829678","fromSide":"right","toNode":"a4bc7eee5a1b732b","toSide":"left"},
-		{"id":"59704931382a7a2a","fromNode":"566fc5744037eb19","fromSide":"right","toNode":"4da5a9303d829678","toSide":"left"}
+		{"id":"59704931382a7a2a","fromNode":"566fc5744037eb19","fromSide":"right","toNode":"4da5a9303d829678","toSide":"left"},
+		{"id":"c28558eb274c26a5","fromNode":"54a3066969845e28","fromSide":"right","toNode":"006aa3b39fac2849","toSide":"left"}
 	]
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "特斯拉 (TSLA)",
+      "path": "(FINANCE) 財務筆記/企業概要/特斯拉 (TSLA).md"
+    },
+    {
       "basename": "Map_invest_skills",
       "path": "(SKILLs) 技能/Map_invest_skills.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "general-answer-questions",
       "path": "(SKILLs) 技能/skill_general/general-answer-questions.md"
-    },
-    {
-      "basename": "fact-check",
-      "path": "(SKILLs) 技能/skill_general/fact-check.md"
     }
   ],
   "omittedPaths": [],
