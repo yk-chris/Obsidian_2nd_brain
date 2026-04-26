@@ -11,9 +11,6 @@
 		{"id":"e0b2eb73cc36487b","type":"text","text":"\n```\n-- 使用 CALENDAR 建立日期表（涵蓋所有資料年份）\nDateTable = CALENDAR(DATE(2020,1,1), DATE(2026,12,31))\n\nYear       = YEAR('DateTable'[Date])\nMonth      = MONTH('DateTable'[Date])\nMonthName  = FORMAT('DateTable'[Date], \"MMM\")\nQuarter    = \"Q\" & QUARTER('DateTable'[Date])\n```\n\n```\n-- 在計算群組「Time Intelligence」中，建立計算項目「YTD」：\nCALCULATE(\n    SELECTEDMEASURE(),              \n    -- 自動抓取當前選中的度量值\n    DATESYTD('DateTable'[Date])\n)\n```","x":657,"y":256,"width":548,"height":591},
 		{"id":"b3ee68c1e150a38e","type":"text","text":"時間智能（Time Intelligence）","x":754,"y":166,"width":270,"height":60},
 		{"id":"882c20e310f752dc","type":"text","text":"TOTALYTD(銷售額, 日期表[日期])","x":2144,"y":-63,"width":337,"height":50},
-		{"id":"e916b6bf1a592f3b","type":"link","url":"https://www.youtube.com/watch?v=-GCV4LvPMW0&t=8s","x":-2186,"y":-61,"width":640,"height":360},
-		{"id":"67fb345a7d1f89d2","type":"text","text":"# Navigation-bar","x":-2186,"y":-128,"width":640,"height":67},
-		{"id":"4d3284e4becdb7f1","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459321.jpg","x":-1399,"y":-195,"width":241,"height":513},
 		{"id":"014d7556d22361e6","type":"file","file":"Clippings/2026/April/Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless.md","x":-535,"y":1081,"width":689,"height":984},
 		{"id":"28aabc90457ab43d","type":"text","text":"Create a KPIs table","x":318,"y":1081,"width":400,"height":60},
 		{"id":"c551a4b7b1a25779","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459320.jpg","x":318,"y":1147,"width":400,"height":346},
@@ -31,9 +28,6 @@
 		{"id":"2dc1a3047fa16714","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459302.jpg","x":3503,"y":1963,"width":662,"height":268},
 		{"id":"bb735b52a44d8a22","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459300.jpg","x":2875,"y":1991,"width":536,"height":383},
 		{"id":"95b0d649f7bc2e54","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459299 1.jpg","x":318,"y":1573,"width":400,"height":337},
-		{"id":"189cff1a98895033","type":"link","url":"https://www.youtube.com/watch?v=mSn08LiATGo","x":-2186,"y":399,"width":640,"height":360},
-		{"id":"07cb412d69ad6e9d","type":"text","text":"List Slicer","x":-1408,"y":472,"width":250,"height":60},
-		{"id":"43a5544c5a0ddbdf","type":"text","text":"Button Slicer","x":-1408,"y":579,"width":250,"height":55},
 		{"id":"da4d9cfb7b8f973f","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459297.jpg","x":290,"y":-1606,"width":728,"height":581},
 		{"id":"cab0c13c79d35b14","type":"file","file":"Clippings/2026/April/Clip_20260426 - Making DAX Easy.md","x":-505,"y":-1732,"width":674,"height":1080},
 		{"id":"731a1b1e84d7fa09","type":"text","text":"Add new column on the original data model","x":1914,"y":-1542,"width":400,"height":60},
@@ -56,7 +50,15 @@
 		{"id":"2cc67699bd3b804e","type":"text","text":"Calculated Column added\n- for filter options\n- for chart breakdown","x":232,"y":-1945,"width":350,"height":145},
 		{"id":"b44f92f4c5d9f211","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459277.jpg","x":288,"y":-2363,"width":400,"height":263},
 		{"id":"dc0a47b73213e3d4","type":"text","text":"Measure for\n- weight average","x":654,"y":-1926,"width":364,"height":126},
-		{"id":"d4fabe6e3c2fb84f","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459276.jpg","x":818,"y":-2314,"width":399,"height":220}
+		{"id":"d4fabe6e3c2fb84f","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459276.jpg","x":818,"y":-2314,"width":399,"height":220},
+		{"id":"67fb345a7d1f89d2","type":"text","text":"# Navigation-bar","x":-2351,"y":-124,"width":640,"height":67},
+		{"id":"e916b6bf1a592f3b","type":"link","url":"https://www.youtube.com/watch?v=-GCV4LvPMW0&t=8s","x":-2351,"y":-57,"width":640,"height":360},
+		{"id":"189cff1a98895033","type":"link","url":"https://www.youtube.com/watch?v=mSn08LiATGo","x":-2351,"y":403,"width":640,"height":360},
+		{"id":"07cb412d69ad6e9d","type":"text","text":"List Slicer","x":-1573,"y":476,"width":250,"height":60},
+		{"id":"43a5544c5a0ddbdf","type":"text","text":"Button Slicer","x":-1573,"y":583,"width":250,"height":55},
+		{"id":"4d3284e4becdb7f1","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459321.jpg","x":-1564,"y":-191,"width":241,"height":513},
+		{"id":"8225ffc866337518","x":-2351,"y":-1552,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=VQARTnv-PcI"},
+		{"id":"faef27b7e825c624","x":-1543,"y":-1489,"width":400,"height":117,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426183801632.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -89,6 +91,7 @@
 		{"id":"332bdc9486343773","fromNode":"da4d9cfb7b8f973f","fromSide":"top","toNode":"2cc67699bd3b804e","toSide":"bottom"},
 		{"id":"cd028a869c7934f7","fromNode":"2cc67699bd3b804e","fromSide":"top","toNode":"c9f15bec6604ca18","toSide":"bottom"},
 		{"id":"fe1387fa5a3f03d4","fromNode":"2cc67699bd3b804e","fromSide":"top","toNode":"b44f92f4c5d9f211","toSide":"bottom"},
-		{"id":"0cde50c18091613f","fromNode":"dc0a47b73213e3d4","fromSide":"top","toNode":"d4fabe6e3c2fb84f","toSide":"bottom"}
+		{"id":"0cde50c18091613f","fromNode":"dc0a47b73213e3d4","fromSide":"top","toNode":"d4fabe6e3c2fb84f","toSide":"bottom"},
+		{"id":"93bd86532dd217f6","fromNode":"8225ffc866337518","fromSide":"right","toNode":"faef27b7e825c624","toSide":"left"}
 	]
 }
