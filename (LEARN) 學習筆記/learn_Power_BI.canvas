@@ -57,8 +57,16 @@
 		{"id":"07cb412d69ad6e9d","type":"text","text":"List Slicer","x":-1573,"y":476,"width":250,"height":60},
 		{"id":"43a5544c5a0ddbdf","type":"text","text":"Button Slicer","x":-1573,"y":583,"width":250,"height":55},
 		{"id":"4d3284e4becdb7f1","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459321.jpg","x":-1564,"y":-191,"width":241,"height":513},
-		{"id":"8225ffc866337518","x":-2351,"y":-1552,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=VQARTnv-PcI"},
-		{"id":"309902a4a88183ac","x":-1428,"y":-1511,"width":437,"height":168,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426183932740.jpg"}
+		{"id":"8225ffc866337518","x":-4191,"y":-1553,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=VQARTnv-PcI"},
+		{"id":"0c665fd9ae0854ca","x":-2892,"y":-1350,"width":437,"height":315,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426184123770.jpg"},
+		{"id":"e3971ea99f1dbcae","x":-2892,"y":-1479,"width":437,"height":129,"color":"6","type":"text","text":"reference label > Apply settings to >\n- Select series > {Sales}\n- Add label > {below measure}"},
+		{"id":"acc89d4ee5829ef5","x":-3403,"y":-1432,"width":400,"height":164,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426184144608.jpg"},
+		{"id":"526f01b2d9f403c9","x":-2359,"y":-1479,"width":400,"height":187,"color":"6","type":"text","text":"Reference label > Apply settings to >\n- Select series > All\n- Options > position > Right of callout\n- Title > Off"},
+		{"id":"daa31bc07126c436","x":-2359,"y":-1294,"width":400,"height":155,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426184236793.jpg"},
+		{"id":"d6353c322f4fbb1d","x":-2359,"y":-1139,"width":400,"height":158,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426184748455.jpg"},
+		{"id":"cb5b18c6eda7e1b5","x":-1847,"y":-1600,"width":437,"height":303,"color":"6","type":"text","text":"Reference label > Apply settings to \n- Select series > {Sales}\n- Detail > On\n- Data > {Last Month Sales}\n\nReference label > Apply settings to \n- Select series > All\n- Layout > columns"},
+		{"id":"c89d03e61277d5f2","x":-1847,"y":-1297,"width":437,"height":148,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426185149771.jpg"},
+		{"id":"309902a4a88183ac","x":-1847,"y":-1149,"width":437,"height":168,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426183932740.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -91,6 +99,10 @@
 		{"id":"332bdc9486343773","fromNode":"da4d9cfb7b8f973f","fromSide":"top","toNode":"2cc67699bd3b804e","toSide":"bottom"},
 		{"id":"cd028a869c7934f7","fromNode":"2cc67699bd3b804e","fromSide":"top","toNode":"c9f15bec6604ca18","toSide":"bottom"},
 		{"id":"fe1387fa5a3f03d4","fromNode":"2cc67699bd3b804e","fromSide":"top","toNode":"b44f92f4c5d9f211","toSide":"bottom"},
-		{"id":"0cde50c18091613f","fromNode":"dc0a47b73213e3d4","fromSide":"top","toNode":"d4fabe6e3c2fb84f","toSide":"bottom"}
+		{"id":"0cde50c18091613f","fromNode":"dc0a47b73213e3d4","fromSide":"top","toNode":"d4fabe6e3c2fb84f","toSide":"bottom"},
+		{"id":"48f338865f591d0c","fromNode":"8225ffc866337518","fromSide":"right","toNode":"acc89d4ee5829ef5","toSide":"left"},
+		{"id":"128c1d00291d6051","fromNode":"acc89d4ee5829ef5","fromSide":"right","toNode":"0c665fd9ae0854ca","toSide":"left"},
+		{"id":"dbf98ff9f58aecd8","fromNode":"0c665fd9ae0854ca","fromSide":"right","toNode":"daa31bc07126c436","toSide":"left"},
+		{"id":"caf7e61b11d3990a","fromNode":"daa31bc07126c436","fromSide":"right","toNode":"c89d03e61277d5f2","toSide":"left"}
 	]
 }
