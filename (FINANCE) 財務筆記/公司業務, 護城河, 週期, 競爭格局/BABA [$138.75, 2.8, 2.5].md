@@ -4,6 +4,7 @@
 
 ---
 [invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
+[BABA [$138.75]](../TA技術分析/BABA%20[$138.75].md)
 ## Step 1｜業務拆解
 
 **基準年度：FY2025（截至2025年3月31日）**  

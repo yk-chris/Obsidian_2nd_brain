@@ -1,5 +1,6 @@
 **Step 1｜業務拆解**
 [invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
+[AMZN [$251.97]](../TA技術分析/AMZN%20[$251.97].md)
 
 |業務單元|收入驅動公式|**FY2025 收入（$B）**|收入佔比%|毛利率%|毛利貢獻佔比%|核心成本項|資本密集度|
 |---|---|---|---|---|---|---|---|

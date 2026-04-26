@@ -1,7 +1,8 @@
 好的，以下是依照五步驟框架對 **ASML**（阿斯麥，Nasdaq: ASML）的完整實證研究分析。商業模式自動判定為：**資產密集型（精密製造）× 服務合約型（安裝基礎管理）混合型**。
 [invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
----
 
+---
+[ASML [EUR 842.70]](../TA技術分析/ASML%20[EUR%20842.70].md)]
 # ASML 實證研究分析
 
 ## Step 1｜業務拆解

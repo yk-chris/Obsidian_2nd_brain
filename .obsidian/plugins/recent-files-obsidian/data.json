@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "SK hynix [4.0, 4.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/SK hynix [4.0, 4.5].md"
+      "basename": "TSM [4.3, 3.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [4.3, 3.0].md"
     },
     {
-      "basename": "EWY [$172.40]",
-      "path": "(FINANCE) 財務筆記/TA技術分析/EWY [$172.40].md"
+      "basename": "RKLB [3.3, 3.2]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/RKLB [3.3, 3.2].md"
     },
     {
       "basename": "invest-stock-valuation",
       "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
+      "basename": "PLTR [4.0, 1.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [4.0, 1.5].md"
+    },
+    {
+      "basename": "AMAT [$294.67, 4.2, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMAT [$294.67, 4.2, 3.5].md"
+    },
+    {
+      "basename": "BABA [$138.75, 2.8, 2.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md"
+    },
+    {
+      "basename": "GOOGL [$264, 4.5, 2.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$264, 4.5, 2.0].md"
+    },
+    {
+      "basename": "MSFT [$4219.76, 4.8, 1.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$4219.76, 4.8, 1.5].md"
+    },
+    {
+      "basename": "ASML [EUR 842.70, 4.5, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [EUR 842.70, 4.5, 3.5].md"
+    },
+    {
+      "basename": "SK hynix [4.0, 4.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/SK hynix [4.0, 4.5].md"
+    },
+    {
+      "basename": "MU [$517, 3.3, 4.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [$517, 3.3, 4.5].md"
+    },
+    {
+      "basename": "00388.HK [$290.76, 4.0, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [$290.76, 4.0, 3.5].md"
+    },
+    {
+      "basename": "AMZN [$251.97, 4.0, 2.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMZN [$251.97, 4.0, 2.0].md"
+    },
+    {
+      "basename": "00700.HK [$620.3, 4.0, 2.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$620.3, 4.0, 2.0].md"
+    },
+    {
+      "basename": "00388.HK [$290.76]",
+      "path": "(FINANCE) 財務筆記/TA技術分析/00388.HK [$290.76].md"
+    },
+    {
+      "basename": "00700.HK [HKD 620.3]",
+      "path": "(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 620.3].md"
+    },
+    {
+      "basename": "EWY [$172.40]",
+      "path": "(FINANCE) 財務筆記/TA技術分析/EWY [$172.40].md"
     },
     {
       "basename": "Gary Chen",
@@ -23,14 +79,6 @@
     {
       "basename": "GOOGL [$264]",
       "path": "(FINANCE) 財務筆記/TA技術分析/GOOGL [$264].md"
-    },
-    {
-      "basename": "388.HK [HKD 290.76]",
-      "path": "(FINANCE) 財務筆記/TA技術分析/388.HK [HKD 290.76].md"
-    },
-    {
-      "basename": "0700.HK [HKD 620.3]",
-      "path": "(FINANCE) 財務筆記/TA技術分析/0700.HK [HKD 620.3].md"
     },
     {
       "basename": "AMZN [$251.97]",
@@ -61,56 +109,8 @@
       "path": "(FINANCE) 財務筆記/TA技術分析/MU [$517.00].md"
     },
     {
-      "basename": "TSM [4.3, 3.0]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [4.3, 3.0].md"
-    },
-    {
       "basename": "TSLA [3.5, 3.5]",
       "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSLA [3.5, 3.5].md"
-    },
-    {
-      "basename": "RKLB [3.3, 3.2]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/RKLB [3.3, 3.2].md"
-    },
-    {
-      "basename": "PLTR [4.0, 1.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [4.0, 1.5].md"
-    },
-    {
-      "basename": "MU [3.3, 4.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [3.3, 4.5].md"
-    },
-    {
-      "basename": "MSFT [4.8, 1.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [4.8, 1.5].md"
-    },
-    {
-      "basename": "GOOGL [4.5, 2.0]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [4.5, 2.0].md"
-    },
-    {
-      "basename": "BABA [2.8, 2.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [2.8, 2.5].md"
-    },
-    {
-      "basename": "ASML [4.5, 3.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [4.5, 3.5].md"
-    },
-    {
-      "basename": "AMZN [4.0, 2.0]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMZN [4.0, 2.0].md"
-    },
-    {
-      "basename": "AMAT [4.2, 3.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMAT [4.2, 3.5].md"
-    },
-    {
-      "basename": "00700.HK [4.0, 2.0]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [4.0, 2.0].md"
-    },
-    {
-      "basename": "00388.HK [4.0, 3.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [4.0, 3.5].md"
     },
     {
       "basename": "invest-fundamental-analysis",

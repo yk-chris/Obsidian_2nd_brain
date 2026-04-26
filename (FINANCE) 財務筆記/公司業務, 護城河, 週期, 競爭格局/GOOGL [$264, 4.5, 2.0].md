@@ -2,6 +2,7 @@
 
 ---
 [invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
+[GOOGL [$264]](../TA技術分析/GOOGL%20[$264].md)
 # GOOGL（Alphabet Inc.）五步驟實證框架分析
 
 **商業模式類型（自動判斷）：輕資產平台型 × 雲端服務複合型**  
