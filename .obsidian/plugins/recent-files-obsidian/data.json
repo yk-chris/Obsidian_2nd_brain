@@ -5,6 +5,10 @@
       "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
     },
     {
+      "basename": "file-20260426113413752",
+      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113413752.jpg"
+    },
+    {
       "basename": "file-20260426113253854",
       "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113253854.jpg"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "file-20260425181514542",
       "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425181514542.jpg"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
     }
   ],
   "omittedPaths": [],
