@@ -58,7 +58,7 @@
 		{"id":"43a5544c5a0ddbdf","type":"text","text":"Button Slicer","x":-1573,"y":583,"width":250,"height":55},
 		{"id":"4d3284e4becdb7f1","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426175459321.jpg","x":-1564,"y":-191,"width":241,"height":513},
 		{"id":"8225ffc866337518","x":-2351,"y":-1552,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=VQARTnv-PcI"},
-		{"id":"faef27b7e825c624","x":-1543,"y":-1489,"width":400,"height":117,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426183801632.jpg"}
+		{"id":"309902a4a88183ac","x":-1428,"y":-1511,"width":437,"height":168,"type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426183932740.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -91,7 +91,6 @@
 		{"id":"332bdc9486343773","fromNode":"da4d9cfb7b8f973f","fromSide":"top","toNode":"2cc67699bd3b804e","toSide":"bottom"},
 		{"id":"cd028a869c7934f7","fromNode":"2cc67699bd3b804e","fromSide":"top","toNode":"c9f15bec6604ca18","toSide":"bottom"},
 		{"id":"fe1387fa5a3f03d4","fromNode":"2cc67699bd3b804e","fromSide":"top","toNode":"b44f92f4c5d9f211","toSide":"bottom"},
-		{"id":"0cde50c18091613f","fromNode":"dc0a47b73213e3d4","fromSide":"top","toNode":"d4fabe6e3c2fb84f","toSide":"bottom"},
-		{"id":"93bd86532dd217f6","fromNode":"8225ffc866337518","fromSide":"right","toNode":"faef27b7e825c624","toSide":"left"}
+		{"id":"0cde50c18091613f","fromNode":"dc0a47b73213e3d4","fromSide":"top","toNode":"d4fabe6e3c2fb84f","toSide":"bottom"}
 	]
 }
