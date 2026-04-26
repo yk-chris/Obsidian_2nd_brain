@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gary Chen",
+      "path": "Gary Chen.md"
+    },
+    {
       "basename": "map_invest_skills",
       "path": "(SKILLs) 技能/map_invest_skills.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "act-Elon-Musk",
       "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md"
-    },
-    {
-      "basename": "Clip_20260416 - Karpathy's LLM Wiki - Full Beginner Setup Guide",
-      "path": "Clippings/2026/April/Clip_20260416 - Karpathy's LLM Wiki - Full Beginner Setup Guide.md"
     }
   ],
   "omittedPaths": [],
