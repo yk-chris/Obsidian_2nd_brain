@@ -479,7 +479,7 @@
   "folderBackgroundColors": {},
   "folderSortOverrides": {
     "(WORK) 工作/Projects_HAESL/planning_HAESL": "filename-asc",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭": "property-asc"
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局": "property-asc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
@@ -563,7 +563,7 @@
     "Excalidraw": {
       "titleRows": 2
     },
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭": {
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局": {
       "mode": "compact"
     }
   },
