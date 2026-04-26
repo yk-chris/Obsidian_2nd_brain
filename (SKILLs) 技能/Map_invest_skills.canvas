@@ -12,8 +12,8 @@
 		{"id":"508ce449571f628b","type":"file","file":"(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md","x":940,"y":-2,"width":551,"height":252},
 		{"id":"cdd839cd3e4b5997","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md","x":140,"y":-328,"width":660,"height":286},
 		{"id":"b56f06ffc724b691","type":"file","file":"(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md","x":140,"y":12,"width":660,"height":300},
-		{"id":"a760fc9fab3db2cc","type":"file","file":"(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg","x":-620,"y":-1224,"width":2002,"height":317},
-		{"id":"566fc5744037eb19","type":"file","file":"(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md","x":-1336,"y":-518,"width":519,"height":324}
+		{"id":"566fc5744037eb19","type":"file","file":"(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md","x":-1336,"y":-518,"width":519,"height":324},
+		{"id":"a760fc9fab3db2cc","type":"file","file":"(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg","x":-909,"y":-1212,"width":1941,"height":307}
 	],
 	"edges":[
 		{"id":"f7bc14e8b4c2b99b","fromNode":"a4bc7eee5a1b732b","fromSide":"right","toNode":"d62f7598231dbf63","toSide":"left"},

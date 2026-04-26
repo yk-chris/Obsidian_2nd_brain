@@ -5,6 +5,10 @@
       "path": "(SKILLs) 技能/Map_invest_skills.canvas"
     },
     {
+      "basename": "file-20260411125320315",
+      "path": "(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg"
+    },
+    {
       "basename": "invest-fundamental-analysis",
       "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "clarify-context",
       "path": "(SKILLs) 技能/skill_general/clarify-context.md"
-    },
-    {
-      "basename": "invest-moat-margin-v2",
-      "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
     }
   ],
   "omittedPaths": [],
