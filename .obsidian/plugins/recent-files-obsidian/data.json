@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "invest-stock-valuation",
+      "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
+      "basename": "EWY [US$172.40]",
+      "path": "(FINANCE) 財務筆記/TA技術分析/EWY [US$172.40].md"
+    },
+    {
       "basename": "Gary Chen",
       "path": "Gary Chen.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "MU [$517.00]",
       "path": "(FINANCE) 財務筆記/TA技術分析/MU [$517.00].md"
-    },
-    {
-      "basename": "invest-stock-valuation",
-      "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
     },
     {
       "basename": "TSM [4.3, 3.0]",
@@ -195,10 +199,6 @@
     {
       "basename": "特斯拉 (TSLA)",
       "path": "(FINANCE) 財務筆記/企業概要/特斯拉 (TSLA).md"
-    },
-    {
-      "basename": "act-Elon-Musk",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Elon-Musk.md"
     }
   ],
   "omittedPaths": [],
