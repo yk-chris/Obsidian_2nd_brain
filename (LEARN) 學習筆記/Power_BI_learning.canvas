@@ -33,7 +33,8 @@
 		{"id":"95b0d649f7bc2e54","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425181514542.jpg","x":318,"y":1573,"width":400,"height":337},
 		{"id":"189cff1a98895033","x":-2186,"y":399,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=mSn08LiATGo"},
 		{"id":"07cb412d69ad6e9d","type":"text","text":"List Slicer","x":-1408,"y":472,"width":250,"height":60},
-		{"id":"43a5544c5a0ddbdf","x":-1408,"y":579,"width":250,"height":55,"type":"text","text":"Button Slicer"}
+		{"id":"43a5544c5a0ddbdf","x":-1408,"y":579,"width":250,"height":55,"type":"text","text":"Button Slicer"},
+		{"id":"cab0c13c79d35b14","x":-520,"y":-1198,"width":674,"height":902,"type":"file","file":"Clippings/2026/April/Clip_20260426 - Making DAX Easy.md"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},

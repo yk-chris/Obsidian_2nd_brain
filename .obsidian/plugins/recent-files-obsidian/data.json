@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "invest-fundamental-analysis",
-      "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
+      "basename": "Power_BI_learning",
+      "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
+    },
+    {
+      "basename": "Clip_20260426 - Making DAX Easy",
+      "path": "Clippings/2026/April/Clip_20260426 - Making DAX Easy.md"
     },
     {
       "basename": "invest-cost-return",
       "path": "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+    },
+    {
+      "basename": "invest-fundamental-analysis",
+      "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
     },
     {
       "basename": "act-chinese-strategy",
@@ -165,10 +173,6 @@
       "path": "(SKILLs) 技能/skill_invest/search_company (background)/invest-competitive-adv.md"
     },
     {
-      "basename": "Power_BI_learning",
-      "path": "(LEARN) 學習筆記/Power_BI_learning.canvas"
-    },
-    {
       "basename": "Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南",
       "path": "Clippings/2026/April/Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "file-20260425102849449",
       "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425102849449.jpg"
-    },
-    {
-      "basename": "file-20260425101811426",
-      "path": "(LEARN) 學習筆記/assets/Power_BI_learning/file-20260425101811426.jpg"
     }
   ],
   "omittedPaths": [],
