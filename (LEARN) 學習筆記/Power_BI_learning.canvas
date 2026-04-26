@@ -34,14 +34,22 @@
 		{"id":"189cff1a98895033","x":-2186,"y":399,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=mSn08LiATGo"},
 		{"id":"07cb412d69ad6e9d","type":"text","text":"List Slicer","x":-1408,"y":472,"width":250,"height":60},
 		{"id":"43a5544c5a0ddbdf","x":-1408,"y":579,"width":250,"height":55,"type":"text","text":"Button Slicer"},
-		{"id":"da4d9cfb7b8f973f","x":293,"y":-1494,"width":728,"height":581,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113013543.jpg"},
-		{"id":"41ada8238a87fae8","x":1280,"y":-1494,"width":400,"height":220,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426112709630.jpg"},
-		{"id":"f38ca9f80127134a","x":1280,"y":-1153,"width":400,"height":256,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426112632762.jpg"},
-		{"id":"cab0c13c79d35b14","x":-502,"y":-1620,"width":674,"height":970,"type":"file","file":"Clippings/2026/April/Clip_20260426 - Making DAX Easy.md"},
-		{"id":"eb07c0a9387ced19","x":1827,"y":-1670,"width":400,"height":286,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113253854.jpg"},
-		{"id":"453501569c28b079","x":2338,"y":-1658,"width":400,"height":263,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113413752.jpg"},
-		{"id":"194ca548e1a9891b","x":1827,"y":-1224,"width":400,"height":327,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113620845.jpg"},
-		{"id":"b2b194d30c4b3e75","x":1827,"y":-1274,"width":400,"height":50,"type":"text","text":"Variable is constantly stated"}
+		{"id":"eb07c0a9387ced19","x":1869,"y":-2126,"width":400,"height":286,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113253854.jpg"},
+		{"id":"453501569c28b079","x":2380,"y":-2114,"width":400,"height":263,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113413752.jpg"},
+		{"id":"b2b194d30c4b3e75","x":1869,"y":-1730,"width":400,"height":50,"type":"text","text":"Variable is constantly stated"},
+		{"id":"41ada8238a87fae8","x":1266,"y":-1705,"width":400,"height":220,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426112709630.jpg"},
+		{"id":"194ca548e1a9891b","x":1869,"y":-1680,"width":400,"height":327,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113620845.jpg"},
+		{"id":"731a1b1e84d7fa09","x":1869,"y":-1271,"width":400,"height":60,"type":"text","text":"Add new column on the original data model"},
+		{"id":"9e03bcd1409ee34a","x":1869,"y":-1211,"width":400,"height":255,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426114357826.jpg"},
+		{"id":"bc857137e2edf133","x":1869,"y":-922,"width":400,"height":50,"type":"text","text":"or Iteration function like SumX"},
+		{"id":"a0e8ec676a84a5cb","x":1869,"y":-872,"width":400,"height":220,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426114543734.jpg"},
+		{"id":"f38ca9f80127134a","x":1266,"y":-1364,"width":400,"height":256,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426112632762.jpg"},
+		{"id":"907ae0108db34e56","x":1266,"y":-996,"width":400,"height":242,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426114252965.jpg"},
+		{"id":"2d5b6ac48fa2a0b4","x":1266,"y":-652,"width":400,"height":267,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426114635084.jpg"},
+		{"id":"da4d9cfb7b8f973f","x":290,"y":-1606,"width":728,"height":581,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113013543.jpg"},
+		{"id":"cab0c13c79d35b14","x":-505,"y":-1732,"width":674,"height":1080,"type":"file","file":"Clippings/2026/April/Clip_20260426 - Making DAX Easy.md"},
+		{"id":"a9aae80098a9c733","x":1869,"y":-518,"width":400,"height":219,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426114749539.jpg"},
+		{"id":"2fca2460717313cb","x":1869,"y":-578,"width":400,"height":60,"type":"text","text":"{column_new_name} = CALCULATE(SUM( ... ))"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -63,6 +71,11 @@
 		{"id":"94b5f4b5bc0ced91","fromNode":"cab0c13c79d35b14","fromSide":"right","toNode":"da4d9cfb7b8f973f","toSide":"left"},
 		{"id":"238013631b5d24e2","fromNode":"41ada8238a87fae8","fromSide":"right","toNode":"eb07c0a9387ced19","toSide":"left"},
 		{"id":"c5a981b9c71cbb7e","fromNode":"eb07c0a9387ced19","fromSide":"right","toNode":"453501569c28b079","toSide":"left"},
-		{"id":"6bbb3b1ab4b4d18d","fromNode":"f38ca9f80127134a","fromSide":"right","toNode":"194ca548e1a9891b","toSide":"left"}
+		{"id":"6bbb3b1ab4b4d18d","fromNode":"f38ca9f80127134a","fromSide":"right","toNode":"194ca548e1a9891b","toSide":"left"},
+		{"id":"969df70a4f0919d5","fromNode":"da4d9cfb7b8f973f","fromSide":"right","toNode":"907ae0108db34e56","toSide":"left"},
+		{"id":"2c1b35255a28b3b4","fromNode":"907ae0108db34e56","fromSide":"right","toNode":"9e03bcd1409ee34a","toSide":"left"},
+		{"id":"c101d28c73163152","fromNode":"907ae0108db34e56","fromSide":"right","toNode":"a0e8ec676a84a5cb","toSide":"left"},
+		{"id":"01761fdb264610b2","fromNode":"da4d9cfb7b8f973f","fromSide":"right","toNode":"2d5b6ac48fa2a0b4","toSide":"left"},
+		{"id":"8d549fa637d6e002","fromNode":"2d5b6ac48fa2a0b4","fromSide":"right","toNode":"a9aae80098a9c733","toSide":"left"}
 	]
 }
