@@ -461,6 +461,11 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},
@@ -545,7 +550,8 @@
       "groupBy": "folder"
     },
     "(FINANCE) 財務筆記": {
-      "groupBy": "folder"
+      "groupBy": "folder",
+      "mode": "compact"
     },
     "(SKILLs) 技能": {
       "groupBy": "folder",
@@ -565,6 +571,9 @@
     },
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局": {
       "mode": "compact"
+    },
+    "(LEARN) 學習筆記": {
+      "groupBy": "folder"
     }
   },
   "tagIcons": {},
