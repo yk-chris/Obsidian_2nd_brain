@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Excalidraw_streamer_clarification",
+      "path": "Excalidraw/Excalidraw_streamer_clarification.md"
+    },
+    {
       "basename": "ASML [$988.16, 4.5, 3.5]",
       "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "map_HBM",
       "path": "(LEARN) 學習筆記/map_HBM.canvas"
-    },
-    {
-      "basename": "map_群核科技",
-      "path": "(LEARN) 學習筆記/map_群核科技.canvas"
     }
   ],
   "omittedPaths": [],

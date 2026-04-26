@@ -528,7 +528,8 @@
       "groupBy": "folder"
     },
     "(FINANCE) 財務筆記": {
-      "groupBy": "folder"
+      "groupBy": "folder",
+      "mode": "compact"
     },
     "(SKILLs) 技能": {
       "groupBy": "folder",
