@@ -446,28 +446,7 @@
     ]
   },
   "customVaultName": "",
-  "pinnedNotes": {
-    "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "(SKILLs) 技能/skill_general/explain-layman.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    }
-  },
+  "pinnedNotes": {},
   "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},
@@ -483,8 +462,7 @@
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
-    "(WORK) 工作/Projects_HAESL/planning_HAESL": "filename-asc",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局": "property-asc"
+    "(WORK) 工作/Projects_HAESL/planning_HAESL": "filename-asc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
@@ -550,8 +528,7 @@
       "groupBy": "folder"
     },
     "(FINANCE) 財務筆記": {
-      "groupBy": "folder",
-      "mode": "compact"
+      "groupBy": "folder"
     },
     "(SKILLs) 技能": {
       "groupBy": "folder",
@@ -568,20 +545,6 @@
     },
     "Excalidraw": {
       "titleRows": 2
-    },
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局": {
-      "mode": "compact"
-    },
-    "(LEARN) 學習筆記": {
-      "groupBy": "folder",
-      "mode": "compact"
-    },
-    "(FINANCE) 財務筆記/TA技術分析": {
-      "groupBy": "folder",
-      "mode": "compact"
-    },
-    "(IDEAVERSE) 思維系統": {
-      "mode": "compact"
     }
   },
   "tagIcons": {},
