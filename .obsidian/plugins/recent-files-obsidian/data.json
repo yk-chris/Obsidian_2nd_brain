@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PLTR [4.0, 1.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [4.0, 1.5].md"
+    },
+    {
       "basename": "map_HBM",
       "path": "(LEARN) 學習筆記/map_HBM.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "act-expert",
       "path": "(SKILLs) 技能/skill_act_roles/act-expert.md"
-    },
-    {
-      "basename": "act-McKinsey-adv",
-      "path": "(SKILLs) 技能/skill_act_roles/act-McKinsey-adv.md"
     }
   ],
   "omittedPaths": [],
