@@ -49,7 +49,9 @@
 		{"id":"da4d9cfb7b8f973f","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113013543.jpg","x":290,"y":-1606,"width":728,"height":581},
 		{"id":"cab0c13c79d35b14","type":"file","file":"Clippings/2026/April/Clip_20260426 - Making DAX Easy.md","x":-505,"y":-1732,"width":674,"height":1080},
 		{"id":"a9aae80098a9c733","type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426114749539.jpg","x":1869,"y":-518,"width":400,"height":219},
-		{"id":"2fca2460717313cb","type":"text","text":"{column_new_name} = CALCULATE(SUM( ... ))","x":1869,"y":-578,"width":400,"height":60}
+		{"id":"2fca2460717313cb","type":"text","text":"{column_new_name} = CALCULATE(SUM( ... ))","x":1869,"y":-578,"width":400,"height":60},
+		{"id":"add6f740bac4db0b","x":2336,"y":-715,"width":400,"height":196,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426115326291.jpg"},
+		{"id":"f8fff4b082258870","x":2807,"y":-759,"width":400,"height":214,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426115243131.jpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -76,6 +78,8 @@
 		{"id":"2c1b35255a28b3b4","fromNode":"907ae0108db34e56","fromSide":"right","toNode":"9e03bcd1409ee34a","toSide":"left"},
 		{"id":"c101d28c73163152","fromNode":"907ae0108db34e56","fromSide":"right","toNode":"a0e8ec676a84a5cb","toSide":"left"},
 		{"id":"01761fdb264610b2","fromNode":"da4d9cfb7b8f973f","fromSide":"right","toNode":"2d5b6ac48fa2a0b4","toSide":"left"},
-		{"id":"8d549fa637d6e002","fromNode":"2d5b6ac48fa2a0b4","fromSide":"right","toNode":"a9aae80098a9c733","toSide":"left"}
+		{"id":"8d549fa637d6e002","fromNode":"2d5b6ac48fa2a0b4","fromSide":"right","toNode":"a9aae80098a9c733","toSide":"left"},
+		{"id":"a690a8c4b8ebe54e","fromNode":"add6f740bac4db0b","fromSide":"right","toNode":"f8fff4b082258870","toSide":"left"},
+		{"id":"e71546a7a620a48d","fromNode":"907ae0108db34e56","fromSide":"right","toNode":"add6f740bac4db0b","toSide":"left"}
 	]
 }
