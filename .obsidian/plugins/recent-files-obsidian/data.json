@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "map_HBM",
+      "path": "(LEARN) 學習筆記/map_HBM.canvas"
+    },
+    {
+      "basename": "map_原油",
+      "path": "(LEARN) 學習筆記/map_原油.canvas"
+    },
+    {
+      "basename": "map_invest_skills",
+      "path": "(SKILLs) 技能/map_invest_skills.canvas"
+    },
+    {
+      "basename": "invest-fundamental-analysis",
+      "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
+    },
+    {
+      "basename": "原油 全球分析報告",
+      "path": "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md"
+    },
+    {
+      "basename": "00388.HK [4.0, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [4.0, 3.5].md"
+    },
+    {
       "basename": "00700.HK [4.0, 2.0]",
       "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [4.0, 2.0].md"
     },
@@ -45,18 +69,6 @@
       "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/RKLB [3.3, 3.2].md"
     },
     {
-      "basename": "Map_invest_skills",
-      "path": "(SKILLs) 技能/Map_invest_skills.canvas"
-    },
-    {
-      "basename": "invest-fundamental-analysis",
-      "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
-    },
-    {
-      "basename": "00388.HK [4.0, 3.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [4.0, 3.5].md"
-    },
-    {
       "basename": "2026-04-26 週期 (除了業務, 護城河)",
       "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-26 週期 (除了業務, 護城河).md"
     },
@@ -77,8 +89,8 @@
       "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
     },
     {
-      "basename": "file-20260411125320315",
-      "path": "(SKILLs) 技能/assets/Map_invest_skills/file-20260411125320315.jpg"
+      "basename": "file-20260426171259318",
+      "path": "(SKILLs) 技能/assets/map_invest_skills/file-20260426171259318.jpg"
     },
     {
       "basename": "dive-deep-bottlenecks",
@@ -187,18 +199,6 @@
     {
       "basename": "act-Ray-Dalio",
       "path": "(SKILLs) 技能/skill_act_roles/act-Ray-Dalio.md"
-    },
-    {
-      "basename": "act-Warren-Buffett",
-      "path": "(SKILLs) 技能/skill_act_roles/act-Warren-Buffett.md"
-    },
-    {
-      "basename": "prompt-make-v2",
-      "path": "(SKILLs) 技能/skill_convertor/prompt-make-v2.md"
-    },
-    {
-      "basename": "convert-gherkin-v2",
-      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md"
     }
   ],
   "omittedPaths": [],
