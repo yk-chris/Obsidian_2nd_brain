@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "TSM [4.3, 3.0]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [4.3, 3.0].md"
+      "basename": "PLTR [$37.98, 4.0, 1.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [$37.98, 4.0, 1.5].md"
     },
     {
-      "basename": "RKLB [3.3, 3.2]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/RKLB [3.3, 3.2].md"
+      "basename": "00388.HK [$290.76, 4.0, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [$290.76, 4.0, 3.5].md"
+    },
+    {
+      "basename": "MSFT [$4219.76, 4.8, 1.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$4219.76, 4.8, 1.5].md"
+    },
+    {
+      "basename": "PLTR [$37.98]",
+      "path": "(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md"
+    },
+    {
+      "basename": "TSM [$398, 4.3, 3.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [$398, 4.3, 3.0].md"
+    },
+    {
+      "basename": "TSLA [$228.50, 3.5, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSLA [$228.50, 3.5, 3.5].md"
+    },
+    {
+      "basename": "TSM [$398]",
+      "path": "(FINANCE) 財務筆記/TA技術分析/TSM [$398].md"
+    },
+    {
+      "basename": "RKLB [$45.6, 3.3, 3.2]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/RKLB [$45.6, 3.3, 3.2].md"
     },
     {
       "basename": "invest-stock-valuation",
       "path": "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
     },
     {
-      "basename": "PLTR [4.0, 1.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [4.0, 1.5].md"
+      "basename": "RKLB [$45.6]",
+      "path": "(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md"
+    },
+    {
+      "basename": "TSLA [$228.50]",
+      "path": "(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md"
     },
     {
       "basename": "AMAT [$294.67, 4.2, 3.5]",
@@ -29,24 +57,12 @@
       "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$264, 4.5, 2.0].md"
     },
     {
-      "basename": "MSFT [$4219.76, 4.8, 1.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$4219.76, 4.8, 1.5].md"
-    },
-    {
       "basename": "ASML [EUR 842.70, 4.5, 3.5]",
       "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [EUR 842.70, 4.5, 3.5].md"
     },
     {
-      "basename": "SK hynix [4.0, 4.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/SK hynix [4.0, 4.5].md"
-    },
-    {
       "basename": "MU [$517, 3.3, 4.5]",
       "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [$517, 3.3, 4.5].md"
-    },
-    {
-      "basename": "00388.HK [$290.76, 4.0, 3.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [$290.76, 4.0, 3.5].md"
     },
     {
       "basename": "AMZN [$251.97, 4.0, 2.0]",
@@ -107,10 +123,6 @@
     {
       "basename": "MU [$517.00]",
       "path": "(FINANCE) 財務筆記/TA技術分析/MU [$517.00].md"
-    },
-    {
-      "basename": "TSLA [3.5, 3.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSLA [3.5, 3.5].md"
     },
     {
       "basename": "invest-fundamental-analysis",
@@ -187,18 +199,6 @@
     {
       "basename": "map_群核科技",
       "path": "(LEARN) 學習筆記/map_群核科技.canvas"
-    },
-    {
-      "basename": "book_原油產業全景",
-      "path": "(LEARN) 學習筆記/book_原油產業全景.md"
-    },
-    {
-      "basename": "map_原油",
-      "path": "(LEARN) 學習筆記/map_原油.canvas"
-    },
-    {
-      "basename": "原油 全球分析報告",
-      "path": "(FINANCE) 財務筆記/生產要素/原油 全球分析報告.md"
     }
   ],
   "omittedPaths": [],

@@ -2,6 +2,7 @@
 
 ---
 [invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
+[RKLB [$45.6]](../TA技術分析/RKLB%20[$45.6].md)
 # RKLB｜Universal Business Decomposition & Investment Analysis
 
 **商業模式自動判定：資產密集型 × 服務合約型（混合）**  

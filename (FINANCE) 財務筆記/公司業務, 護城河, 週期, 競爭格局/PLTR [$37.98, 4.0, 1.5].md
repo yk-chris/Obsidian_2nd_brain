@@ -2,6 +2,7 @@
 
 ---
 [invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
+[PLTR [$37.98]](../TA技術分析/PLTR%20[$37.98].md)
 # Palantir Technologies（PLTR）投資分析報告
 
 **商業模式類型：✅ 輕資產平台型（企業 AI SaaS + 政府情報軟體）**  
