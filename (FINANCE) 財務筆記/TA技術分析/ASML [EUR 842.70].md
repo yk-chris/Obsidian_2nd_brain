@@ -1,3 +1,4 @@
+[invest-stock-valuation](../../(SKILLs)%20技能/skill_invest/evaluate_company/invest-stock-valuation.md)
 ![](assets/ASML%20-EUR%20842.70-/file-20260426182937564.jpg)
 ## 加權綜合結論
 

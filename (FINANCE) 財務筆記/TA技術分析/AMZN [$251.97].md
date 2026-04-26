@@ -1,3 +1,4 @@
+[invest-stock-valuation](../../(SKILLs)%20技能/skill_invest/evaluate_company/invest-stock-valuation.md)
 以下是 AMZN（Amazon.com）的完整多維估值分析報告：
 
 ---

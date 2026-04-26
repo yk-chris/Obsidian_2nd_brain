@@ -1,7 +1,7 @@
 現在我有完整的官方數據，可以進行全面的五步驟分析。
 
 ---
-
+[invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
 # Microsoft (MSFT) — 實證研究分析框架
 
 > **商業模式自動判定：輕資產平台型（企業SaaS ＋ 雲端基礎設施）**  

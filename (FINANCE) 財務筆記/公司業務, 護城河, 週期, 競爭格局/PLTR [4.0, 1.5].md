@@ -1,7 +1,7 @@
 以下為 Palantir Technologies（NASDAQ: **PLTR**）完整五步驟結構化投資分析報告，基準期為 **FY2025（截至 2025 年 12 月 31 日）**。
 
 ---
-
+[invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
 # Palantir Technologies（PLTR）投資分析報告
 
 **商業模式類型：✅ 輕資產平台型（企業 AI SaaS + 政府情報軟體）**  

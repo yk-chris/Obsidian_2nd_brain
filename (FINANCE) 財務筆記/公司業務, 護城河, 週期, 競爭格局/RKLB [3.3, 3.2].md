@@ -1,7 +1,7 @@
 以下為 Rocket Lab USA（**RKLB**）依五步驟框架之結構化投資分析報告，所有財務數字以最新公開財報（**FY2025**，截至 2025 年 12 月 31 日）為基準。
 
 ---
-
+[invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
 # RKLB｜Universal Business Decomposition & Investment Analysis
 
 **商業模式自動判定：資產密集型 × 服務合約型（混合）**  

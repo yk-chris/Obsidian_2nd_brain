@@ -1,3 +1,4 @@
+[invest-stock-valuation](../../(SKILLs)%20技能/skill_invest/evaluate_company/invest-stock-valuation.md)
 ![](assets/AMAT%20-$294.67-/file-20260426182911288.jpg)
 圖表已生成（評分3/5，可接受）。現在整合全部分析結果輸出最終報告。
 

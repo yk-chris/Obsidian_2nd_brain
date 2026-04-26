@@ -1,3 +1,4 @@
+[invest-stock-valuation](../../(SKILLs)%20技能/skill_invest/evaluate_company/invest-stock-valuation.md)
 以下是群核科技（00068.HK）的完整多維估值分析報告，基於其 2025 年最新財務數據及上市首日（2026 年 4 月 17 日）收盤價 HKD 18.60。
 
 ---

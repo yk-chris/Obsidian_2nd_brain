@@ -4,7 +4,7 @@
 > 純晶圓代工模式（Pure-Play Foundry），收入驅動公式為 **晶圓出貨量 × 製程ASP**，固定成本高度集中於折舊攤銷，為典型資本密集型製造企業。
 
 ---
-
+[invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
 ## Step 1｜業務拆解
 
 台積電僅對外揭露平台層（HPC、智慧型手機、IoT等）收入，不公開各平台毛利率，以下毛利率係依節點ASP結構交叉估算，標註「估」。

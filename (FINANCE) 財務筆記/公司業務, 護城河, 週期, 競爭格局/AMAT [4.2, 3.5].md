@@ -1,4 +1,5 @@
 ## Step 1｜業務拆解
+[invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
 
 |業務單元|收入驅動公式|FY26Q1 收入 ($M)|收入佔比%|毛利率%|毛利貢獻佔比%|核心成本項|資本密集度|
 |---|---|---|---|---|---|---|---|

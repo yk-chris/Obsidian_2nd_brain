@@ -3,7 +3,7 @@
 **商業模式自動判定：** 輕資產平台型（電商佣金+廣告）混合資產密集型（AI雲Capex）
 
 ---
-
+[invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
 ## Step 1｜業務拆解
 
 **基準年度：FY2025（截至2025年3月31日）**  

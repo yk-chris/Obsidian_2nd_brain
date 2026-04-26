@@ -1,3 +1,4 @@
+[invest-stock-valuation](../../(SKILLs)%20技能/skill_invest/evaluate_company/invest-stock-valuation.md)
 ## 加權綜合結論
 
 - **標的：** MSFT — Microsoft Corporation

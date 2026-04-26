@@ -1,7 +1,7 @@
 以下是基於 Alphabet FY2025 官方 SEC 財報（2026年2月4日發布）的完整五步驟實證分析。
 
 ---
-
+[invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
 # GOOGL（Alphabet Inc.）五步驟實證框架分析
 
 **商業模式類型（自動判斷）：輕資產平台型 × 雲端服務複合型**  

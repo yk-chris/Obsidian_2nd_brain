@@ -1,7 +1,7 @@
 # Micron Technology (MU) 投資分析報告
 
 ---
-
+[invest-fundamental-analysis](../../(SKILLs)%20技能/skill_invest/invest-fundamental-analysis.md)
 ## Step 1｜業務拆解
 
 **商業模式類型**：✅ 資產密集型（記憶體製造）
