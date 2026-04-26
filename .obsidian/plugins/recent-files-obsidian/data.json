@@ -5,16 +5,48 @@
       "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
     },
     {
-      "basename": "AMZN [4, 2]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/AMZN [4, 2].md"
+      "basename": "00700.HK [4.0, 2.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/00700.HK [4.0, 2.0].md"
     },
     {
-      "basename": "GOOGL [4.3, 2]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/GOOGL [4.3, 2].md"
+      "basename": "BABA [2.8, 2.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/BABA [2.8, 2.5].md"
     },
     {
-      "basename": "00388.HK [4.3, 3.5]",
-      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/00388.HK [4.3, 3.5].md"
+      "basename": "TSLA [3.5, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/TSLA [3.5, 3.5].md"
+    },
+    {
+      "basename": "GOOGL [4.5, 2.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/GOOGL [4.5, 2.0].md"
+    },
+    {
+      "basename": "AMZN [4.0, 2.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/AMZN [4.0, 2.0].md"
+    },
+    {
+      "basename": "MSFT [4.8, 1.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/MSFT [4.8, 1.5].md"
+    },
+    {
+      "basename": "RKLB [3.3, 3.2]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/RKLB [3.3, 3.2].md"
+    },
+    {
+      "basename": "TSM [4.3, 3.0]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/TSM [4.3, 3.0].md"
+    },
+    {
+      "basename": "AMAT [4.2, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/AMAT [4.2, 3.5].md"
+    },
+    {
+      "basename": "00388.HK [4.0, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/00388.HK [4.0, 3.5].md"
+    },
+    {
+      "basename": "ASML [4.5, 3.5]",
+      "path": "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭/ASML [4.5, 3.5].md"
     },
     {
       "basename": "2026-04-26 週期 (除了業務, 護城河)",
@@ -167,38 +199,6 @@
     {
       "basename": "prompt-check",
       "path": "(SKILLs) 技能/skill_convertor/prompt-check.md"
-    },
-    {
-      "basename": "create-presentation-html",
-      "path": "(SKILLs) 技能/skill_convertor/create-presentation-html.md"
-    },
-    {
-      "basename": "convert-programming-v2",
-      "path": "(SKILLs) 技能/skill_convertor/convert-programming-v2.md"
-    },
-    {
-      "basename": "convert-gherkin",
-      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
-    },
-    {
-      "basename": "search-news-finance",
-      "path": "(SKILLs) 技能/skill_daily_agenda/search-news-finance.md"
-    },
-    {
-      "basename": "search-macro-economic",
-      "path": "(SKILLs) 技能/skill_daily_agenda/search-macro-economic.md"
-    },
-    {
-      "basename": "search-commodity-futures-2",
-      "path": "(SKILLs) 技能/skill_daily_agenda/search-commodity-futures-2.md"
-    },
-    {
-      "basename": "general-tell-summary",
-      "path": "(SKILLs) 技能/skill_general/general-tell-summary.md"
-    },
-    {
-      "basename": "general-tell-insight",
-      "path": "(SKILLs) 技能/skill_general/general-tell-insight.md"
     }
   ],
   "omittedPaths": [],
