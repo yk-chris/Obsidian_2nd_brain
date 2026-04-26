@@ -573,10 +573,14 @@
       "mode": "compact"
     },
     "(LEARN) 學習筆記": {
-      "groupBy": "folder"
+      "groupBy": "folder",
+      "mode": "compact"
     },
     "(FINANCE) 財務筆記/TA技術分析": {
       "groupBy": "folder",
+      "mode": "compact"
+    },
+    "(IDEAVERSE) 思維系統": {
       "mode": "compact"
     }
   },
