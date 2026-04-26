@@ -34,9 +34,10 @@
 		{"id":"189cff1a98895033","x":-2186,"y":399,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=mSn08LiATGo"},
 		{"id":"07cb412d69ad6e9d","type":"text","text":"List Slicer","x":-1408,"y":472,"width":250,"height":60},
 		{"id":"43a5544c5a0ddbdf","x":-1408,"y":579,"width":250,"height":55,"type":"text","text":"Button Slicer"},
-		{"id":"cab0c13c79d35b14","x":-520,"y":-1198,"width":674,"height":902,"type":"file","file":"Clippings/2026/April/Clip_20260426 - Making DAX Easy.md"},
-		{"id":"41ada8238a87fae8","x":390,"y":-1121,"width":400,"height":220,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426112709630.jpg"},
-		{"id":"f38ca9f80127134a","x":390,"y":-780,"width":400,"height":256,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426112632762.jpg"}
+		{"id":"da4d9cfb7b8f973f","x":293,"y":-1494,"width":728,"height":581,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426113013543.jpg"},
+		{"id":"41ada8238a87fae8","x":1280,"y":-1494,"width":400,"height":220,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426112709630.jpg"},
+		{"id":"f38ca9f80127134a","x":1280,"y":-1153,"width":400,"height":256,"type":"file","file":"(LEARN) 學習筆記/assets/Power_BI_learning/file-20260426112632762.jpg"},
+		{"id":"cab0c13c79d35b14","x":-502,"y":-1620,"width":674,"height":970,"type":"file","file":"Clippings/2026/April/Clip_20260426 - Making DAX Easy.md"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
@@ -52,6 +53,9 @@
 		{"id":"27d895f8d51ca1dd","fromNode":"f69b3e7a64d896c1","fromSide":"right","toNode":"f7aed640a953b0e6","toSide":"left"},
 		{"id":"d556a706a2058cb3","fromNode":"f7aed640a953b0e6","fromSide":"right","toNode":"2dc1a3047fa16714","toSide":"right"},
 		{"id":"f70559543900f7b1","fromNode":"2dc1a3047fa16714","fromSide":"left","toNode":"bb735b52a44d8a22","toSide":"right"},
-		{"id":"0ae39810cf6460c4","fromNode":"189cff1a98895033","fromSide":"right","toNode":"07cb412d69ad6e9d","toSide":"left"}
+		{"id":"0ae39810cf6460c4","fromNode":"189cff1a98895033","fromSide":"right","toNode":"07cb412d69ad6e9d","toSide":"left"},
+		{"id":"f5a62f6a4e756378","fromNode":"da4d9cfb7b8f973f","fromSide":"right","toNode":"41ada8238a87fae8","toSide":"left"},
+		{"id":"c0be07c17787e027","fromNode":"da4d9cfb7b8f973f","fromSide":"right","toNode":"f38ca9f80127134a","toSide":"left"},
+		{"id":"94b5f4b5bc0ced91","fromNode":"cab0c13c79d35b14","fromSide":"right","toNode":"da4d9cfb7b8f973f","toSide":"left"}
 	]
 }
