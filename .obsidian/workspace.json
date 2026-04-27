@@ -11,10 +11,12 @@
             "id": "7178bfba3dfeb27c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_streamer_clarification"
             }
           }
         ]
@@ -85,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 628.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -257,6 +260,8 @@
   },
   "active": "7178bfba3dfeb27c",
   "lastOpenFiles": [
+    "Excalidraw/assets/Excalidraw_streamer_clarification/file-20260424100830960.jpg",
+    "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427141300_149.png",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427134405_670.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427113751_225.png",
@@ -267,7 +272,6 @@
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091056808.jpg",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$419.76, 4.8, 1.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [$37.98, 4.0, 1.5].md",
@@ -293,7 +297,6 @@
     "Gary Chen.md",
     "(SKILLs) 技能/map_invest_skills.canvas",
     "(FINANCE) 財務筆記/TA技術分析/GOOGL [$264].md",
-    "(FINANCE) 財務筆記/TA技術分析/AMZN [$251.97].md",
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
