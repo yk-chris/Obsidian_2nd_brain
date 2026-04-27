@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"e312213eb38ba6fa","x":-619,"y":-247,"width":667,"height":931,"type":"file","file":"Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md"}
+		{"id":"e312213eb38ba6fa","x":-619,"y":-247,"width":667,"height":931,"type":"file","file":"Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md"},
+		{"id":"751a921c4c43475a","x":545,"y":157,"width":400,"height":196,"type":"file","file":"assets/Untitled/file-20260428074334674.jpg"},
+		{"id":"915996954a274999","x":90,"y":-247,"width":400,"height":287,"type":"file","file":"assets/Untitled/file-20260428074219310.jpg"},
+		{"id":"5fadd804528df740","x":90,"y":157,"width":400,"height":235,"type":"file","file":"assets/Untitled/file-20260428074242929.jpg"},
+		{"id":"d0390d3322f2b8aa","x":90,"y":392,"width":400,"height":219,"type":"file","file":"assets/Untitled/file-20260428074254668.jpg"},
+		{"id":"4cc52a4f32573352","x":90,"y":611,"width":400,"height":218,"type":"file","file":"assets/Untitled/file-20260428074412356.jpg"}
 	],
 	"edges":[]
 }
