@@ -4,22 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "351eff63236bba02",
+        "id": "6cf48299ac6402fc",
         "type": "tabs",
         "children": [
           {
-            "id": "732df2f48e580879",
+            "id": "7885c191875595a0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification"
+              "icon": "lucide-file",
+              "title": "WSI_outstanding_BI"
+            }
+          },
+          {
+            "id": "92690872866d76e6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 2046.8694629026277,
+                  "y": 193.62150415298476,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5,
+    "width": 606.5,
     "collapsed": true
   },
   "right": {
@@ -215,31 +235,29 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "732df2f48e580879",
+  "active": "92690872866d76e6",
   "lastOpenFiles": [
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427113751_225.png",
-    "Gary Chen.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-26 週期 (除了業務, 護城河)/file-20260426143006054.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-26 週期 (除了業務, 護城河)",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091056808.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg",
+    "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427083014_916.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081619_808.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081612_445.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081430_805.png",
+    "Gary Chen.md",
     "Clippings/2026/April/Clip_20260426 - Making DAX Easy.md",
     "Clippings/2026/April/Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南.md",
     "Clippings/2026/April/Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless.md",
     "Clippings/2026/April/Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know.md",
     "20260425_AI-遠見.canvas",
-    "(SKILLs) 技能/assets/map_invest_skills/file-20260426171259318.jpg",
     "(SKILLs) 技能/assets/map_invest_skills",
-    "(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426184144608.jpg",
-    "(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426190059339.jpg",
-    "(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426190828826.jpg",
-    "(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426190726977.jpg",
-    "(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426185149771.jpg",
-    "(LEARN) 學習筆記/assets/learn_Power_BI",
-    "(LEARN) 學習筆記/assets/book_原油產業全景",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-26 週期 (除了業務, 護城河)",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-26 週期 (除了業務, 護城河).md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [$398, 4.3, 3.0].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSLA [$228.50, 3.5, 3.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/RKLB [$45.6, 3.3, 3.2].md",
@@ -251,11 +269,12 @@
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMZN [$251.97, 4.0, 2.0].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMAT [$294.67, 4.2, 3.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [$290.76, 4.0, 3.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$620.3, 4.0, 2.0].md",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [$290.76, 4.0, 3.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局",
-    "(FINANCE) 財務筆記/TA技術分析/群核科技 [HKD 7.52].md",
     "(FINANCE) 財務筆記/TA技術分析/assets/MU -$517.00-",
+    "(LEARN) 學習筆記/assets/learn_Power_BI",
+    "(LEARN) 學習筆記/assets/book_原油產業全景",
     "(FINANCE) 財務筆記/TA技術分析/assets/BABA -$138.75-",
     "(FINANCE) 財務筆記/TA技術分析/assets/ASML -EUR 842.70-",
     "(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-",
@@ -263,7 +282,7 @@
     "(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md",
     "(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md",
     "(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md",
-    "TaskNotes/Views/kanban-default.base",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
+    "(FINANCE) 財務筆記/TA技術分析/MU [$517.00].md",
+    "TaskNotes/Views/kanban-default.base"
   ]
 }
