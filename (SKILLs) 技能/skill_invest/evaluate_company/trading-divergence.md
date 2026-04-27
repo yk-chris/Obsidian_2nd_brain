@@ -2,7 +2,7 @@
 name: 背離交易策略框架
 description: 基於技術背離信號，結合趨勢、結構、量能與關鍵位置，建立一套高勝率的交易預警與執行框架
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

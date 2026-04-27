@@ -2,7 +2,7 @@
 name: Topic Timeline Explorer
 description: 輸入任一主題，自動梳理相關事件時間軸並產出每個事件的重要摘要，適用於歷史研究、產業分析或新聞事件追蹤。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

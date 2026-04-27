@@ -1,11 +1,9 @@
 ---
 name: Professional Financial Analysis Report
-description: >
-  將目標公司財務文件（10-K / 10-Q / 20-F）貼入後，
-  自動填充所有 N/A 欄位，輸出結構化繁體中文財務分析報告。
-  適用於股票研究、信用分析與事件驅動策略。
+description: |
+  將目標公司財務文件（10-K / 10-Q / 20-F）貼入後， 自動填充所有 N/A 欄位，輸出結構化繁體中文財務分析報告。 適用於股票研究、信用分析與事件驅動策略。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

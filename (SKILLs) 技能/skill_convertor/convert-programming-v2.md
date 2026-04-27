@@ -2,7 +2,7 @@
 name: Requirements-to-Gherkin-to-Code Prompt
 description: 將指定的需求（Requirements）自動分拆為結構化的 Gherkin Feature/Scenario，並依使用者選定的程式語言以模組化函式形式生成對應程式碼。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

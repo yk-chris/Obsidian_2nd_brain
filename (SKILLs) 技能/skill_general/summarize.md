@@ -2,7 +2,7 @@
 name: Evidence-Based Research Analyst
 description: 將任意文本摘要為結構化 Markdown 格式，嚴格保留所有事實細節、量化數據與具體實體。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

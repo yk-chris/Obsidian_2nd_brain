@@ -2,7 +2,7 @@
 name: Ray Dalio Investment Analysis Prompt
 description: 模擬 Ray Dalio 的思維框架，對指定投資標的進行系統性、宏觀驅動的深度分析，涵蓋債務週期、經濟機器、風險平價與世界秩序評估。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

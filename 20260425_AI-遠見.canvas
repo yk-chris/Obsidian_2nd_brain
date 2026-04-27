@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"7772ce8a338ad8f0","type":"link","url":"https://www.youtube.com/watch?v=Pu00FUXuH1U","x":-320,"y":-180,"width":640,"height":360},
+		{"id":"ce1cc0322b3e0b2a","type":"text","text":"AI缺乏能力","x":391,"y":-91,"width":189,"height":60},
+		{"id":"9095692431d7450d","type":"text","text":"科技圈裁員潮","x":391,"y":30,"width":189,"height":60},
+		{"id":"4b6ae884b3ef6e8c","type":"text","text":"跨部門的溝通","x":690,"y":-304,"width":250,"height":60},
+		{"id":"095ab7609733022a","type":"text","text":"系統架構的設計","x":690,"y":-215,"width":250,"height":60},
+		{"id":"84be9fa513338e78","type":"text","text":"模糊情境下的決策判斷","x":690,"y":-121,"width":250,"height":60},
+		{"id":"e921b24d367301c4","type":"text","text":"生存者內疚","x":690,"y":215,"width":250,"height":60},
+		{"id":"ca66a200eea56fec","type":"text","text":"分配資源於AI","x":690,"y":45,"width":250,"height":60},
+		{"id":"6ecd0b722e4cdacc","type":"text","text":"AI 專才","x":1031,"y":90,"width":158,"height":60},
+		{"id":"f03a7c4e15df655e","type":"text","text":"基礎設施","x":1031,"y":15,"width":158,"height":60},
+		{"id":"268fe5e381487ceb","type":"text","text":"不能量化的產出 = 零績效","x":690,"y":135,"width":250,"height":60},
+		{"id":"cb664e4501bd2fd1","x":740,"y":366,"width":250,"height":60,"type":"text","text":"6個月的生活費"},
+		{"id":"ee5e4c6f5ced22b2","x":391,"y":336,"width":215,"height":60,"type":"text","text":"人生的Error-handling"},
+		{"id":"fd98ee338c586074","x":740,"y":452,"width":250,"height":60,"type":"text","text":"流動性管理"}
+	],
+	"edges":[
+		{"id":"0cfb1f46cb137ecc","fromNode":"7772ce8a338ad8f0","fromSide":"right","toNode":"ce1cc0322b3e0b2a","toSide":"left"},
+		{"id":"4036db3dcf35db76","fromNode":"ce1cc0322b3e0b2a","fromSide":"right","toNode":"4b6ae884b3ef6e8c","toSide":"left"},
+		{"id":"5303aa2c1d8d74b1","fromNode":"ce1cc0322b3e0b2a","fromSide":"right","toNode":"095ab7609733022a","toSide":"left"},
+		{"id":"e2c72da5f73553b7","fromNode":"ce1cc0322b3e0b2a","fromSide":"right","toNode":"84be9fa513338e78","toSide":"left"},
+		{"id":"d96d11f0f389d881","fromNode":"7772ce8a338ad8f0","fromSide":"right","toNode":"9095692431d7450d","toSide":"left"},
+		{"id":"3be3e98a0d3449e1","fromNode":"9095692431d7450d","fromSide":"right","toNode":"ca66a200eea56fec","toSide":"left"},
+		{"id":"a84a4866a1d0804d","fromNode":"9095692431d7450d","fromSide":"right","toNode":"e921b24d367301c4","toSide":"left"},
+		{"id":"7dfd66b679640178","fromNode":"9095692431d7450d","fromSide":"right","toNode":"268fe5e381487ceb","toSide":"left"},
+		{"id":"8b501c1a75498c98","fromNode":"ca66a200eea56fec","fromSide":"right","toNode":"f03a7c4e15df655e","toSide":"left"},
+		{"id":"c76fb0f1a0d077a9","fromNode":"ca66a200eea56fec","fromSide":"right","toNode":"6ecd0b722e4cdacc","toSide":"left"},
+		{"id":"12386e6661a981db","fromNode":"7772ce8a338ad8f0","fromSide":"right","toNode":"ee5e4c6f5ced22b2","toSide":"left"},
+		{"id":"d8230596ba40f622","fromNode":"ee5e4c6f5ced22b2","fromSide":"right","toNode":"cb664e4501bd2fd1","toSide":"left"},
+		{"id":"c16cb542896993d0","fromNode":"ee5e4c6f5ced22b2","fromSide":"right","toNode":"fd98ee338c586074","toSide":"left"}
+	]
+}

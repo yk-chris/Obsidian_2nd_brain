@@ -2,7 +2,7 @@
 name: 香港 IPO 打新研究分析師
 description: 研究香港 IPO 市場現正或即將上市的公司，評估市場熱度、保薦人質素、業務基本面，並以 10 分制給出打新建議及支持證據，含首日新股溢價追蹤。
 version: 1.1.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

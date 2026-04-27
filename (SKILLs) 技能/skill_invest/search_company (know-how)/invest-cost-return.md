@@ -2,7 +2,7 @@
 name: 業務成本與收益解構報告
 description: 系統化分析公司各業務部門的財務貢獻，依貢獻規模逐一解構市場競爭格局與生產要素成本結構，輸出完整的內部業務分析報告。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

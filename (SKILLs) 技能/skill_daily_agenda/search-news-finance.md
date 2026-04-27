@@ -2,7 +2,7 @@
 name: 投資新聞影響分析 Prompt
 description: 搜尋最近10宗最具影響力的投資新聞，並以符號標示正負影響、1-10分量化嚴重程度，剖析因果關係，提供結構化投資洞察。
 version: 1.1.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

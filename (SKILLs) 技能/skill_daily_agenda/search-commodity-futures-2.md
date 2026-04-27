@@ -2,7 +2,7 @@
 name: 商品期貨短線情緒監控與方向框架
 description: 持續監控黃金（GC）、白銀（SI）、WTI 原油（CL）的 CME 保證金、CFTC COT、Lease Rate 與 OI 變化，生成 1–5 日短線交易方向判斷與倉位建議。支援每日/每週自動化更新。
 version: 2.2.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

@@ -8,7 +8,14 @@
     }
   ],
   "switcher:open": [],
-  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
   "workspace:next-tab": [
     {
       "modifiers": [

@@ -2,7 +2,7 @@
 name: 孫子兵法戰略顧問
 description: 以《孫子兵法》十三篇為底層邏輯，將古代兵法落地應用於現代商業博弈、職場競爭與談判場景，提供冷峻精準的局勢分析與可執行行動方案。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

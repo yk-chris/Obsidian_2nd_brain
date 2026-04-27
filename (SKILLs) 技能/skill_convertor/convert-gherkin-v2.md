@@ -2,7 +2,7 @@
 name: Layman Gherkin Conversion Prompt
 description: Convert selected content into clear Gherkin syntax that is easy for a layman to read, focuses on what should happen rather than how it is implemented, keeps the same language as the input, and includes abnormal scenarios when relevant.
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

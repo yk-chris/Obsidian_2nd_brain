@@ -45,7 +45,12 @@
 		{"id":"0add95892b6f0105","type":"file","file":"(IDEAVERSE) 思維系統/2026/April/2026-04-12 -「石油→柴油→農機→糧食」.md","x":260,"y":1493,"width":733,"height":875},
 		{"id":"06dcafca5fada347","type":"file","file":"(IDEAVERSE) 思維系統/2026/April/2026-04-15 - 原油煉製產品.md","x":-598,"y":1494,"width":790,"height":875},
 		{"id":"33d28d39a6a1f401","type":"text","text":"科威特石油","x":1994,"y":773,"width":187,"height":50},
-		{"id":"b276e604e3724ec7","type":"file","file":"(LEARN) 學習筆記/Book_原油產業全景.md","x":-1456,"y":7,"width":811,"height":1132}
+		{"id":"b276e604e3724ec7","type":"file","file":"(LEARN) 學習筆記/book_原油產業全景.md","x":-1456,"y":7,"width":811,"height":1132},
+		{"id":"4c6ed17ad0688e02","type":"text","text":"**丙烯氧化物（PO）**","x":3919,"y":1555,"width":250,"height":60},
+		{"id":"8a8e995b5140d9a1","type":"text","text":" **PGME / PGMEA**","x":4347,"y":1585,"width":173,"height":59},
+		{"id":"a37990cedb1401f6","type":"text","text":" BARC（底部抗反射塗層）","x":4742,"y":1585,"width":250,"height":60},
+		{"id":"0159ada66ebb0745","type":"text","text":"SOH（旋塗硬遮罩）","x":4748,"y":1670,"width":250,"height":61},
+		{"id":"9489f296cc47cd45","type":"text","text":"HBM 臨時黏合劑","x":4753,"y":1764,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"521692b84a62686e","fromNode":"f9c46216415528d4","fromSide":"right","toNode":"88ec4d82a7590cbf","toSide":"left","label":"46%"},
@@ -76,6 +81,11 @@
 		{"id":"f8abb2be986e5b7c","fromNode":"86b77ccc1e3b63ce","fromSide":"right","toNode":"c315862d27ce788d","toSide":"left"},
 		{"id":"e4141db7f5769a18","fromNode":"86b77ccc1e3b63ce","fromSide":"right","toNode":"d9243ac2ae650c8b","toSide":"left"},
 		{"id":"4adc9cbf20bdff0e","fromNode":"9723dc1ab5490e6e","fromSide":"right","toNode":"9152b29a60a506f2","toSide":"left"},
-		{"id":"5c30e74e228acf0b","fromNode":"34058668d39bc145","fromSide":"right","toNode":"6c2d265ed221c4bc","toSide":"left"}
+		{"id":"5c30e74e228acf0b","fromNode":"34058668d39bc145","fromSide":"right","toNode":"6c2d265ed221c4bc","toSide":"left"},
+		{"id":"681d6b8f5521e0ce","fromNode":"c1c3efac4b92babb","fromSide":"right","toNode":"4c6ed17ad0688e02","toSide":"left"},
+		{"id":"e5f0ec68a067a6b9","fromNode":"4c6ed17ad0688e02","fromSide":"right","toNode":"8a8e995b5140d9a1","toSide":"left","label":"與甲醇反應"},
+		{"id":"5ba64f6c95511407","fromNode":"8a8e995b5140d9a1","fromSide":"right","toNode":"a37990cedb1401f6","toSide":"left"},
+		{"id":"2276dc4c7ad2108a","fromNode":"8a8e995b5140d9a1","fromSide":"right","toNode":"0159ada66ebb0745","toSide":"left"},
+		{"id":"d6b2dd183fd98578","fromNode":"8a8e995b5140d9a1","fromSide":"right","toNode":"9489f296cc47cd45","toSide":"left","label":"光刻膠"}
 	]
 }

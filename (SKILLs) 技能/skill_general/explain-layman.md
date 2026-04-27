@@ -2,7 +2,7 @@
 name: Topic Research & 4W1H Deep Dive
 description: 指定任意主題，透過 4W1H 框架逐層解構，結合真實市場與產業案例，以由淺入深的方式讓行外人清晰掌握核心概念。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

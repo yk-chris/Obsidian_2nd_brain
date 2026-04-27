@@ -2,7 +2,7 @@
 name: 短期情緒偏差偵測與交易策略生成器
 description: 針對指定投資標的，系統性量化新聞消息的價格影響力與方向，判斷是否存在 FUD/FOMO 引致的短期定價錯誤，並輸出對應的套利交易策略。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

@@ -2,7 +2,7 @@
 name: 三賢視角分析框架
 description: 代入 Elon Musk、Warren Buffett 與 Naval Ravikant 三位思想家的核心心智模型，對指定主題進行多維度深度分析，輸出結構化洞察報告。
 version: 1.0.0
-author: your team
+author: chris-yk
 ---
 
 ## Role

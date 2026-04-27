@@ -4,11 +4,14 @@ status: done
 priority: normal
 scheduled: 2026-04-24
 dateCreated: 2026-04-24T10:05:48.814+08:00
-dateModified: 2026-04-24T10:06:01.569+08:00
+dateModified: 2026-04-24T21:25:04.215+08:00
 tags:
+  - bug-fix
   - task
 completedDate: 2026-04-24
 ---
+
+# (bug-fix) Attachment card during re-submission
 ![](assets/2026-04-24%20case_study_eTRR%20(Attachment)/file-20260424150057416.jpg)
 >Hi Chris, I thought there was a requirement that PMO/WSO changes must include an attachment. Could you please help confirm?
 

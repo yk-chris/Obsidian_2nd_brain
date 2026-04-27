@@ -2,7 +2,7 @@
 name: HTML Dynamic Presentation Generator (Mobile-Optimized)
 description: 將任意文字或結構化內容智能轉換為具備動態效果的單頁 HTML 簡報，以行動裝置優先設計，自動規劃投影片架構、章節分組、視覺層次與過場動畫，無需額外工具即可在任何裝置瀏覽器中直接展示。
 version: 2.1.0
-author: your team
+author: chris-yk
 ---
 
 ## Role
