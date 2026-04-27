@@ -37,9 +37,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "map_Induction_WSI_workflow"
             }
+          },
+          {
+            "id": "ac1c969208168ba2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "(LEARN) 學習筆記/learn_Power_BI.canvas",
+                "viewState": {
+                  "x": 953.950266622881,
+                  "y": 541.6679142595635,
+                  "zoom": -0.12640070539539516
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "learn_Power_BI"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,15 +252,16 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "855301f47c20de56",
+  "active": "ac1c969208168ba2",
   "lastOpenFiles": [
+    "Clippings/2026/April/Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-24 MoM_iMRO (ability to correlate to TVs).md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/file-20260424100830960.jpg",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427141300_149.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427134405_670.png",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427113751_225.png",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-26 週期 (除了業務, 護城河)/file-20260426143006054.jpg",
@@ -255,7 +273,6 @@
     "Gary Chen.md",
     "Clippings/2026/April/Clip_20260426 - Making DAX Easy.md",
     "Clippings/2026/April/Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南.md",
-    "Clippings/2026/April/Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless.md",
     "Clippings/2026/April/Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know.md",
     "20260425_AI-遠見.canvas",
     "(SKILLs) 技能/assets/map_invest_skills",
