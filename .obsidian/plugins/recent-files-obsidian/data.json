@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "calendar-default",
+      "path": "TaskNotes/Views/calendar-default.base"
+    },
+    {
+      "basename": "2026-04-27",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-27.md"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
       "basename": "Excalidraw_streamer_clarification",
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "file-20260426184144608",
       "path": "(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426184144608.jpg"
-    },
-    {
-      "basename": "file-20260426190726977",
-      "path": "(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426190726977.jpg"
-    },
-    {
-      "basename": "file-20260426190059339",
-      "path": "(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426190059339.jpg"
-    },
-    {
-      "basename": "file-20260426183932740",
-      "path": "(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426183932740.jpg"
     }
   ],
   "omittedPaths": [],
