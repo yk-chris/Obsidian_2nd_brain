@@ -25,17 +25,12 @@
             "id": "92690872866d76e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-                "viewState": {
-                  "x": 2046.8694629026277,
-                  "y": 193.62150415298476,
-                  "zoom": 1
-                }
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "map_Induction_WSI_workflow"
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_streamer_clarification"
             }
           }
         ],
@@ -237,8 +232,8 @@
   },
   "active": "92690872866d76e6",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427113751_225.png",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
