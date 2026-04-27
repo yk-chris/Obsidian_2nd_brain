@@ -32,9 +32,26 @@
               "icon": "excalidraw-icon",
               "title": "Excalidraw_streamer_clarification"
             }
+          },
+          {
+            "id": "bfab9a262023833c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 135.5,
+                  "y": 313.75,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,9 +290,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "c0f5c984ff63f4d0",
+  "active": "bfab9a262023833c",
   "lastOpenFiles": [
     "Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md",
+    "Untitled.canvas",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "Clippings/2026/April/Clip_20260427 - 一口氣看懂美國頁岩油，美國產油第一為何死盯中東？｜美國為了石油犧牲水污染，中國頁岩油革命能否成功，石油美元根基動搖？【屈機研究所 EP19】.md",
     "TaskNotes/Views/calendar-default.base",
@@ -312,7 +330,6 @@
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$620.3, 4.0, 2.0].md",
     "(FINANCE) 財務筆記/TA技術分析/00388.HK [$290.76].md",
     "(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 620.3].md",
-    "(FINANCE) 財務筆記/TA技術分析/EWY [$172.40].md",
     "(SKILLs) 技能/map_invest_skills.canvas",
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
@@ -329,7 +346,6 @@
     "(LEARN) 學習筆記/assets/learn_Power_BI",
     "(LEARN) 學習筆記/map_原油.canvas",
     "20260425_AI-遠見.canvas",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
   ]
 }
