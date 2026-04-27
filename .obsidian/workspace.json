@@ -1,54 +1,37 @@
 {
   "main": {
-    "id": "18df6e4bb1006a93",
+    "id": "b0b1015c933e7dd9",
     "type": "split",
     "children": [
       {
-        "id": "6cf48299ac6402fc",
+        "id": "98c419b27a254080",
         "type": "tabs",
         "children": [
           {
-            "id": "7885c191875595a0",
+            "id": "2eecd7ed448e9556",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WSI_outstanding_BI"
-            }
-          },
-          {
-            "id": "92690872866d76e6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b0e75a7bf45c31e7",
+    "id": "bf74ecd00042d27c",
     "type": "split",
     "children": [
       {
-        "id": "1a97ce28ba1ded36",
+        "id": "c6ffe81819e77c4e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b6791c137d1c216",
+            "id": "bf7e290d8dd3db84",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +44,7 @@
             }
           },
           {
-            "id": "d67b9a8575cf11dd",
+            "id": "26e32847286aae2a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +61,7 @@
             }
           },
           {
-            "id": "180b4fda6e1dd562",
+            "id": "ed93abcee6ca5efb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,7 +71,7 @@
             }
           },
           {
-            "id": "b3889958a5b17040",
+            "id": "bb7877e4106a8c54",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
@@ -102,50 +85,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 606.5,
-    "collapsed": true
+    "width": 628.5
   },
   "right": {
-    "id": "1277464457d96220",
+    "id": "8d1dddcd12a12a6f",
     "type": "split",
     "children": [
       {
-        "id": "e4941d5cd98d6fcd",
+        "id": "7648766eae0bd1d6",
         "type": "tabs",
+        "dimension": 46.15384615384615,
         "children": [
           {
-            "id": "7f9ba6449f667f20",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "339c621c0b5f270a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "f2d82c7b34a6b80f",
+            "id": "999f9e59355eff8d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,21 +112,7 @@
             }
           },
           {
-            "id": "90ded1f5f1d04022",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "d5acdd9fad152637",
+            "id": "190e976e967cabc7",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -188,38 +126,125 @@
             }
           },
           {
-            "id": "6813f1948d7531a7",
+            "id": "ba4fdb4f627889d7",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "724bd55a1862b79c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ebde8b276190014e",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "22a66fd8eba5511f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "5a35a1e03d1ba06b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20260425_AI-遠見.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20260425_AI-遠見"
+            }
+          },
+          {
+            "id": "55498650eb16a305",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20260425_AI-遠見.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20260425_AI-遠見"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "267e126257f6aa2a",
+        "type": "tabs",
+        "dimension": 53.84615384615385,
+        "children": [
+          {
+            "id": "5499962cf8f15ab4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "pinned": true,
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 278.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": true,
+      "omnisearch:Omnisearch": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "tasknotes:Open calendar view": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
-      "random-note:Open random note": true,
       "bases:Create new base": true,
-      "claudian:Open Claudian": false,
       "obsidian-git:Open Git source control": true,
+      "random-note:Open random note": true,
       "tasknotes:Open mini calendar view": true,
-      "tasknotes:Open calendar view": false,
+      "claudian:Open Claudian": false,
       "tasknotes:Open tasks view": true,
       "tasknotes:Open agenda view": true,
       "tasknotes:Open kanban board": false,
@@ -230,55 +255,63 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "92690872866d76e6",
+  "active": "2eecd7ed448e9556",
   "lastOpenFiles": [
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427134405_670.png",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427113751_225.png",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-26 週期 (除了業務, 護城河)/file-20260426143006054.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-26 週期 (除了業務, 護城河)",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091056808.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427083014_916.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081619_808.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081612_445.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081430_805.png",
-    "Gary Chen.md",
-    "Clippings/2026/April/Clip_20260426 - Making DAX Easy.md",
-    "Clippings/2026/April/Clip_20260425 - Skill 實戰教學，從製作到維護的完整指南.md",
-    "Clippings/2026/April/Clip_20260425 - KPI Overview Page in Power BI that left my Client speechless.md",
-    "Clippings/2026/April/Clip_20260424 - 3 Ways to use Calculation Groups You Need to Know.md",
-    "20260425_AI-遠見.canvas",
-    "(SKILLs) 技能/assets/map_invest_skills",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091056808.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$419.76, 4.8, 1.5].md",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [$37.98, 4.0, 1.5].md",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [$290.76, 4.0, 3.5].md",
+    "(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [$398, 4.3, 3.0].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSLA [$228.50, 3.5, 3.5].md",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/SK hynix [4.0, 4.5].md",
+    "(FINANCE) 財務筆記/TA技術分析/TSM [$398].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/RKLB [$45.6, 3.3, 3.2].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [$37.98, 4.0, 1.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [$517, 3.3, 4.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$419.76, 4.8, 1.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$264, 4.5, 2.0].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMZN [$251.97, 4.0, 2.0].md",
+    "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
+    "(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md",
+    "(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMAT [$294.67, 4.2, 3.5].md",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$264, 4.5, 2.0].md",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [$517, 3.3, 4.5].md",
+    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMZN [$251.97, 4.0, 2.0].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$620.3, 4.0, 2.0].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [$290.76, 4.0, 3.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局",
-    "(FINANCE) 財務筆記/TA技術分析/assets/MU -$517.00-",
-    "(LEARN) 學習筆記/assets/learn_Power_BI",
-    "(LEARN) 學習筆記/assets/book_原油產業全景",
-    "(FINANCE) 財務筆記/TA技術分析/assets/BABA -$138.75-",
+    "(FINANCE) 財務筆記/TA技術分析/00388.HK [$290.76].md",
+    "(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 620.3].md",
+    "(FINANCE) 財務筆記/TA技術分析/EWY [$172.40].md",
+    "Gary Chen.md",
+    "(SKILLs) 技能/map_invest_skills.canvas",
+    "(FINANCE) 財務筆記/TA技術分析/GOOGL [$264].md",
+    "(FINANCE) 財務筆記/TA技術分析/AMZN [$251.97].md",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-26 週期 (除了業務, 護城河)/file-20260426143006054.jpg",
+    "(LEARN) 學習筆記/learn_Power_BI.canvas",
+    "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
+    "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
     "(FINANCE) 財務筆記/TA技術分析/assets/ASML -EUR 842.70-",
     "(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-",
-    "(FINANCE) 財務筆記/TA技術分析/TSM [$398].md",
-    "(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md",
-    "(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md",
-    "(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md",
-    "(FINANCE) 財務筆記/TA技術分析/MU [$517.00].md",
-    "TaskNotes/Views/kanban-default.base"
+    "(FINANCE) 財務筆記/TA技術分析/assets/BABA -$138.75-",
+    "(FINANCE) 財務筆記/TA技術分析/assets/MU -$517.00-",
+    "(FINANCE) 財務筆記/TA技術分析/assets/MU",
+    "(LEARN) 學習筆記/map_HBM.canvas",
+    "(LEARN) 學習筆記/map_群核科技.canvas",
+    "(LEARN) 學習筆記/assets/book_原油產業全景",
+    "(LEARN) 學習筆記/assets/__temp__book_原油產業全景",
+    "(LEARN) 學習筆記/assets/learn_Power_BI",
+    "(LEARN) 學習筆記/map_原油.canvas",
+    "(SKILLs) 技能/assets/map_invest_skills",
+    "(SKILLs) 技能/assets/__temp__map_invest_skills",
+    "20260425_AI-遠見.canvas",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+    "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
   ]
 }
