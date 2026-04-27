@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e09e5d1cbcff64a",
+        "id": "08f43efe5ba4ec43",
         "type": "tabs",
         "children": [
           {
-            "id": "213e059c917e9f9a",
+            "id": "e3f6f38c2cbb2a37",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "TaskNotes/Views/calendar-default.base",
-                "viewName": "Calendar"
-              },
-              "icon": "tasknotes-simple",
-              "title": "calendar-default"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -258,8 +255,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "213e059c917e9f9a",
+  "active": "e3f6f38c2cbb2a37",
   "lastOpenFiles": [
+    "Clippings/2026/April/Clip_20260427 - 一口氣看懂美國頁岩油，美國產油第一為何死盯中東？｜美國為了石油犧牲水污染，中國頁岩油革命能否成功，石油美元根基動搖？【屈機研究所 EP19】.md",
+    "TaskNotes/Views/calendar-default.base",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-27.md",
     "TaskNotes/Views/kanban-default.base",
     "Excalidraw/Excalidraw_streamer_clarification.md",
@@ -295,7 +294,6 @@
     "(FINANCE) 財務筆記/TA技術分析/00388.HK [$290.76].md",
     "(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 620.3].md",
     "(FINANCE) 財務筆記/TA技術分析/EWY [$172.40].md",
-    "Gary Chen.md",
     "(SKILLs) 技能/map_invest_skills.canvas",
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
@@ -311,7 +309,6 @@
     "(LEARN) 學習筆記/assets/__temp__book_原油產業全景",
     "(LEARN) 學習筆記/assets/learn_Power_BI",
     "(LEARN) 學習筆記/map_原油.canvas",
-    "(SKILLs) 技能/assets/map_invest_skills",
     "20260425_AI-遠見.canvas",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas"
