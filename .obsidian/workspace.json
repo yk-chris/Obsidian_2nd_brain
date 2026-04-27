@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "08f43efe5ba4ec43",
+        "id": "057ff83c8870f1f6",
         "type": "tabs",
         "children": [
           {
-            "id": "e3f6f38c2cbb2a37",
+            "id": "0cedb0f18e1b15b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_streamer_clarification"
             }
           }
         ]
@@ -85,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 628.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -255,7 +258,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "e3f6f38c2cbb2a37",
+  "active": "0cedb0f18e1b15b3",
   "lastOpenFiles": [
     "Clippings/2026/April/Clip_20260427 - 一口氣看懂美國頁岩油，美國產油第一為何死盯中東？｜美國為了石油犧牲水污染，中國頁岩油革命能否成功，石油美元根基動搖？【屈機研究所 EP19】.md",
     "TaskNotes/Views/calendar-default.base",
