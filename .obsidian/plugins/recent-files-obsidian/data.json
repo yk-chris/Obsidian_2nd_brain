@@ -5,6 +5,14 @@
       "path": "Untitled.canvas"
     },
     {
+      "basename": "file-20260428074334674",
+      "path": "assets/Untitled/file-20260428074334674.jpg"
+    },
+    {
+      "basename": "file-20260428074858198",
+      "path": "assets/Untitled/file-20260428074858198.jpg"
+    },
+    {
       "basename": "file-20260428074412356",
       "path": "assets/Untitled/file-20260428074412356.jpg"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "file-20260428074219310",
       "path": "assets/Untitled/file-20260428074219310.jpg"
-    },
-    {
-      "basename": "file-20260428074334674",
-      "path": "assets/Untitled/file-20260428074334674.jpg"
     },
     {
       "basename": "file-20260428074242929",
@@ -195,10 +199,6 @@
     {
       "basename": "ASML [EUR 842.70]",
       "path": "(FINANCE) 財務筆記/TA技術分析/ASML [EUR 842.70].md"
-    },
-    {
-      "basename": "MU [$517.00]",
-      "path": "(FINANCE) 財務筆記/TA技術分析/MU [$517.00].md"
     }
   ],
   "omittedPaths": [],
