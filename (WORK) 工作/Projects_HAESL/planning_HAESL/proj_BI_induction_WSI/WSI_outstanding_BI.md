@@ -29,6 +29,8 @@ Based on the Induction plan, to see if WSI is issued on the status
 ![398](assets/WSI_outstanding_BI/file-20260419112721913.jpg)
 
 #### Color tone picker
-[HAESL blue](https://tints.dev/palette/v1:YnJhbmR8NDg3OENGfDUwMHxwfDB8MHwwfDEwMHxt)
+![](assets/WSI_outstanding_BI/file-20260427091032944.jpg)
+[HAESL blue](https://tints.dev/palette/v1:YnJhbmR8NDg3OENGfDUwMHxwfDB8MHwwfDEwMHxt) & [HAESL yellow](https://tints.dev/palette/v1:YnJhbmR8RkZDMDAwfDUwMHxwfDB8MHwwfDEwMHxt)
 
+![](assets/WSI_outstanding_BI/file-20260427091056808.jpg)
 ![](assets/WSI_outstanding_BI/file-20260427090800405.jpg)
