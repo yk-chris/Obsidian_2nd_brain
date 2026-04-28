@@ -4,42 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "057ff83c8870f1f6",
+        "id": "583b6db9baa4d9dc",
         "type": "tabs",
         "children": [
           {
-            "id": "0cedb0f18e1b15b3",
+            "id": "2f720fb595f27014",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】"
-            }
-          },
-          {
-            "id": "bfab9a262023833c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ASML_人類史上最複雜的機器.canvas",
-                "viewState": {
-                  "x": 725.7649843393202,
-                  "y": 579.9657158409559,
-                  "zoom": -1.3333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "ASML_人類史上最複雜的機器"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +256,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bfab9a262023833c",
+  "active": "2f720fb595f27014",
   "lastOpenFiles": [
     "Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md",
     "ASML_人類史上最複雜的機器.canvas",
