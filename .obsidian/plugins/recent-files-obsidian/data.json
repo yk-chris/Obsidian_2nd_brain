@@ -5,6 +5,10 @@
       "path": "(LEARN) 學習筆記/map_HBM.canvas"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "explain-layman",
       "path": "(SKILLs) 技能/skill_general/explain-layman.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "00388.HK [$290.76]",
       "path": "(FINANCE) 財務筆記/TA技術分析/00388.HK [$290.76].md"
-    },
-    {
-      "basename": "00700.HK [HKD 620.3]",
-      "path": "(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 620.3].md"
     }
   ],
   "omittedPaths": [],
