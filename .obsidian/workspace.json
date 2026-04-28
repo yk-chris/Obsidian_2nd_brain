@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ecaed4e12e8f3e4f",
+        "id": "e4a8d16e2cf5bc5b",
         "type": "tabs",
         "children": [
           {
-            "id": "e26ac591bb49a966",
+            "id": "ab3bdc55f11afcd1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 628.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -255,10 +256,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "e26ac591bb49a966",
+  "active": "ab3bdc55f11afcd1",
   "lastOpenFiles": [
-    "(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "TaskNotes/Views/kanban-default.base",
+    "(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
     "Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428173056624.jpg",
     "conflict-files-obsidian-git.md",
@@ -281,7 +283,6 @@
     "Clippings/2026/April/Clip_20260427 - 一口氣看懂美國頁岩油，美國產油第一為何死盯中東？｜美國為了石油犧牲水污染，中國頁岩油革命能否成功，石油美元根基動搖？【屈機研究所 EP19】.md",
     "TaskNotes/Views/calendar-default.base",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-27.md",
-    "TaskNotes/Views/kanban-default.base",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$419.76, 4.8, 1.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [$37.98, 4.0, 1.5].md",
