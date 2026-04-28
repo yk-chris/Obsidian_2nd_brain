@@ -1,20 +1,20 @@
 {
 	"nodes":[
-		{"id":"e312213eb38ba6fa","x":-619,"y":-247,"width":667,"height":931,"type":"file","file":"Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md"},
-		{"id":"915996954a274999","x":90,"y":-247,"width":400,"height":287,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445700.jpg"},
-		{"id":"71ccaad2ec1986db","x":90,"y":70,"width":400,"height":250,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445720.jpg"},
-		{"id":"751a921c4c43475a","x":90,"y":320,"width":400,"height":196,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445712.jpg"},
-		{"id":"2cbe101b7a5414bf","x":90,"y":516,"width":400,"height":199,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445717.jpg"},
-		{"id":"5fadd804528df740","x":537,"y":-247,"width":400,"height":235,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445706.jpg"},
-		{"id":"d0390d3322f2b8aa","x":537,"y":-12,"width":400,"height":219,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445709.jpg"},
-		{"id":"f3cc594a03db953d","x":537,"y":219,"width":400,"height":203,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445722.jpg"},
-		{"id":"4cc52a4f32573352","x":937,"y":-247,"width":832,"height":454,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445715.jpg"},
-		{"id":"6b39177978732ab3","x":537,"y":430,"width":400,"height":172,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445725.jpg"},
-		{"id":"69911fe92cc797d7","x":537,"y":601,"width":400,"height":192,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445727.jpg"},
-		{"id":"9a0d4ceee763e940","x":937,"y":219,"width":400,"height":229,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445729.jpg"},
-		{"id":"202977893e9f655c","x":937,"y":448,"width":400,"height":209,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445730.jpg"},
-		{"id":"df05bac5a72504e9","x":937,"y":657,"width":400,"height":219,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445731.jpg"},
-		{"id":"2cfec10e31af6ee4","x":937,"y":876,"width":400,"height":211,"type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445733.jpg"}
+		{"id":"e312213eb38ba6fa","type":"file","file":"Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md","x":-619,"y":-247,"width":667,"height":931},
+		{"id":"915996954a274999","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445700.jpg","x":90,"y":-247,"width":400,"height":287},
+		{"id":"71ccaad2ec1986db","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445720.jpg","x":90,"y":70,"width":400,"height":250},
+		{"id":"751a921c4c43475a","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445712.jpg","x":90,"y":320,"width":399,"height":196},
+		{"id":"2cbe101b7a5414bf","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445717.jpg","x":90,"y":516,"width":400,"height":199},
+		{"id":"5fadd804528df740","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445706.jpg","x":537,"y":-247,"width":399,"height":235},
+		{"id":"d0390d3322f2b8aa","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445709.jpg","x":537,"y":-12,"width":400,"height":219},
+		{"id":"f3cc594a03db953d","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445722.jpg","x":537,"y":219,"width":400,"height":203},
+		{"id":"4cc52a4f32573352","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445715.jpg","x":937,"y":-247,"width":832,"height":454},
+		{"id":"6b39177978732ab3","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445725.jpg","x":537,"y":430,"width":400,"height":172},
+		{"id":"69911fe92cc797d7","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445727.jpg","x":537,"y":601,"width":399,"height":192},
+		{"id":"9a0d4ceee763e940","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445729.jpg","x":937,"y":219,"width":400,"height":229},
+		{"id":"202977893e9f655c","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445730.jpg","x":937,"y":448,"width":400,"height":209},
+		{"id":"df05bac5a72504e9","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445731.jpg","x":937,"y":657,"width":400,"height":219},
+		{"id":"2cfec10e31af6ee4","type":"file","file":"(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445733.jpg","x":937,"y":876,"width":400,"height":211}
 	],
 	"edges":[]
 }
