@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d9c9c872d7bea4",
+        "id": "546607b780427cff",
         "type": "tabs",
         "children": [
           {
-            "id": "acbd4d31fe6ef5be",
+            "id": "3497d61a423ebf45",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -258,7 +256,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "acbd4d31fe6ef5be",
+  "active": "3497d61a423ebf45",
   "lastOpenFiles": [
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
