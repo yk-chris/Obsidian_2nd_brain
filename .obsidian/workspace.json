@@ -27,7 +27,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "ASML_人類史上最複雜的機器.canvas",
+                "file": "(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
                 "viewState": {
                   "x": 725.7649843393202,
                   "y": 579.9657158409559,
@@ -37,9 +37,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "ASML_人類史上最複雜的機器"
             }
+          },
+          {
+            "id": "1440699249fa2d02",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "(LEARN) 學習筆記/map_HBM.canvas",
+                "viewState": {
+                  "x": 345.79256115132404,
+                  "y": 777.1160185387082,
+                  "zoom": -1.2522762973378474
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map_HBM"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,22 +295,24 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bfab9a262023833c",
+  "active": "1440699249fa2d02",
   "lastOpenFiles": [
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器",
+    "(SKILLs) 技能/skill_general/explain-layman.md",
+    "(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
     "Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md",
-    "ASML_人類史上最複雜的機器.canvas",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "assets/ASML_人類史上最複雜的機器",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208164.jpg",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208166.jpg",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208169.jpg",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208170.jpg",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208171.jpg",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208173.jpg",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208174.jpg",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208175.jpg",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208176.jpg",
-    "assets/ASML_人類史上最複雜的機器/file-20260428080208177.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445733.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445731.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445730.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445729.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445727.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445725.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445722.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445720.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445717.jpg",
+    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445715.jpg",
     "assets/Untitled",
     "assets",
     "Clippings/2026/April/Clip_20260427 - 一口氣看懂美國頁岩油，美國產油第一為何死盯中東？｜美國為了石油犧牲水污染，中國頁岩油革命能否成功，石油美元根基動搖？【屈機研究所 EP19】.md",
@@ -320,7 +339,6 @@
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMZN [$251.97, 4.0, 2.0].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$620.3, 4.0, 2.0].md",
     "(FINANCE) 財務筆記/TA技術分析/00388.HK [$290.76].md",
-    "(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 620.3].md",
     "(SKILLs) 技能/map_invest_skills.canvas",
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
