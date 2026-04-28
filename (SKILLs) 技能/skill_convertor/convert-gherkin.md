@@ -135,3 +135,11 @@ Feature: [功能或模組名稱]
       | param   | expected        |
       | [值 1]  | [預期結果 1]    |
       | [值 2]  | [預期結果 2]    |
+
+#### Summary of coverages:
+| Scenario | Type       |
+| -------- | ---------- |
+|          | Happy Path |
+|          | Exception  |
+|          | Edge Case  |
+
