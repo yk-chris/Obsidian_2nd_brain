@@ -137,9 +137,9 @@ Feature: [功能或模組名稱]
       | [值 2]  | [預期結果 2]    |
 
 #### Summary of coverages:
-| Scenario | Type       |
-| -------- | ---------- |
-|          | Happy Path |
-|          | Exception  |
-|          | Edge Case  |
+| Scenario Type | Number of cases | Scenario Coverages |
+| ------------- | --------------- | ------------------ |
+| Happy Path    |                 |                    |
+| Exception     |                 |                    |
+| Edge Case     |                 |                    |
 
