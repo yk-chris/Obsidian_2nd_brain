@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a8d16e2cf5bc5b",
+        "id": "68c61a17bf230547",
         "type": "tabs",
         "children": [
           {
-            "id": "ab3bdc55f11afcd1",
+            "id": "d4ec8adde2047b07",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -258,7 +258,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "ab3bdc55f11afcd1",
+  "active": "d4ec8adde2047b07",
   "lastOpenFiles": [
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "TaskNotes/Views/kanban-default.base",
