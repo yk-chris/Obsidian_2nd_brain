@@ -29,8 +29,8 @@
               "state": {
                 "file": "(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
                 "viewState": {
-                  "x": 725.7649843393202,
-                  "y": 579.9657158409559,
+                  "x": 103.36398569125288,
+                  "y": 396.0172425563044,
                   "zoom": -1.3333333333333333
                 }
               },
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5,
-    "collapsed": true
+    "width": 628.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
