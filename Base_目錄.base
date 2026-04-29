@@ -21,25 +21,6 @@ views:
     markers: number
     indentProperties: false
     separator: " | "
-  - type: table
-    name: view_work
-    filters:
-      and:
-        - file.folder.contains("work")
-        - '!file.name.contains("jpg")'
-    groupBy:
-      property: dateModified
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-      - dateModified
-    sort:
-      - property: file.ctime
-        direction: DESC
-    columnSize:
-      file.name: 563
-      file.tags: 202
   - type: list
     name: list_finance
     filters:
@@ -54,6 +35,23 @@ views:
     calendarView: dayGridMonth
     imageAspectRatio: 0.8
     indentProperties: false
+  - type: list
+    name: list_skill_set
+    filters:
+      and:
+        - '!file.name.contains("jpg")'
+        - file.folder.contains("skills")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - description
+      - file.ctime
+    markers: bullet
+    separator: " | "
+    indentProperties: true
   - type: cards
     name: card_finance
     filters:
@@ -88,20 +86,3 @@ views:
     columnSize:
       file.name: 350
       file.tags: 216
-  - type: list
-    name: list_skill_set
-    filters:
-      and:
-        - '!file.name.contains("jpg")'
-        - file.folder.contains("skills")
-    groupBy:
-      property: file.folder
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-      - description
-      - file.ctime
-    markers: bullet
-    separator: " | "
-    indentProperties: true
