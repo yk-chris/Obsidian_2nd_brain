@@ -24,7 +24,7 @@
 
 ```
 ### Definition
-- A material item is combined from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
+- A material item is combined from IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
 
 
 ### Procedure
@@ -46,6 +46,9 @@ Within "Top50_{EngineType}_{Work LV}" sheet,
 
 
 ```
+### Definition
+- A material item is combined from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
+
 Within "Top50_{EngineType}_{Work LV}" sheet, 
 1. add a column named "located_sheet" to specify which sheet is included for each material item and a column named "number_occurrence" to count for how many EngineSerialNumber included each material item
 2. add a column named "Avg_QTY" to calculate average QTY from Total QTY (located in column Q) to divide by a number of material items occurrence from all "EngineSerialNumber" 
