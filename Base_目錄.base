@@ -1,10 +1,13 @@
 views:
   - type: table
-    name: Table
+    name: Overviews
     filters:
       and:
         - '!file.name.contains("jpg")'
         - '!file.name.contains("png")'
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.folder
       - file.name
@@ -18,12 +21,29 @@ views:
       file.name: 317
       note.name: 266
   - type: list
-    name: View
+    name: list_skill_set
     filters:
       and:
         - '!file.name.contains("jpg")'
+        - file.folder.contains("skills")
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
       - file.tags
       - description
       - file.ctime
+  - type: cards
+    name: card_finance
+    filters:
+      and:
+        - file.folder.contains("finance")
+        - '!file.path.contains("asset")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    calendarView: dayGridMonth
+    imageAspectRatio: 0.8
