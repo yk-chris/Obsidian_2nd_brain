@@ -48,7 +48,7 @@ To create a new sheet named "materials_actual_budget" with columns of | EngineTy
 From this "materials_actual_budget" sheet, 
 
 1. To lookup whether the material items is found between "Material_ISP_actual" and "TopRank_{EngineType}_{Work LV}" at the same time. If found, to put this material item from "Material_ISP_actual" sheet into “material_actual_budget” sheet
-2. To add a column named "avg_QTY_budget" to lookup for "avg_QTY" located in column ? Of either the material items is matched from  "TopRank_{EngineType}_{Work LV}" sheets.
+2. To add a column named "avg_QTY_budget" to lookup for "avg_QTY" located in column Of either the material items is matched from  "TopRank_{EngineType}_{Work LV}" sheets.
 3. To add a column named "diff_QTY" to  subtract "QTY" by "avg_QTY_budget"
 
 ```
