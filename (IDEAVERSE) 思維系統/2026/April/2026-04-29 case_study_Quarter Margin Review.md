@@ -46,11 +46,11 @@ Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to
 5. add a column named "Avg_DiscountSellingPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
 
 // to find the difference between each engine from actual vs budget
-To create a new sheet named "materials_actual_budget" with columns of | EngineType | Work LV | SalesOrder | EngineSerialNumber | Module | IPC Location | PartNo | PartDesc | ...
+To create a new sheet named "materials_actual_budget" with following columns of | EngineType | Work LV | SalesOrder | EngineSerialNumber | Module | IPC Location | PartNo | PartDesc | ...
 
 From this "materials_actual_budget" sheet, 
 
-1. To lookup whether the material items is found between "Material_ISP_actual" and "TopRank_{EngineType}_{Work LV}" at the same time. If found, to put this material item from "Material_ISP_actual" sheet into “material_actual_budget” sheet
+1. Check if the material item exists in both "Material_ISP_actual" and "TopRank_{EngineType}_{Work LV}" at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet.
 2. To add a column named "avg_QTY_budget" to lookup for "avg_QTY" located in column Of either the material items is matched from  "TopRank_{EngineType}_{Work LV}" sheets.
 3. To add a column named "diff_QTY" to  subtract "QTY" by "avg_QTY_budget"
 
