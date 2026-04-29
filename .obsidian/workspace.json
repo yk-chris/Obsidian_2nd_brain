@@ -11,10 +11,13 @@
             "id": "63308065e9bf126d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Base_目錄.base",
+                "viewName": "list_work"
+              },
+              "icon": "lucide-list",
+              "title": "Base_目錄"
             }
           }
         ]
@@ -85,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 628.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -255,9 +259,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "63308065e9bf126d",
   "lastOpenFiles": [
+    "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "Base_目錄.base",
+    "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
     "20260425_AI-遠見.canvas",
     "Gary Chen.md",
     "(FINANCE) 財務筆記/生產要素/assets/HBM（高頻寬記憶體）全球分析報告/file-20260413075736852.jpg",
@@ -303,7 +309,6 @@
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [$517, 3.3, 4.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMZN [$251.97, 4.0, 2.0].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$620.3, 4.0, 2.0].md",
-    "(FINANCE) 財務筆記/TA技術分析/00388.HK [$290.76].md",
     "(SKILLs) 技能/map_invest_skills.canvas",
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",

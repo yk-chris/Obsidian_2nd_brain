@@ -5,6 +5,14 @@
       "path": "Base_目錄.base"
     },
     {
+      "basename": "MoM_2026-04-21_iMRO_integration_workshop",
+      "path": "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md"
+    },
+    {
+      "basename": "convert-gherkin",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
+    },
+    {
       "basename": "20260425_AI-遠見",
       "path": "20260425_AI-遠見.canvas"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "invest-fundamental-analysis",
       "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
-    },
-    {
-      "basename": "convert-gherkin",
-      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
     },
     {
       "basename": "convert-gherkin-v2",

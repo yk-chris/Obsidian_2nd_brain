@@ -47,3 +47,41 @@ views:
       - file.name
     calendarView: dayGridMonth
     imageAspectRatio: 0.8
+  - type: table
+    name: view_work
+    filters:
+      and:
+        - file.folder.contains("work")
+        - '!file.name.contains("jpg")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - dateModified
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 563
+      file.tags: 202
+  - type: list
+    name: list_work
+    filters:
+      and:
+        - file.folder.contains("work")
+        - '!file.name.contains("jpg")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - dateModified
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 563
+      file.tags: 202
