@@ -14,3 +14,4 @@
 4. to standardize the apple-to-apple data set to minimize the issues like discounting from period to period
 5. to dive deep into the significance of items in terms of material items. Let's say to extract top 10% and bottom 10% items
 6. to compare items across three costing categories to 
+
