@@ -15,10 +15,9 @@
 4. to standardize the apple-to-apple data set to minimize the issues like discounting from period to period
 5. **to dive deep into the significance of items in terms of material items.**
 
-Step 1 - to extract Top N number from each engine in terms of engine type | work type
-Step 2 - to define a list of significant material items
+	Step 1 - to extract Top N number from each engine in terms of engine type | work type
+	Step 2 - to define a list of significant material items across a list of engines
 
 6. to compare items across three costing categories
-
 
 
