@@ -71,7 +71,8 @@
 		{"id":"e3971ea99f1dbcae","type":"text","text":"reference label > Apply settings to >\n- Select series > {Sales}\n- Add label > {below measure}","x":-2925,"y":-2038,"width":437,"height":129,"color":"6"},
 		{"id":"0c665fd9ae0854ca","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426184123770.jpg","x":-2925,"y":-1909,"width":437,"height":315},
 		{"id":"8225ffc866337518","type":"link","url":"https://www.youtube.com/watch?v=VQARTnv-PcI","x":-4191,"y":-1853,"width":640,"height":360},
-		{"id":"acc89d4ee5829ef5","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426184144608.jpg","x":-3433,"y":-1657,"width":399,"height":164}
+		{"id":"acc89d4ee5829ef5","type":"file","file":"(LEARN) 學習筆記/assets/learn_Power_BI/file-20260426184144608.jpg","x":-3433,"y":-1657,"width":399,"height":164},
+		{"id":"8494dae2981d90a1","x":-4211,"y":-2757,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=LsrxR1i5Wpg"}
 	],
 	"edges":[
 		{"id":"e69a2f1ae10547bf","fromNode":"a31a182790b74c1d","fromSide":"right","toNode":"b3ee68c1e150a38e","toSide":"left"},
