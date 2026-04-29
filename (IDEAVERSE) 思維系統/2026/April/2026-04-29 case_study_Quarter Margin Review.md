@@ -58,11 +58,11 @@ To create a new sheet named "materials_actual_budget" with following columns of 
 From this "materials_actual_budget" sheet, 
 
 1. Check if the material item exists in both "Material_ISP_actual" sheet and one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules, IPC Location, PartNo, and PartDesc as a unique key matching for a material item and must take all different module (NM, 01, ..., 08) into consideration.
-
+   
 2. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 3. Add a column called "diff_QTY" that calculates the difference by subtracting "QTY" from "avg_QTY_budget".
-4. Add a column called "Avg_SapUnitPrice_budget" to reference "Avg_SapUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
-5. Add a column called "diff_SapUnitPrice" that calculates the difference by subtracting "SapUnitPrice" from "avg_SapUnitPrice_budget".
+4. Add a column called "Avg_PoUnitPrice_budget" to reference "Avg_PoUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
+5. Add a column called "diff_PoUnitPrice" that calculates the difference by subtracting "PoUnitPrice" from "avg_PoUnitPrice_budget".
 6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "Discount Selling Price" from "avg_DiscountSellingPrice_budget".
 8. Add a column named "rank_diff_value" that ranks the highest value in the "diff_DiscountSellingPrice" column as 1 for each EngineSerialNumber, continuing in order for the remaining values.
