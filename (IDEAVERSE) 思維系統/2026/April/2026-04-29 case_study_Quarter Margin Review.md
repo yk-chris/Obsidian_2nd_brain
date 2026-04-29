@@ -29,6 +29,8 @@ GIVEN "Material_ISP_budget" and "Material_ISP_actual" sheet is stated on the Exc
 ### Definition
 - A material item is defined by the combination of Module (found in column AX), IPC Location (found in column AA), PartNo (found in column N), and PartDesc (found in column O).
 
+### Contraint
+- PartNo must be converted into "Text" format instead of a number
 
 ### Procedure
 // to add Ranking column on each engine
@@ -57,7 +59,7 @@ From this "materials_actual_budget" sheet,
 5. Add a column called "diff_SapUnitPrice" that calculates the difference by subtracting "SapUnitPrice" from "avg_SapUnitPrice_budget".
 6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "DiscountSellingPrice" from "avg_DiscountSellingPrice_budget".
-   
+
    
 ```
 
