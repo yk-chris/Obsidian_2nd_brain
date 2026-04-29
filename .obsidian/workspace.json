@@ -11,10 +11,17 @@
             "id": "7011874fa43cc3d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "(LEARN) 學習筆記/learn_Power_BI.canvas",
+                "viewState": {
+                  "x": -1229.2797014925377,
+                  "y": -2012.8276865671646,
+                  "zoom": -2.9695622093891054
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "learn_Power_BI"
             }
           }
         ]
@@ -258,6 +265,7 @@
   },
   "active": "7011874fa43cc3d2",
   "lastOpenFiles": [
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
     "conflict-files-obsidian-git.md",
     "Base_目錄.base",
