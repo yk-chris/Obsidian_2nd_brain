@@ -12,6 +12,6 @@
 2. The reasons vary at three categories such materials, sub-contract & man-hours from engine repair
 3. to individually find the reasons respective of materials, sub-contract & man-hours pool. 
 4. to standardize the apple-to-apple data set to minimize the issues like discounting from period to period
-5. to dive deep into the significance of items in terms of material items. Let's say to extract top 10% and bottom 10% items
+5. to dive deep into the significance of items in terms of material items.
 6. to compare items across three costing categories to 
 
