@@ -28,9 +28,11 @@
 
 
 ### Procedure
+// to add Ranking column on each engine
 From the sheet named "Material_ISP_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber. Moreover, to put a series of columns including | EngineType | Work LV | SalesOrder | EngineSerialNumber | CustomerCode | ValType | IPC Location | PartNo | PartDesc | Appendix | Qty | SapUnitPrice | PoUnitPrice | Discount Selling Price |  on each EngineSerialNumber sheet 
 AND add one more column named "Rank" to calculate each row to rank it as 1 if "Discount Selling Price" located in column W is the largest value and so on.
 
+// to construct the Top50-rank consolidation sheet
 After that , to combine a series of unique material items on a new sheet called "Top50_{EngineType}_{Work LV}" from Top 50 ranking of all sheets of "EngineSerialNumber"
 Within "Top50_{EngineType}_{Work LV}" sheet, 
 1. add a column named "located_sheet" to specify which sheet is included for each material item and a column named "number_occurrence" to count for how many EngineSerialNumber included each material item
@@ -39,6 +41,7 @@ Within "Top50_{EngineType}_{Work LV}" sheet,
 4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
 5. add a column named "Avg_DiscountSellingPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
 
+// to find the difference on each engine from actual vs budget data in terms of QTY, price & Value
 
    
 ```
