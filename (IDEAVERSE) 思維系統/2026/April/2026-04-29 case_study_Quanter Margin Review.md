@@ -17,3 +17,4 @@
 6. to compare items across three costing categories
 
 
+to extract Top N number from each engine to define a list of significant material items 
