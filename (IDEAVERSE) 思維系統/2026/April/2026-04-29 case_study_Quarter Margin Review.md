@@ -51,8 +51,8 @@ To create a new sheet named "materials_actual_budget" with following columns of 
 From this "materials_actual_budget" sheet, 
 
 1. Check if the material item exists in both "Material_ISP_actual" and "TopRank_{EngineType}_{Work LV}" at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet.
-2. Add a column named "avg_QTY_budget" to lookup for "avg_QTY" once the material items is matched from "TopRank_{EngineType}_{Work LV}" sheets in terms
-3. To add a column named "diff_QTY" to  subtract "QTY" by "avg_QTY_budget"
+2. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
+3. Add a column called "diff_QTY" that calculates the difference by subtracting "avg_QTY_budget" from "QTY".
 
 ```
 
