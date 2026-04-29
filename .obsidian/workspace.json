@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5a2ba04fc3b73781",
+        "id": "8ada40965f3acd87",
         "type": "tabs",
         "children": [
           {
-            "id": "91bc8f824c54d03b",
+            "id": "a0967a07f288751b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-29 case_study_Quarter Margin Review"
+              "title": "New tab"
             }
           }
         ]
@@ -260,8 +256,9 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "91bc8f824c54d03b",
+  "active": "a0967a07f288751b",
   "lastOpenFiles": [
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
     "conflict-files-obsidian-git.md",
     "Base_目錄.base",
     "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901626.jpg",
@@ -271,7 +268,6 @@
     "(WORK) 工作/MISC_works/assets",
     "(WORK) 工作/MISC_works",
     "(LEARN) 學習筆記/ASML_人類史上最複雜的機器 1.canvas",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
     "TaskNotes/Views/kanban-default.base",
     "Excalidraw/Excalidraw_streamer_clarification.md",
