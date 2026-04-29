@@ -15,9 +15,9 @@
 4. to standardize the apple-to-apple data set to minimize the issues like discounting from period to period
 5. **to dive deep into the significance of items in terms of material items.**
 
-	**Step 1** - to extract Top N (e.g. 50) largest value material items from each engine on the previous engine pool (e.g. ESV) in terms of engine type & work type 
-	**Step 2** - to merge into a list of significant material items across the engines
-	**Step 3** - to calculate the aggregation value via the list of significant material items in comparison with new engine
+	**Step 1** - Extract the Top N (for example, 50) material items with the largest values from each engine in the previous engine pool (such as ESV), categorized by engine type and work type.  
+	**Step 2** - Combine these into a list of significant material items across all engines.  
+	**Step 3** - Calculate the aggregate value using this list of significant material items, and compare it with the selected engine.
 
 6. to compare items across three costing categories
 
