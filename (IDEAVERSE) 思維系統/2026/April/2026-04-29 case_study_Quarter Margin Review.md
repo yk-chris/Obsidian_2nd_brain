@@ -27,7 +27,7 @@ GIVEN "Material_ISP_budget" and "Material_ISP_actual" sheet is stated on the Exc
 
 ```
 ### Definition
-- A material item is constituted from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
+- A material item is defined by the combination of Module (found in column AX), IPC Location (found in column AA), PartNo (found in column N), and PartDesc (found in column O).
 
 
 ### Procedure
@@ -36,7 +36,7 @@ From the sheet named "Material_ISP_budget", to create individual sheets by uniqu
 AND add one more column named "Rank" to calculate each row to rank it as 1 if "Discount Selling Price" located in column W is the largest value and so on.
 
 // to construct the Top-rank consolidation sheet
-After that , to combine a series of unique material items on a new sheet called "TopRank_{EngineType}_{Work LV}" from each row within Top 50 ranking of each "EngineSerialNumber" sheet with columns of | Module | IPC Location | PartNo | PartDesc | ...
+Afterwards, create a new sheet named "TopRank{EngineType}_{Work LV}" that combines a series of unique material items from each row within the Top 50 ranking of every "EngineSerialNumber" sheet with columns of | Module | IPC Location | PartNo | PartDesc | ...
 
 Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to 
 1. add a column named "located_sheet" to specify which sheet is included for each material item and a column named "number_occurrence" to count for how many EngineSerialNumber included each material item
