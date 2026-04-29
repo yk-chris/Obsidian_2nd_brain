@@ -42,10 +42,10 @@ Afterwards, create a new sheet named "TopRank{EngineType}_{Work LV}" that combin
 
 Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to 
 1. add a column named "located_sheet" to specify which sheet is included for each material item and a column named "number_occurrence" to count for how many EngineSerialNumber included each material item
-2. add a column named "Avg_QTY" to calculate average QTY from sum of QTY (located in column Q) to divide by how many engine is count on this EngineType and Work LV
-3. add a column named "Avg_SapUnitPrice" to calculate average SapUnitPrice from sum of SapUnitPrice (located in column AR) to divide by how many engine is count on this EngineType and Work LV
-4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from sum of PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
-5. add a column named "Avg_DiscountSellingPrice" to calculate average Discount Selling Price from sum of Discount Selling Price (located in column W) to divide by how many engine is count on this EngineType and Work LV
+2. add a column named "Avg_QTY" to calculate average QTY from the total QTY (located in column Q) to divide by how many engine is count on this EngineType and Work LV
+3. add a column named "Avg_SapUnitPrice" to calculate average SapUnitPrice from the total SapUnitPrice (located in column AR) to divide by how many engine is count on this EngineType and Work LV
+4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from the total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
+5. add a column named "Avg_DiscountSellingPrice" to calculate average Discount Selling Price from the total Discount Selling Price (located in column W) to divide by how many engine is count on this EngineType and Work LV
 
 // to find the difference between each engine from actual vs budget
 To create a new sheet named "materials_actual_budget" with following columns of | EngineType | Work LV | SalesOrder | EngineSerialNumber | Module | IPC Location | PartNo | PartDesc | ...
@@ -59,7 +59,7 @@ From this "materials_actual_budget" sheet,
 5. Add a column called "diff_SapUnitPrice" that calculates the difference by subtracting "SapUnitPrice" from "avg_SapUnitPrice_budget".
 6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "Discount Selling Price" from "avg_DiscountSellingPrice_budget".
-
+8. Add a 
    
 ```
 
