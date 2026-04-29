@@ -81,7 +81,7 @@ views:
       - file.mtime
       - file.embeds
     sort:
-      - property: file.folder
+      - property: file.ctime
         direction: DESC
     columnSize:
       file.name: 350
