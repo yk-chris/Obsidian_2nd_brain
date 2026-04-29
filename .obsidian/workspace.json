@@ -26,16 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-29.md",
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-29 input_ouput_module (fine-tune).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29"
+              "title": "2026-04-29 input_ouput_module (fine-tune)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,12 +273,13 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "986c05e0de2d783b",
+  "active": "2c5ddcbeb00805db",
   "lastOpenFiles": [
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29/file-20260429091448110.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29/file-20260429091422726.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-29 input_ouput_module (fine-tune).md",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29 input_ouput_module (fine-tune)",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29 input_ouput_module (fine-tune)/file-20260429091525698.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29 input_ouput_module (fine-tune)/file-20260429091525702.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-29.md",
     "Base_目錄.base",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
@@ -296,7 +296,6 @@
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445730.jpg",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445729.jpg",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445727.jpg",
-    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445725.jpg",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器",
     "(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
     "Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md",
@@ -329,7 +328,6 @@
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
-    "(FINANCE) 財務筆記/TA技術分析/assets/ASML -EUR 842.70-",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "(LEARN) 學習筆記/map_群核科技.canvas"
   ]
