@@ -5,6 +5,18 @@
       "path": "Excalidraw/Excalidraw_streamer_clarification.md"
     },
     {
+      "basename": "invest-fundamental-analysis",
+      "path": "(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
+    },
+    {
+      "basename": "convert-gherkin",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin.md"
+    },
+    {
+      "basename": "convert-gherkin-v2",
+      "path": "(SKILLs) 技能/skill_convertor/convert-gherkin-v2.md"
+    },
+    {
       "basename": "map_Induction_WSI_workflow",
       "path": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
     },
