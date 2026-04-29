@@ -33,7 +33,7 @@ From the sheet named "Material_ISP_budget", to create individual sheets by uniqu
 AND add one more column named "Rank" to calculate each row to rank it as 1 if "Discount Selling Price" located in column W is the largest value and so on.
 
 // to construct the Top-rank consolidation sheet
-After that , to combine a series of unique material items on a new sheet called "TopRank_{EngineType}_{Work LV}" from Top 50 ranking of all sheets of "EngineSerialNumber" with columns of | Module | IPC Location | PartNo | PartDesc | ...
+After that , to combine a series of unique material items on a new sheet called "TopRank_{EngineType}_{Work LV}" from each row within Top 50 ranking of each sheet of "EngineSerialNumber" with columns of | Module | IPC Location | PartNo | PartDesc | ...
 
 Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to 
 1. add a column named "located_sheet" to specify which sheet is included for each material item and a column named "number_occurrence" to count for how many EngineSerialNumber included each material item
