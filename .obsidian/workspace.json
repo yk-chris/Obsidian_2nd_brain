@@ -14,9 +14,9 @@
               "type": "bases",
               "state": {
                 "file": "Base_目錄.base",
-                "viewName": "list_work"
+                "viewName": "view_work"
               },
-              "icon": "lucide-list",
+              "icon": "lucide-table",
               "title": "Base_目錄"
             }
           }

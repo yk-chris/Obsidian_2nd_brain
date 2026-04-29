@@ -28,7 +28,7 @@ views:
         - file.folder.contains("work")
         - '!file.name.contains("jpg")'
     groupBy:
-      property: file.folder
+      property: dateModified
       direction: ASC
     order:
       - file.name
