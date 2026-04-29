@@ -22,6 +22,9 @@
 6. to compare items across three costing categories
 
 
+### Feature: to create a quarter material review analysis
+GIVEN "Material_ISP_budget" and "Material_ISP_actual" sheet is stated on the Excel
+
 ```
 ### Definition
 - A material item is combined from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
