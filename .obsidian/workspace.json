@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7279c697d7e95fa5",
+        "id": "9056cff8a38a27c0",
         "type": "tabs",
         "children": [
           {
-            "id": "63308065e9bf126d",
+            "id": "2c5ddcbeb00805db",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -245,7 +245,7 @@
       "claudian:Open Claudian": false,
       "tasknotes:Open calendar view": false,
       "templates:Insert template": true,
-      "bases:Create new base": false,
+      "bases:Create new base": true,
       "obsidian-git:Open Git source control": true,
       "random-note:Open random note": true,
       "tasknotes:Open mini calendar view": true,
@@ -259,10 +259,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "63308065e9bf126d",
+  "active": "2c5ddcbeb00805db",
   "lastOpenFiles": [
-    "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "Base_目錄.base",
+    "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
     "20260425_AI-遠見.canvas",
     "Gary Chen.md",
@@ -308,7 +308,6 @@
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$264, 4.5, 2.0].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [$517, 3.3, 4.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMZN [$251.97, 4.0, 2.0].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$620.3, 4.0, 2.0].md",
     "(SKILLs) 技能/map_invest_skills.canvas",
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
