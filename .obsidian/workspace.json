@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bab06e931e41be64",
+        "id": "ff367bf2f1f95b88",
         "type": "tabs",
         "children": [
           {
-            "id": "b066410ceb2e1ca1",
+            "id": "6cd540bc2a80d013",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -256,8 +260,18 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "b066410ceb2e1ca1",
+  "active": "6cd540bc2a80d013",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Base_目錄.base",
+    "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901626.jpg",
+    "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901624.jpg",
+    "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)",
+    "(WORK) 工作/MISC_works/input_ouput_module (fine-tune).md",
+    "(WORK) 工作/MISC_works/assets",
+    "(WORK) 工作/MISC_works",
+    "(LEARN) 學習筆記/ASML_人類史上最複雜的機器 1.canvas",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
     "(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
     "TaskNotes/Views/kanban-default.base",
     "Excalidraw/Excalidraw_streamer_clarification.md",
@@ -267,7 +281,6 @@
     "(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
     "Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428173056624.jpg",
-    "conflict-files-obsidian-git.md",
     "(LEARN) 學習筆記/map_HBM.canvas",
     "ASML_人類史上最複雜的機器.canvas",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器",
@@ -280,8 +293,6 @@
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445727.jpg",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445725.jpg",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445722.jpg",
-    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445720.jpg",
-    "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445717.jpg",
     "assets/Untitled",
     "assets",
     "Clippings/2026/April/Clip_20260427 - 一口氣看懂美國頁岩油，美國產油第一為何死盯中東？｜美國為了石油犧牲水污染，中國頁岩油革命能否成功，石油美元根基動搖？【屈機研究所 EP19】.md",
@@ -300,19 +311,11 @@
     "(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md",
     "(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMAT [$294.67, 4.2, 3.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$264, 4.5, 2.0].md",
     "(SKILLs) 技能/map_invest_skills.canvas",
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas",
-    "(FINANCE) 財務筆記/TA技術分析/assets/ASML -EUR 842.70-",
-    "(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-",
-    "(FINANCE) 財務筆記/TA技術分析/assets/BABA -$138.75-",
-    "(FINANCE) 財務筆記/TA技術分析/assets/MU -$517.00-",
     "(LEARN) 學習筆記/map_群核科技.canvas",
-    "(LEARN) 學習筆記/map_原油.canvas",
-    "20260425_AI-遠見.canvas"
+    "(LEARN) 學習筆記/map_原油.canvas"
   ]
 }

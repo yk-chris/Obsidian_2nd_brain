@@ -1,0 +1,88 @@
+views:
+  - type: list
+    name: list_work
+    filters:
+      and:
+        - file.folder.contains("work")
+        - '!file.name.contains("jpg")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - dateModified
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 563
+      file.tags: 202
+    markers: number
+    indentProperties: false
+    separator: " | "
+  - type: list
+    name: list_finance
+    filters:
+      and:
+        - file.folder.contains("finance")
+        - '!file.path.contains("asset")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    calendarView: dayGridMonth
+    imageAspectRatio: 0.8
+    indentProperties: false
+  - type: list
+    name: list_skill_set
+    filters:
+      and:
+        - '!file.name.contains("jpg")'
+        - file.folder.contains("skills")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - description
+      - file.ctime
+    markers: bullet
+    separator: " | "
+    indentProperties: true
+  - type: cards
+    name: card_finance
+    filters:
+      and:
+        - file.folder.contains("finance")
+        - '!file.path.contains("asset")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    calendarView: dayGridMonth
+    imageAspectRatio: 0.8
+  - type: table
+    name: Overviews
+    filters:
+      and:
+        - '!file.name.contains("jpg")'
+        - '!file.name.contains("png")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - file.ctime
+      - file.mtime
+      - file.embeds
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 350
+      file.tags: 216
