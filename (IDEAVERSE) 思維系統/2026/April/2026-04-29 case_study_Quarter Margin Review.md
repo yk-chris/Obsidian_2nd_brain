@@ -45,7 +45,7 @@ Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to
 2. add a column named "Avg_QTY" to calculate average QTY from Total QTY (located in column Q) to divide by how many engine is count on this EngineType and Work LV
 3. add a column named "Avg_SapUnitPrice" to calculate average SapUnitPrice from Total SapUnitPrice (located in column AR) to divide by how many engine is count on this EngineType and Work LV
 4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
-5. add a column named "Avg_DiscountSellingPrice" to calculate average DiscountSellingPrice from Total DiscountSellingPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
+5. add a column named "Avg_DiscountSellingPrice" to calculate average Discount Selling Price from Total Discount Selling Price (located in column W) to divide by how many engine is count on this EngineType and Work LV
 
 // to find the difference between each engine from actual vs budget
 To create a new sheet named "materials_actual_budget" with following columns of | EngineType | Work LV | SalesOrder | EngineSerialNumber | Module | IPC Location | PartNo | PartDesc | ...
@@ -58,7 +58,7 @@ From this "materials_actual_budget" sheet,
 4. Add a column called "Avg_SapUnitPrice_budget" to reference "Avg_SapUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 5. Add a column called "diff_SapUnitPrice" that calculates the difference by subtracting "SapUnitPrice" from "avg_SapUnitPrice_budget".
 6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
-7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "DiscountSellingPrice" from "avg_DiscountSellingPrice_budget".
+7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "Discount Selling Price" from "avg_DiscountSellingPrice_budget".
 
    
 ```
