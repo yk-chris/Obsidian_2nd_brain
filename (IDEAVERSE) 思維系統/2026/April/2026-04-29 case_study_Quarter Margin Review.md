@@ -24,18 +24,18 @@
 
 ```
 ### Definition
-- A material item is combined from IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
+- A material item is combined from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
 
 
 ### Procedure
 // to add Ranking column on each engine
-From the sheet named "Material_ISP_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber. Moreover, to put a series of columns including | EngineType | Work LV | SalesOrder | EngineSerialNumber | CustomerCode | ValType | IPC Location | PartNo | PartDesc | Appendix | Qty | SapUnitPrice | PoUnitPrice | Discount Selling Price |  on each EngineSerialNumber sheet 
+From the sheet named "Material_ISP_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber. Moreover, to put a series of columns including | EngineType | Work LV | SalesOrder | EngineSerialNumber | CustomerCode | ValType | Appendix | Module | IPC Location | PartNo | PartDesc | Qty | SapUnitPrice | PoUnitPrice | Discount Selling Price | on each EngineSerialNumber sheet 
 AND add one more column named "Rank" to calculate each row to rank it as 1 if "Discount Selling Price" located in column W is the largest value and so on.
 
 // to construct the Top50-rank consolidation sheet
 After that , to combine a series of unique material items on a new sheet called "Top50_{EngineType}_{Work LV}" from Top 50 ranking of all sheets of "EngineSerialNumber" with columns of | Module | IPC Location | PartNo | PartDesc | ...
 
-Within "Top50_{EngineType}_{Work LV}" sheet, 
+Within "Top50_{EngineType}_{Work LV}" sheet, to continue to 
 1. add a column named "located_sheet" to specify which sheet is included for each material item and a column named "number_occurrence" to count for how many EngineSerialNumber included each material item
 2. add a column named "Avg_QTY" to calculate average QTY from Total QTY (located in column Q) to divide by how many engine is count on this EngineType and Work LV
 3. add a column named "Avg_SapUnitPrice" to calculate average SapUnitPrice from Total SapUnitPrice (located in column AR) to divide by how many engine is count on this EngineType and Work LV
