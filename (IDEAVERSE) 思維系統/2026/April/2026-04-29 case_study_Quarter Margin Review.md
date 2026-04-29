@@ -47,12 +47,18 @@ Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to
 4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from the total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
 5. add a column named "Avg_DiscountSellingPrice" to calculate average Discount Selling Price from the total Discount Selling Price (located in column W) to divide by how many engine is count on this EngineType and Work LV
 
+// to add ranking on the ranking column 
+Form the original "Material_ISP_actual" sheet, 
+add one more column named "Rank" to calculate each row to rank it as 1 within each EngineSerialNumber located in column B if "Discount Selling Price" located in column W is the largest value and so on.
+
+
 // to find the difference between each engine from actual vs budget
 To create a new sheet named "materials_actual_budget" with following columns of | EngineType | Work LV | SalesOrder | EngineSerialNumber | Module | IPC Location | PartNo | PartDesc | ...
 
 From this "materials_actual_budget" sheet, 
 
-1. Check if the material item exists in both "Material_ISP_actual" sheet and one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules, IPC Location, PartNo, and PartDesc as a single matching point for a material item.
+1. Check if the material item exists in both "Material_ISP_actual" sheet and one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules, IPC Location, PartNo, and PartDesc as a unique key matching for a material item and must take all different module (NM, 01, ..., 08) into consideration.
+
 2. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 3. Add a column called "diff_QTY" that calculates the difference by subtracting "QTY" from "avg_QTY_budget".
 4. Add a column called "Avg_SapUnitPrice_budget" to reference "Avg_SapUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
