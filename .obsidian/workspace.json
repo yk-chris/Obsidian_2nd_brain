@@ -19,8 +19,35 @@
               "icon": "lucide-list",
               "title": "Base_目錄"
             }
+          },
+          {
+            "id": "650090c5e6b28f2f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_streamer_clarification"
+            }
+          },
+          {
+            "id": "6af6b178527c366d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-29"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,10 +286,15 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "986c05e0de2d783b",
+  "active": "6af6b178527c366d",
   "lastOpenFiles": [
-    "(WORK) 工作/MISC_works/input_ouput_module (fine-tune).md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-29.md",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "Base_目錄.base",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
+    "(WORK) 工作/MISC_works/input_ouput_module (fine-tune).md",
     "TaskNotes/Views/kanban-default.base",
     "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)",
     "(WORK) 工作/MISC_works/assets/2026-04-29 input_ouput_module (fine-tune)",
@@ -274,15 +306,12 @@
     "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901626.jpg",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
-    "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
     "20260425_AI-遠見.canvas",
     "Gary Chen.md",
     "(FINANCE) 財務筆記/生產要素/assets/HBM（高頻寬記憶體）全球分析報告/file-20260413075736852.jpg",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-/file-20260426182911288.jpg",
     "Untitled.base",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428173056624.jpg",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445733.jpg",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445731.jpg",
     "(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445730.jpg",
@@ -309,7 +338,6 @@
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMAT [$294.67, 4.2, 3.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$264, 4.5, 2.0].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [$517, 3.3, 4.5].md",
     "(SKILLs) 技能/map_invest_skills.canvas",
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
