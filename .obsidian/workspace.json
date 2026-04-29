@@ -8,30 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c5ddcbeb00805db",
+            "id": "986c05e0de2d783b",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
                 "file": "Base_目錄.base",
-                "viewName": "view_work"
+                "viewName": "list_work"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-list",
               "title": "Base_目錄"
-            }
-          },
-          {
-            "id": "986c05e0de2d783b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-29 input_ouput_module (fine-tune).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-29 input_ouput_module (fine-tune)"
             }
           }
         ]
@@ -273,14 +259,20 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "2c5ddcbeb00805db",
+  "active": "986c05e0de2d783b",
   "lastOpenFiles": [
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-29 input_ouput_module (fine-tune).md",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29 input_ouput_module (fine-tune)",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29 input_ouput_module (fine-tune)/file-20260429091525698.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29 input_ouput_module (fine-tune)/file-20260429091525702.jpg",
-    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29",
+    "(WORK) 工作/MISC_works/input_ouput_module (fine-tune).md",
     "Base_目錄.base",
+    "TaskNotes/Views/kanban-default.base",
+    "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)",
+    "(WORK) 工作/MISC_works/assets/2026-04-29 input_ouput_module (fine-tune)",
+    "(WORK) 工作/MISC_works/assets",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-27.md",
+    "(WORK) 工作/MISC_works",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29 input_ouput_module (fine-tune)",
+    "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901624.jpg",
+    "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901626.jpg",
+    "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29",
     "(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
     "20260425_AI-遠見.canvas",
@@ -300,13 +292,7 @@
     "(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
     "Clippings/2026/April/Clip_20260428 - 人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】.md",
     "(LEARN) 學習筆記/ASML_人類史上最複雜的機器 1.canvas",
-    "assets/ASML_人類史上最複雜的機器",
-    "assets/Untitled",
-    "assets",
     "Clippings/2026/April/Clip_20260427 - 一口氣看懂美國頁岩油，美國產油第一為何死盯中東？｜美國為了石油犧牲水污染，中國頁岩油革命能否成功，石油美元根基動搖？【屈機研究所 EP19】.md",
-    "TaskNotes/Views/calendar-default.base",
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-27.md",
-    "TaskNotes/Views/kanban-default.base",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$419.76, 4.8, 1.5].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [$37.98, 4.0, 1.5].md",

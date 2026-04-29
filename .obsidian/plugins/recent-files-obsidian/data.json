@@ -5,8 +5,16 @@
       "path": "Base_目錄.base"
     },
     {
-      "basename": "2026-04-29 input_ouput_module (fine-tune)",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-29 input_ouput_module (fine-tune).md"
+      "basename": "input_ouput_module (fine-tune)",
+      "path": "(WORK) 工作/MISC_works/input_ouput_module (fine-tune).md"
+    },
+    {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
+      "basename": "2026-04-27",
+      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-27.md"
     },
     {
       "basename": "MoM_2026-04-21_iMRO_integration_workshop",
@@ -59,14 +67,6 @@
     {
       "basename": "calendar-default",
       "path": "TaskNotes/Views/calendar-default.base"
-    },
-    {
-      "basename": "2026-04-27",
-      "path": "(IDEAVERSE) 思維系統/2026/April/2026-04-27.md"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
     },
     {
       "basename": "learn_Power_BI",
