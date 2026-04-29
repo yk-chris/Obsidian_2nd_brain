@@ -59,7 +59,7 @@ From this "materials_actual_budget" sheet,
 5. Add a column called "diff_SapUnitPrice" that calculates the difference by subtracting "SapUnitPrice" from "avg_SapUnitPrice_budget".
 6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "Discount Selling Price" from "avg_DiscountSellingPrice_budget".
-8. Add a column called "rank_diff_value" to rank the largest value on the "diff_DiscountSellingPrice" column as 1 for each EngineSerialNumber and so on
+8. Add a column named "rank_diff_value" that ranks the highest value in the "diff_DiscountSellingPrice" column as 1 for each EngineSerialNumber, continuing in order for the remaining values.
    
 ```
 
