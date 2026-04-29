@@ -27,7 +27,7 @@ GIVEN "Material_ISP_budget" and "Material_ISP_actual" sheet is stated on the Exc
 
 ```
 ### Definition
-- A material item is combined from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
+- A material item is constituted from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
 
 
 ### Procedure
@@ -45,7 +45,7 @@ Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to
 4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
 5. add a column named "Avg_DiscountSellingPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
 
-// to find the difference on each engine from actual vs budget
+// to find the difference between each engine from actual vs budget
 To create a new sheet named "materials_actual_budget" with columns of | EngineType | Work LV | SalesOrder | EngineSerialNumber | Module | IPC Location | PartNo | PartDesc | ...
 
 From this "materials_actual_budget" sheet, 
