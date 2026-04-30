@@ -50,7 +50,7 @@ Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to
 // to add ranking on the ranking column 
 Form the original "Material_ISP_actual" sheet, 
 
-1. Add an additional column called "Rank_actual" to rank each row as 1 within each EngineSerialNumber in column B if the "Discount Selling Price" in column W is the highest value, and continue ranking accordingly. Exclude any rows where the "IPC Location" in column AA starts with 'TR' from the ranking process.
+Add an additional column called "Rank_actual" to rank each row as 1 within each EngineSerialNumber in column B if the "Discount Selling Price" in column W is the highest value, and continue ranking accordingly. Exclude any rows where the "IPC Location" in column AA starts with 'TR' from the ranking process.
 
 // to find the difference between each engine from actual vs budget
 To create a new sheet named "materials_actual_budget" to extract the full table from "Material_ISP_actual" with following columns of | EngineType | Work LV | SalesOrder | EngineSerialNumber | Module | IPC Location | PartNo | PartDesc | Appendix | Rank_actual | ...
