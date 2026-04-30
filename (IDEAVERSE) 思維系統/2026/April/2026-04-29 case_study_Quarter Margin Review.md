@@ -79,10 +79,7 @@ From this "materials_actual_budget" sheet,
 - IPC Location must be converted into "Text" format instead of a number
 - Module must be converted by mapping table as below:
   {
-	"01":"M31",
-	"02":"M32",
-	"03":"M33",
-	"04":"M41",
+	"01":"M31","02":"M32","03":"M33","04":"M41",
 	"05":"M51",
 	"06":"M61",
 	"07":"M34",
@@ -136,7 +133,7 @@ Remove all formulas from every cell and replace them with their corresponding va
 ```
 
 ```
-// give an insight
+// give an insight summary
 ## Task: 
 Generate an Insight Summary for Engine [ENGINE_SERIAL_NUMBER] [PERIOD] (Actual vs Budget) The active sheet is **'[SHEET_NAME]'** (e.g., `41393_Q1`).
  
@@ -182,14 +179,33 @@ Generate an Insight Summary for Engine [ENGINE_SERIAL_NUMBER] [PERIOD] (Actual v
 - **Unique Part Numbers** — count distinct values in the PartNo column 
 #### 3. 📊 APPENDIX BREAKDOWN (starting ~Row 12) 
 Build a table: **Appendix | Count | Total Disc. Selling Price | % of Total** Three rows: 
-- **C (Customer Serviceable)** — count and sum selling price where Appendix = "C" - **T (New / Replacements)** — count and sum selling price where Appendix starts with "T" (covers T, T1, T4 variants; use wildcard matching) - **TOTAL** — sum of the above two rows; percentage should equal 100% 
-#### 4. 🏆 TOP 50 vs NON-TOP 50 (starting ~Row 18) Build a table: **Category | Count | Total Disc. Selling Price | % of Total** Three rows: 
+- **C (Customer Serviceable)** 
+— count and sum selling price where Appendix = "C" 
+- **T (New / Replacements)** 
+— count and sum selling price where Appendix starts with "T" (covers T, T1, T4 variants; use wildcard matching) 
+- **TOTAL** 
+— sum of the above two rows; percentage should equal 100% 
+#### 4. 🏆 TOP 50 vs NON-TOP 50 (starting ~Row 18) 
+Build a table: **Category | Count | Total Disc. Selling Price | % of Total** Three rows: 
 - **TOP 50 (with ESV)** 
 — count and sum selling price where the TOP50 flag = "Yes" 
-- **Non-TOP 50** — count and sum selling price where the TOP50 flag = "No" - **TOTAL** — sum of the above two rows 
-#### 5. 📈 ACTUAL vs BUDGET VARIANCE — TOP 50 Items (starting ~Row 24) Build a table: **Metric | Avg Actual | Avg Budget | Avg Variance** Three rows, each averaging only rows where TOP50 flag = "Yes": - **Quantity** — average of actual Qty, average of budget Qty, average of Qty variance - **PO Unit Price** — average of actual PO price, average of budget PO price, average of PO price variance - **Disc. Selling Price** — average of actual selling price, average of budget selling price, average of selling price variance 
-#### 6. 🔧 MODULE BREAKDOWN (starting ~Row 30) Build a table: **Module | Item Count | Total Disc. Selling Price** One row per distinct module value found in column E (typically: 1, 2, 3, 4, 5, 6, 7, 8, NM). For each: - Count rows belonging to that module - Sum the selling price for that module - Add a TOTAL row at the bottom 
-#### 7. 💰 TOP 10 HIGHEST VALUE ITEMS (after Module section) Build a table: **Rank | PartNo | PartDesc | Module | Qty | Discount Selling Price** Find the 10 items with the largest Discount Selling Price. For each rank (1–10): - Look up the corresponding PartNo, PartDesc, Module, and Qty from the row with the k-th largest selling price 
+- **Non-TOP 50** — count and sum selling price where the TOP50 flag = "No" 
+- **TOTAL** — sum of the above two rows 
+#### 5. 📈 ACTUAL vs BUDGET VARIANCE — TOP 50 Items (starting ~Row 24) 
+Build a table: **Metric | Avg Actual | Avg Budget | Avg Variance** Three rows, each averaging only rows where TOP50 flag = "Yes": 
+- **Quantity** 
+— average of actual Qty, average of budget Qty, average of Qty variance 
+- **PO Unit Price** 
+— average of actual PO price, average of budget PO price, average of PO price variance 
+- **Disc. Selling Price** 
+— average of actual selling price, average of budget selling price, average of selling price variance 
+#### 6. 🔧 MODULE BREAKDOWN (starting ~Row 30) 
+Build a table: **Module | Item Count | Total Disc. Selling Price** One row per distinct module value found in column E (typically: 1, 2, 3, 4, 5, 6, 7, 8, NM). For each: 
+- Count rows belonging to that module - Sum the selling price for that module 
+- Add a TOTAL row at the bottom 
+#### 7. 💰 TOP 10 HIGHEST VALUE ITEMS (after Module section) 
+Build a table: **Rank | PartNo | PartDesc | Module | Qty | Discount Selling Price** Find the 10 items with the largest Discount Selling Price. For each rank (1–10): 
+- Look up the corresponding PartNo, PartDesc, Module, and Qty from the row with the k-th largest selling price 
 
 #### 8. ⚠️ VARIANCE HIGHLIGHTS (after Top 10 section) Build a label/value summary with: 
 - **Items where actual Qty exceeds budget avg** 
@@ -200,7 +216,8 @@ Build a table: **Appendix | Count | Total Disc. Selling Price | % of Total** Thr
 - **Total Actual Disc. Selling Price** — sum of all selling prices in column N 
 - **Total Budget Avg Disc. Selling Price (TOP50)** — sum of budget selling price for TOP50-flagged items only 
 - **Net Variance (TOP50, Actual − Budget)** 
-— total actual selling price for TOP50 items minus total budget selling price for TOP50 items --- 
+— total actual selling price for TOP50 items minus total budget selling price for TOP50 items 
+--- 
 
 ### Formatting Requirements 
 - Use **emoji section headers** (📋, 📊, 🏆, 📈, 🔧, 💰, ⚠️) in column W 
