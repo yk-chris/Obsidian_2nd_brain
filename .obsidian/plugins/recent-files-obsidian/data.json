@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "invest-stock-valuation",
+      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
+      "basename": "Base_目錄",
+      "path": "Base_目錄.base"
+    },
+    {
+      "basename": "2026-04-29 case_study_Quarter Margin Review",
+      "path": "00-(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md"
+    },
+    {
       "basename": "file-20260427101330748",
       "path": "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "ASML_人類史上最複雜的機器",
       "path": "02-(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas"
-    },
-    {
-      "basename": "2026-04-29 case_study_Quarter Margin Review",
-      "path": "00-(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md"
     },
     {
       "basename": "file-20260428102445700",
@@ -145,10 +153,6 @@
       "path": "04-(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901626.jpg"
     },
     {
-      "basename": "Base_目錄",
-      "path": "Base_目錄.base"
-    },
-    {
       "basename": "MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略",
       "path": "04-(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "kanban-default",
       "path": "TaskNotes/Views/kanban-default.base"
-    },
-    {
-      "basename": "invest-fundamental-analysis",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
     }
   ],
   "omittedPaths": [],

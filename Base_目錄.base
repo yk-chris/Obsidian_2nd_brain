@@ -1,3 +1,5 @@
+formulas:
+  Untitled: ""
 views:
   - type: list
     name: list_work
@@ -32,6 +34,7 @@ views:
       direction: ASC
     order:
       - file.name
+      - formula.Untitled
     calendarView: dayGridMonth
     imageAspectRatio: 0.8
     indentProperties: false
