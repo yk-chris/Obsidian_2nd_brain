@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
+                "file": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "invest-fundamental-analysis"
+              "title": "00700.HK [$556.14, 4.0, 2.0]"
             }
           }
         ]
@@ -249,15 +249,19 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "7de3632fac30ec1b",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md",
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md",
+    "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
+    "03-(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md",
+    "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "03-(FINANCE) 財務筆記/企業概要/阿里巴巴（BABA）.md",
     "03-(FINANCE) 財務筆記/TA技術分析/TSM [$398].md",
     "03-(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0].md",
     "03-(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 556.14].md",
-    "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "Base_目錄.base",
     "00-(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
@@ -299,10 +303,6 @@
     "Gary Chen.md",
     "Untitled.base",
     "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器",
-    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md",
-    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$419.76, 4.8, 1.5].md",
-    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/PLTR [$37.98, 4.0, 1.5].md",
-    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00388.HK [$290.76, 4.0, 3.5].md",
     "01-(SKILLs) 技能/map_invest_skills.canvas",
     "02-(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
