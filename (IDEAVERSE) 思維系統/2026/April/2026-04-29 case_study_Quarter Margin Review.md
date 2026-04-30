@@ -31,7 +31,7 @@ GIVEN "Material_ISP_budget" and "Material_ISP_actual" sheet is stated on the Exc
 - A material item is defined by the combination of Module (found in column AX), IPC Location (found in column AA), PartNo (found in column N), and PartDesc (found in column O).
 
 ### Contraint
-- PartNo must be converted into "Text" format by adding "'" before the number to avoid scientific (E) notation issue after Text conversion
+- PartNo must be converted into "Text" format by remaining the original number to avoid scientific (E) notation display issue after Text conversion
 - IPC Location must be converted into "Text" format instead of a number
 - Module must be converted by mapping table as below:
   {
