@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Duolingo-上市壓力-20260418",
       "path": "wiki/sources/business/Duolingo-上市壓力-20260418.md"
-    },
-    {
-      "basename": "index",
-      "path": "wiki/index.md"
     },
     {
       "basename": "llm-wiki",
