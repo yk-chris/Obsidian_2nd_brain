@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
       "basename": "index",
       "path": "wiki/index.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     },
     {
       "basename": "llm-wiki",
