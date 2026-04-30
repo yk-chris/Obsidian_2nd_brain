@@ -1,5 +1,6 @@
 ---
 title: Ingest Log
+updated: 2026-05-01
 ---
 ```
 ## 2026-05-01 14:32 — INGEST Clippings/example.md
