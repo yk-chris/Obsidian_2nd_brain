@@ -134,7 +134,12 @@ Generate an Insight Summary for Engine [ENGINE_SERIAL_NUMBER] [PERIOD] (Actual v
 ### Insight Summary Sections to Build (in columns W–AB, starting row 1) Build each section sequentially. Use section header emoji labels. Format currency as `$#,##0.00` and percentages as `0.0%`. --- 
 
 #### 1. 📋 HEADER (Row 1) - Place a title: **"INSIGHT SUMMARY — Engine [ESN] [PERIOD] Actual vs Budget"** - Pull the ESN value from the data itself (column D). 
-#### 2. 📋 OVERVIEW (starting ~Row 3) Build a label/value table with: - **Engine Type** — pull from the first data row of column A - **Engine Serial Number** — pull from the first data row of column D - **Sales Order** — pull from the first data row of column C - **Work Level** — pull from the first data row of column B - **Total Line Items** — count all non-empty rows in the data (exclude header) - **Unique Part Numbers** — count distinct values in the PartNo column 
+#### 2. 📋 OVERVIEW (starting ~Row 3) Build a label/value table with: - **Engine Type** 
+— pull from the first data row of column A 
+- **Engine Serial Number** — pull from the first data row of column D 
+- **Sales Order** — pull from the first data row of column C 
+- **Work Level** — pull from the first data row of column B 
+- **Total Line Items** — count all non-empty rows in the data (exclude header) - **Unique Part Numbers** — count distinct values in the PartNo column 
 #### 3. 📊 APPENDIX BREAKDOWN (starting ~Row 12) Build a table: **Appendix | Count | Total Disc. Selling Price | % of Total** Three rows: - **C (Customer Serviceable)** — count and sum selling price where Appendix = "C" - **T (New / Replacements)** — count and sum selling price where Appendix starts with "T" (covers T, T1, T4 variants; use wildcard matching) - **TOTAL** — sum of the above two rows; percentage should equal 100% 
 #### 4. 🏆 TOP 50 vs NON-TOP 50 (starting ~Row 18) Build a table: **Category | Count | Total Disc. Selling Price | % of Total** Three rows: - **TOP 50 (with ESV)** — count and sum selling price where the TOP50 flag = "Yes" - **Non-TOP 50** — count and sum selling price where the TOP50 flag = "No" - **TOTAL** — sum of the above two rows 
 #### 5. 📈 ACTUAL vs BUDGET VARIANCE — TOP 50 Items (starting ~Row 24) Build a table: **Metric | Avg Actual | Avg Budget | Avg Variance** Three rows, each averaging only rows where TOP50 flag = "Yes": - **Quantity** — average of actual Qty, average of budget Qty, average of Qty variance - **PO Unit Price** — average of actual PO price, average of budget PO price, average of PO price variance - **Disc. Selling Price** — average of actual selling price, average of budget selling price, average of selling price variance 
