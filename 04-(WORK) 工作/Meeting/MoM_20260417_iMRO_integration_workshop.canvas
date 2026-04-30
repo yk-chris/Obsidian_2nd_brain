@@ -1,41 +1,9 @@
 {
-	"nodes": [
-		{
-			"id": "6a23a2ba24fa24a5",
-			"type": "file",
-			"file": "04-(WORK) 工作/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417110645467.jpg",
-			"x": -596,
-			"y": -734,
-			"width": 573,
-			"height": 262
-		},
-		{
-			"id": "83f65ec88af096ac",
-			"type": "file",
-			"file": "04-(WORK) 工作/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417104127876.jpg",
-			"x": -596,
-			"y": -424,
-			"width": 573,
-			"height": 325
-		},
-		{
-			"id": "3b24e2ce18538457",
-			"type": "file",
-			"file": "04-(WORK) 工作/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417111039368.jpg",
-			"x": -596,
-			"y": -36,
-			"width": 573,
-			"height": 322
-		},
-		{
-			"id": "e91f454cc52220e5",
-			"type": "file",
-			"file": "04-(WORK) 工作/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417112348500.jpg",
-			"x": -596,
-			"y": 326,
-			"width": 573,
-			"height": 322
-		}
+	"nodes":[
+		{"id":"6a23a2ba24fa24a5","type":"file","file":"04-(WORK) 工作/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417110645467.jpg","x":-596,"y":-734,"width":573,"height":262},
+		{"id":"83f65ec88af096ac","type":"file","file":"04-(WORK) 工作/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417104127876.jpg","x":-596,"y":-424,"width":573,"height":325},
+		{"id":"3b24e2ce18538457","type":"file","file":"04-(WORK) 工作/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417111039368.jpg","x":-596,"y":-36,"width":573,"height":322},
+		{"id":"e91f454cc52220e5","type":"file","file":"04-(WORK) 工作/Meeting/assets/MoM_20260417_iMRO_integration_workshop/file-20260417112348500.jpg","x":-596,"y":326,"width":573,"height":322}
 	],
-	"edges": []
+	"edges":[]
 }
