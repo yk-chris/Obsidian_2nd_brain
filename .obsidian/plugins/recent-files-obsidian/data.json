@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "GOOGL [$370, 4.5, 2.0]",
-      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$370, 4.5, 2.0].md"
-    },
-    {
-      "basename": "MSFT [$520, 4.8, 1.5]",
-      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md"
+      "basename": "GOOGL [$370]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$370].md"
     },
     {
       "basename": "MSFT [$520]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md"
     },
     {
-      "basename": "GOOGL [$370]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$370].md"
+      "basename": "特斯拉 (TSLA)",
+      "path": "03-(FINANCE) 財務筆記/企業概要/特斯拉 (TSLA).md"
+    },
+    {
+      "basename": "TSLA [$228.50]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md"
+    },
+    {
+      "basename": "GOOGL [$370, 4.5, 2.0]",
+      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$370, 4.5, 2.0].md"
+    },
+    {
+      "basename": "MSFT [$520, 4.8, 1.5]",
+      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md"
     },
     {
       "basename": "schema_finance",
@@ -75,10 +83,6 @@
     {
       "basename": "BABA [$138.75, 2.8, 2.5]",
       "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md"
-    },
-    {
-      "basename": "TSLA [$228.50]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md"
     },
     {
       "basename": "invest-stock-valuation",
@@ -195,10 +199,6 @@
     {
       "basename": "file-20260428102445722",
       "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445722.jpg"
-    },
-    {
-      "basename": "file-20260428102445725",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445725.jpg"
     }
   ],
   "omittedPaths": [],
