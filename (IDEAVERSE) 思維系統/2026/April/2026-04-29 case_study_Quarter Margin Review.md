@@ -68,22 +68,55 @@ From this "materials_actual_budget" sheet,
    
 ```
 
-
-trial
+###  Karen version
 ```
+
 ### Definition
-- A material item is combined from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
+- A material item is defined by the combination of Module (found in column AX), IPC Location (found in column AA), PartNo (found in column N), and PartDesc (found in column O).
 
+### Contraint
+- PartNo must be converted into "Text" format instead of a number
+- IPC Location must be converted into "Text" format instead of a number
+  
+### Procedure
+// to add Ranking column on each engine
+From the sheet named "Material_ISP_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber. Moreover, to put a series of columns including | EngineType | Work LV | SalesOrder | EngineSerialNumber | CustomerCode | ValType | Appendix | Module | IPC Location | PartNo | PartDesc | Qty | SapUnitPrice | PoUnitPrice | Discount Selling Price | on each EngineSerialNumber sheet 
+AND add one more column named "Rank" to calculate each row to rank it as 1 if "Discount Selling Price" located in column W is the largest value and so on.
 
-Within "TopRank_{EngineType}_{Work LV}" sheet, 
+// to construct the Top-rank consolidation sheet
+Afterwards, create a new sheet named "TopRank_{EngineType}_{Work LV}" that combines a series of unique material items from each row within the Top 50 ranking of every "EngineSerialNumber" sheet with columns of | Module | IPC Location | PartNo | PartDesc | ...
+
+Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to 
 1. add a column named "located_sheet" to specify which sheet is included for each material item and a column named "number_occurrence" to count for how many EngineSerialNumber included each material item
-2. add a column named "Avg_QTY" to calculate average QTY from Total QTY (located in column Q) to divide by a number of material items occurrence from all "EngineSerialNumber" 
-3. add a column named "Avg_SapUnitPrice" to calculate average SapUnitPrice from Total SapUnitPrice (located in column AR) to divide by a number of material items occurrence from all "EngineSerialNumber" 
-4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by a number of material items occurrence from all "EngineSerialNumber".
-5. add a column named "Avg_DiscountSellingPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by a number of material 
-   
-   
-// to find the difference between each engine from actual vs budget
+2. add a column named "Avg_QTY" to calculate average QTY from the total QTY (located in column Q) to divide by how many engine is count on this EngineType and Work LV
+3. add a column named "Avg_SapUnitPrice" to calculate average SapUnitPrice from the total SapUnitPrice (located in column AR) to divide by how many engine is count on this EngineType and Work LV
+4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from the total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
+5. add a column named "Avg_DiscountSellingPrice" to calculate average Discount Selling Price from the total Discount Selling Price (located in column W) to divide by how many engine is count on this EngineType and Work LV
 
-1. Check if the material item is matched with one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules | IPC Location | PartNo | PartDesc as a unique key matching for a material item and must take all different module (NM, 01, ..., 08) into consideration.
+// to add ranking on the ranking column 
+Form the original "Material_ISP_actual" sheet, 
+
+Add an additional column called "Rank_actual" to rank each row as 1 within each EngineSerialNumber in column B if the "Discount Selling Price" in column W is the highest value, and continue ranking accordingly. Exclude any rows where the "IPC Location" in column AA starts with 'TR' from the ranking process.
+
+// to find the difference between each engine from actual vs budget
+To create a new sheet named "materials_actual_budget" to extract the full table from "Material_ISP_actual" with following columns of | EngineType | Work LV | SalesOrder | EngineSerialNumber | Module | IPC Location | PartNo | PartDesc | Appendix | Rank_actual | ...
+
+From this "materials_actual_budget" sheet, 
+
+1. Add a column called "TOP50 with ESV" and Check if the material item exists in both "Material_ISP_actual" sheet and one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time.
+2. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
+3. Add a column called "diff_QTY" that calculates the difference by subtracting "QTY" from "avg_QTY_budget".
+4. Add a column called "Avg_PoUnitPrice_budget" to reference "Avg_PoUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
+5. Add a column called "diff_PoUnitPrice" that calculates the difference by subtracting "PoUnitPrice" from "avg_PoUnitPrice_budget".
+6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
+7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "Discount Selling Price" from "avg_DiscountSellingPrice_budget".
+8. From the sheet named "materials_actual_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber_Q1.Sorting by “Rank”(located on J column).
+
 ```
+
+
+```
+//after checking
+Remove all formulas from every cell and replace them with their corresponding values across all sheets.
+```
+
