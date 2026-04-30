@@ -47,7 +47,7 @@ Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to
 4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from the total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
 5. add a column named "Avg_DiscountSellingPrice" to calculate average Discount Selling Price from the total Discount Selling Price (located in column W) to divide by how many engine is count on this EngineType and Work LV
 
-// to add ranking on the ranking column 
+// to add Ranking column on each engine
 Form the original "Material_ISP_actual" sheet, 
 
 Add an additional column called "Rank_actual" to rank each row as 1 within each EngineSerialNumber in column B if the "Discount Selling Price" in column W is the highest value, and continue ranking accordingly. Exclude any rows where the "IPC Location" in column AA starts with 'TR' from the ranking process.
@@ -57,12 +57,12 @@ To create a new sheet named "materials_actual_budget" to extract the full table 
 
 From this "materials_actual_budget" sheet, 
 
-2. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
-3. Add a column called "diff_QTY" that calculates the difference by subtracting "QTY" from "avg_QTY_budget".
-4. Add a column called "Avg_PoUnitPrice_budget" to reference "Avg_PoUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
-5. Add a column called "diff_PoUnitPrice" that calculates the difference by subtracting "PoUnitPrice" from "avg_PoUnitPrice_budget".
-6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
-7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "Discount Selling Price" from "avg_DiscountSellingPrice_budget".
+1. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
+2. Add a column called "diff_QTY" that calculates the difference by subtracting "QTY" from "avg_QTY_budget".
+3. Add a column called "Avg_PoUnitPrice_budget" to reference "Avg_PoUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
+4. Add a column called "diff_PoUnitPrice" that calculates the difference by subtracting "PoUnitPrice" from "avg_PoUnitPrice_budget".
+5. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
+6. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "Discount Selling Price" from "avg_DiscountSellingPrice_budget".
 
    
 ```
@@ -82,5 +82,7 @@ Within "TopRank_{EngineType}_{Work LV}" sheet,
 5. add a column named "Avg_DiscountSellingPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by a number of material 
    
    
-6. Check if the material item is matched with one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules | IPC Location | PartNo | PartDesc as a unique key matching for a material item and must take all different module (NM, 01, ..., 08) into consideration.
+// to find the difference between each engine from actual vs budget
+
+1. Check if the material item is matched with one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules | IPC Location | PartNo | PartDesc as a unique key matching for a material item and must take all different module (NM, 01, ..., 08) into consideration.
 ```
