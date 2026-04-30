@@ -50,7 +50,7 @@ Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to
 // to add ranking on the ranking column 
 Form the original "Material_ISP_actual" sheet, 
 
-add one more column named "Rank_actual" to calculate each row to rank it as 1 within each EngineSerialNumber located in column B if "Discount Selling Price" located in column W is the largest value and so on.
+1. add one more column named "Rank_actual" to calculate each row to rank it as 1 within each EngineSerialNumber located in column B if "Discount Selling Price" located in column W is the largest value and so on.
 
 
 // to find the difference between each engine from actual vs budget
