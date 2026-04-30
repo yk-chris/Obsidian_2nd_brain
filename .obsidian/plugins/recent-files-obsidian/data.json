@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
       "basename": "AI算力與雲端基建",
       "path": "wiki/concepts/AI算力與雲端基建.md"
     },
@@ -21,20 +29,12 @@
       "path": "wiki/index.md"
     },
     {
-      "basename": "log",
-      "path": "wiki/log.md"
-    },
-    {
       "basename": "llm-wiki",
       "path": "01-(SKILLs) 技能/llm-wiki.md"
     },
     {
       "basename": "20260425_AI-遠見",
       "path": "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     },
     {
       "basename": "GOOGL [$370]",
