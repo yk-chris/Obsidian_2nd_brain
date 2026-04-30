@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5,
-    "collapsed": true
+    "width": 628.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -246,7 +245,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "1aadc3b1a170e434",
+  "active": "bb7877e4106a8c54",
   "lastOpenFiles": [
     "Base_目錄.base",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
