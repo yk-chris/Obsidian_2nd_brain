@@ -549,6 +549,10 @@
     "04-(WORK) 工作/Meeting": {
       "mode": "compact",
       "groupBy": "folder"
+    },
+    "wiki": {
+      "mode": "compact",
+      "groupBy": "folder"
     }
   },
   "tagIcons": {},

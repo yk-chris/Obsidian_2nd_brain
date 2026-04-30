@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "AI算力與雲端基建",
+      "path": "wiki/concepts/AI算力與雲端基建.md"
+    },
+    {
+      "basename": "ASML-MSFT-ORCL-20260418",
+      "path": "wiki/sources/finance/ASML-MSFT-ORCL-20260418.md"
+    },
+    {
+      "basename": "SpaceX-IPO-20260418",
+      "path": "wiki/sources/finance/SpaceX-IPO-20260418.md"
+    },
+    {
+      "basename": "Duolingo-上市壓力-20260418",
+      "path": "wiki/sources/business/Duolingo-上市壓力-20260418.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "llm-wiki",
       "path": "01-(SKILLs) 技能/llm-wiki.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "ASML_人類史上最複雜的機器",
       "path": "02-(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas"
-    },
-    {
-      "basename": "file-20260428102445700",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445700.jpg"
-    },
-    {
-      "basename": "file-20260428102445706",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445706.jpg"
-    },
-    {
-      "basename": "file-20260428102445709",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445709.jpg"
-    },
-    {
-      "basename": "file-20260428102445712",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445712.jpg"
-    },
-    {
-      "basename": "file-20260428102445715",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445715.jpg"
-    },
-    {
-      "basename": "file-20260428102445717",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445717.jpg"
     }
   ],
   "omittedPaths": [],
