@@ -108,7 +108,7 @@ From this "materials_actual_budget" sheet,
 
 1. Add a column called "TOP50 with ESV" and Check if the material item exists in both "Material_ISP_actual" sheet and one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time.
 2. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
-3. Add a column called "diff_QTY" that calculates the difference by subtracting "QTY" from "avg_QTY_budget".
+3. Add a column called "diff_QTY" that calculates the difference by (= "QTY" - "avg_QTY_budget").
 4. Add a column called "Avg_PoUnitPrice_budget" to reference "Avg_PoUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 5. Add a column called "diff_PoUnitPrice" that calculates the difference by (= "PoUnitPrice" - "avg_PoUnitPrice_budget").
 6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
