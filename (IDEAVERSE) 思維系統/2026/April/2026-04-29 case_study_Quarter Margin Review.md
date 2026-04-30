@@ -80,7 +80,7 @@ From this "materials_actual_budget" sheet,
 - to convert "QTY" to the "#.#" format within a list like ['QTY', 'avg_QTY','diff_QTY']
 - to convert "Price" to the "$#,##0.00" format within a list like ['SapUnitPrice','Avg_SapUnitPrice','PoUnitPrice','diff_PoUnitPrice','Discount Selling Price','avg_DiscountSellingPrice','diff_DiscountSellingPrice']
 - to have the columns automatically adjust to fit the width
-  
+
 ### Procedure
 // to add Ranking column on each engine
 From the sheet named "Material_ISP_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber. Moreover, to put a series of columns including | EngineType | Work LV | SalesOrder | EngineSerialNumber | CustomerCode | ValType | Appendix | Module | IPC Location | PartNo | PartDesc | Qty | SapUnitPrice | PoUnitPrice | Discount Selling Price | on each EngineSerialNumber sheet 
