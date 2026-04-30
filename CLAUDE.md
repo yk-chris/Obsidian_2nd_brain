@@ -73,8 +73,15 @@ _最後更新：YYYY-MM-DD HH:MM_
 
 ## Ingest Workflow
 當我說「ingest [檔名]」：
-1. 從對應的 RAW 資料夾讀取原始檔（優先順序：`Clippings/` > `03-(FINANCE) 財務筆記/` > `02-(LEARN) 學習筆記/` > `04-(WORK) 工作/`）
-2. 與我討論重點
-3. 在 `wiki/sources/` 建立摘要頁
-4. 更新 `wiki/index.md`（追加表格列）及相關 `wiki/concepts/` 頁面
-5. 在 `wiki/log.md` 追加符合上述格式的記錄
+1. 先查詢 `wiki/index.md`，確認此來源是否已存在、既有摘要頁路徑、相關概念頁與可延續更新內容
+2. 從對應的 RAW 資料夾讀取原始檔（優先順序：`Clippings/` > `03-(FINANCE) 財務筆記/` > `02-(LEARN) 學習筆記/` > `04-(WORK) 工作/`）
+3. 與我討論重點，並比對 `wiki/index.md` 中既有內容，判斷是建立新頁還是更新既有 `wiki/` 頁面
+4. 在 `wiki/sources/` 建立或更新對應摘要頁
+5. 更新 `wiki/index.md`（若為新來源則追加表格列；若為既有來源則更新對應列資訊）及相關 `wiki/concepts/` 頁面
+6. 在 `wiki/log.md` 追加符合上述格式的記錄，並註明本次為新建或更新既有內容
+
+## Update Decision Rules
+- 若 `wiki/index.md` 已存在相同來源檔案，優先更新既有 `wiki/sources/` 頁面，而不是重建新頁
+- 若 `wiki/index.md` 已記錄相關概念頁，應優先更新既有概念頁，保持知識累積
+- 若來源內容屬同主題但檔名不同，可建立新摘要頁，並連結到既有概念頁
+- ingest 前必須把 `wiki/index.md` 視為 wiki 現況的唯一目錄依據
