@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "00700.HK [HKD 556.14]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 556.14].md"
+    },
+    {
+      "basename": "AMZN [$251.97]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$251.97].md"
+    },
+    {
+      "basename": "GOOGL [$264]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$264].md"
+    },
+    {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+    },
+    {
+      "basename": "MSFT [$419.76]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$419.76].md"
+    },
+    {
+      "basename": "MU [$517, 3.3, 4.5]",
+      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MU [$517, 3.3, 4.5].md"
     },
     {
       "basename": "MU_Micron Technology",
@@ -51,10 +71,6 @@
     {
       "basename": "Map_財務筆記",
       "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
-    },
-    {
-      "basename": "00700.HK [HKD 556.14]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 556.14].md"
     },
     {
       "basename": "Base_目錄",
@@ -183,18 +199,6 @@
     {
       "basename": "file-20260428102445733",
       "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445733.jpg"
-    },
-    {
-      "basename": "file-20260428173056624",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428173056624.jpg"
-    },
-    {
-      "basename": "file-20260429091901624",
-      "path": "04-(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901624.jpg"
-    },
-    {
-      "basename": "input_ouput_module (fine-tune)",
-      "path": "04-(WORK) 工作/MISC_works/input_ouput_module (fine-tune).md"
     }
   ],
   "omittedPaths": [],
