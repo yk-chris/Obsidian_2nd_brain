@@ -68,7 +68,7 @@ From this "materials_actual_budget" sheet,
    
 ```
 
-###  Karen version
+###  Revised version
 ```
 
 ### Definition
@@ -141,7 +141,17 @@ Remove all formulas from every cell and replace them with their corresponding va
 Generate an Insight Summary for Engine [ENGINE_SERIAL_NUMBER] [PERIOD] (Actual vs Budget) The active sheet is **'[SHEET_NAME]'** (e.g., `41393_Q1`).
  
 ### Expected Column Layout (Columns A–U) 
-| Col | Header | Description | |-----|--------|-------------| | A | EngineType | e.g., TRENT700 | | B | Work LV | e.g., 1FR | | C | SalesOrder | Sales order number | | D | EngineSerialNumber | Engine serial number | | E | Module | Module code (1–8, NM) | | F | IPC Location | IPC location reference | | G | PartNo | Part number | | H | PartDesc | Part description | | I | Appendix | Valuation type: "C" = Customer Serviceable, any value starting with "T" (T, T1, T4) = New/Replacement | | J | Rank_actual | Rank from actual data | | K | Qty | Actual quantity | | L | SapUnitPrice | SAP unit price | | M | PoUnitPrice | PO unit price | | N | Discount Selling Price | Actual discount selling price (primary value column) | | O | TOP50 with ESV | "Yes" or "No" flag indicating whether item is a TOP 50 part | | P | avg_QTY_budget | Average budget quantity | | Q | diff_QTY | Quantity variance (budget avg minus actual; positive means budget was higher) | | R | Avg_PoUnitPrice_budget | Average budget PO unit price | | S | diff_PoUnitPrice | PO unit price variance (budget avg minus actual) | | T | avg_DiscountSellingPrice_budget | Average budget discount selling price | | U | diff_DiscountSellingPrice | Selling price variance (budget avg minus actual; negative means actual exceeded budget) | > **Note:** The active sheet already has columns A–U populated with data. The insight summary should be built in **columns W–AB** starting at row 1, using Excel formulas that reference columns A–U. Auto-detect the last row of data dynamically. --- 
+| Col | Header | Description | 
+|-----|--------|-------------| 
+| A | EngineType | e.g., TRENT700 | 
+| B | Work LV | e.g., 1FR | 
+| C | SalesOrder | Sales order number | 
+| D | EngineSerialNumber | Engine serial number | 
+| E | Module | Module code (1–8, NM) | 
+| F | IPC Location | IPC location reference | 
+| G | PartNo | Part number | 
+| H | PartDesc | Part description | 
+| I | Appendix | Valuation type: "C" = Customer Serviceable, any value starting with "T" (T, T1, T4) = New/Replacement | | J | Rank_actual | Rank from actual data | | K | Qty | Actual quantity | | L | SapUnitPrice | SAP unit price | | M | PoUnitPrice | PO unit price | | N | Discount Selling Price | Actual discount selling price (primary value column) | | O | TOP50 with ESV | "Yes" or "No" flag indicating whether item is a TOP 50 part | | P | avg_QTY_budget | Average budget quantity | | Q | diff_QTY | Quantity variance (budget avg minus actual; positive means budget was higher) | | R | Avg_PoUnitPrice_budget | Average budget PO unit price | | S | diff_PoUnitPrice | PO unit price variance (budget avg minus actual) | | T | avg_DiscountSellingPrice_budget | Average budget discount selling price | | U | diff_DiscountSellingPrice | Selling price variance (budget avg minus actual; negative means actual exceeded budget) | > **Note:** The active sheet already has columns A–U populated with data. The insight summary should be built in **columns W–AB** starting at row 1, using Excel formulas that reference columns A–U. Auto-detect the last row of data dynamically. --- 
 
 ### Insight Summary Sections to Build (in columns W–AB, starting row 1) Build each section sequentially. Use section header emoji labels. Format currency as `$#,##0.00` and percentages as `0.0%`. --- 
 
