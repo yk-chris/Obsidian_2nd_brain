@@ -11,17 +11,14 @@
             "id": "a2459d2a7d008ce4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas",
-                "viewState": {
-                  "x": 795.7074750830565,
-                  "y": 196.3698504983389,
-                  "zoom": -1.463260937516916
-                }
+                "file": "01-(SKILLs) 技能/llm-wiki.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "20260425_AI-遠見"
+              "icon": "lucide-file",
+              "title": "llm-wiki"
             }
           }
         ]
@@ -252,8 +249,9 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "a2459d2a7d008ce4",
   "lastOpenFiles": [
+    "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas",
     "CLAUDE.md",
     "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$370].md",
     "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
@@ -280,7 +278,6 @@
     "03-(FINANCE) 財務筆記/企業概要/阿里巴巴（BABA）.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0].md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md",
-    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md",
     "Base_目錄.base",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
@@ -303,7 +300,6 @@
     "04-(WORK) 工作/MISC_works",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29 input_ouput_module (fine-tune)",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29",
-    "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas",
     "Untitled.base",
     "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器",
     "01-(SKILLs) 技能/map_invest_skills.canvas",
