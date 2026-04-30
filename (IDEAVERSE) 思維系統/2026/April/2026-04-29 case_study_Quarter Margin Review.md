@@ -124,3 +124,49 @@ From this "materials_actual_budget" sheet,
 Remove all formulas from every cell and replace them with their corresponding values across all sheets.
 ```
 
+```
+## Task: 
+Generate an Insight Summary for Engine [ENGINE_SERIAL_NUMBER] [PERIOD] (Actual vs Budget) The active sheet is **'[SHEET_NAME]'** (e.g., `41393_Q1`).
+ 
+### Expected Column Layout (Columns A–U) 
+| Col | Header | Description | |-----|--------|-------------| | A | EngineType | e.g., TRENT700 | | B | Work LV | e.g., 1FR | | C | SalesOrder | Sales order number | | D | EngineSerialNumber | Engine serial number | | E | Module | Module code (1–8, NM) | | F | IPC Location | IPC location reference | | G | PartNo | Part number | | H | PartDesc | Part description | | I | Appendix | Valuation type: "C" = Customer Serviceable, any value starting with "T" (T, T1, T4) = New/Replacement | | J | Rank_actual | Rank from actual data | | K | Qty | Actual quantity | | L | SapUnitPrice | SAP unit price | | M | PoUnitPrice | PO unit price | | N | Discount Selling Price | Actual discount selling price (primary value column) | | O | TOP50 with ESV | "Yes" or "No" flag indicating whether item is a TOP 50 part | | P | avg_QTY_budget | Average budget quantity | | Q | diff_QTY | Quantity variance (budget avg minus actual; positive means budget was higher) | | R | Avg_PoUnitPrice_budget | Average budget PO unit price | | S | diff_PoUnitPrice | PO unit price variance (budget avg minus actual) | | T | avg_DiscountSellingPrice_budget | Average budget discount selling price | | U | diff_DiscountSellingPrice | Selling price variance (budget avg minus actual; negative means actual exceeded budget) | > **Note:** The active sheet already has columns A–U populated with data. The insight summary should be built in **columns W–AB** starting at row 1, using Excel formulas that reference columns A–U. Auto-detect the last row of data dynamically. --- 
+
+### Insight Summary Sections to Build (in columns W–AB, starting row 1) Build each section sequentially. Use section header emoji labels. Format currency as `$#,##0.00` and percentages as `0.0%`. --- 
+
+#### 1. 📋 HEADER (Row 1) - Place a title: **"INSIGHT SUMMARY — Engine [ESN] [PERIOD] Actual vs Budget"** - Pull the ESN value from the data itself (column D). 
+#### 2. 📋 OVERVIEW (starting ~Row 3) Build a label/value table with: - **Engine Type** — pull from the first data row of column A - **Engine Serial Number** — pull from the first data row of column D - **Sales Order** — pull from the first data row of column C - **Work Level** — pull from the first data row of column B - **Total Line Items** — count all non-empty rows in the data (exclude header) - **Unique Part Numbers** — count distinct values in the PartNo column 
+#### 3. 📊 APPENDIX BREAKDOWN (starting ~Row 12) Build a table: **Appendix | Count | Total Disc. Selling Price | % of Total** Three rows: - **C (Customer Serviceable)** — count and sum selling price where Appendix = "C" - **T (New / Replacements)** — count and sum selling price where Appendix starts with "T" (covers T, T1, T4 variants; use wildcard matching) - **TOTAL** — sum of the above two rows; percentage should equal 100% 
+#### 4. 🏆 TOP 50 vs NON-TOP 50 (starting ~Row 18) Build a table: **Category | Count | Total Disc. Selling Price | % of Total** Three rows: - **TOP 50 (with ESV)** — count and sum selling price where the TOP50 flag = "Yes" - **Non-TOP 50** — count and sum selling price where the TOP50 flag = "No" - **TOTAL** — sum of the above two rows 
+#### 5. 📈 ACTUAL vs BUDGET VARIANCE — TOP 50 Items (starting ~Row 24) Build a table: **Metric | Avg Actual | Avg Budget | Avg Variance** Three rows, each averaging only rows where TOP50 flag = "Yes": - **Quantity** — average of actual Qty, average of budget Qty, average of Qty variance - **PO Unit Price** — average of actual PO price, average of budget PO price, average of PO price variance - **Disc. Selling Price** — average of actual selling price, average of budget selling price, average of selling price variance 
+#### 6. 🔧 MODULE BREAKDOWN (starting ~Row 30) Build a table: **Module | Item Count | Total Disc. Selling Price** One row per distinct module value found in column E (typically: 1, 2, 3, 4, 5, 6, 7, 8, NM). For each: - Count rows belonging to that module - Sum the selling price for that module - Add a TOTAL row at the bottom 
+#### 7. 💰 TOP 10 HIGHEST VALUE ITEMS (after Module section) Build a table: **Rank | PartNo | PartDesc | Module | Qty | Discount Selling Price** Find the 10 items with the largest Discount Selling Price. For each rank (1–10): - Look up the corresponding PartNo, PartDesc, Module, and Qty from the row with the k-th largest selling price 
+
+#### 8. ⚠️ VARIANCE HIGHLIGHTS (after Top 10 section) Build a label/value summary with: 
+- **Items where actual Qty exceeds budget avg** 
+— count rows where the Qty variance is negative (actual > budget) 
+- **Items where actual Qty is below budget avg** — count rows where the Qty variance is positive - **Items where actual Selling Price exceeds budget** 
+— count rows where the Selling Price variance is negative 
+- **Items where actual Selling Price is below budget** — count rows where the Selling Price variance is positive 
+- **Total Actual Disc. Selling Price** — sum of all selling prices in column N 
+- **Total Budget Avg Disc. Selling Price (TOP50)** — sum of budget selling price for TOP50-flagged items only 
+- **Net Variance (TOP50, Actual − Budget)** 
+— total actual selling price for TOP50 items minus total budget selling price for TOP50 items --- 
+
+### Formatting Requirements 
+- Use **emoji section headers** (📋, 📊, 🏆, 📈, 🔧, 💰, ⚠️) in column W 
+- Format all dollar amounts as `$#,##0.00` - Format all percentages as `0.0%` 
+- Bold all section headers and table column headers - All values must be **live formulas** referencing columns A–U (no hard-coded numbers) 
+
+### After Building the Summary Provide a **narrative summary** highlighting: 
+1. Cost concentration (Pareto analysis — what % of items drive what % of cost) 
+2. Which module dominates by cost 
+3. Budget overrun or underrun magnitude and direction 
+4. What percentage of TOP-50 items exceeded their budget benchmark on selling price 
+   
+### Key Assumptions 
+- Auto-detect the last row by counting non-empty cells in column A 
+- The TOP50 flag column contains exactly "Yes" or "No" 
+- Appendix column uses "C" for customer-serviceable; anything starting with "T" for new parts 
+- Variance columns are calculated as **budget minus actual** (positive = budget higher, negative = actual exceeded budget)
+  
+```
