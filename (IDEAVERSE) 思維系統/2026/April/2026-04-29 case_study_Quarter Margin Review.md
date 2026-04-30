@@ -110,9 +110,9 @@ From this "materials_actual_budget" sheet,
 2. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 3. Add a column called "diff_QTY" that calculates the difference by subtracting "QTY" from "avg_QTY_budget".
 4. Add a column called "Avg_PoUnitPrice_budget" to reference "Avg_PoUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
-5. Add a column called "diff_PoUnitPrice" that calculates the difference by subtracting "PoUnitPrice" from "avg_PoUnitPrice_budget".
+5. Add a column called "diff_PoUnitPrice" that calculates the difference by (= "PoUnitPrice" - "avg_PoUnitPrice_budget").
 6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
-7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "Discount Selling Price" from "avg_DiscountSellingPrice_budget".
+7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by ("Discount Selling Price" - "avg_DiscountSellingPrice_budget").
 8. From the sheet named "materials_actual_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber_Q1.Sorting by “Rank”(located on J column).
 
 // give an insight
@@ -141,7 +141,10 @@ Generate an Insight Summary for Engine [ENGINE_SERIAL_NUMBER] [PERIOD] (Actual v
 - **Work Level** — pull from the first data row of column B 
 - **Total Line Items** — count all non-empty rows in the data (exclude header) - **Unique Part Numbers** — count distinct values in the PartNo column 
 #### 3. 📊 APPENDIX BREAKDOWN (starting ~Row 12) Build a table: **Appendix | Count | Total Disc. Selling Price | % of Total** Three rows: - **C (Customer Serviceable)** — count and sum selling price where Appendix = "C" - **T (New / Replacements)** — count and sum selling price where Appendix starts with "T" (covers T, T1, T4 variants; use wildcard matching) - **TOTAL** — sum of the above two rows; percentage should equal 100% 
-#### 4. 🏆 TOP 50 vs NON-TOP 50 (starting ~Row 18) Build a table: **Category | Count | Total Disc. Selling Price | % of Total** Three rows: - **TOP 50 (with ESV)** — count and sum selling price where the TOP50 flag = "Yes" - **Non-TOP 50** — count and sum selling price where the TOP50 flag = "No" - **TOTAL** — sum of the above two rows 
+#### 4. 🏆 TOP 50 vs NON-TOP 50 (starting ~Row 18) Build a table: **Category | Count | Total Disc. Selling Price | % of Total** Three rows: 
+- **TOP 50 (with ESV)** 
+— count and sum selling price where the TOP50 flag = "Yes" 
+- **Non-TOP 50** — count and sum selling price where the TOP50 flag = "No" - **TOTAL** — sum of the above two rows 
 #### 5. 📈 ACTUAL vs BUDGET VARIANCE — TOP 50 Items (starting ~Row 24) Build a table: **Metric | Avg Actual | Avg Budget | Avg Variance** Three rows, each averaging only rows where TOP50 flag = "Yes": - **Quantity** — average of actual Qty, average of budget Qty, average of Qty variance - **PO Unit Price** — average of actual PO price, average of budget PO price, average of PO price variance - **Disc. Selling Price** — average of actual selling price, average of budget selling price, average of selling price variance 
 #### 6. 🔧 MODULE BREAKDOWN (starting ~Row 30) Build a table: **Module | Item Count | Total Disc. Selling Price** One row per distinct module value found in column E (typically: 1, 2, 3, 4, 5, 6, 7, 8, NM). For each: - Count rows belonging to that module - Sum the selling price for that module - Add a TOTAL row at the bottom 
 #### 7. 💰 TOP 10 HIGHEST VALUE ITEMS (after Module section) Build a table: **Rank | PartNo | PartDesc | Module | Qty | Discount Selling Price** Find the 10 items with the largest Discount Selling Price. For each rank (1–10): - Look up the corresponding PartNo, PartDesc, Module, and Qty from the row with the k-th largest selling price 
