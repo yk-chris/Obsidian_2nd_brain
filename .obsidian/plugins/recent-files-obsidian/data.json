@@ -5,6 +5,26 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "Map_財務筆記",
+      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    },
+    {
+      "basename": "invest-cost-return",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+    },
+    {
+      "basename": "invest-moat-margin-v2",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
+    },
+    {
+      "basename": "invest-fundamental-analysis",
+      "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
+    },
+    {
+      "basename": "invest-enterprise-business",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
+    },
+    {
       "basename": "GOOGL [$370, 4.5, 2.0]",
       "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$370, 4.5, 2.0].md"
     },
@@ -49,10 +69,6 @@
       "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md"
     },
     {
-      "basename": "invest-fundamental-analysis",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
-    },
-    {
       "basename": "TSLA [$228.50]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md"
     },
@@ -67,10 +83,6 @@
     {
       "basename": "PLTR [$37.98]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md"
-    },
-    {
-      "basename": "Map_財務筆記",
-      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
     },
     {
       "basename": "Base_目錄",
@@ -187,14 +199,6 @@
     {
       "basename": "file-20260428102445729",
       "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445729.jpg"
-    },
-    {
-      "basename": "file-20260428102445730",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445730.jpg"
-    },
-    {
-      "basename": "file-20260428102445731",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445731.jpg"
     }
   ],
   "omittedPaths": [],
