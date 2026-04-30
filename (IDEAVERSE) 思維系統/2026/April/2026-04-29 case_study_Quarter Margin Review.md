@@ -57,8 +57,6 @@ To create a new sheet named "materials_actual_budget" to extract the full table 
 
 From this "materials_actual_budget" sheet, 
 
-1. Check if the material item is matched with one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules | IPC Location | PartNo | PartDesc as a unique key matching for a material item and must take all different module (NM, 01, ..., 08) into consideration.
-
 2. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 3. Add a column called "diff_QTY" that calculates the difference by subtracting "QTY" from "avg_QTY_budget".
 4. Add a column called "Avg_PoUnitPrice_budget" to reference "Avg_PoUnitPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
@@ -75,10 +73,14 @@ From this "materials_actual_budget" sheet,
 ### Definition
 - A material item is combined from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)
 
+
 Within "TopRank_{EngineType}_{Work LV}" sheet, 
 1. add a column named "located_sheet" to specify which sheet is included for each material item and a column named "number_occurrence" to count for how many EngineSerialNumber included each material item
 2. add a column named "Avg_QTY" to calculate average QTY from Total QTY (located in column Q) to divide by a number of material items occurrence from all "EngineSerialNumber" 
 3. add a column named "Avg_SapUnitPrice" to calculate average SapUnitPrice from Total SapUnitPrice (located in column AR) to divide by a number of material items occurrence from all "EngineSerialNumber" 
 4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by a number of material items occurrence from all "EngineSerialNumber".
 5. add a column named "Avg_DiscountSellingPrice" to calculate average PoUnitPrice from Total PoUnitPrice (located in column AS) to divide by a number of material 
+   
+   
+6. Check if the material item is matched with one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules | IPC Location | PartNo | PartDesc as a unique key matching for a material item and must take all different module (NM, 01, ..., 08) into consideration.
 ```
