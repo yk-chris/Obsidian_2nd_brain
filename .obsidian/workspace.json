@@ -42,9 +42,9 @@
               "state": {
                 "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
                 "viewState": {
-                  "x": 913.718893473736,
-                  "y": 2617.857564934869,
-                  "zoom": -0.13030718510651507
+                  "x": 1036.4514299943203,
+                  "y": 1549.8880606788966,
+                  "zoom": -0.4636405184398484
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5,
-    "collapsed": true
+    "width": 628.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -130,7 +129,6 @@
       {
         "id": "7648766eae0bd1d6",
         "type": "tabs",
-        "dimension": 46.15384615384615,
         "children": [
           {
             "id": "999f9e59355eff8d",
@@ -148,17 +146,28 @@
             }
           },
           {
+            "id": "5499962cf8f15ab4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
             "id": "190e976e967cabc7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-04-29 case_study_Quarter Margin Review"
             }
           },
           {
@@ -239,31 +248,11 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "267e126257f6aa2a",
-        "type": "tabs",
-        "dimension": 53.84615384615385,
-        "children": [
-          {
-            "id": "5499962cf8f15ab4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "pinned": true,
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,7 +280,7 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "f29dbab67cec5772",
+  "active": "bb7877e4106a8c54",
   "lastOpenFiles": [
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
