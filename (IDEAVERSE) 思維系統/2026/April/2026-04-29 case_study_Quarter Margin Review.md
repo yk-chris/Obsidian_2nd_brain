@@ -57,7 +57,7 @@ To create a new sheet named "materials_actual_budget" to extract the full table 
 
 From this "materials_actual_budget" sheet, 
 
-1. Check if the material item exists in both "Material_ISP_actual" sheet and one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules, IPC Location, PartNo, and PartDesc as a unique key matching for a material item and must take all different module (NM, 01, ..., 08) into consideration.
+1. Check if the material item is matched with one of these "TopRank_{EngineType}_{Work LV}" sheets at the same time. If it does, move this material item from the "Material_ISP_actual" sheet to the "material_actual_budget" sheet. Ensure to consider a combination of modules | IPC Location | PartNo | PartDesc as a unique key matching for a material item and must take all different module (NM, 01, ..., 08) into consideration.
 
 2. Add a column called "avg_QTY_budget" to reference "avg_QTY" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 3. Add a column called "diff_QTY" that calculates the difference by subtracting "QTY" from "avg_QTY_budget".
