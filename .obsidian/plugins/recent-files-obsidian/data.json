@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "wiki/index.md"
-    },
-    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
     },
     {
       "basename": "CLAUDE",
