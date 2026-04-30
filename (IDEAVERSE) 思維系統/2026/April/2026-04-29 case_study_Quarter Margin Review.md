@@ -75,10 +75,11 @@ From this "materials_actual_budget" sheet,
 - A material item is defined by the combination of Module (found in column AX), IPC Location (found in column AA), PartNo (found in column N), and PartDesc (found in column O).
 
 ### Contraint
-- PartNo must be converted into "Text" format instead of a number
+- PartNo must be converted into "Text" format by adding "'" before the text
 - IPC Location must be converted into "Text" format instead of a number
+- Module must be converted into "Text" format instead of a number
 - to convert "QTY" to the "0.0" format within a list like ['QTY', 'avg_QTY','diff_QTY']
-- to convert "Price" to the "$#,##0.00" format within a list like ['SapUnitPrice','Avg_SapUnitPrice','PoUnitPrice','diff_PoUnitPrice','Discount Selling Price','avg_DiscountSellingPrice','diff_DiscountSellingPrice']
+- to convert "Price" to the "$#,##0.00_);[Red]($#,##0.00)" format within a list like ['SapUnitPrice','Avg_SapUnitPrice','PoUnitPrice','diff_PoUnitPrice','Discount Selling Price','avg_DiscountSellingPrice','diff_DiscountSellingPrice']
 - to have the columns automatically adjust to fit the width
 
 ### Procedure
@@ -113,7 +114,7 @@ From this "materials_actual_budget" sheet,
 5. Add a column called "diff_PoUnitPrice" that calculates the difference by (= "PoUnitPrice" - "avg_PoUnitPrice_budget").
 6. Add a column called "avg_DiscountSellingPrice_budget" to reference "avg_DiscountSellingPrice" once the material items are matched from the "TopRank_{EngineType}_{Work LV}" sheets, ensuring the same EngineType and Work LV are used.
 7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by ("Discount Selling Price" - "avg_DiscountSellingPrice_budget").
-8. From the sheet named "materials_actual_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber_Q1.Sorting by “Rank”(located on J column).
+8. From the sheet named "materials_actual_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber_Q1. Sorting by "diff_DiscountSellingPrice"(located on U column).
 
 
 ```
