@@ -16,8 +16,9 @@ This is an Obsidian second brain vault. The folder structure follows a numbered 
 | `wiki/` | **LLM OWNED** | 你完全擁有，LLM 生成的 wiki 輸出 |
 
 ## Raw Source Rules
-- **RAW 資料夾內的任何檔案，絕對不可修改、刪除或重新命名**
+- **RAW 資料夾內的任何檔案，絕對不可修改內容、刪除或重新命名**
 - 只能讀取，不能寫入
+- **唯一例外**：完成 ingest 後，對原始 Markdown 檔加上 `#wiki` tag（規則見下方 Tagging Rules）
 - `Clippings/` 優先作為 ingest 主要來源
 - `03-(FINANCE) 財務筆記/` 含高價值研究素材，ingest 時需特別標記來源與日期
 
@@ -25,9 +26,27 @@ This is an Obsidian second brain vault. The folder structure follows a numbered 
 - 每當進入一個主資料夾或其子資料夾處理文件前，先檢查該層是否存在 `schema_xxx.md` 類型文件
 - `schema_xxx.md` 指檔名符合 `schema_*.md` 的 Markdown 文件
 - 若存在一個或多個 `schema_*.md`，必須先讀取並遵守其中規範，再處理該資料夾內文件
-- schema 規範優先於一般預設流程；若 schema 與通用規則衝突，以 schema 為準，但不得違反「RAW 只能讀取不可修改」原則
+- schema 規範優先於一般預設流程；若 schema 與通用規則衝突，以 schema 為準，但不得違反「RAW 只能讀取不可修改」原則（`#wiki` tagging 例外除外）
 - 若同一層存在多個 schema，優先採用最貼近當前任務的 schema；若仍有衝突，先向使用者確認
 - 進行 ingest 時，需把 schema 檢查視為每次進入資料夾的必要步驟，而不是可選步驟
+
+## Tagging Rules
+完成 ingest 後對原始 Markdown 來源檔加上 `#wiki` tag，遵守以下規則：
+
+- **文件已有 frontmatter（`---` 區塊）**：在 `tags:` 欄追加 `wiki`
+  ```yaml
+  ---
+  tags: [existing-tag, wiki]
+  ---
+  ```
+- **文件無 frontmatter**：在文件最後一行追加，不得插入文中
+  ```md
+  （原有內容不動）
+
+  #wiki
+  ```
+- **禁止**：修改檔案任何其他內容、標題、正文
+- **禄測**：若檔案已含 `#wiki` tag，跳過此步驟，不得重複加入
 
 ---
 
@@ -84,10 +103,12 @@ _最後更新：YYYY-MM-DD HH:MM_
 1. 先查詢 `wiki/index.md`，確認此來源是否已存在、既有摘要頁路徑、相關概念頁與可延續更新內容
 2. 從對應的 RAW 資料夾讀取原始檔前，先檢查即將進入的主資料夾或子資料夾是否存在 `schema_*.md`，若存在必須先讀取並遵守
 3. 從對應的 RAW 資料夾讀取原始檔（優先順序：`Clippings/` > `03-(FINANCE) 財務筆記/` > `02-(LEARN) 學習筆記/` > `04-(WORK) 工作/`）
-4. 與我討論重點，並比對 `wiki/index.md` 中既有內容，判斷是建立新頁還是更新既有 `wiki/` 頁面
-5. 在 `wiki/sources/` 建立或更新對應摘要頁
-6. 更新 `wiki/index.md`（若為新來源則追加表格列；若為既有來源則更新對應列資訊）及相關 `wiki/concepts/` 頁面
-7. 在 `wiki/log.md` 追加符合上述格式的記錄，並註明本次為新建或更新既有內容
+4. 檢查原始檔是否已含 `#wiki` tag，若已存在則變更 workflow 為 update 模式
+5. 與我討論重點，並比對 `wiki/index.md` 中既有內容，判斷是建立新頁還是更新既有 `wiki/` 頁面
+6. 在 `wiki/sources/` 建立或更新對應摘要頁
+7. 更新 `wiki/index.md`（若為新來源則追加表格列；若為既有來源則更新對應列資訊）及相關 `wiki/concepts/` 頁面
+8. 依照 Tagging Rules 對原始檔加上 `#wiki` tag
+9. 在 `wiki/log.md` 追加符合上述格式的記錄，並註明本次為新建或更新既有內容
 
 ## Update Decision Rules
 - 若 `wiki/index.md` 已存在相同來源檔案，優先更新既有 `wiki/sources/` 頁面，而不是重建新頁
@@ -95,3 +116,4 @@ _最後更新：YYYY-MM-DD HH:MM_
 - 若來源內容屬同主題但檔名不同，可建立新摘要頁，並連結到既有概念頁
 - ingest 前必須把 `wiki/index.md` 視為 wiki 現況的唯一目錄依據
 - 處理任何資料夾內容前，必須先完成該資料夾層級的 schema 檢查
+- 原始檔有 `#wiki` tag 主動識別為 update 模式，對已 ingest 檔案不重複加 tag
