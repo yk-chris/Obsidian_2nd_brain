@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "TSM [$398]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/TSM [$398].md"
+    },
+    {
+      "basename": "PLTR [$37.98]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md"
+    },
+    {
+      "basename": "Map_財務筆記",
+      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    },
+    {
+      "basename": "00700.HK [$556.14, 4.0, 2.0]",
+      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0].md"
+    },
+    {
+      "basename": "00700.HK [HKD 556.14]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 556.14].md"
+    },
+    {
       "basename": "invest-stock-valuation",
       "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "file-20260427090800405",
       "path": "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg"
-    },
-    {
-      "basename": "PLTR [$37.98]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md"
     },
     {
       "basename": "Pasted Image 20260427081619_808",
@@ -183,22 +199,6 @@
     {
       "basename": "file-20260423134804769",
       "path": "04-(WORK) 工作/Meeting/assets/MoM_2026-04-23_iMRO_sentencing_BOM/file-20260423134804769.jpg"
-    },
-    {
-      "basename": "map_Induction_WSI_workflow",
-      "path": "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas"
-    },
-    {
-      "basename": "Excalidraw_streamer_clarification",
-      "path": "Excalidraw/Excalidraw_streamer_clarification.md"
-    },
-    {
-      "basename": "2026-04-21 Streamer feedback review (issue category)",
-      "path": "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md"
-    },
-    {
-      "basename": "kanban-default",
-      "path": "TaskNotes/Views/kanban-default.base"
     }
   ],
   "omittedPaths": [],
