@@ -78,7 +78,7 @@ From this "materials_actual_budget" sheet,
 - PartNo must be converted into "Text" format instead of a number
 - IPC Location must be converted into "Text" format instead of a number
 - to convert "QTY" to the "#.#" format within a list like ['QTY', 'avg_QTY','diff_QTY']
-- to convert "Price" to the "#.#" format within a list like ['SapUnitPrice','Avg_SapUnitPrice','PoUnitPrice','diff_PoUnitPrice','Discount Selling Price','avg_DiscountSellingPrice','diff_DiscountSellingPrice']
+- to convert "Price" to the "$#,##0.00" format within a list like ['SapUnitPrice','Avg_SapUnitPrice','PoUnitPrice','diff_PoUnitPrice','Discount Selling Price','avg_DiscountSellingPrice','diff_DiscountSellingPrice']
 - to have the columns automatically adjust to fit the width
   
 ### Procedure
