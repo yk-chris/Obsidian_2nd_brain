@@ -75,7 +75,7 @@ From this "materials_actual_budget" sheet,
 - A material item is defined by the combination of Module (found in column AX), IPC Location (found in column AA), PartNo (found in column N), and PartDesc (found in column O).
 
 ### Contraint
-- PartNo must be converted into "Text" format by adding "'" before the text
+- PartNo must be converted into "Text" format by adding "'" before the number due to Excel number display more than
 - IPC Location must be converted into "Text" format instead of a number
 - Module must be converted by mapping table as below:
   {
