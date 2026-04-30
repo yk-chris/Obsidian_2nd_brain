@@ -115,7 +115,7 @@ From this "materials_actual_budget" sheet,
 7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by ("Discount Selling Price" - "avg_DiscountSellingPrice_budget").
 8. From the sheet named "materials_actual_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber_Q1.Sorting by “Rank”(located on J column).
 
-// give an insight
+
 ```
 
 
@@ -125,6 +125,7 @@ Remove all formulas from every cell and replace them with their corresponding va
 ```
 
 ```
+// give an insight
 ## Task: 
 Generate an Insight Summary for Engine [ENGINE_SERIAL_NUMBER] [PERIOD] (Actual vs Budget) The active sheet is **'[SHEET_NAME]'** (e.g., `41393_Q1`).
  
