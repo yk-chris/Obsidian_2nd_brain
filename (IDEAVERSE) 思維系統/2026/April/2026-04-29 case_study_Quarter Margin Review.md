@@ -31,7 +31,8 @@ GIVEN "Material_ISP_budget" and "Material_ISP_actual" sheet is stated on the Exc
 
 ### Contraint
 - PartNo must be converted into "Text" format instead of a number
-
+- IPC Location must be converted into "Text" format instead of a number
+  
 ### Procedure
 // to add Ranking column on each engine
 From the sheet named "Material_ISP_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber. Moreover, to put a series of columns including | EngineType | Work LV | SalesOrder | EngineSerialNumber | CustomerCode | ValType | Appendix | Module | IPC Location | PartNo | PartDesc | Qty | SapUnitPrice | PoUnitPrice | Discount Selling Price | on each EngineSerialNumber sheet 
