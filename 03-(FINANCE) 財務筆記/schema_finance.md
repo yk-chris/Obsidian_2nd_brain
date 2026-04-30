@@ -25,11 +25,11 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ## Skill 對應表
 
-| 資料夾 | 使用技能 | 技能路徑 |
-|--------|---------|---------|
-| `TA技術分析/` | `invest-stock-valuation.md` | `01-(SKILLs) 技能/skill_invest/evaluate_company/` |
-| `公司業務, 護城河, 週期, 競爭格局/` | `invest-fundamental-analysis.md` | `01-(SKILLs) 技能/skill_invest/` |
-| `企業概要/` | `invest-moat-margin-v2.md` + `invest-cost-return.md` | `01-(SKILLs) 技能/` |
+| 資料夾                    | 使用技能                                                 | 技能路徑                                            |
+| ---------------------- | ---------------------------------------------------- | ----------------------------------------------- |
+| `TA技術分析/`              | `invest-stock-valuation.md`                          | `01-(SKILLs) 技能/skill_invest/evaluate_company/` |
+| `公司業務, 護城河, 週期, 競爭格局/` | `invest-fundamental-analysis.md`                     | `01-(SKILLs) 技能/skill_invest/`                  |
+| `企業概要/`                | `invest-moat-margin-v2.md` + `invest-cost-return.md` | `01-(SKILLs) 技能/skill_invest/`                  |
 
 ---
 

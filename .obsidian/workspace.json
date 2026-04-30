@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 628.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -251,14 +252,14 @@
   },
   "active": "5fb21ec3c4a098b8",
   "lastOpenFiles": [
-    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+    "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
+    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md",
     "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
     "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
-    "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$370, 4.5, 2.0].md",
     "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$370].md",
     "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$419.76].md",

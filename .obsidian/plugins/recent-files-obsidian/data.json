@@ -5,6 +5,10 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "MSFT [$520]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md"
+    },
+    {
       "basename": "Map_財務筆記",
       "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "file-20260428102445727",
       "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445727.jpg"
-    },
-    {
-      "basename": "file-20260428102445729",
-      "path": "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器/file-20260428102445729.jpg"
     }
   ],
   "omittedPaths": [],
