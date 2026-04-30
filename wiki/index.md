@@ -2,17 +2,11 @@
 title: Wiki Index
 updated: 2026-05-01
 ---
-# 📚 Wiki Index
+```md
+# Wiki Index
+_最後更新：YYYY-MM-DD HH:MM_
 
-## 結構
-```
-wiki/
-├── index.md          ← 本頁
-├── log.md            ← Ingest 紀錄
-├── sources/
-│   ├── finance/      ← 投資 & 財經
-│   ├── ai/           ← AI & LLM
-│   ├── tools/        ← 工具 & 生產力
-│   └── business/     ← 商業 & 管理
-└── concepts/         ← 跨來源概念整合頁
+| 來源檔案 | 摘要頁 | 相關概念頁 | 建立日期 | 標籤 |
+|----------|--------|------------|----------|------|
+| Clippings/example.md | [example](sources/example.md) | [概念A](concepts/a.md) | 2026-05-01 | #AI #投資 |
 ```
