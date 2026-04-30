@@ -69,6 +69,7 @@ From this "materials_actual_budget" sheet,
 ```
 
 
+trial
 ```
 ### Definition
 - A material item is combined from Module (located in column AX), IPC Location (located in column AA), PartNo (located in column N) and PartDesc (located in column O)

@@ -14,22 +14,10 @@
               "type": "bases",
               "state": {
                 "file": "Base_目錄.base",
-                "viewName": "Overviews"
+                "viewName": "list_work"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-list",
               "title": "Base_目錄"
-            }
-          },
-          {
-            "id": "650090c5e6b28f2f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_streamer_clarification"
             }
           },
           {
@@ -286,10 +274,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "650090c5e6b28f2f",
+  "active": "f29dbab67cec5772",
   "lastOpenFiles": [
-    "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
     "Base_目錄.base",
+    "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "conflict-files-obsidian-git.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
