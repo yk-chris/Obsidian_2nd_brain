@@ -2,13 +2,11 @@
 title: Wiki Index
 updated: 2026-05-01
 ---
-# Wiki Index
-_最後更新：YYYY-MM-DD HH:MM_
 
-| 來源檔案                 | 摘要頁                           | 相關概念頁                | 建立日期       | 標籤      |
-| -------------------- | ----------------------------- | -------------------- | ---------- | ------- |
-| Clippings/example.md | [example](sources/example.md) | [概念A](concepts/a.md) | 2026-05-01 | #AI #投資 |
-|                      |                               |                      |            |         |
+| 來源檔案                 | 摘要頁                                                                             | 相關概念頁                | 建立日期       | 標籤                    |
+| -------------------- | ------------------------------------------------------------------------------- | -------------------- | ---------- | --------------------- |
+| Clippings/example.md | [[wiki/sources/finance/ASML-MSFT-ORCL-20260418\|[example](sources/example.md)]] | [概念A](concepts/a.md) | 2026-05-01 | ASML, MSFT, ORCL, 半導體 |
+|                      |                                                                                 |                      |            | SpaceX, IPO, Starlink |
 # 📚 Wiki Index
 
 ## 結構
