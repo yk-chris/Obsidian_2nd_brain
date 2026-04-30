@@ -11,14 +11,17 @@
             "id": "a2459d2a7d008ce4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
+                "file": "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas",
+                "viewState": {
+                  "x": 795.7074750830565,
+                  "y": 196.3698504983389,
+                  "zoom": -1.463260937516916
+                }
               },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "icon": "lucide-layout-dashboard",
+              "title": "20260425_AI-遠見"
             }
           }
         ]
@@ -249,10 +252,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "a2459d2a7d008ce4",
+  "active": "bb7877e4106a8c54",
   "lastOpenFiles": [
-    "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$370].md",
     "CLAUDE.md",
+    "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$370].md",
     "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
     "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$257.26].md",
     "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md",
@@ -300,7 +303,7 @@
     "04-(WORK) 工作/MISC_works",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29 input_ouput_module (fine-tune)",
     "(IDEAVERSE) 思維系統/2026/April/assets/2026-04-29",
-    "20260425_AI-遠見.canvas",
+    "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas",
     "Untitled.base",
     "02-(LEARN) 學習筆記/assets/ASML_人類史上最複雜的機器",
     "01-(SKILLs) 技能/map_invest_skills.canvas",
