@@ -77,9 +77,9 @@ From this "materials_actual_budget" sheet,
 ### Contraint
 - PartNo must be converted into "Text" format instead of a number
 - IPC Location must be converted into "Text" format instead of a number
-- to convert "QTY" to the "#.#" format within a list like ['', '']
-- to convert "Price" to the "#.#" format within a list like ['', '']
-- to make the columns auto-fit to the width size
+- to convert "QTY" to the "#.#" format within a list like ['QTY', 'avg_QTY']
+- to convert "Price" to the "#.#" format within a list like ['diff_PoUnitPrice', '']
+- to have the columns automatically adjust to fit the width
   
 ### Procedure
 // to add Ranking column on each engine
