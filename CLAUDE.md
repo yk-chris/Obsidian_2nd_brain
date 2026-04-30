@@ -54,6 +54,8 @@ This is an Obsidian second brain vault. The folder structure follows a numbered 
 - `wiki/` — LLM 生成的 wiki，你完全擁有
 - `wiki/sources/` — 各來源的摘要頁（每次 ingest 新建）
 - `wiki/concepts/` — 跨來源的概念整合頁
+- `wiki/synthesis/` — 跨來源合成分析頁（由 Query workflow 生成）
+- `wiki/lint-reports/` — Lint 健康報告頁
 - `wiki/index.md` — 每次 ingest 後更新的目錄
 - `wiki/log.md` — 只可追加的行動紀錄
 
@@ -92,7 +94,7 @@ _最後更新：YYYY-MM-DD HH:MM_
 
 規則：
 - 標題格式固定：`## YYYY-MM-DD HH:MM — [動作] [對象]`
-- 動作關鍵字：`INGEST` / `UPDATE` / `CREATE` / `DELETE`
+- 動作關鍵字：`INGEST` / `UPDATE` / `CREATE` / `DELETE` / `SYNTHESIS` / `LINT`
 - 絕對禁止修改或刪除已有記錄
 - 備註欄可省略，其餘欄位必填
 
@@ -117,3 +119,90 @@ _最後更新：YYYY-MM-DD HH:MM_
 - ingest 前必須把 `wiki/index.md` 視為 wiki 現況的唯一目錄依據
 - 處理任何資料夾內容前，必須先完成該資料夾層級的 schema 檢查
 - 原始檔有 `#wiki` tag 主動識別為 update 模式，對已 ingest 檔案不重複加 tag
+
+---
+
+## Query Workflow
+當我提出一個問題（例如：關聯到研究、書本、個人目標等），LLM 應：
+
+1. **索引查詢**：先讀取 `wiki/index.md`，根據問題找出相關頁面（sources、concepts、synthesis）。
+2. **內容閱讀與整理**：讀取相關頁面，並：
+   - 摘要內容、整理論點。
+   - 明確標示引用來源（例如 `[[source-2026-04-01-論文名稱.md]]`）。
+3. **回覆格式**：以 Markdown 格式回覆，根據問題類型選擇：
+   - 一般問題：段落、清單、表格。
+   - 比較問題：加入比較表。
+   - 演講或簡報需求：用 Marp syntax 生成 Markdown slides。
+4. **持久化判斷**：若這個分析是「有價值的新洞察」（例如：比較表、圖表解析、跨來源的合成），應：
+   - 在 `wiki/synthesis/` 下建立新頁面（命名規則：`synthesis-[主題]-YYYY-MM-DD.md`，例如 `synthesis-公司比較-2026-05-01.md`）。
+   - 在 `wiki/index.md` 添加對應條目（標籤欄標記 `#synthesis`）。
+   - 在 `wiki/log.md` 追加一條 `[SYNTHESIS]` 記錄，格式如下：
+     ```md
+     ## 2026-05-01 14:32 — SYNTHESIS wiki/synthesis/synthesis-公司比較-2026-05-01.md
+     - **來源頁面**：wiki/sources/A.md、wiki/concepts/B.md
+     - **問題**：使用者詢問 X 與 Y 之比較
+     - **備註**：生成比較表，識別 3 個關鍵差異
+     ```
+
+持久化觸發條件（符合任一即應建立 synthesis 頁）：
+- 回覆包含跨頁面的合成比較表
+- 回覆整合了 3 個或以上不同來源
+- 回覆中產生了原始頁面中不存在的新洞察或框架
+- 使用者明確要求「儲存」或「記錄」這份分析
+
+---
+
+## Lint Workflow
+當我說「請對 wiki 做一次 lint 檢查」，LLM 應執行健康掃瞄並輸出報告，**不自動修改任何內容**，除非我明確授權。
+
+### 檢查項目
+
+1. **矛盾檢查**：不同頁面之間，同一主張或數字是否衝突（例如同一公司 revenue 有兩個版本且未說明差異）。
+2. **過時內容**：某頁面太久未更新，但同主題已有新來源，標示為「可能過時」。
+3. **孤立頁面（Orphan）**：沒有被任何其他頁面透過 `[[wikilinks]]` 引用的頁面。
+4. **缺失頁面**：文本中提到某個概念或實體，但沒有對應的 `wiki/` 頁面，建議創建。
+5. **缺失 Cross-references**：明顯應互相關聯的頁面之間缺少 `[[wikilinks]]`。
+6. **資料缺口**：某頁面提到關鍵數據或外部知識但沒有來源，建議透過 `search_web` 工具補充。
+7. **日誌與索引一致性**：
+   - 檢查 `wiki/log.md` 是否完整記錄所有操作。
+   - 檢查 `wiki/index.md` 是否包含所有 `wiki/` 下的頁面。
+
+### 輸出格式
+
+- 建立報告頁面：`wiki/lint-reports/YYYY-MM-DD-lint-report.md`，格式如下：
+  ```md
+  # Lint Report — YYYY-MM-DD
+
+  ## 矛盾
+  - （列出衝突項目，若無則填「無」）
+
+  ## 過時內容
+  - （列出可能過時的頁面與原因）
+
+  ## 孤立頁面
+  - （列出無任何引用的頁面）
+
+  ## 缺失頁面
+  - （列出建議新建的概念頁）
+
+  ## 缺失 Cross-references
+  - （列出建議補充 wikilinks 的頁面對）
+
+  ## 資料缺口
+  - （列出建議搜尋補充的項目）
+
+  ## 日誌與索引一致性
+  - log.md：（是否完整）
+  - index.md：（缺漏頁面列表，若無則填「無」）
+
+  ## 總結
+  - 健康評分（0–100）
+  - 建議優先處理項目
+  ```
+- 在 `wiki/log.md` 追加一條 `[LINT]` 記錄，格式如下：
+  ```md
+  ## 2026-05-01 14:32 — LINT wiki/lint-reports/2026-05-01-lint-report.md
+  - **掃瞄頁數**：XX 頁
+  - **問題數量**：矛盾 X｜過時 X｜孤立 X｜缺失頁面 X｜缺失引用 X｜資料缺口 X
+  - **備註**：（可省略）
+  ```
