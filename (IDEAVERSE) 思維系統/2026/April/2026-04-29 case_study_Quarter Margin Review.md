@@ -47,7 +47,7 @@ Within "TopRank_{EngineType}_{Work LV}" sheet, to continue to
 4. add a column named "Avg_PoUnitPrice" to calculate average PoUnitPrice from the total PoUnitPrice (located in column AS) to divide by how many engine is count on this EngineType and Work LV
 5. add a column named "Avg_DiscountSellingPrice" to calculate average Discount Selling Price from the total Discount Selling Price (located in column W) to divide by how many engine is count on this EngineType and Work LV
 
-// to add Ranking column on each engine
+// to add ranking on the ranking column 
 Form the original "Material_ISP_actual" sheet, 
 
 Add an additional column called "Rank_actual" to rank each row as 1 within each EngineSerialNumber in column B if the "Discount Selling Price" in column W is the highest value, and continue ranking accordingly. Exclude any rows where the "IPC Location" in column AA starts with 'TR' from the ranking process.
