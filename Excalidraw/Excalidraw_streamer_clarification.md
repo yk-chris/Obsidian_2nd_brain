@@ -769,7 +769,7 @@ Column 5 ^IyNOhdrV
   - The retained tasks must only be the tasks labelled "cost-review". ^46wtJ32M
 
 ## Element Links
-QvpqGF5x: [[../(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner)#1) Consolidated Categories of Comments]]
+QvpqGF5x: [[../04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner)#1) Consolidated Categories of Comments]]
 
 ## Embedded Files
 8d900545e14af2da5796c4c05dcfb9554fee93b9: [[assets/Excalidraw_streamer_clarification/Pasted Image 20260424161818_080.png]]

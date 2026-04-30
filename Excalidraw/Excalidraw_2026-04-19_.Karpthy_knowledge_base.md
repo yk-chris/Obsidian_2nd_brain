@@ -30,7 +30,7 @@ AI-agent ^u7dT4Kv0
 
 Claude.md ^biJQJ4O4
 
-[[../(SKILLs) 技能/llm-wiki]] ^EOQkjY4m
+[[../01-(SKILLs) 技能/llm-wiki]] ^EOQkjY4m
 
 %%
 ## Drawing

@@ -1,0 +1,140 @@
+{
+	"nodes": [
+		{
+			"id": "e75bf94d72e7e8ef",
+			"type": "group",
+			"x": -814,
+			"y": -300,
+			"width": 871,
+			"height": 741
+		},
+		{
+			"id": "c4d222ed2192ecac",
+			"type": "file",
+			"file": "03-(FINANCE) 財務筆記/企業概要/概要_群核科技.md",
+			"x": -2763,
+			"y": -869,
+			"width": 907,
+			"height": 1331
+		},
+		{
+			"id": "7a64f4d99d3cd677",
+			"type": "file",
+			"file": "03-(FINANCE) 財務筆記/founders的故事/黃曉煌（Huang Xiaohuang）.md",
+			"x": -2763,
+			"y": -1688,
+			"width": 907,
+			"height": 718
+		},
+		{
+			"id": "c5d55c86011c2594",
+			"type": "file",
+			"file": "03-(FINANCE) 財務筆記/TA技術分析/群核科技 [HKD 7.52].md",
+			"x": -1808,
+			"y": -1688,
+			"width": 895,
+			"height": 718
+		},
+		{
+			"id": "d8af834d4ed79ee8",
+			"type": "link",
+			"url": "https://manycoretech.com/",
+			"x": -803,
+			"y": -869,
+			"width": 857,
+			"height": 516
+		},
+		{
+			"id": "96b1adec03a4e82e",
+			"type": "file",
+			"file": "03-(FINANCE) 財務筆記/產業/業務_群核科技.md",
+			"x": -1808,
+			"y": -869,
+			"width": 895,
+			"height": 1331
+		},
+		{
+			"id": "20b64ead45b6cf03",
+			"type": "text",
+			"text": "產品業務",
+			"x": -794,
+			"y": -239,
+			"width": 831,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "eb6f323bf4706aed",
+			"type": "text",
+			"text": "[酷家樂（國內）](https://www.kujiale.com/)",
+			"x": -794,
+			"y": -148,
+			"width": 400,
+			"height": 60
+		},
+		{
+			"id": "8cf8c9e8a19e0fa6",
+			"type": "file",
+			"file": "02-(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952723.jpg",
+			"x": -794,
+			"y": -88,
+			"width": 399,
+			"height": 207
+		},
+		{
+			"id": "0ce69b1eee403e62",
+			"type": "text",
+			"text": "[SpatialVerse（具身智能訓練）](https://www.spatial-verse.com/)",
+			"x": -794,
+			"y": 152,
+			"width": 400,
+			"height": 60
+		},
+		{
+			"id": "9569db4515c14cd5",
+			"type": "text",
+			"text": "[Coohom（海外）](https://www.coohom.com/?hl=zh_TW)",
+			"x": -363,
+			"y": -148,
+			"width": 400,
+			"height": 60
+		},
+		{
+			"id": "513417e47390b4c2",
+			"type": "file",
+			"file": "02-(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952719.jpg",
+			"x": -363,
+			"y": -88,
+			"width": 400,
+			"height": 208
+		},
+		{
+			"id": "3677bc1e99bec476",
+			"type": "text",
+			"text": "[LuxReal](https://www.luxreal.ai/)",
+			"x": -363,
+			"y": 152,
+			"width": 400,
+			"height": 60
+		},
+		{
+			"id": "9a33e3684b353a35",
+			"type": "file",
+			"file": "02-(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952708.jpg",
+			"x": -363,
+			"y": 215,
+			"width": 400,
+			"height": 205
+		},
+		{
+			"id": "ad9cd5d6e7372506",
+			"type": "file",
+			"file": "02-(LEARN) 學習筆記/assets/map_群核科技/file-20260419104952717.jpg",
+			"x": -794,
+			"y": 212,
+			"width": 400,
+			"height": 208
+		}
+	],
+	"edges": []
+}

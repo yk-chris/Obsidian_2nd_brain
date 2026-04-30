@@ -1,0 +1,135 @@
+{
+	"nodes": [
+		{
+			"id": "deb1f96abc2c9e71",
+			"type": "file",
+			"file": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md",
+			"x": 360,
+			"y": -120,
+			"width": 400,
+			"height": 280
+		},
+		{
+			"id": "60be3cba39372f3a",
+			"type": "text",
+			"text": "生產要素",
+			"x": 360,
+			"y": -200,
+			"width": 400,
+			"height": 60
+		},
+		{
+			"id": "dafbb8590b3d51e7",
+			"type": "text",
+			"text": "產業",
+			"x": -120,
+			"y": -200,
+			"width": 400,
+			"height": 60
+		},
+		{
+			"id": "a723aef164a798bf",
+			"type": "file",
+			"file": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
+			"x": -120,
+			"y": -120,
+			"width": 400,
+			"height": 280
+		},
+		{
+			"id": "aab6a345fd5e3559",
+			"type": "text",
+			"text": "企途概要",
+			"x": -600,
+			"y": -200,
+			"width": 400,
+			"height": 60
+		},
+		{
+			"id": "cb4e2aa613cb9aff",
+			"type": "file",
+			"file": "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
+			"x": -600,
+			"y": 520,
+			"width": 400,
+			"height": 288
+		},
+		{
+			"id": "3aad15eba9c4e279",
+			"type": "text",
+			"text": "TA技術分析",
+			"x": 920,
+			"y": -200,
+			"width": 400,
+			"height": 60
+		},
+		{
+			"id": "2b084674208b6d10",
+			"type": "file",
+			"file": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
+			"x": 920,
+			"y": -101,
+			"width": 400,
+			"height": 261
+		},
+		{
+			"id": "fdc0129e0312cd12",
+			"type": "file",
+			"file": "01-(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md",
+			"x": 920,
+			"y": 200,
+			"width": 400,
+			"height": 261
+		},
+		{
+			"id": "d3e8f3d6598f3659",
+			"type": "file",
+			"file": "01-(SKILLs) 技能/skill_invest/evaluate_company/trading-arbitrage-emotion.md",
+			"x": 920,
+			"y": 500,
+			"width": 400,
+			"height": 261
+		},
+		{
+			"id": "77845570dfe73a1b",
+			"type": "file",
+			"file": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md",
+			"x": -600,
+			"y": -120,
+			"width": 400,
+			"height": 288
+		},
+		{
+			"id": "0a00ff5d2a0cfc3d",
+			"type": "file",
+			"file": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md",
+			"x": -600,
+			"y": 200,
+			"width": 400,
+			"height": 280
+		}
+	],
+	"edges": [
+		{
+			"id": "d1d312ede99a8bea",
+			"fromNode": "dafbb8590b3d51e7",
+			"fromSide": "right",
+			"toNode": "60be3cba39372f3a",
+			"toSide": "left"
+		},
+		{
+			"id": "473bb521953fb48e",
+			"fromNode": "aab6a345fd5e3559",
+			"fromSide": "right",
+			"toNode": "dafbb8590b3d51e7",
+			"toSide": "left"
+		},
+		{
+			"id": "5deb6f8e02c00210",
+			"fromNode": "60be3cba39372f3a",
+			"fromSide": "right",
+			"toNode": "3aad15eba9c4e279",
+			"toSide": "left"
+		}
+	]
+}
