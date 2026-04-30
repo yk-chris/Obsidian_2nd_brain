@@ -14,9 +14,9 @@
               "type": "bases",
               "state": {
                 "file": "Base_目錄.base",
-                "viewName": "list_work"
+                "viewName": "Overviews"
               },
-              "icon": "lucide-list",
+              "icon": "lucide-table",
               "title": "Base_目錄"
             }
           },
@@ -289,9 +289,9 @@
   "active": "650090c5e6b28f2f",
   "lastOpenFiles": [
     "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
+    "Base_目錄.base",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "conflict-files-obsidian-git.md",
-    "Base_目錄.base",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
@@ -337,7 +337,6 @@
     "(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md",
     "(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md",
     "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMAT [$294.67, 4.2, 3.5].md",
-    "(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md",
     "(SKILLs) 技能/map_invest_skills.canvas",
     "(LEARN) 學習筆記/learn_Power_BI.canvas",
     "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
