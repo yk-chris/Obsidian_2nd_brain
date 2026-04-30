@@ -33,6 +33,23 @@
               "icon": "lucide-file",
               "title": "2026-04-29 case_study_Quarter Margin Review"
             }
+          },
+          {
+            "id": "a0f78e210167997c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
+                "viewState": {
+                  "x": 913.718893473736,
+                  "y": 2617.857564934869,
+                  "zoom": -0.13030718510651507
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map_Induction_WSI_workflow"
+            }
           }
         ],
         "currentTab": 1
@@ -276,15 +293,15 @@
   },
   "active": "f29dbab67cec5772",
   "lastOpenFiles": [
-    "Base_目錄.base",
+    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
+    "Base_目錄.base",
     "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901624.jpg",
     "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)/file-20260429091901626.jpg",
     "(WORK) 工作/MISC_works/input_ouput_module (fine-tune).md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
     "conflict-files-obsidian-git.md",
     "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
-    "(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "(SKILLs) 技能/skill_convertor/convert-gherkin.md",
     "TaskNotes/Views/kanban-default.base",
     "(WORK) 工作/MISC_works/assets/input_ouput_module (fine-tune)",
