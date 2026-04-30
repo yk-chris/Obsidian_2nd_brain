@@ -115,7 +115,7 @@ From this "materials_actual_budget" sheet,
 7. Add a column called "diff_DiscountSellingPrice" that calculates the difference by subtracting "Discount Selling Price" from "avg_DiscountSellingPrice_budget".
 8. From the sheet named "materials_actual_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber_Q1.Sorting by “Rank”(located on J column).
 
-//
+// give an insight
 ```
 
 
