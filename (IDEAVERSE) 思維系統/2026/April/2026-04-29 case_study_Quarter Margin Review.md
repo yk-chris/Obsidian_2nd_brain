@@ -77,8 +77,8 @@ From this "materials_actual_budget" sheet,
 ### Contraint
 - PartNo must be converted into "Text" format instead of a number
 - IPC Location must be converted into "Text" format instead of a number
-- to make QTY to be converted into "#.#" format
-- to make Price to be converted into "$#,#.#0" format
+- to make "QTY" to be converted into "#.#" format from ['', '']
+- to make "Price" to be converted into "$#,#.#0" format from ['', '']
 
 ### Procedure
 // to add Ranking column on each engine
