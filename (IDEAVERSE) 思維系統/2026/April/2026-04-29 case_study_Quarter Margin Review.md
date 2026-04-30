@@ -77,9 +77,10 @@ From this "materials_actual_budget" sheet,
 ### Contraint
 - PartNo must be converted into "Text" format instead of a number
 - IPC Location must be converted into "Text" format instead of a number
-- to make "QTY" to be converted into "#.#" format from ['', '']
-- to make "Price" to be converted into "$#,#.#0" format from ['', '']
-
+- to convert "QTY" to the "#.#" format within a list like ['', '']
+- to convert "Price" to the "#.#" format within a list like ['', '']
+- to make the columns auto-fit to the width size
+  
 ### Procedure
 // to add Ranking column on each engine
 From the sheet named "Material_ISP_budget", to create individual sheets by unique "EngineSerialNumber" located in column B and each sheet is named by EngineSerialNumber. Moreover, to put a series of columns including | EngineType | Work LV | SalesOrder | EngineSerialNumber | CustomerCode | ValType | Appendix | Module | IPC Location | PartNo | PartDesc | Qty | SapUnitPrice | PoUnitPrice | Discount Selling Price | on each EngineSerialNumber sheet 
