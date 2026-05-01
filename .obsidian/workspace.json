@@ -11,14 +11,17 @@
             "id": "8a68c77be4ec6937",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/schema_finance.md",
-                "mode": "source",
-                "source": false
+                "file": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+                "viewState": {
+                  "x": 1329.5,
+                  "y": -113.5,
+                  "zoom": -1.507819219511266
+                }
               },
-              "icon": "lucide-file",
-              "title": "schema_finance"
+              "icon": "lucide-layout-dashboard",
+              "title": "Map_財務筆記"
             }
           }
         ]
@@ -255,11 +258,17 @@
   },
   "active": "8a68c77be4ec6937",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/schema_finance.md",
+    "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
+    "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
+    "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
+    "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md",
+    "01-(SKILLs) 技能/skill_invest/invest-IPO.md",
+    "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
+    "03-(FINANCE) 財務筆記/log_finance.md",
     "wiki/schema_wiki.md",
     "wiki/index_wiki.md",
     "wiki/log_wiki.md",
-    "03-(FINANCE) 財務筆記/schema_finance.md",
-    "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/NOW [$185, 4.5, 1.5].md",
     "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
@@ -278,14 +287,8 @@
     "03-(FINANCE) 財務筆記/TA技術分析/assets/MU -$517.00-/file-20260426182821754.jpg",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/BABA -$138.75-/file-20260426182841106.jpg",
     "CLAUDE.md",
-    "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_網絡廣告.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_金融科技及企業服務.md",
-    "03-(FINANCE) 財務筆記/產業/00700.HK_增值服務.md",
-    "03-(FINANCE) 財務筆記/產業/00700.HK_其他.md",
-    "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_SDC（Samsung Display）.md",
-    "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_DUV 系統.md",
-    "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",

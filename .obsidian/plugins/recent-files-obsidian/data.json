@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Map_財務筆記",
+      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    },
+    {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+    },
+    {
+      "basename": "invest-stock-valuation",
+      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
+      "basename": "invest-fundamental-analysis",
+      "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
+    },
+    {
+      "basename": "dive-deep-bottlenecks",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
+    },
+    {
+      "basename": "invest-moat-margin-v2",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
+    },
+    {
+      "basename": "invest-IPO",
+      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
+    },
+    {
+      "basename": "invest-cost-return",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+    },
+    {
+      "basename": "log_finance",
+      "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
     {
       "basename": "schema_wiki",
@@ -15,10 +47,6 @@
     {
       "basename": "log_wiki",
       "path": "wiki/log_wiki.md"
-    },
-    {
-      "basename": "log_finance",
-      "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
     {
       "basename": "ServiceNow（NOW）",
@@ -53,10 +81,6 @@
       "path": "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md"
     },
     {
-      "basename": "Map_財務筆記",
-      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
-    },
-    {
       "basename": "BABA [$138.75]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/BABA [$138.75].md"
     },
@@ -73,20 +97,8 @@
       "path": "03-(FINANCE) 財務筆記/TA技術分析/MU [$517.00].md"
     },
     {
-      "basename": "invest-fundamental-analysis",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
-    },
-    {
       "basename": "invest-enterprise-business",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
-    },
-    {
-      "basename": "invest-cost-return",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
-    },
-    {
-      "basename": "invest-stock-valuation",
-      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
     },
     {
       "basename": "CLAUDE",
@@ -121,10 +133,6 @@
       "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md"
     },
     {
-      "basename": "dive-deep-bottlenecks",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
-    },
-    {
       "basename": "業務_群核科技",
       "path": "03-(FINANCE) 財務筆記/產業/業務_群核科技.md"
     },
@@ -143,14 +151,6 @@
     {
       "basename": "invest-production-factors-v1.2.0",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
-    },
-    {
-      "basename": "invest-moat-margin-v2",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
-    },
-    {
-      "basename": "invest-IPO",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
     },
     {
       "basename": "Rocket Lab Corporation（RKLB）",
