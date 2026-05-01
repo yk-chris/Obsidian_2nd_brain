@@ -5,20 +5,20 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
-      "basename": "invest-cost-return",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+      "basename": "invest-fundamental-analysis",
+      "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
     },
     {
-      "basename": "invest-cost-return",
-      "path": "01-(SKILLs) 技能/invest-cost-return.md"
+      "basename": "invest-IPO",
+      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
     },
     {
       "basename": "invest-moat-margin-v2",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
     },
     {
-      "basename": "invest-fundamental-analysis",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
+      "basename": "invest-cost-return",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
     },
     {
       "basename": "invest-stock-valuation",
@@ -31,10 +31,6 @@
     {
       "basename": "Map_財務筆記",
       "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
-    },
-    {
-      "basename": "invest-IPO",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
     },
     {
       "basename": "MOC_20260501 - April 2026 Clippings 知識萃取",
