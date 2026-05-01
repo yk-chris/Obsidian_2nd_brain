@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ASML [$988.16, 4.5, 3.5]",
       "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$988.16, 4.5, 3.5].md"
-    },
-    {
-      "basename": "BABA [$138.75, 2.8, 2.5]",
-      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md"
     }
   ],
   "omittedPaths": [],
