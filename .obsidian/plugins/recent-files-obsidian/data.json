@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Map_財務筆記",
+      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    },
+    {
+      "basename": "trading-arbitrage-emotion",
+      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/trading-arbitrage-emotion.md"
+    },
+    {
+      "basename": "trading-divergence",
+      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md"
+    },
+    {
+      "basename": "invest-production-factors-v1.2.0",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
+    },
+    {
+      "basename": "invest-cost-return",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+    },
+    {
+      "basename": "invest-moat-margin-v2",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
+    },
+    {
+      "basename": "invest-stock-valuation",
+      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
+      "basename": "invest-fundamental-analysis",
+      "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
+    },
+    {
+      "basename": "invest-enterprise-business",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
+    },
+    {
+      "basename": "invest-IPO",
+      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
+    },
+    {
+      "basename": "dive-deep-bottlenecks",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
+    },
+    {
       "basename": "schema_wiki",
       "path": "wiki/schema_wiki.md"
     },
@@ -41,10 +85,6 @@
       "path": "01-(SKILLs) 技能/skill_general/fact-check.md"
     },
     {
-      "basename": "Map_財務筆記",
-      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
-    },
-    {
       "basename": "NOW [$138.71]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md"
     },
@@ -59,30 +99,6 @@
     {
       "basename": "AMZN [$257.26]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$257.26].md"
-    },
-    {
-      "basename": "invest-stock-valuation",
-      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
-    },
-    {
-      "basename": "invest-IPO",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
-    },
-    {
-      "basename": "invest-fundamental-analysis",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
-    },
-    {
-      "basename": "invest-cost-return",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
-    },
-    {
-      "basename": "invest-moat-margin-v2",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
-    },
-    {
-      "basename": "MOC_20260501 - April 2026 Clippings 知識萃取",
-      "path": "Clippings/2026/April/MOC_20260501 - April 2026 Clippings 知識萃取.md"
     },
     {
       "basename": "MSFT [$520, 4.8, 1.5]",
@@ -115,10 +131,6 @@
     {
       "basename": "GOOGL [$370, 4.5, 2.0]",
       "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$370, 4.5, 2.0].md"
-    },
-    {
-      "basename": "invest-enterprise-business",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
     },
     {
       "basename": "00700.HK [HKD 556.14]",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted Image 20260427081619_808",
       "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081619_808.png"
-    },
-    {
-      "basename": "Pasted Image 20260427083014_916",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427083014_916.png"
-    },
-    {
-      "basename": "Pasted Image 20260427113751_225",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427113751_225.png"
-    },
-    {
-      "basename": "Pasted Image 20260427134405_670",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427134405_670.png"
     }
   ],
   "omittedPaths": [],

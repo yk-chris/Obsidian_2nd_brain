@@ -11,10 +11,17 @@
             "id": "9cf7f042ac20c54d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+                "viewState": {
+                  "x": 1341.1558738182487,
+                  "y": -464.40702893362914,
+                  "zoom": -0.9950987957699762
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Map_財務筆記"
             }
           }
         ]
@@ -85,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 555.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -245,11 +253,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "9cf7f042ac20c54d",
   "lastOpenFiles": [
+    "wiki/schema_wiki.md",
     "wiki/log_wiki.md",
     "wiki/index_wiki.md",
-    "wiki/schema_wiki.md",
     "wiki/concepts",
     "wiki/sources",
     "03-(FINANCE) 財務筆記/schema_finance.md",
