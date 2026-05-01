@@ -277,6 +277,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
    created: {date}
    updated: {date}
    skill: invest-cost-return
+   
    ---
 
    # {ticker} — {業務部門}
