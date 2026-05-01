@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "ipo_2026-05-01",
-      "path": "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md"
-    },
-    {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "ipo_2026-05-01",
+      "path": "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md"
+    },
+    {
+      "basename": "MSFT [$520]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md"
+    },
+    {
+      "basename": "NOW [$138.71]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md"
+    },
+    {
+      "basename": "AMZN [$257.26]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$257.26].md"
+    },
+    {
       "basename": "invest-stock-valuation",
       "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
+      "basename": "invest-IPO",
+      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
     },
     {
       "basename": "invest-fundamental-analysis",
@@ -23,10 +43,6 @@
     {
       "basename": "invest-moat-margin-v2",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
-    },
-    {
-      "basename": "invest-IPO",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
     },
     {
       "basename": "Map_財務筆記",
@@ -53,10 +69,6 @@
       "path": "wiki/log.md"
     },
     {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
       "basename": "llm-wiki",
       "path": "01-(SKILLs) 技能/llm-wiki.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "GOOGL [$370]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$370].md"
-    },
-    {
-      "basename": "MSFT [$520]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md"
     },
     {
       "basename": "特斯拉 (TSLA)",
