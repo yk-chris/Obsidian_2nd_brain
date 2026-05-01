@@ -34,7 +34,7 @@ updated: 2026-05-01
 | 2026-05-01 14:34 | E        | [[產業/00700.HK_金融科技及企業服務\|00700.HK_金融科技及企業服務]]      | 執行產業分析（invest-cost-return），拆分業務部門：金融科技及企業服務                                                                                                                     | ✅ 完成    |
 | 2026-05-01 14:34 | E        | [[產業/00700.HK_網絡廣告\|00700.HK_網絡廣告]]                  | 執行產業分析（invest-cost-return），拆分業務部門：網絡廣告                                                                                                                               | ✅ 完成    |
 | 2026-05-01 14:34 | E        | [[產業/00700.HK_其他\|00700.HK_其他]]                        | 執行產業分析（invest-cost-return），拆分業務部門：其他                                                                                                                                   | ✅ 完成    |
-| 2026-05-01 16:41 | C        | [[企業概要/ServiceNow（NOW）\|NOW]]                  | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新 ServiceNow（NOW）企業概要；納入 Q1 2026 最新財報（訂閱收入 $3.671B，+22% YoY；cRPO $12.64B；non-GAAP OM 32%；FCM 44%）；Part B 改用正確技能 dive-deep-bottlenecks，涵蓋 Autonomous Workforce、CVE-2025-12420、Moveworks 收購、競爭格局深挖分析 | ✅ 完成    |
+| 2026-05-01 16:45 | B        | [[公司業務, 護城河, 週期, 競爭格局/NOW [$185, 4.5, 1.5]\|NOW]]  | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.5，週期暴露度=1.5，綜合公允價值=$185，新建 NOW 基本面筆記，基於 FY2025 + Q1 2026 最新財務數據                                                  | ✅ 完成    |
 
 ---
 
