@@ -1,4 +1,3 @@
-# CLAUDE.md
 
 ## Repository Overview
 This is an Obsidian second brain vault. The folder structure follows a numbered knowledge system:

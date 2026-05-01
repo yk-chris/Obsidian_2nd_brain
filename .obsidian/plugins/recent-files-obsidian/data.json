@@ -5,6 +5,18 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "schema_wiki",
+      "path": "wiki/schema_wiki.md"
+    },
+    {
+      "basename": "index_wiki",
+      "path": "wiki/index_wiki.md"
+    },
+    {
+      "basename": "log_wiki",
+      "path": "wiki/log_wiki.md"
+    },
+    {
       "basename": "log_finance",
       "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
@@ -119,18 +131,6 @@
     {
       "basename": "Excalidraw_2026-05-01_.schema_wiki",
       "path": "wiki/Excalidraw_2026-05-01_.schema_wiki.md"
-    },
-    {
-      "basename": "index_wiki",
-      "path": "wiki/index_wiki.md"
-    },
-    {
-      "basename": "log_wiki",
-      "path": "wiki/log_wiki.md"
-    },
-    {
-      "basename": "schema_wiki",
-      "path": "wiki/schema_wiki.md"
     },
     {
       "basename": "trading-arbitrage-emotion",
