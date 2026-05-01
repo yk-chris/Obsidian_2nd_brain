@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "schema_finance",
+      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+    },
+    {
+      "basename": "log_finance",
+      "path": "03-(FINANCE) 財務筆記/log_finance.md"
+    },
+    {
+      "basename": "MU_12.7_汽車及嵌入式業務單元（AEBU）",
+      "path": "03-(FINANCE) 財務筆記/產業/MU_12.7_汽車及嵌入式業務單元（AEBU）.md"
+    },
+    {
+      "basename": "MU_36.2_雲記憶體業務單元（CMBU）",
+      "path": "03-(FINANCE) 財務筆記/產業/MU_36.2_雲記憶體業務單元（CMBU）.md"
+    },
+    {
+      "basename": "00700.HK_48.3_增值服務",
+      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_48.3_增值服務.md"
+    },
+    {
+      "basename": "00700.HK_1.3_其他業務",
+      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_1.3_其他業務.md"
+    },
+    {
+      "basename": "ASML_45.3_DUV深紫外線微影系統",
+      "path": "03-(FINANCE) 財務筆記/產業/ASML_45.3_DUV深紫外線微影系統.md"
+    },
+    {
+      "basename": "Base_目錄",
+      "path": "Base_目錄.base"
+    },
+    {
       "basename": "TSM [$398, 4.3, 3.0]",
       "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [$398, 4.3, 3.0].md"
     },
@@ -25,16 +57,8 @@
       "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_Harman.md"
     },
     {
-      "basename": "MU_36.2_雲記憶體業務單元（CMBU）",
-      "path": "03-(FINANCE) 財務筆記/產業/MU_36.2_雲記憶體業務單元（CMBU）.md"
-    },
-    {
       "basename": "MU_19.3_核心數據中心業務單元（CDBU）",
       "path": "03-(FINANCE) 財務筆記/產業/MU_19.3_核心數據中心業務單元（CDBU）.md"
-    },
-    {
-      "basename": "MU_12.7_汽車及嵌入式業務單元（AEBU）",
-      "path": "03-(FINANCE) 財務筆記/產業/MU_12.7_汽車及嵌入式業務單元（AEBU）.md"
     },
     {
       "basename": "MU_31.7_行動及客戶端業務單元（MCBU）",
@@ -53,10 +77,6 @@
       "path": "03-(FINANCE) 財務筆記/產業/ASML_29.4_EUV極紫外線微影系統.md"
     },
     {
-      "basename": "ASML_45.3_DUV深紫外線微影系統",
-      "path": "03-(FINANCE) 財務筆記/產業/ASML_45.3_DUV深紫外線微影系統.md"
-    },
-    {
       "basename": "TSMC_車用電子（Automotive）",
       "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_車用電子（Automotive）.md"
     },
@@ -65,16 +85,8 @@
       "path": "03-(FINANCE) 財務筆記/產業/00700.HK_32.1_金融科技及企業服務.md"
     },
     {
-      "basename": "00700.HK_48.3_增值服務",
-      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_48.3_增值服務.md"
-    },
-    {
       "basename": "業務_群核科技",
       "path": "03-(FINANCE) 財務筆記/產業/業務_群核科技.md"
-    },
-    {
-      "basename": "schema_finance",
-      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
       "basename": "BABA_45.0_淘寶天貓集團",
@@ -85,20 +97,12 @@
       "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
     },
     {
-      "basename": "00700.HK_1.3_其他業務",
-      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_1.3_其他業務.md"
-    },
-    {
       "basename": "BABA_12.0_雲智能集團",
       "path": "03-(FINANCE) 財務筆記/產業/BABA_12.0_雲智能集團.md"
     },
     {
       "basename": "BABA_8.0_菜鳥智慧物流",
       "path": "03-(FINANCE) 財務筆記/產業/BABA_8.0_菜鳥智慧物流.md"
-    },
-    {
-      "basename": "log_finance",
-      "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
     {
       "basename": "Map_財務筆記",
@@ -195,10 +199,6 @@
     {
       "basename": "三星電子_SDC（Samsung Display）",
       "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_SDC（Samsung Display）.md"
-    },
-    {
-      "basename": "Carl Zeiss SMT_EUV 光刻光學系統",
-      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md"
     }
   ],
   "omittedPaths": [],
