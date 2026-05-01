@@ -20,7 +20,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 ├── 企業概要/
 │   └── {ticker}{company name}.md     ← 檔名格式不一，見下方解析規則
 └── HK-IPO/
-    └── {yyyy-mm-dd}.md               ← 以執行當日日期命名
+    └── ipo_{yyyy-mm-dd}.md               ← 以執行當日日期命名
 ```
 
 ---
@@ -185,19 +185,19 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ### 檔名規範
 
-| 規則 | 格式 | 範例 |
-|------|------|------|
-| 以執行當日日期命名 | `yyyy-mm-dd.md` | `2026-05-01.md` |
-| 當日檔案已存在 | 直接更新同名檔案（不新建） | 覆寫 `2026-05-01.md` |
+| 規則        | 格式                  | 範例                     |
+| --------- | ------------------- | ---------------------- |
+| 以執行當日日期命名 | `ipo_yyyy-mm-dd.md` | `ipo_2026-05-01.md`    |
+| 當日檔案已存在   | 直接更新同名檔案（不新建）       | 覆寫 `ipo_2026-05-01.md` |
 
 ### 執行步驟
 
 1. **取得當日日期** — 以 `yyyy-mm-dd` 格式作為目標檔名
-2. **檢查檔案是否存在** — 確認 `03-(FINANCE) 財務筆記/HK-IPO/yyyy-mm-dd.md` 是否已存在
+2. **檢查檔案是否存在** — 確認 `03-(FINANCE) 財務筆記/HK-IPO/ipo_yyyy-mm-dd.md` 是否已存在
    - **存在** → 直接更新該檔案內文
    - **不存在** → 依模板新建該檔案
 3. **執行技能** — 載入 `invest-IPO.md`，依技能結構填寫 IPO 分析內容
-4. **寫入筆記** — 將分析輸出寫入 `03-(FINANCE) 財務筆記/HK-IPO/yyyy-mm-dd.md`
+4. **寫入筆記** — 將分析輸出寫入 `03-(FINANCE) 財務筆記/HK-IPO/ipo_yyyy-mm-dd.md`
 5. **更新 YAML Frontmatter** — 更新 `updated` 日期欄位
 
 ### 輸出路徑
@@ -205,13 +205,13 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 ```
 03-(FINANCE) 財務筆記/
 └── HK-IPO/
-    └── {yyyy-mm-dd}.md    ← 例：2026-05-01.md
+    └── ipo_{yyyy-mm-dd}.md    ← 例：ipo_2026-05-01.md
 ```
 
 ### 觸發範例
 
 > 輸入：`HK-IPO` 或 `IPO`
-> → 自動定位今日日期 → 檢查/新建 `HK-IPO/{yyyy-mm-dd}.md` → 執行 `invest-IPO.md` 技能
+> → 自動定位今日日期 → 檢查/新建 `HK-IPO/ipo_{yyyy-mm-dd}.md` → 執行 `invest-IPO.md` 技能
 
 ---
 

@@ -5,6 +5,14 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "ipo_2026-05-01",
+      "path": "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md"
+    },
+    {
+      "basename": "Map_財務筆記",
+      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    },
+    {
       "basename": "invest-IPO",
       "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "2026-04-29 case_study_Quarter Margin Review",
       "path": "00-(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md"
-    },
-    {
-      "basename": "Map_財務筆記",
-      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
     },
     {
       "basename": "index",
