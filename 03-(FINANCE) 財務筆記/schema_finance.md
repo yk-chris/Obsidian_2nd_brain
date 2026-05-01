@@ -107,7 +107,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 >
 > 使用技能：
 > - 01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2
-> - [[01-(SKILLs) 技能/skill_invest/search_company (background)/invest-cost-return]]
+> - [01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return](../01-(SKILLs)%20技能/skill_invest/search_company%20(know-how)/invest-cost-return.md)
 
 ### 檔名格式與 Ticker 解析規則
 
