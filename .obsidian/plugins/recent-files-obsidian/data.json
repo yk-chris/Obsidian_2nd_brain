@@ -5,6 +5,10 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "業務_群核科技",
+      "path": "03-(FINANCE) 財務筆記/產業/業務_群核科技.md"
+    },
+    {
       "basename": "Map_財務筆記",
       "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted Image 20260427081430_805",
       "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081430_805.png"
-    },
-    {
-      "basename": "file-20260427090800405",
-      "path": "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg"
     }
   ],
   "omittedPaths": [],
