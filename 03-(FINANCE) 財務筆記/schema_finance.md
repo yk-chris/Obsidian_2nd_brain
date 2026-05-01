@@ -21,7 +21,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 ├── 企業概要/
 │   └── {ticker}{company name}.md     ← 檔名格式不一，見下方解析規則
 ├── 產業/
-│   └── {ticker}_{業務部門}.md         ← 每個業務部門獨立一個檔案
+│   └── {ticker}_{貢獻佔比}_{業務部門}.md   ← 每個業務部門獨立一個檔案（佔比不含%符號）
 └── HK-IPO/
     └── ipo_{yyyy-mm-dd}.md               ← 以執行當日日期命名
 ```
@@ -248,31 +248,33 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ### 核心邏輯
 
-執行 `invest-cost-return` 後，從分析結果中識別 `{ticker}` 的所有 `{業務部門}`，並為**每個業務部門**獨立建立一個筆記檔案，實現業務部門層級的細粒度產業分析。
+執行 `invest-cost-return` 後，從分析結果中識別 `{ticker}` 的所有 `{業務部門}` 及其 `{貢獻佔比}`，並為**每個業務部門**獨立建立一個筆記檔案，實現業務部門層級的細粒度產業分析。
 
 ### 檔名規範
 
-| 規則             | 格式                        | 範例                          |
-| -------------- | ------------------------- | --------------------------- |
-| 每個業務部門獨立一個檔案   | `{ticker}_{業務部門}.md`      | `NVDA_資料中心.md`              |
-| 同一 ticker 多部門  | 每個部門分別建立獨立檔案              | `NVDA_資料中心.md`、`NVDA_遊戲.md` |
-| 已存在時           | 直接更新同名檔案（不新建）             | 覆寫 `NVDA_資料中心.md`           |
+| 規則             | 格式                                    | 範例                                  |
+| -------------- | --------------------------------------- | ------------------------------------- |
+| 每個業務部門獨立一個檔案   | `{ticker}_{貢獻佔比}_{業務部門}.md`          | `NVDA_58.3_資料中心.md`                |
+| 同一 ticker 多部門  | 每個部門分別建立獨立檔案                    | `NVDA_58.3_資料中心.md`、`NVDA_22.1_遊戲.md` |
+| 已存在時           | 直接更新同名檔案（不新建）                  | 覆寫 `NVDA_58.3_資料中心.md`           |
+| ⚠️ 貢獻佔比格式     | 純數字，**不含 % 符號**，保留一位小數      | `58.3`（代表 58.3%）                   |
 
 ### 執行步驟
 
 1. **識別 Ticker** — 從用戶輸入或上下文中取得 `{ticker}`
 2. **執行技能** — 載入 `invest-cost-return.md`，以 `{ticker}` 作為搜尋輸入，進行完整的成本結構與投資回報分析
-3. **識別業務部門清單** — 從 `invest-cost-return` 輸出結果中提取所有 `{業務部門}`
-   - 範例（NVDA）：`資料中心`、`遊戲`、`專業視覺化`、`汽車`、`OEM & 其他`
-   - 範例（AAPL）：`iPhone`、`Mac`、`iPad`、`穿戴裝置`、`服務`
+3. **識別業務部門清單** — 從 `invest-cost-return` 輸出結果中提取所有 `{業務部門}` 及其 `{貢獻佔比}`
+   - 範例（NVDA）：`資料中心 58.3`、`遊戲 22.1`、`專業視覺化 9.5`、`汽車 5.8`、`OEM & 其他 4.3`
+   - 範例（AAPL）：`iPhone 52.3`、`Mac 10.1`、`iPad 7.8`、`穿戴裝置 11.4`、`服務 18.4`
 4. **分拆建立檔案** — 針對每個 `{業務部門}` 獨立建立或更新筆記：
-   - 路徑：`03-(FINANCE) 財務筆記/產業/{ticker}_{業務部門}.md`
+   - 路徑：`03-(FINANCE) 財務筆記/產業/{ticker}_{貢獻佔比}_{業務部門}.md`
    - 每個檔案包含該部門專屬的成本結構、投資回報、成長驅動分析
 5. **每個檔案的內容結構**：
    ```markdown
    ---
    ticker: {ticker}
    業務部門: {業務部門}
+   貢獻佔比: {貢獻佔比}%
    tags: [產業, {ticker}, {業務部門}]
    created: {date}
    updated: {date}
@@ -319,26 +321,26 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 6. **更新 YAML Frontmatter** — 每個分拆檔案均更新 `updated` 日期欄位
 7. **📋 記錄日誌** — 於 `log_finance.md` 為**每個業務部門檔案**各新增一筆記錄，格式如下：
    ```
-   | YYYY-MM-DD HH:MM | E | [[產業/{ticker}_{業務部門}\|{ticker}_{業務部門}]] | 執行產業分析（invest-cost-return），拆分業務部門：{業務部門} | ✅ 完成 |
+   | YYYY-MM-DD HH:MM | E | [[產業/{ticker}_{貢獻佔比}_{業務部門}\|{ticker}_{業務部門}]] | 執行產業分析（invest-cost-return），拆分業務部門：{業務部門}（{貢獻佔比}%） | ✅ 完成 |
    ```
-   > 範例：`[[產業/NVDA_資料中心\|NVDA_資料中心]]`
+   > 範例：`[[產業/NVDA_58.3_資料中心\|NVDA_資料中心]]`
 
 ### 輸出路徑
 
 ```
 03-(FINANCE) 財務筆記/
 └── 產業/
-    ├── {ticker}_{業務部門1}.md    ← 例：NVDA_資料中心.md
-    ├── {ticker}_{業務部門2}.md    ← 例：NVDA_遊戲.md
-    ├── {ticker}_{業務部門3}.md    ← 例：NVDA_專業視覺化.md
+    ├── {ticker}_{貢獻佔比1}_{業務部門1}.md    ← 例：NVDA_58.3_資料中心.md
+    ├── {ticker}_{貢獻佔比2}_{業務部門2}.md    ← 例：NVDA_22.1_遊戲.md
+    ├── {ticker}_{貢獻佔比3}_{業務部門3}.md    ← 例：NVDA_9.5_專業視覺化.md
     └── ...（依實際業務部門數量）
 ```
 
 ### 觸發範例
 
 > 輸入：`產業 NVDA` 或 `NVDA 業務部門分析`
-> → 執行 `invest-cost-return.md` → 識別業務部門清單
-> → 分別建立 `產業/NVDA_資料中心.md`、`產業/NVDA_遊戲.md`、`產業/NVDA_專業視覺化.md` ...
+> → 執行 `invest-cost-return.md` → 識別業務部門清單及貢獻佔比
+> → 分別建立 `產業/NVDA_58.3_資料中心.md`、`產業/NVDA_22.1_遊戲.md`、`產業/NVDA_9.5_專業視覺化.md` ...
 > → 於 `log_finance.md` 記錄每個部門的建立事件
 
 ---
@@ -395,7 +397,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | B | `[[公司業務, 護城河, 週期, 競爭格局/{ticker} [${v}, {Y}, {X}]\|{ticker}]]` | `[[公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0]\|00700.HK]]` |
 | C | `[[企業概要/{filename without .md}\|{ticker}]]` | `[[企業概要/Rocket Lab Corporation（RKLB）\|RKLB]]` |
 | D | `[[HK-IPO/ipo_{yyyy-mm-dd}\|{yyyy-mm-dd}]]` | `[[HK-IPO/ipo_2026-05-01\|2026-05-01]]` |
-| E | `[[產業/{ticker}_{業務部門}\|{ticker}_{業務部門}]]` | `[[產業/NVDA_資料中心\|NVDA_資料中心]]` |
+| E | `[[產業/{ticker}_{貢獻佔比}_{業務部門}\|{ticker}_{業務部門}]]` | `[[產業/NVDA_58.3_資料中心\|NVDA_資料中心]]` |
 
 > 📂 完整日誌檔案：[[03-(FINANCE) 財務筆記/log_finance]]
 
