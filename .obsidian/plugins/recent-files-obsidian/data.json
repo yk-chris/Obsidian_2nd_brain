@@ -5,6 +5,10 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "invest-cost-return",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+    },
+    {
       "basename": "業務_群核科技",
       "path": "03-(FINANCE) 財務筆記/產業/業務_群核科技.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "invest-production-factors-v1.2.0",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
-    },
-    {
-      "basename": "invest-cost-return",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
     },
     {
       "basename": "invest-moat-margin-v2",
