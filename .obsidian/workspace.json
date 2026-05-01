@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "index_wiki"
             }
-          },
-          {
-            "id": "5c5ab022ec120e26",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "wiki/Excalidraw_2026-05-01_.schema_wiki.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_2026-05-01_.schema_wiki"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5,
-    "collapsed": true
+    "width": 555.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -263,12 +249,12 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "5c5ab022ec120e26",
+  "active": "9cf7f042ac20c54d",
   "lastOpenFiles": [
+    "wiki/Excalidraw_2026-05-01_.schema_wiki.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
     "wiki/index_wiki.md",
     "wiki/log_wiki.md",
-    "wiki/Excalidraw_2026-05-01_.schema_wiki.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",
     "wiki/assets",
@@ -313,7 +299,6 @@
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081619_808.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427083014_916.png",
-    "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427113751_225.png",
     "02-(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
     "02-(LEARN) 學習筆記/ASML_人類史上最複雜的機器 1.canvas",
     "04-(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
