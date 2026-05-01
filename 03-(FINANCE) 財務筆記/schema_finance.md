@@ -3,7 +3,7 @@ tags: [schema, finance, workflow]
 folder: 03-(FINANCE) 財務筆記
 created: 2026-04-30
 updated: 2026-05-01
-skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin-v2, invest-cost-return, invest-IPO]
+skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin-v2, dive-deep-bottlenecks, invest-IPO, invest-cost-return]
 ---
 
 # 03-(FINANCE) 財務筆記 — Schema
@@ -20,6 +20,8 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 │   └── {ticker} [${綜合公允價值}, {護城河強度（Y）}, {週期暴露度（X）}].md
 ├── 企業概要/
 │   └── {ticker}{company name}.md     ← 檔名格式不一，見下方解析規則
+├── 產業/
+│   └── {產業名稱}.md
 └── HK-IPO/
     └── ipo_{yyyy-mm-dd}.md               ← 以執行當日日期命名
 ```
@@ -28,12 +30,13 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ## Skill 對應表
 
-| 資料夾                    | 使用技能                                                 | 技能路徑                                                                                                                   |
-| ---------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| `TA技術分析/`              | `invest-stock-valuation.md`                          | `01-(SKILLs) 技能/skill_invest/evaluate_company/`                                                                        |
-| `公司業務, 護城河, 週期, 競爭格局/` | `invest-fundamental-analysis.md`                     | `01-(SKILLs) 技能/skill_invest/`                                                                                         |
-| `企業概要/`                | `invest-moat-margin-v2.md` + `invest-cost-return.md` | `01-(SKILLs) 技能/skill_invest/search_company (background)/`<br>`01-(SKILLs) 技能/skill_invest/search_company (know-how)/` |
-| `HK-IPO/`              | `invest-IPO.md`                                      | `01-(SKILLs) 技能/skill_invest/`                                                                                         |
+| 資料夾                    | 使用技能                                                       | 技能路徑                                                                                                                         |
+| ---------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `TA技術分析/`              | `invest-stock-valuation.md`                                | `01-(SKILLs) 技能/skill_invest/evaluate_company/`                                                                              |
+| `公司業務, 護城河, 週期, 競爭格局/` | `invest-fundamental-analysis.md`                           | `01-(SKILLs) 技能/skill_invest/`                                                                                               |
+| `企業概要/`                | `invest-moat-margin-v2.md` + `dive-deep-bottlenecks.md`    | `01-(SKILLs) 技能/skill_invest/search_company (background)/`<br>`01-(SKILLs) 技能/skill_invest/`                                |
+| `產業/`                  | `invest-cost-return.md`                                    | `01-(SKILLs) 技能/skill_invest/search_company (know-how)/`                                                                     |
+| `HK-IPO/`              | `invest-IPO.md`                                            | `01-(SKILLs) 技能/skill_invest/`                                                                                               |
 
 ---
 
@@ -118,7 +121,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 >
 > 使用技能：
 > - [[01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2]]
-> - [01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return](../01-(SKILLs)%20技能/skill_invest/search_company%20(know-how)/invest-cost-return.md)
+> - [[01-(SKILLs) 技能/skill_invest/dive-deep-bottlenecks]]
 
 ### 檔名格式與 Ticker 解析規則
 
@@ -163,7 +166,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
    - 範例：`GOOGL (Alphabet Inc.).md` → ticker = `GOOGL`
 2. **同步執行兩個技能** — 同時對同一 ticker 執行：
    - 載入 `invest-moat-margin-v2.md`，以 `{stock ticker}` 作為輸入
-   - 載入 `invest-cost-return.md`，以 `{stock ticker}` 作為輸入
+   - 載入 `dive-deep-bottlenecks.md`，以 `{stock ticker}` 作為輸入
 3. **合並內文** — 將兩個技能輸出寫入同一檔案，依序排列：
    ```
    # {ticker} {company name}
@@ -173,14 +176,14 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
    ---
 
-   ## Part B — 成本結構 & 投資回報分析    ← invest-cost-return 輸出
+   ## Part B — 瓶頸深挖分析                  ← dive-deep-bottlenecks 輸出
    ...
    ```
 4. **更新 YAML Frontmatter** — 在檔案頂部更新 `updated` 日期欄位
 5. **保存檔案** — 覆寫原檔，檔名不變
 6. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
    ```
-   | YYYY-MM-DD HH:MM | C | [[企業概要/{filename without .md}\|{ticker}]] | 執行企業概要分析（moat-margin-v2 + cost-return），更新內文 | ✅ 完成 |
+   | YYYY-MM-DD HH:MM | C | [[企業概要/{filename without .md}\|{ticker}]] | 執行企業概要分析（moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
    ```
    > 範例：`[[企業概要/Rocket Lab Corporation（RKLB）\|RKLB]]`
 
@@ -189,7 +192,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | 區塊 | 來源技能 | 內容概要 |
 |------|---------|--------|
 | **Part A** | `invest-moat-margin-v2` | 護城河類型評分、毛利率分析、定價權評估、NRR/Churn 等 |
-| **Part B** | `invest-cost-return` | 成本結構拆解、ROIC/ROE、資本配置效率、開支平衡點分析 |
+| **Part B** | `dive-deep-bottlenecks` | 企業關鍵瓶頸識別、成長限制因素、結構性風險深挖分析 |
 
 ---
 
@@ -236,20 +239,61 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ---
 
+## Workflow E — 產業
+
+> 觸發關鍵字：`產業`
+>
+> 使用技能：[[01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return]]
+
+### 檔名規範
+
+| 規則   | 格式            | 範例          |
+| ---- | ------------- | ----------- |
+| 以產業命名 | `{產業名稱}.md` | `半導體.md` |
+| 已存在時  | 直接更新同名檔案（不新建） | 覆寫 `半導體.md` |
+
+### 執行步驟
+
+1. **識別產業名稱** — 從用戶輸入或上下文中取得 `{產業名稱}`
+2. **執行技能** — 載入 `invest-cost-return.md`，以 `{產業名稱}` 作為搜尋輸入，進行產業層面的成本結構與投資回報分析
+3. **寫入筆記** — 將分析輸出寫入 `03-(FINANCE) 財務筆記/產業/{產業名稱}.md`
+4. **更新 YAML Frontmatter** — 更新 `updated` 日期欄位
+5. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
+   ```
+   | YYYY-MM-DD HH:MM | E | [[產業/{產業名稱}\|{產業名稱}]] | 執行產業分析（invest-cost-return），更新產業筆記 | ✅ 完成 |
+   ```
+   > 範例：`[[產業/半導體\|半導體]]`
+
+### 輸出路徑
+
+```
+03-(FINANCE) 財務筆記/
+└── 產業/
+    └── {產業名稱}.md    ← 例：半導體.md
+```
+
+### 觸發範例
+
+> 輸入：`產業` 或指定產業名稱
+> → 識別產業 → 檢查/新建 `產業/{產業名稱}.md` → 執行 `invest-cost-return.md` 技能
+
+---
+
 ## 通用更新流程
 
 ```
 開啟目標檔案
      ↓
-從檔名解析 {stock ticker} 或取得當日日期（Workflow D）
+從檔名解析 {stock ticker} 或取得當日日期（Workflow D）或識別產業名稱（Workflow E）
      ↓
-執行對應技能（以 ticker 或日期為輸入）
+執行對應技能（以 ticker、日期或產業名稱為輸入）
      ↓
 將技能輸出寫入筆記內文
      ↓
 依更新後格式重新命名檔案（Workflow A & B）
 或 覆寫原檔內文（Workflow C）
 或 新建/更新當日 HK-IPO 筆記（Workflow D）
+或 新建/更新產業筆記（Workflow E）
      ↓
 📋 於 log_finance.md 新增行動事件記錄
      ↓
@@ -263,6 +307,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 - 板塊重新定價或宏觀環境轉變
 - 手動複查需求
 - 新 HK-IPO 招股或上市當日（Workflow D）
+- 產業結構或競爭格局重大變化（Workflow E）
 
 ---
 
@@ -273,7 +318,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | 欄位 | 說明 |
 |------|------|
 | **日期時間 (HKT)** | 格式：`YYYY-MM-DD HH:MM` |
-| **Workflow** | `A` / `B` / `C` / `D` |
+| **Workflow** | `A` / `B` / `C` / `D` / `E` |
 | **Ticker / 目標** | 以 `[[path/filename\|display]]` wikilink 連結至對應筆記，顯示文字為簡潔的 ticker 或日期 |
 | **執行動作說明** | 簡述執行了什麼技能及產出 |
 | **結果 / 備註** | `✅ 完成` / `⚠️ 部分完成` / `❌ 失敗` + 原因 |
@@ -286,6 +331,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | B | `[[公司業務, 護城河, 週期, 競爭格局/{ticker} [${v}, {Y}, {X}]\|{ticker}]]` | `[[公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0]\|00700.HK]]` |
 | C | `[[企業概要/{filename without .md}\|{ticker}]]` | `[[企業概要/Rocket Lab Corporation（RKLB）\|RKLB]]` |
 | D | `[[HK-IPO/ipo_{yyyy-mm-dd}\|{yyyy-mm-dd}]]` | `[[HK-IPO/ipo_2026-05-01\|2026-05-01]]` |
+| E | `[[產業/{產業名稱}\|{產業名稱}]]` | `[[產業/半導體\|半導體]]` |
 
 > 📂 完整日誌檔案：[[03-(FINANCE) 財務筆記/log_finance]]
 
@@ -293,7 +339,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ## ⚠️ log_finance.md 不可變更規則
 
-> 🔒 **此規則適用於所有 Workflow（A / B / C / D）及任何手動操作，無例外。**
+> 🔒 **此規則適用於所有 Workflow（A / B / C / D / E）及任何手動操作，無例外。**
 
 - **嚴禁刪除** `log_finance.md` 中任何已存在的記錄行，包括歷史紀錄、初始化條目及任何 Workflow 所寫入的事件
 - **只可新增**（Append-only）：每次執行 Workflow 後，僅於表格末尾追加新的一行記錄，絕不修改或移除既有行
@@ -307,8 +353,8 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 - [[01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation]]
 - [[01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis]]
 - [[01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2]]
+- [[01-(SKILLs) 技能/skill_invest/dive-deep-bottlenecks]]
 - [[01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return]]
 - [[01-(SKILLs) 技能/skill_invest/invest-competitive-adv]]
 - [[01-(SKILLs) 技能/skill_invest/invest-production-factors-v1.2.0]]
-- [[01-(SKILLs) 技能/skill_invest/dive-deep-bottlenecks]]
 - [[01-(SKILLs) 技能/skill_invest/invest-IPO]]
