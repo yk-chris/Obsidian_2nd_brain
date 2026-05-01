@@ -21,7 +21,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 ├── 企業概要/
 │   └── {ticker}{company name}.md     ← 檔名格式不一，見下方解析規則
 ├── 產業/
-│   └── {ticker}_{產業名稱}.md
+│   └── {ticker}_{業務部門}.md         ← 每個業務部門獨立一個檔案
 └── HK-IPO/
     └── ipo_{yyyy-mm-dd}.md               ← 以執行當日日期命名
 ```
@@ -240,43 +240,89 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ---
 
-## Workflow E — 產業
+## Workflow E — 產業（業務部門拆分）
 
-> 觸發關鍵字：`產業`
+> 觸發關鍵字：`產業` | `業務部門` | `cost-return`
 >
 > 使用技能：[[01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return]]
 
+### 核心邏輯
+
+執行 `invest-cost-return` 後，從分析結果中識別 `{ticker}` 的所有 `{業務部門}`，並為**每個業務部門**獨立建立一個筆記檔案，實現業務部門層級的細粒度產業分析。
+
 ### 檔名規範
 
-| 規則   | 格式                          | 範例                    |
-| ---- | ---------------------------- | ----------------------- |
-| 以 ticker + 產業命名 | `{ticker}_{產業名稱}.md` | `NVDA_半導體.md` |
-| 已存在時  | 直接更新同名檔案（不新建）       | 覆寫 `NVDA_半導體.md`  |
+| 規則             | 格式                        | 範例                          |
+| -------------- | ------------------------- | --------------------------- |
+| 每個業務部門獨立一個檔案   | `{ticker}_{業務部門}.md`      | `NVDA_資料中心.md`              |
+| 同一 ticker 多部門  | 每個部門分別建立獨立檔案              | `NVDA_資料中心.md`、`NVDA_遊戲.md` |
+| 已存在時           | 直接更新同名檔案（不新建）             | 覆寫 `NVDA_資料中心.md`           |
 
 ### 執行步驟
 
-1. **識別 Ticker 與產業名稱** — 從用戶輸入或上下文中取得 `{ticker}` 與 `{產業名稱}`
-2. **執行技能** — 載入 `invest-cost-return.md`，以 `{ticker}` 與 `{產業名稱}` 作為搜尋輸入，進行產業層面的成本結構與投資回報分析
-3. **寫入筆記** — 將分析輸出寫入 `03-(FINANCE) 財務筆記/產業/{ticker}_{產業名稱}.md`
-4. **更新 YAML Frontmatter** — 更新 `updated` 日期欄位
-5. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
+1. **識別 Ticker** — 從用戶輸入或上下文中取得 `{ticker}`
+2. **執行技能** — 載入 `invest-cost-return.md`，以 `{ticker}` 作為搜尋輸入，進行完整的成本結構與投資回報分析
+3. **識別業務部門清單** — 從 `invest-cost-return` 輸出結果中提取所有 `{業務部門}`
+   - 範例（NVDA）：`資料中心`、`遊戲`、`專業視覺化`、`汽車`、`OEM & 其他`
+   - 範例（AAPL）：`iPhone`、`Mac`、`iPad`、`穿戴裝置`、`服務`
+4. **分拆建立檔案** — 針對每個 `{業務部門}` 獨立建立或更新筆記：
+   - 路徑：`03-(FINANCE) 財務筆記/產業/{ticker}_{業務部門}.md`
+   - 每個檔案包含該部門專屬的成本結構、投資回報、成長驅動分析
+5. **每個檔案的內容結構**：
+   ```markdown
+   ---
+   ticker: {ticker}
+   業務部門: {業務部門}
+   tags: [產業, {ticker}, {業務部門}]
+   created: {date}
+   updated: {date}
+   skill: invest-cost-return
+   ---
+
+   # {ticker} — {業務部門}
+
+   ## 業務部門概覽
+   > 描述此部門的主要業務範疇、產品/服務、目標市場
+
+   ## 收入與成本結構
+   - **收入貢獻（Revenue %）**：
+   - **毛利率**：
+   - **主要成本驅動因素**：
+
+   ## 投資回報分析（invest-cost-return）
+   - **投入資本（Invested Capital）**：
+   - **ROIC / 部門資本回報率**：
+   - **FCF 貢獻**：
+
+   ## 成長驅動因素
+   ## 競爭格局與定價權
+   ## 風險因素
+   ## 估值參考與可比公司
    ```
-   | YYYY-MM-DD HH:MM | E | [[產業/{ticker}_{產業名稱}\|{ticker}]] | 執行產業分析（invest-cost-return），更新產業筆記 | ✅ 完成 |
+6. **更新 YAML Frontmatter** — 每個分拆檔案均更新 `updated` 日期欄位
+7. **📋 記錄日誌** — 於 `log_finance.md` 為**每個業務部門檔案**各新增一筆記錄，格式如下：
    ```
-   > 範例：`[[產業/NVDA_半導體\|NVDA]]`
+   | YYYY-MM-DD HH:MM | E | [[產業/{ticker}_{業務部門}\|{ticker}_{業務部門}]] | 執行產業分析（invest-cost-return），拆分業務部門：{業務部門} | ✅ 完成 |
+   ```
+   > 範例：`[[產業/NVDA_資料中心\|NVDA_資料中心]]`
 
 ### 輸出路徑
 
 ```
 03-(FINANCE) 財務筆記/
 └── 產業/
-    └── {ticker}_{產業名稱}.md    ← 例：NVDA_半導體.md
+    ├── {ticker}_{業務部門1}.md    ← 例：NVDA_資料中心.md
+    ├── {ticker}_{業務部門2}.md    ← 例：NVDA_遊戲.md
+    ├── {ticker}_{業務部門3}.md    ← 例：NVDA_專業視覺化.md
+    └── ...（依實際業務部門數量）
 ```
 
 ### 觸發範例
 
-> 輸入：`產業` 或指定 ticker + 產業名稱
-> → 識別 ticker 與產業 → 檢查/新建 `產業/{ticker}_{產業名稱}.md` → 執行 `invest-cost-return.md` 技能
+> 輸入：`產業 NVDA` 或 `NVDA 業務部門分析`
+> → 執行 `invest-cost-return.md` → 識別業務部門清單
+> → 分別建立 `產業/NVDA_資料中心.md`、`產業/NVDA_遊戲.md`、`產業/NVDA_專業視覺化.md` ...
+> → 於 `log_finance.md` 記錄每個部門的建立事件
 
 ---
 
@@ -285,7 +331,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 ```
 開啟目標檔案
      ↓
-從檔名解析 {stock ticker} 或取得當日日期（Workflow D）或識別 ticker + 產業名稱（Workflow E）
+從檔名解析 {stock ticker} 或取得當日日期（Workflow D）或識別 ticker（Workflow E）
      ↓
 執行對應技能（以 ticker、日期或產業名稱為輸入）
      ↓
@@ -294,7 +340,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 依更新後格式重新命名檔案（Workflow A & B）
 或 覆寫原檔內文（Workflow C）
 或 新建/更新當日 HK-IPO 筆記（Workflow D）
-或 新建/更新產業筆記（Workflow E）
+或 依業務部門拆分建立多個產業筆記（Workflow E）
      ↓
 📋 於 log_finance.md 新增行動事件記錄
      ↓
@@ -308,7 +354,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 - 板塊重新定價或宏觀環境轉變
 - 手動複查需求
 - 新 HK-IPO 招股或上市當日（Workflow D）
-- 產業結構或競爭格局重大變化（Workflow E）
+- 產業結構、業務部門拆分或競爭格局重大變化（Workflow E）
 
 ---
 
@@ -332,7 +378,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | B | `[[公司業務, 護城河, 週期, 競爭格局/{ticker} [${v}, {Y}, {X}]\|{ticker}]]` | `[[公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0]\|00700.HK]]` |
 | C | `[[企業概要/{filename without .md}\|{ticker}]]` | `[[企業概要/Rocket Lab Corporation（RKLB）\|RKLB]]` |
 | D | `[[HK-IPO/ipo_{yyyy-mm-dd}\|{yyyy-mm-dd}]]` | `[[HK-IPO/ipo_2026-05-01\|2026-05-01]]` |
-| E | `[[產業/{ticker}_{產業名稱}\|{ticker}]]` | `[[產業/NVDA_半導體\|NVDA]]` |
+| E | `[[產業/{ticker}_{業務部門}\|{ticker}_{業務部門}]]` | `[[產業/NVDA_資料中心\|NVDA_資料中心]]` |
 
 > 📂 完整日誌檔案：[[03-(FINANCE) 財務筆記/log_finance]]
 
