@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7caeb801b9c5e7fe",
+        "id": "38e9d16d53008c0c",
         "type": "tabs",
         "children": [
           {
-            "id": "73cd72dede821e97",
+            "id": "d2d5fc95ac9479d2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 555.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -245,10 +246,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "73cd72dede821e97",
+  "active": "d2d5fc95ac9479d2",
   "lastOpenFiles": [
-    "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
+    "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_網絡廣告.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_金融科技及企業服務.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_增值服務.md",
