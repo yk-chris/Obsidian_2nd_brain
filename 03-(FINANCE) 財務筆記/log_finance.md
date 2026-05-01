@@ -30,6 +30,10 @@ updated: 2026-05-01
 | 2026-05-01 11:20 | D        | [[HK-IPO/ipo_2026-05-01.md\|ipo_2026-05-01]]   | 執行 HK-IPO 分析（invest-IPO.md），更新當日 IPO 筆記；涵蓋 01609 天星醫療（+383.9% 首日溢價）、01187 可孚醫療（待上市）、01236 樂動機器人（116倍超購，待上市）                                                      | ✅ 完成    |
 | 2026-05-01 11:29 | C        | [[企業概要/Rocket Lab Corporation（RKLB）.md\|RKLB]] | 執行企業概要分析（invest-moat-margin-v2 + invest-cost-return），更新 Rocket Lab Corporation（RKLB）內文，基於 FY2025 全年最新財務數據                                                        | ✅ 完成    |
 | 2026-05-01 12:02 | C        | [[企業概要/ServiceNow（NOW）\|NOW]]                  | 執行企業概要分析（invest-moat-margin-v2 + invest-cost-return），新建 ServiceNow（NOW）企業概要，基於 FY2024/FY2025 最新財務數據；涵蓋訂閱業務護城河（98%+ 續約率）、Now Assist AI 轉型催化劑、ROIC 及 FCF Margin 分析 | ✅ 完成    |
+| 2026-05-01 14:34 | E        | [[產業/00700.HK_增值服務\|00700.HK_增值服務]]                  | 執行產業分析（invest-cost-return），拆分業務部門：增值服務                                                                                                                               | ✅ 完成    |
+| 2026-05-01 14:34 | E        | [[產業/00700.HK_金融科技及企業服務\|00700.HK_金融科技及企業服務]]      | 執行產業分析（invest-cost-return），拆分業務部門：金融科技及企業服務                                                                                                                     | ✅ 完成    |
+| 2026-05-01 14:34 | E        | [[產業/00700.HK_網絡廣告\|00700.HK_網絡廣告]]                  | 執行產業分析（invest-cost-return），拆分業務部門：網絡廣告                                                                                                                               | ✅ 完成    |
+| 2026-05-01 14:34 | E        | [[產業/00700.HK_其他\|00700.HK_其他]]                        | 執行產業分析（invest-cost-return），拆分業務部門：其他                                                                                                                                   | ✅ 完成    |
 
 ---
 
