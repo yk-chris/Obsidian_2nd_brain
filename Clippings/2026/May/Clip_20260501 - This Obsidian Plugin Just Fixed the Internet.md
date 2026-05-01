@@ -1,17 +1,23 @@
-The query provided appears to be corrupted HTML metadata from a YouTube page about an Obsidian plugin, which does not align with the search results on Meta Content Library and API. Unable to process the query as presented.
+---
+title: "This Obsidian Plugin Just Fixed the Internet"
+source: "https://www.youtube.com/watch?v=63jRQuGossE"
+author:
+  - "[[Linking Your Thinking with Nick Milo]]"
+published: 2026-05-01
+created: 2026-05-01
+description: "Get the full Web Clipper prompt & guide: https://www.linkingyourthinking.com/join/nick-milo-web-clipper-setup?utm_source=youtube&utm_medium=social&utm_campai..."
+tags:
+  - "clippings"
+---
+most interesting aspect, delivered as a statement, starting with the line: In summary, 
 
 ## Headlines
 
-- **Query format mismatch.** The provided query contains raw HTML/metadata code rather than a coherent question.
-- **No connection to search results.** The search results discuss Meta's research tools for accessing public content archives, which is unrelated to the malformed query content.
+bulleted headlines as one-line, boldly encapsulated, declarative statements or insights (in bold) ending in a period, followed by 1 (at most 2) supporting sentences
 
 ## Things
 
-- People: Not identifiable from corrupted query
-- Places: Not identifiable from corrupted query
-- Numbers: Not identifiable from corrupted query
-- Things & Concepts: Meta Content Library, API, Obsidian (mentioned in corrupted query), Threads, Facebook, Instagram
-- Issue: Query requires clarification
+bulleted list of - People:, places, numbers, things & concepts.
 
 ---
 
