@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "MU_AEBU（Automotive & Embedded BU）",
+      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_AEBU（Automotive & Embedded BU）.md"
+    },
+    {
+      "basename": "MU_CDBU（Core Data Center BU）",
+      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_CDBU（Core Data Center BU）.md"
+    },
+    {
+      "basename": "MU_MCBU（Mobile & Client BU）",
+      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_MCBU（Mobile & Client BU）.md"
+    },
+    {
       "basename": "00700.HK_32.1_金融科技及企業服務",
       "path": "03-(FINANCE) 財務筆記/產業/00700.HK_32.1_金融科技及企業服務.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "AMZN [$257.26]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$257.26].md"
-    },
-    {
-      "basename": "2026-04-29 case_study_Quarter Margin Review",
-      "path": "00-(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md"
-    },
-    {
-      "basename": "llm-wiki",
-      "path": "01-(SKILLs) 技能/llm-wiki.md"
     }
   ],
   "omittedPaths": [],
