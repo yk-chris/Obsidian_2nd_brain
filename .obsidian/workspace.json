@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/產業/MU_36.2_雲記憶體業務單元（CMBU）.md",
+                "file": "03-(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_其他平台（Others）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MU_36.2_雲記憶體業務單元（CMBU）"
+              "title": "TSMC_其他平台（Others）"
             }
           }
         ]
@@ -253,11 +253,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "8a68c77be4ec6937",
+  "active": "bb7877e4106a8c54",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/產業/AI生產鏈/ASML.md",
+    "03-(FINANCE) 財務筆記/產業/AI生產鏈/Samsung_三星電子.md",
+    "03-(FINANCE) 財務筆記/產業/AI生產鏈/MU_Micron Technology.md",
+    "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_Harman.md",
+    "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_服務與現場升級（Service & Field Option）.md",
+    "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_DUV 系統.md",
+    "03-(FINANCE) 財務筆記/產業/MU_36.2_雲記憶體業務單元（CMBU）.md",
     "03-(FINANCE) 財務筆記/產業/MU_19.3_核心數據中心業務單元（CDBU）.md",
     "03-(FINANCE) 財務筆記/產業/MU_12.7_汽車及嵌入式業務單元（AEBU）.md",
-    "03-(FINANCE) 財務筆記/產業/MU_36.2_雲記憶體業務單元（CMBU）.md",
     "03-(FINANCE) 財務筆記/產業/MU_31.7_行動及客戶端業務單元（MCBU）.md",
     "03-(FINANCE) 財務筆記/產業/ASML_2.3_量測與檢測系統.md",
     "03-(FINANCE) 財務筆記/產業/ASML_23.0_裝機基礎管理（IBM服務）.md",
@@ -275,12 +281,6 @@
     "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_其他.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_增值服務.md",
-    "03-(FINANCE) 財務筆記/產業/00700.HK_網絡廣告.md",
-    "03-(FINANCE) 財務筆記/產業/00700.HK_金融科技及企業服務.md",
-    "03-(FINANCE) 財務筆記/產業/00700.HK_1.3_其他業務.md",
-    "03-(FINANCE) 財務筆記/產業/00700.HK_18.3_網絡廣告.md",
-    "03-(FINANCE) 財務筆記/產業/BABA_12.0_雲智能集團.md",
-    "03-(FINANCE) 財務筆記/產業/BABA_8.0_菜鳥智慧物流.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-/file-20260426182911288.jpg",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/ASML -EUR 842.70-/file-20260426182937564.jpg",
