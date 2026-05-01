@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5bdf0ce81d71ce7b",
+        "id": "14b474411d334673",
         "type": "tabs",
         "children": [
           {
-            "id": "671d7dba3f1a818c",
+            "id": "5702b563a4814d69",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
-                "viewState": {
-                  "x": 1282.2798331185359,
-                  "y": 48.9035395193379,
-                  "zoom": -1.9254931209406079
-                }
+                "file": "Clippings/2026/May/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Map_財務筆記"
+              "icon": "lucide-file",
+              "title": "Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场"
             }
           }
         ]
@@ -92,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5,
-    "collapsed": true
+    "width": 555.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -257,8 +253,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "671d7dba3f1a818c",
+  "active": "5702b563a4814d69",
   "lastOpenFiles": [
+    "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224156486.jpg",
+    "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224054733.jpg",
+    "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224020807.jpg",
+    "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224007202.jpg",
+    "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场",
+    "Clippings/2026/May/assets",
+    "Clippings/2026/May/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场.md",
+    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+    "Clippings/2026/May",
     "03-(FINANCE) 財務筆記/schema_finance.md",
     "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/產業/MU_12.7_汽車及嵌入式業務單元（AEBU）.md",
@@ -285,9 +290,6 @@
     "03-(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_車用電子（Automotive）.md",
     "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_MCBU（Mobile & Client BU）.md",
     "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_AEBU（Automotive & Embedded BU）.md",
-    "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_CDBU（Core Data Center BU）.md",
-    "03-(FINANCE) 財務筆記/產業/00700.HK_32.1_金融科技及企業服務.md",
-    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-/file-20260426182911288.jpg",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/ASML -EUR 842.70-/file-20260426182937564.jpg",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/MU -$517.00-/file-20260426182821754.jpg",
@@ -301,13 +303,7 @@
     "wiki/sources",
     "03-(FINANCE) 財務筆記/HK-IPO",
     "wiki/lint-reports",
-    "wiki/synthesis",
-    "wiki/sources/finance",
-    "wiki/sources/business",
     "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas",
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091056808.jpg",
     "02-(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
     "02-(LEARN) 學習筆記/ASML_人類史上最複雜的機器 1.canvas",
     "04-(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
