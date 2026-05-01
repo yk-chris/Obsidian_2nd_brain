@@ -93,11 +93,11 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ### 輸出變數
 
-| 變數 | 說明 | 量尺 | 用途 |
-|------|------|------|------|
-| `綜合公允價值` | 基本面推算的綜合目標價 | 價格 | 估值錨點 |
-| `護城河強度（Y）` | 護城河評分 | 1–10 | 組合地圖 Y 軸 |
-| `週期暴露度（X）` | 週期敏感度評分 | 1–10 | 組合地圖 X 軸 |
+| 變數         | 說明          | 量尺  | 用途       |
+| ---------- | ----------- | --- | -------- |
+| `綜合公允價值`   | 基本面推算的綜合目標價 | 價格  | 估值錨點     |
+| `護城河強度（Y）` | 護城河評分       | 1–5 | 組合地圖 Y 軸 |
+| `週期暴露度（X）` | 週期敏感度評分     | 1–5 | 組合地圖 X 軸 |
 
 ---
 
@@ -106,7 +106,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 > 觸發關鍵字：`概要` | `企業` | `overview`
 >
 > 使用技能：
-> - [[01-(SKILLs) 技能/invest-moat-margin-v2]]
+> - 01-(SKILLs) 技能/skill_invest/search_company (background)
 > - [[01-(SKILLs) 技能/invest-cost-return]]
 
 ### 檔名格式與 Ticker 解析規則
