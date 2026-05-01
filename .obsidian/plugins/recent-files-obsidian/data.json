@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "fact-check",
+      "path": "01-(SKILLs) 技能/skill_general/fact-check.md"
+    },
+    {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+    },
+    {
+      "basename": "Map_財務筆記",
+      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    },
+    {
+      "basename": "NOW [$138.71]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md"
+    },
+    {
+      "basename": "Base_目錄",
+      "path": "Base_目錄.base"
     },
     {
       "basename": "CLAUDE",
@@ -15,10 +31,6 @@
     {
       "basename": "MSFT [$520]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md"
-    },
-    {
-      "basename": "NOW [$138.71]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md"
     },
     {
       "basename": "AMZN [$257.26]",
@@ -43,10 +55,6 @@
     {
       "basename": "invest-moat-margin-v2",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
-    },
-    {
-      "basename": "Map_財務筆記",
-      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
     },
     {
       "basename": "MOC_20260501 - April 2026 Clippings 知識萃取",
@@ -135,10 +143,6 @@
     {
       "basename": "PLTR [$37.98]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md"
-    },
-    {
-      "basename": "Base_目錄",
-      "path": "Base_目錄.base"
     },
     {
       "basename": "file-20260427101330748",

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c30b2e4f3f4fe6c",
+        "id": "5dcba1d35768f9d0",
         "type": "tabs",
         "children": [
           {
-            "id": "4fcdbc9ec0f14b58",
+            "id": "2a958c411cb9e800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/schema_finance.md",
+                "file": "01-(SKILLs) 技能/skill_general/fact-check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schema_finance"
+              "title": "fact-check"
             }
           }
         ]
@@ -249,16 +249,19 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "4fcdbc9ec0f14b58",
+  "active": "2a958c411cb9e800",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/log_finance.md",
+    "03-(FINANCE) 財務筆記/schema_finance.md",
+    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+    "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
+    "Base_目錄.base",
     "CLAUDE.md",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
     "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md",
-    "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
     "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$257.26].md",
     "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "01-(SKILLs) 技能/skill_invest/invest-IPO.md",
-    "03-(FINANCE) 財務筆記/schema_finance.md",
     "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
     "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md",
@@ -266,7 +269,6 @@
     "01-(SKILLs) 技能/skill_invest/dive-deep-bottlenecks.md",
     "01-(SKILLs) 技能/skill_invest/invest-moat-margin-v2.md",
     "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-cost-return.md",
-    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/HK-IPO",
     "Clippings/2026/April/MOC_20260501 - April 2026 Clippings 知識萃取.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
@@ -286,8 +288,6 @@
     "wiki/concepts",
     "wiki",
     "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas",
-    "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$370].md",
-    "Base_目錄.base",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091056808.jpg",
