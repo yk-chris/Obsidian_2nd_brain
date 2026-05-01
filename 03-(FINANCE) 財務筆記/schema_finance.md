@@ -278,6 +278,17 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ---
 
+## ⚠️ log_finance.md 不可變更規則
+
+> 🔒 **此規則適用於所有 Workflow（A / B / C / D）及任何手動操作，無例外。**
+
+- **嚴禁刪除** `log_finance.md` 中任何已存在的記錄行，包括歷史紀錄、初始化條目及任何 Workflow 所寫入的事件
+- **只可新增**（Append-only）：每次執行 Workflow 後，僅於表格末尾追加新的一行記錄，絕不修改或移除既有行
+- 若發現 `log_finance.md` 內容遭刪減，應視為**操作錯誤**，須立即還原被刪除的記錄
+- 此檔案是整個財務筆記系統的**不可竄改執行軌跡（Immutable Audit Trail）**，其完整性高於一切
+
+---
+
 ## 連結技能（skill_invest）
 
 - [[01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation]]
