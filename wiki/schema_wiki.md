@@ -56,12 +56,12 @@ This is an Obsidian second brain vault. The folder structure follows a numbered 
 - `wiki/concepts/` — 跨來源的概念整合頁
 - `wiki/synthesis/` — 跨來源合成分析頁（由 Query workflow 生成）
 - `wiki/lint-reports/` — Lint 健康報告頁
-- `wiki/index.md` — 每次 ingest 後更新的目錄
-- `wiki/log.md` — 只可追加的行動紀錄
+- `wiki/index_wiki.md` — 每次 ingest 後更新的目錄
+- `wiki/log_wiki.md` — 只可追加的行動紀錄
 
 ---
 
-## index.md 格式
+## index_wiki.md 格式
 
 第一行固定為標題與更新時間戳，其後為 Markdown 表格：
 
@@ -81,14 +81,14 @@ _最後更新：YYYY-MM-DD HH:MM_
 
 ---
 
-## log.md 格式
+## log_wiki.md 格式
 
 嚴格 append-only。每筆記錄結構如下：
 
 ```md
 ## 2026-05-01 14:32 — INGEST Clippings/example.md
 - **摘要頁**：wiki/sources/example.md（新建）
-- **更新頁**：wiki/index.md、wiki/concepts/a.md
+- **更新頁**：wiki/index_wiki.md、wiki/concepts/a.md
 - **備註**：首次處理，識別 3 個關鍵概念
 ```
 
@@ -102,21 +102,21 @@ _最後更新：YYYY-MM-DD HH:MM_
 
 ## Ingest Workflow
 當我說「ingest [檔名]」：
-1. 先查詢 `wiki/index.md`，確認此來源是否已存在、既有摘要頁路徑、相關概念頁與可延續更新內容
+1. 先查詢 `wiki/index_wiki.md`，確認此來源是否已存在、既有摘要頁路徑、相關概念頁與可延續更新內容
 2. 從對應的 RAW 資料夾讀取原始檔前，先檢查即將進入的主資料夾或子資料夾是否存在 `schema_*.md`，若存在必須先讀取並遵守
 3. 從對應的 RAW 資料夾讀取原始檔（優先順序：`Clippings/` > `03-(FINANCE) 財務筆記/` > `02-(LEARN) 學習筆記/` > `04-(WORK) 工作/`）
 4. 檢查原始檔是否已含 `#wiki` tag，若已存在則變更 workflow 為 update 模式
-5. 與我討論重點，並比對 `wiki/index.md` 中既有內容，判斷是建立新頁還是更新既有 `wiki/` 頁面
+5. 與我討論重點，並比對 `wiki/index_wiki.md` 中既有內容，判斷是建立新頁還是更新既有 `wiki/` 頁面
 6. 在 `wiki/sources/` 建立或更新對應摘要頁
-7. 更新 `wiki/index.md`（若為新來源則追加表格列；若為既有來源則更新對應列資訊）及相關 `wiki/concepts/` 頁面
+7. 更新 `wiki/index_wiki.md`（若為新來源則追加表格列；若為既有來源則更新對應列資訊）及相關 `wiki/concepts/` 頁面
 8. 依照 Tagging Rules 對原始檔加上 `#wiki` tag
-9. 在 `wiki/log.md` 追加符合上述格式的記錄，並註明本次為新建或更新既有內容
+9. 在 `wiki/log_wiki.md` 追加符合上述格式的記錄，並註明本次為新建或更新既有內容
 
 ## Update Decision Rules
-- 若 `wiki/index.md` 已存在相同來源檔案，優先更新既有 `wiki/sources/` 頁面，而不是重建新頁
-- 若 `wiki/index.md` 已記錄相關概念頁，應優先更新既有概念頁，保持知識累積
+- 若 `wiki/index_wiki.md` 已存在相同來源檔案，優先更新既有 `wiki/sources/` 頁面，而不是重建新頁
+- 若 `wiki/index_wiki.md` 已記錄相關概念頁，應優先更新既有概念頁，保持知識累積
 - 若來源內容屬同主題但檔名不同，可建立新摘要頁，並連結到既有概念頁
-- ingest 前必須把 `wiki/index.md` 視為 wiki 現況的唯一目錄依據
+- ingest 前必須把 `wiki/index_wiki.md` 視為 wiki 現況的唯一目錄依據
 - 處理任何資料夾內容前，必須先完成該資料夾層級的 schema 檢查
 - 原始檔有 `#wiki` tag 主動識別為 update 模式，對已 ingest 檔案不重複加 tag
 
@@ -125,7 +125,7 @@ _最後更新：YYYY-MM-DD HH:MM_
 ## Query Workflow
 當我提出一個問題（例如：關聯到研究、書本、個人目標等），LLM 應：
 
-1. **索引查詢**：先讀取 `wiki/index.md`，根據問題找出相關頁面（sources、concepts、synthesis）。
+1. **索引查詢**：先讀取 `wiki/index_wiki.md`，根據問題找出相關頁面（sources、concepts、synthesis）。
 2. **內容閱讀與整理**：讀取相關頁面，並：
    - 摘要內容、整理論點。
    - 明確標示引用來源（例如 `[[source-2026-04-01-論文名稱.md]]`）。
@@ -135,8 +135,8 @@ _最後更新：YYYY-MM-DD HH:MM_
    - 演講或簡報需求：用 Marp syntax 生成 Markdown slides。
 4. **持久化判斷**：若這個分析是「有價值的新洞察」（例如：比較表、圖表解析、跨來源的合成），應：
    - 在 `wiki/synthesis/` 下建立新頁面（命名規則：`synthesis-[主題]-YYYY-MM-DD.md`，例如 `synthesis-公司比較-2026-05-01.md`）。
-   - 在 `wiki/index.md` 添加對應條目（標籤欄標記 `#synthesis`）。
-   - 在 `wiki/log.md` 追加一條 `[SYNTHESIS]` 記錄，格式如下：
+   - 在 `wiki/index_wiki.md` 添加對應條目（標籤欄標記 `#synthesis`）。
+   - 在 `wiki/log_wiki.md` 追加一條 `[SYNTHESIS]` 記錄，格式如下：
      ```md
      ## 2026-05-01 14:32 — SYNTHESIS wiki/synthesis/synthesis-公司比較-2026-05-01.md
      - **來源頁面**：wiki/sources/A.md、wiki/concepts/B.md
@@ -164,8 +164,8 @@ _最後更新：YYYY-MM-DD HH:MM_
 5. **缺失 Cross-references**：明顯應互相關聯的頁面之間缺少 `[[wikilinks]]`。
 6. **資料缺口**：某頁面提到關鍵數據或外部知識但沒有來源，建議透過 `search_web` 工具補充。
 7. **日誌與索引一致性**：
-   - 檢查 `wiki/log.md` 是否完整記錄所有操作。
-   - 檢查 `wiki/index.md` 是否包含所有 `wiki/` 下的頁面。
+   - 檢查 `wiki/log_wiki.md` 是否完整記錄所有操作。
+   - 檢查 `wiki/index_wiki.md` 是否包含所有 `wiki/` 下的頁面。
 
 ### 輸出格式
 
@@ -192,14 +192,14 @@ _最後更新：YYYY-MM-DD HH:MM_
   - （列出建議搜尋補充的項目）
 
   ## 日誌與索引一致性
-  - log.md：（是否完整）
-  - index.md：（缺漏頁面列表，若無則填「無」）
+  - log_wiki.md：（是否完整）
+  - index_wiki.md：（缺漏頁面列表，若無則填「無」）
 
   ## 總結
   - 健康評分（0–100）
   - 建議優先處理項目
   ```
-- 在 `wiki/log.md` 追加一條 `[LINT]` 記錄，格式如下：
+- 在 `wiki/log_wiki.md` 追加一條 `[LINT]` 記錄，格式如下：
   ```md
   ## 2026-05-01 14:32 — LINT wiki/lint-reports/2026-05-01-lint-report.md
   - **掃瞄頁數**：XX 頁

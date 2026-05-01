@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/schema_finance.md",
+                "file": "wiki/schema_wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schema_finance"
+              "title": "schema_wiki"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 615.5
+    "width": 555.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -249,10 +249,13 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "2a958c411cb9e800",
   "lastOpenFiles": [
-    "03-(FINANCE) 財務筆記/log_finance.md",
+    "wiki/index_wiki.md",
+    "wiki/log_wiki.md",
+    "wiki/schema_wiki.md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
+    "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
     "03-(FINANCE) 財務筆記/企業概要/Micron Technology (MU).md",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
@@ -261,7 +264,6 @@
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
     "Base_目錄.base",
-    "CLAUDE.md",
     "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md",
     "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$257.26].md",
     "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
@@ -277,8 +279,6 @@
     "Clippings/2026/April/MOC_20260501 - April 2026 Clippings 知識萃取.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
     "00-(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
-    "wiki/index.md",
-    "wiki/log.md",
     "wiki/lint-reports",
     "wiki/synthesis",
     "wiki/sources/business/Duolingo-上市壓力-20260418.md",

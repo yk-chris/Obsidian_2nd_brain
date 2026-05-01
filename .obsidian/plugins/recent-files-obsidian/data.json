@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "schema_wiki",
+      "path": "wiki/schema_wiki.md"
+    },
+    {
+      "basename": "index_wiki",
+      "path": "wiki/index_wiki.md"
+    },
+    {
+      "basename": "log_wiki",
+      "path": "wiki/log_wiki.md"
+    },
+    {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
@@ -41,10 +53,6 @@
       "path": "Base_目錄.base"
     },
     {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
       "basename": "MSFT [$520]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md"
     },
@@ -83,14 +91,6 @@
     {
       "basename": "2026-04-29 case_study_Quarter Margin Review",
       "path": "00-(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md"
-    },
-    {
-      "basename": "index",
-      "path": "wiki/index.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "llm-wiki",
