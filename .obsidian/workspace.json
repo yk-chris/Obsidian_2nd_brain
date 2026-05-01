@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
+                "file": "03-(FINANCE) 財務筆記/log_finance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MSFT [$520, 4.8, 1.5]"
+              "title": "log_finance"
             }
           }
         ]
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
+                "file": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MSFT [$520, 4.8, 1.5]"
+              "title": "Outline of ServiceNow（NOW）"
             }
           },
           {
@@ -255,14 +255,15 @@
   },
   "active": "a662d99d91f56d71",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
+    "03-(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md",
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
     "03-(FINANCE) 財務筆記/企業概要/概要_群核科技.md",
     "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
     "03-(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md",
-    "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/schema_finance.md",
-    "03-(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md",
     "03-(FINANCE) 財務筆記/TA技術分析/BABA [$138.75].md",
     "03-(FINANCE) 財務筆記/TA技術分析/AMAT [$294.67].md",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-/file-20260426182911288.jpg",
@@ -285,7 +286,6 @@
     "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
     "03-(FINANCE) 財務筆記/產業/業務_群核科技.md",
     "wiki/Excalidraw_2026-05-01_.schema_wiki.md",
-    "wiki/index_wiki.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",

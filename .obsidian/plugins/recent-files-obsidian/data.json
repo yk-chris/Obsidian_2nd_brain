@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "log_finance",
+      "path": "03-(FINANCE) 財務筆記/log_finance.md"
+    },
+    {
+      "basename": "ServiceNow（NOW）",
+      "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
+    },
+    {
+      "basename": "RKLB [$45.6]",
+      "path": "03-(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md"
+    },
+    {
       "basename": "MSFT [$520, 4.8, 1.5]",
       "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md"
     },
@@ -17,10 +29,6 @@
       "path": "03-(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md"
     },
     {
-      "basename": "ServiceNow（NOW）",
-      "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
-    },
-    {
       "basename": "ipo_2026-05-01",
       "path": "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
-    },
-    {
-      "basename": "RKLB [$45.6]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md"
     },
     {
       "basename": "BABA [$138.75]",
@@ -71,10 +75,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "log_finance",
-      "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
     {
       "basename": "00700.HK_網絡廣告",
