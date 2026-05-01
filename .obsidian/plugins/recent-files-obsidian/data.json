@@ -5,6 +5,22 @@
       "path": "03-(FINANCE) 財務筆記/產業/MU_31.7_行動及客戶端業務單元（MCBU）.md"
     },
     {
+      "basename": "ASML_2.3_量測與檢測系統",
+      "path": "03-(FINANCE) 財務筆記/產業/ASML_2.3_量測與檢測系統.md"
+    },
+    {
+      "basename": "ASML_23.0_裝機基礎管理（IBM服務）",
+      "path": "03-(FINANCE) 財務筆記/產業/ASML_23.0_裝機基礎管理（IBM服務）.md"
+    },
+    {
+      "basename": "ASML_29.4_EUV極紫外線微影系統",
+      "path": "03-(FINANCE) 財務筆記/產業/ASML_29.4_EUV極紫外線微影系統.md"
+    },
+    {
+      "basename": "ASML_45.3_DUV深紫外線微影系統",
+      "path": "03-(FINANCE) 財務筆記/產業/ASML_45.3_DUV深紫外線微影系統.md"
+    },
+    {
       "basename": "MU_19.3_核心數據中心業務單元（CDBU）",
       "path": "03-(FINANCE) 財務筆記/產業/MU_19.3_核心數據中心業務單元（CDBU）.md"
     },
@@ -183,14 +199,6 @@
     {
       "basename": "Rocket Lab Corporation（RKLB）",
       "path": "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md"
-    },
-    {
-      "basename": "Micron Technology (MU)",
-      "path": "03-(FINANCE) 財務筆記/企業概要/Micron Technology (MU).md"
-    },
-    {
-      "basename": "fact-check",
-      "path": "01-(SKILLs) 技能/skill_general/fact-check.md"
     }
   ],
   "omittedPaths": [],
