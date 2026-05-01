@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d00be220294eb528",
+        "id": "5fe8b421385655c5",
         "type": "tabs",
         "children": [
           {
-            "id": "a2459d2a7d008ce4",
+            "id": "07770df6f9f8d435",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -89,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 581.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -249,11 +246,15 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "a2459d2a7d008ce4",
+  "active": "07770df6f9f8d435",
   "lastOpenFiles": [
-    "wiki/log.md",
-    "wiki/index.md",
     "Clippings/2026/April/MOC_20260501 - April 2026 Clippings 知識萃取.md",
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
+    "00-(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
+    "03-(FINANCE) 財務筆記/schema_finance.md",
+    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+    "wiki/index.md",
+    "wiki/log.md",
     "CLAUDE.md",
     "wiki/lint-reports",
     "wiki/synthesis",
@@ -275,9 +276,6 @@
     "03-(FINANCE) 財務筆記/企業概要/特斯拉 (TSLA).md",
     "03-(FINANCE) 財務筆記/TA技術分析/TSLA [$228.50].md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$370, 4.5, 2.0].md",
-    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
-    "03-(FINANCE) 財務筆記/schema_finance.md",
-    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md",
     "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
@@ -285,7 +283,6 @@
     "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$419.76].md",
     "03-(FINANCE) 財務筆記/TA技術分析/00700.HK [HKD 556.14].md",
     "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$251.97].md",
-    "03-(FINANCE) 財務筆記/TA技術分析/GOOGL [$264].md",
     "Base_目錄.base",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
