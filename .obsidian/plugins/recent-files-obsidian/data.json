@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "00700.HK_48.3_增值服務",
+      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_48.3_增值服務.md"
+    },
+    {
       "basename": "BABA_45.0_淘寶天貓集團",
       "path": "03-(FINANCE) 財務筆記/產業/BABA_45.0_淘寶天貓集團.md"
+    },
+    {
+      "basename": "00700.HK_32.1_金融科技及企業服務",
+      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_32.1_金融科技及企業服務.md"
+    },
+    {
+      "basename": "ServiceNow（NOW）",
+      "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
+    },
+    {
+      "basename": "00700.HK_1.3_其他業務",
+      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_1.3_其他業務.md"
     },
     {
       "basename": "BABA_12.0_雲智能集團",
@@ -65,10 +81,6 @@
       "path": "wiki/log_wiki.md"
     },
     {
-      "basename": "ServiceNow（NOW）",
-      "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
-    },
-    {
       "basename": "NOW [$185, 4.5, 1.5]",
       "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/NOW [$185, 4.5, 1.5].md"
     },
@@ -115,18 +127,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "00700.HK_網絡廣告",
-      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_網絡廣告.md"
-    },
-    {
-      "basename": "00700.HK_金融科技及企業服務",
-      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_金融科技及企業服務.md"
-    },
-    {
-      "basename": "00700.HK_增值服務",
-      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_增值服務.md"
     },
     {
       "basename": "三星電子_SDC（Samsung Display）",
@@ -195,10 +195,6 @@
     {
       "basename": "llm-wiki",
       "path": "01-(SKILLs) 技能/llm-wiki.md"
-    },
-    {
-      "basename": "20260425_AI-遠見",
-      "path": "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas"
     }
   ],
   "omittedPaths": [],
