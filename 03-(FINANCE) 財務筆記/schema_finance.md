@@ -38,6 +38,8 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ## Workflow A — TA技術分析
 
+> 觸發關鍵字：`TA` | `技術分析` | `valuation`
+>
 > 使用技能：[[01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation]]
 
 ### 檔名規範
@@ -52,7 +54,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 1. **識別 Ticker** — 從檔名解析 `{stock ticker}`
    - 範例：`AAPL [綜合公允價值].md` → ticker = `AAPL`
 2. **執行技能** — 載入 `invest-stock-valuation.md`，以 `{stock ticker}` 作為搜尋輸入
-3. **更新内文** — 將技能輸出（估值分析、目標價、技術面）寫入筆記內文
+3. **更新內文** — 將技能輸出（估值分析、目標價、技術面）寫入筆記內文
 4. **重新命名** — 依照更新後格式重新命名檔案
    - 範例：`GOOGL [$370].md`
 
@@ -66,6 +68,8 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ## Workflow B — 公司業務, 護城河, 週期, 競爭格局
 
+> 觸發關鍵字：`基本面` | `護城河` | `fundamental`
+>
 > 使用技能：[[01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis]]
 
 ### 檔名規範
@@ -99,6 +103,8 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ## Workflow C — 企業概要
 
+> 觸發關鍵字：`概要` | `企業` | `overview`
+>
 > 使用技能：
 > - [[01-(SKILLs) 技能/invest-moat-margin-v2]]
 > - [[01-(SKILLs) 技能/invest-cost-return]]
