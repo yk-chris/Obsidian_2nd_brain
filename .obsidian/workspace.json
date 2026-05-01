@@ -11,17 +11,14 @@
             "id": "8a68c77be4ec6937",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
-                "viewState": {
-                  "x": 1352.016593532476,
-                  "y": 60.282422862990245,
-                  "zoom": -1.8411525528445993
-                }
+                "file": "03-(FINANCE) 財務筆記/log_finance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Map_財務筆記"
+              "icon": "lucide-file",
+              "title": "log_finance"
             }
           }
         ]
@@ -92,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5,
-    "collapsed": true
+    "width": 555.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -260,6 +256,13 @@
   "active": "8a68c77be4ec6937",
   "lastOpenFiles": [
     "03-(FINANCE) 財務筆記/schema_finance.md",
+    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+    "03-(FINANCE) 財務筆記/產業/BABA_8.0_菜鳥智慧物流.md",
+    "03-(FINANCE) 財務筆記/產業/BABA_45.0_淘寶天貓集團.md",
+    "03-(FINANCE) 財務筆記/產業/BABA_25.0_本地生活及其他.md",
+    "03-(FINANCE) 財務筆記/產業/BABA_12.7_本地生活服務集團.md",
+    "03-(FINANCE) 財務筆記/產業/BABA_12.0_雲智能集團.md",
+    "03-(FINANCE) 財務筆記/產業/BABA_10.0_國際數字商業集團.md",
     "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
     "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
@@ -278,18 +281,10 @@
     "03-(FINANCE) 財務筆記/企業概要/概要_群核科技.md",
     "03-(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
-    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
-    "03-(FINANCE) 財務筆記/TA技術分析/BABA [$138.75].md",
-    "03-(FINANCE) 財務筆記/TA技術分析/AMAT [$294.67].md",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-/file-20260426182911288.jpg",
-    "03-(FINANCE) 財務筆記/TA技術分析/ASML [EUR 842.70].md",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/ASML -EUR 842.70-/file-20260426182937564.jpg",
-    "03-(FINANCE) 財務筆記/TA技術分析/MU [$517.00].md",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/MU -$517.00-/file-20260426182821754.jpg",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/BABA -$138.75-/file-20260426182841106.jpg",
-    "CLAUDE.md",
-    "03-(FINANCE) 財務筆記/產業/00700.HK_網絡廣告.md",
-    "03-(FINANCE) 財務筆記/產業/00700.HK_金融科技及企業服務.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",
