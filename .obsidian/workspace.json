@@ -11,17 +11,14 @@
             "id": "a662d99d91f56d71",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
-                "viewState": {
-                  "x": 1329.5,
-                  "y": -152,
-                  "zoom": -1.4512068513755665
-                }
+                "file": "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Map_財務筆記"
+              "icon": "lucide-file",
+              "title": "NOW [$138.71]"
             }
           }
         ]
@@ -133,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+                "file": "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Map_財務筆記"
+              "title": "Outline of NOW [$138.71]"
             }
           },
           {
@@ -250,13 +247,17 @@
       "tasknotes:Open pomodoro statistics": true,
       "tasknotes:Create new task": true,
       "marp:Marp: Open Preview": true,
-      "notebook-navigator:Notebook Navigator": true
+      "notebook-navigator:Notebook Navigator": true,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
   "active": "a662d99d91f56d71",
   "lastOpenFiles": [
-    "03-(FINANCE) 財務筆記/schema_finance.md",
+    "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+    "03-(FINANCE) 財務筆記/schema_finance.md",
     "03-(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md",
     "03-(FINANCE) 財務筆記/TA技術分析/BABA [$138.75].md",
     "03-(FINANCE) 財務筆記/TA技術分析/AMAT [$294.67].md",
