@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "MU_AEBU（Automotive & Embedded BU）",
-      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_AEBU（Automotive & Embedded BU）.md"
+      "basename": "MU_31.7_行動及客戶端業務單元（MCBU）",
+      "path": "03-(FINANCE) 財務筆記/產業/MU_31.7_行動及客戶端業務單元（MCBU）.md"
     },
     {
-      "basename": "MU_CDBU（Core Data Center BU）",
-      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_CDBU（Core Data Center BU）.md"
+      "basename": "MU_19.3_核心數據中心業務單元（CDBU）",
+      "path": "03-(FINANCE) 財務筆記/產業/MU_19.3_核心數據中心業務單元（CDBU）.md"
     },
     {
-      "basename": "MU_MCBU（Mobile & Client BU）",
-      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/MU_MCBU（Mobile & Client BU）.md"
+      "basename": "MU_12.7_汽車及嵌入式業務單元（AEBU）",
+      "path": "03-(FINANCE) 財務筆記/產業/MU_12.7_汽車及嵌入式業務單元（AEBU）.md"
+    },
+    {
+      "basename": "TSMC_車用電子（Automotive）",
+      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/CoWoS封裝/TSMC_車用電子（Automotive）.md"
     },
     {
       "basename": "00700.HK_32.1_金融科技及企業服務",
@@ -187,18 +191,6 @@
     {
       "basename": "fact-check",
       "path": "01-(SKILLs) 技能/skill_general/fact-check.md"
-    },
-    {
-      "basename": "Base_目錄",
-      "path": "Base_目錄.base"
-    },
-    {
-      "basename": "MSFT [$520]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md"
-    },
-    {
-      "basename": "AMZN [$257.26]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$257.26].md"
     }
   ],
   "omittedPaths": [],
