@@ -5,6 +5,14 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "Map_財務筆記",
+      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    },
+    {
+      "basename": "invest-enterprise-business",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
+    },
+    {
       "basename": "dive-deep-bottlenecks",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "業務_群核科技",
       "path": "03-(FINANCE) 財務筆記/產業/業務_群核科技.md"
-    },
-    {
-      "basename": "Map_財務筆記",
-      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
-    },
-    {
-      "basename": "invest-enterprise-business",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
     },
     {
       "basename": "Excalidraw_2026-05-01_.schema_wiki",
