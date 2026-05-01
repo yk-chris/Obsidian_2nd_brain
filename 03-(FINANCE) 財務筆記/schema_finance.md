@@ -21,7 +21,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 ├── 企業概要/
 │   └── {ticker}{company name}.md     ← 檔名格式不一，見下方解析規則
 ├── 產業/
-│   └── {產業名稱}.md
+│   └── {ticker}_{產業名稱}.md
 └── HK-IPO/
     └── ipo_{yyyy-mm-dd}.md               ← 以執行當日日期命名
 ```
@@ -247,35 +247,35 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ### 檔名規範
 
-| 規則   | 格式            | 範例          |
-| ---- | ------------- | ----------- |
-| 以產業命名 | `{產業名稱}.md` | `半導體.md` |
-| 已存在時  | 直接更新同名檔案（不新建） | 覆寫 `半導體.md` |
+| 規則   | 格式                          | 範例                    |
+| ---- | ---------------------------- | ----------------------- |
+| 以 ticker + 產業命名 | `{ticker}_{產業名稱}.md` | `NVDA_半導體.md` |
+| 已存在時  | 直接更新同名檔案（不新建）       | 覆寫 `NVDA_半導體.md`  |
 
 ### 執行步驟
 
-1. **識別產業名稱** — 從用戶輸入或上下文中取得 `{產業名稱}`
-2. **執行技能** — 載入 `invest-cost-return.md`，以 `{產業名稱}` 作為搜尋輸入，進行產業層面的成本結構與投資回報分析
-3. **寫入筆記** — 將分析輸出寫入 `03-(FINANCE) 財務筆記/產業/{產業名稱}.md`
+1. **識別 Ticker 與產業名稱** — 從用戶輸入或上下文中取得 `{ticker}` 與 `{產業名稱}`
+2. **執行技能** — 載入 `invest-cost-return.md`，以 `{ticker}` 與 `{產業名稱}` 作為搜尋輸入，進行產業層面的成本結構與投資回報分析
+3. **寫入筆記** — 將分析輸出寫入 `03-(FINANCE) 財務筆記/產業/{ticker}_{產業名稱}.md`
 4. **更新 YAML Frontmatter** — 更新 `updated` 日期欄位
 5. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
    ```
-   | YYYY-MM-DD HH:MM | E | [[產業/{產業名稱}\|{產業名稱}]] | 執行產業分析（invest-cost-return），更新產業筆記 | ✅ 完成 |
+   | YYYY-MM-DD HH:MM | E | [[產業/{ticker}_{產業名稱}\|{ticker}]] | 執行產業分析（invest-cost-return），更新產業筆記 | ✅ 完成 |
    ```
-   > 範例：`[[產業/半導體\|半導體]]`
+   > 範例：`[[產業/NVDA_半導體\|NVDA]]`
 
 ### 輸出路徑
 
 ```
 03-(FINANCE) 財務筆記/
 └── 產業/
-    └── {產業名稱}.md    ← 例：半導體.md
+    └── {ticker}_{產業名稱}.md    ← 例：NVDA_半導體.md
 ```
 
 ### 觸發範例
 
-> 輸入：`產業` 或指定產業名稱
-> → 識別產業 → 檢查/新建 `產業/{產業名稱}.md` → 執行 `invest-cost-return.md` 技能
+> 輸入：`產業` 或指定 ticker + 產業名稱
+> → 識別 ticker 與產業 → 檢查/新建 `產業/{ticker}_{產業名稱}.md` → 執行 `invest-cost-return.md` 技能
 
 ---
 
@@ -284,7 +284,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 ```
 開啟目標檔案
      ↓
-從檔名解析 {stock ticker} 或取得當日日期（Workflow D）或識別產業名稱（Workflow E）
+從檔名解析 {stock ticker} 或取得當日日期（Workflow D）或識別 ticker + 產業名稱（Workflow E）
      ↓
 執行對應技能（以 ticker、日期或產業名稱為輸入）
      ↓
@@ -331,7 +331,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | B | `[[公司業務, 護城河, 週期, 競爭格局/{ticker} [${v}, {Y}, {X}]\|{ticker}]]` | `[[公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0]\|00700.HK]]` |
 | C | `[[企業概要/{filename without .md}\|{ticker}]]` | `[[企業概要/Rocket Lab Corporation（RKLB）\|RKLB]]` |
 | D | `[[HK-IPO/ipo_{yyyy-mm-dd}\|{yyyy-mm-dd}]]` | `[[HK-IPO/ipo_2026-05-01\|2026-05-01]]` |
-| E | `[[產業/{產業名稱}\|{產業名稱}]]` | `[[產業/半導體\|半導體]]` |
+| E | `[[產業/{ticker}_{產業名稱}\|{ticker}]]` | `[[產業/NVDA_半導體\|NVDA]]` |
 
 > 📂 完整日誌檔案：[[03-(FINANCE) 財務筆記/log_finance]]
 
