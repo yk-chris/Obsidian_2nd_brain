@@ -106,8 +106,8 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 > 觸發關鍵字：`概要` | `企業` | `overview`
 >
 > 使用技能：
-> - 01-(SKILLs) 技能/skill_invest/search_company (background)
-> - [[01-(SKILLs) 技能/invest-cost-return]]
+> - 01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2
+> - [[01-(SKILLs) 技能/skill_invest/search_company (background)/invest-cost-return]]
 
 ### 檔名格式與 Ticker 解析規則
 
