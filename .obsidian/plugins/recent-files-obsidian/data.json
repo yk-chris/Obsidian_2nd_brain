@@ -5,6 +5,10 @@
       "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
     {
+      "basename": "ServiceNow（NOW）",
+      "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
+    },
+    {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "file-20260424100830960",
       "path": "Excalidraw/assets/Excalidraw_streamer_clarification/file-20260424100830960.jpg"
-    },
-    {
-      "basename": "2026-04-27",
-      "path": "00-(IDEAVERSE) 思維系統/2026/April/2026-04-27.md"
     }
   ],
   "omittedPaths": [],
