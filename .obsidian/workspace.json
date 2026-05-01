@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b9ca953a0ca7cbf6",
+        "id": "33ad0443d1b95cea",
         "type": "tabs",
         "children": [
           {
-            "id": "03c41aa58cccecd2",
+            "id": "b99d36d0d8f3cf11",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "wiki/Excalidraw_2026-05-01_.schema_wiki.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw_2026-05-01_.schema_wiki"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -247,10 +245,10 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "03c41aa58cccecd2",
+  "active": "b99d36d0d8f3cf11",
   "lastOpenFiles": [
-    "wiki/index_wiki.md",
     "wiki/Excalidraw_2026-05-01_.schema_wiki.md",
+    "wiki/index_wiki.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
     "wiki/log_wiki.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
