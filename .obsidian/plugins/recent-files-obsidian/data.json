@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "schema_finance",
+      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+    },
+    {
       "basename": "invest-cost-return",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
     },
     {
-      "basename": "schema_finance",
-      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+      "basename": "00700.HK_網絡廣告",
+      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_網絡廣告.md"
+    },
+    {
+      "basename": "00700.HK_金融科技及企業服務",
+      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_金融科技及企業服務.md"
+    },
+    {
+      "basename": "00700.HK_增值服務",
+      "path": "03-(FINANCE) 財務筆記/產業/00700.HK_增值服務.md"
     },
     {
       "basename": "log_finance",
@@ -187,18 +199,6 @@
     {
       "basename": "BABA [$138.75, 2.8, 2.5]",
       "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md"
-    },
-    {
-      "basename": "TSM [$398]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/TSM [$398].md"
-    },
-    {
-      "basename": "PLTR [$37.98]",
-      "path": "03-(FINANCE) 財務筆記/TA技術分析/PLTR [$37.98].md"
-    },
-    {
-      "basename": "file-20260427101330748",
-      "path": "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg"
     }
   ],
   "omittedPaths": [],
