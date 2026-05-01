@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/2026/May/Clip_20260501 - This Obsidian Plugin Just Fixed the Internet 1.md",
+                "file": "Clippings/2026/May/Clip_20260502 - 矽谷最近瘋談的新詞，到底是什麼？AI下一個高薪職缺是它？只知道Prompt Engineering就落伍了！｜Kelly Tsai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clip_20260501 - This Obsidian Plugin Just Fixed the Internet 1"
+              "title": "Clip_20260502 - 矽谷最近瘋談的新詞，到底是什麼？AI下一個高薪職缺是它？只知道Prompt Engineering就落伍了！｜Kelly Tsai"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 555.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -255,17 +256,18 @@
   },
   "active": "7b46ee0bed78249e",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+    "Clippings/2026/May/Clip_20260502 - 矽谷最近瘋談的新詞，到底是什麼？AI下一個高薪職缺是它？只知道Prompt Engineering就落伍了！｜Kelly Tsai.md",
+    "Clippings/2026/May/Clip_20260501 - This Obsidian Plugin Just Fixed the Internet 1.md",
     "Clippings/2026/May/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场.md",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224054733.jpg",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224020807.jpg",
-    "Clippings/2026/May/Clip_20260501 - This Obsidian Plugin Just Fixed the Internet 1.md",
     "Clippings/2026/May/Clip_20260501 - This Obsidian Plugin Just Fixed the Internet.md",
     "Clippings/This Obsidian Plugin Just Fixed the Internet.md",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224156486.jpg",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224007202.jpg",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场",
     "Clippings/2026/May/assets",
-    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "Clippings/2026/May",
     "03-(FINANCE) 財務筆記/schema_finance.md",
     "03-(FINANCE) 財務筆記/log_finance.md",
@@ -289,7 +291,6 @@
     "03-(FINANCE) 財務筆記/產業/MU_31.7_行動及客戶端業務單元（MCBU）.md",
     "03-(FINANCE) 財務筆記/產業/ASML_2.3_量測與檢測系統.md",
     "03-(FINANCE) 財務筆記/產業/ASML_23.0_裝機基礎管理（IBM服務）.md",
-    "03-(FINANCE) 財務筆記/產業/ASML_29.4_EUV極紫外線微影系統.md",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-/file-20260426182911288.jpg",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/ASML -EUR 842.70-/file-20260426182937564.jpg",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/MU -$517.00-/file-20260426182821754.jpg",
