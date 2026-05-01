@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0f172a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Finance Vault</title>
+<link rel="manifest" href="#" id="manifest-link">
+<style>
+  :root {
+    --bg: #0f172a; --surface: #1e293b; --surface2: #334155;
+    --accent: #38bdf8; --accent2: #818cf8; --text: #f1f5f9;
+    --text2: #94a3b8; --success: #34d399; --warn: #fbbf24;
+    --danger: #f87171; --radius: 12px; --safe-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, 'SF Pro Display', sans-serif;
+         min-height: 100vh; overflow-x: hidden; }
+  
+  /* NAV */
+  .nav { position: fixed; bottom: 0; left: 0; right: 0; 
+         background: rgba(30,41,59,0.95); backdrop-filter: blur(20px);
+         border-top: 1px solid #334155;
+         display: flex; padding: 8px 0 calc(8px + var(--safe-bottom));
+         z-index: 100; }
+  .nav-btn { flex: 1; display: flex; flex-direction: column; align-items: center;
+             gap: 4px; padding: 6px; border: none; background: none;
+             color: var(--text2); font-size: 10px; cursor: pointer; transition: color .2s; }
+  .nav-btn.active { color: var(--accent); }
+  .nav-btn svg { width: 22px; height: 22px; }
+
+  /* HEADER */
+  .header { padding: 52px 16px 16px;
+            background: linear-gradient(180deg, #0f172a 0%, transparent 100%);
+            position: sticky; top: 0; z-index: 50; }
+  .header h1 { font-size: 22px; font-weight: 700; letter-spacing: -0.5px; }
+  .header p { color: var(--text2); font-size: 13px; margin-top: 2px; }
+
+  /* PAGES */
+  .page { display: none; padding: 0 0 calc(80px + var(--safe-bottom)); min-height: 100vh; }
+  .page.active { display: block; }
+
+  /* CARDS */
+  .card { background: var(--surface); border-radius: var(--radius);
+          margin: 0 16px 12px; padding: 14px 16px; }
+  .card-title { font-size: 13px; font-weight: 600; color: var(--text2);
+                text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; }
+
+  /* WORKFLOW GRID */
+  .wf-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 0 16px 12px; }
+  .wf-card { background: var(--surface); border-radius: var(--radius);
+             padding: 14px; cursor: pointer; transition: all .2s; position: relative;
+             border: 1px solid transparent; }
+  .wf-card:active { transform: scale(0.97); }
+  .wf-card.active-wf { border-color: var(--accent); background: #0c2340; }
+  .wf-badge { display: inline-block; background: var(--accent); color: #0f172a;
+              font-size: 11px; font-weight: 800; padding: 2px 7px; border-radius: 20px;
+              margin-bottom: 8px; }
+  .wf-badge.b { background: var(--accent2); }
+  .wf-badge.c { background: var(--success); color: #052e16; }
+  .wf-badge.d { background: var(--warn); color: #451a03; }
+  .wf-badge.e { background: var(--danger); color: #450a0a; }
+  .wf-card h3 { font-size: 13px; font-weight: 600; margin-bottom: 4px; }
+  .wf-card p { font-size: 11px; color: var(--text2); line-height: 1.4; }
+
+  /* FILE LIST */
+  .file-item { display: flex; align-items: center; padding: 12px 16px;
+               border-bottom: 1px solid #1e293b; cursor: pointer; gap: 10px; }
+  .file-item:active { background: var(--surface); }
+  .file-icon { width: 36px; height: 36px; border-radius: 8px;
+               display: flex; align-items: center; justify-content: center;
+               font-size: 16px; flex-shrink: 0; }
+  .file-meta { flex: 1; min-width: 0; }
+  .file-name { font-size: 14px; font-weight: 500; white-space: nowrap;
+               overflow: hidden; text-overflow: ellipsis; }
+  .file-sub { font-size: 11px; color: var(--text2); margin-top: 2px; }
+  .file-tag { font-size: 10px; background: var(--surface2); color: var(--text2);
+              padding: 2px 6px; border-radius: 4px; white-space: nowrap; }
+
+  /* FOLDER SECTION */
+  .folder-header { padding: 16px 16px 8px; font-size: 12px; font-weight: 700;
+                   color: var(--text2); text-transform: uppercase; letter-spacing: 0.8px;
+                   display: flex; align-items: center; gap: 6px; }
+
+  /* EDITOR */
+  .editor-wrap { display: flex; flex-direction: column; height: 100vh; padding-top: 0; }
+  .editor-toolbar { display: flex; gap: 8px; padding: 8px 16px; overflow-x: auto;
+                    background: var(--surface); border-bottom: 1px solid var(--surface2); }
+  .tb-btn { background: var(--surface2); border: none; color: var(--text);
+            padding: 6px 12px; border-radius: 6px; font-size: 12px; cursor: pointer;
+            white-space: nowrap; }
+  textarea { flex: 1; background: #0a1628; color: var(--text); border: none;
+             padding: 16px; font-family: 'SF Mono', 'Fira Code', monospace;
+             font-size: 13px; line-height: 1.7; resize: none; outline: none;
+             width: 100%; }
+  .preview { flex: 1; padding: 16px; overflow-y: auto; line-height: 1.7; }
+  .preview h1 { font-size: 20px; margin-bottom: 12px; }
+  .preview h2 { font-size: 16px; color: var(--accent); margin: 16px 0 8px; }
+  .preview h3 { font-size: 14px; color: var(--accent2); margin: 12px 0 6px; }
+  .preview p { margin-bottom: 10px; font-size: 14px; }
+  .preview table { border-collapse: collapse; width: 100%; font-size: 12px; margin-bottom: 12px; }
+  .preview th { background: var(--surface2); padding: 6px 8px; text-align: left; }
+  .preview td { border-bottom: 1px solid var(--surface2); padding: 6px 8px; }
+  .preview code { background: var(--surface2); padding: 1px 5px; border-radius: 4px; font-size: 12px; }
+  .preview pre { background: var(--surface); padding: 12px; border-radius: 8px;
+                 overflow-x: auto; margin-bottom: 12px; }
+  .preview pre code { background: none; padding: 0; }
+  .preview blockquote { border-left: 3px solid var(--accent); padding-left: 12px;
+                        color: var(--text2); margin-bottom: 10px; }
+
+  /* LOG TABLE */
+  .log-table { overflow-x: auto; margin: 0 16px 12px; }
+  table.log { border-collapse: collapse; width: 100%; font-size: 11px; }
+  table.log th { background: var(--surface2); padding: 8px; color: var(--text2);
+                  font-weight: 600; white-space: nowrap; text-align: left; }
+  table.log td { padding: 8px; border-bottom: 1px solid var(--surface); }
+  .wf-pill { display: inline-block; padding: 1px 7px; border-radius: 10px;
+             font-weight: 700; font-size: 10px; }
+  .wf-A { background: #0ea5e91a; color: #38bdf8; }
+  .wf-B { background: #818cf81a; color: #818cf8; }
+  .wf-C { background: #34d3991a; color: #34d399; }
+  .wf-D { background: #fbbf241a; color: #fbbf24; }
+  .wf-E { background: #f871711a; color: #f87171; }
+  .status-ok { color: var(--success); }
+  .status-warn { color: var(--warn); }
+  .status-err { color: var(--danger); }
+
+  /* MODAL */
+  .modal-bg { position: fixed; inset: 0; background: rgba(0,0,0,0.7);
+              z-index: 200; display: none; align-items: flex-end; }
+  .modal-bg.open { display: flex; }
+  .modal { background: var(--surface); border-radius: 20px 20px 0 0;
+           padding: 20px 16px calc(20px + var(--safe-bottom));
+           width: 100%; max-height: 90vh; overflow-y: auto; }
+  .modal-handle { width: 36px; height: 4px; background: var(--surface2);
+                  border-radius: 2px; margin: 0 auto 16px; }
+  .modal h2 { font-size: 17px; font-weight: 700; margin-bottom: 16px; }
+  .form-row { margin-bottom: 14px; }
+  .form-row label { font-size: 12px; color: var(--text2); margin-bottom: 4px; display: block; }
+  .form-row input, .form-row select, .form-row textarea {
+    width: 100%; background: var(--bg); border: 1px solid var(--surface2);
+    color: var(--text); padding: 10px 12px; border-radius: 8px;
+    font-size: 14px; outline: none; }
+  .form-row textarea { height: 80px; resize: none; font-family: monospace; }
+  .btn { width: 100%; padding: 14px; border-radius: var(--radius); border: none;
+         font-size: 15px; font-weight: 600; cursor: pointer; margin-top: 8px; }
+  .btn-primary { background: var(--accent); color: #0f172a; }
+  .btn-secondary { background: var(--surface2); color: var(--text); }
+
+  /* SETTINGS */
+  .setting-row { display: flex; align-items: center; padding: 14px 16px;
+                 border-bottom: 1px solid var(--surface); gap: 12px; }
+  .setting-icon { width: 32px; height: 32px; background: var(--surface2);
+                  border-radius: 8px; display: flex; align-items: center;
+                  justify-content: center; font-size: 16px; }
+  .setting-info { flex: 1; }
+  .setting-info h4 { font-size: 14px; }
+  .setting-info p { font-size: 12px; color: var(--text2); margin-top: 2px; }
+  .setting-row input { background: var(--bg); border: 1px solid var(--surface2);
+                        color: var(--text); padding: 6px 10px; border-radius: 6px;
+                        font-size: 12px; width: 140px; outline: none; }
+
+  /* TOAST */
+  .toast { position: fixed; top: 60px; left: 50%; transform: translateX(-50%);
+           background: var(--surface2); color: var(--text); padding: 10px 16px;
+           border-radius: 20px; font-size: 13px; z-index: 300;
+           opacity: 0; transition: opacity .3s; pointer-events: none; }
+  .toast.show { opacity: 1; }
+  
+  /* TICKER CHIP */
+  .ticker-chip { display: inline-block; background: #0c2340; color: var(--accent);
+                 font-size: 11px; font-weight: 700; padding: 2px 7px;
+                 border-radius: 5px; margin-right: 4px; }
+  
+  /* LOADING */
+  .loading { display: flex; justify-content: center; padding: 40px;
+             color: var(--text2); font-size: 13px; gap: 8px; align-items: center; }
+  .spinner { width: 18px; height: 18px; border: 2px solid var(--surface2);
+             border-top-color: var(--accent); border-radius: 50%;
+             animation: spin .7s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* IPO TODAY CARD */
+  .ipo-today { background: linear-gradient(135deg, #451a03, #1a0a00);
+               border: 1px solid var(--warn); border-radius: var(--radius);
+               margin: 0 16px 12px; padding: 14px 16px; }
+  .ipo-today h3 { color: var(--warn); font-size: 14px; font-weight: 700; }
+  .ipo-today p { font-size: 12px; color: #fde68a; margin-top: 4px; }
+
+  /* EMPTY STATE */
+  .empty { text-align: center; padding: 48px 24px; color: var(--text2); }
+  .empty-icon { font-size: 48px; margin-bottom: 12px; }
+  .empty p { font-size: 14px; }
+</style>
+</head>
+<body>
+
+<!-- PAGES -->
+<div id="page-home" class="page active">
+  <div class="header">
+    <h1>💹 Finance Vault</h1>
+    <p id="home-subtitle">Loading...</p>
+  </div>
+  
+  <div id="ipo-today-banner" class="ipo-today" style="display:none">
+    <h3>📅 HK-IPO Today</h3>
+    <p id="ipo-today-date"></p>
+    <button class="btn btn-secondary" style="margin-top:10px;padding:8px;font-size:13px;" onclick="openIPOToday()">開啟 / 新建今日 IPO 筆記</button>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Workflow 快速入口</div>
+  </div>
+  <div class="wf-grid">
+    <div class="wf-card" onclick="switchToWorkflow('A')">
+      <div class="wf-badge">A</div>
+      <h3>TA 技術分析</h3>
+      <p>估值 · 目標價</p>
+    </div>
+    <div class="wf-card" onclick="switchToWorkflow('B')">
+      <div class="wf-badge b">B</div>
+      <h3>護城河 · 週期</h3>
+      <p>基本面 · Y/X 評分</p>
+    </div>
+    <div class="wf-card" onclick="switchToWorkflow('C')">
+      <div class="wf-badge c">C</div>
+      <h3>企業概要</h3>
+      <p>Moat · 瓶頸深挖</p>
+    </div>
+    <div class="wf-card" onclick="switchToWorkflow('E')">
+      <div class="wf-badge e">E</div>
+      <h3>產業分析</h3>
+      <p>業務部門拆分</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">最新 Log 記錄</div>
+    <div id="home-log-preview"></div>
+  </div>
+</div>
+
+<div id="page-files" class="page">
+  <div class="header">
+    <h1>📁 Files</h1>
+    <p>03-(FINANCE) 財務筆記</p>
+  </div>
+  <div id="file-list-content">
+    <div class="loading"><div class="spinner"></div> 載入中...</div>
+  </div>
+</div>
+
+<div id="page-editor" class="page">
+  <div class="header" style="padding-bottom:8px">
+    <div style="display:flex;align-items:center;gap:10px">
+      <button onclick="closEditor()" style="background:none;border:none;color:var(--text2);font-size:24px;cursor:pointer;padding:0">‹</button>
+      <div style="flex:1;min-width:0">
+        <div id="editor-filename" style="font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis"></div>
+        <div id="editor-path" style="font-size:11px;color:var(--text2)"></div>
+      </div>
+      <div style="display:flex;gap:6px">
+        <button id="preview-toggle" onclick="togglePreview()" style="background:var(--surface2);border:none;color:var(--text);padding:6px 10px;border-radius:6px;font-size:12px;cursor:pointer">預覽</button>
+        <button onclick="saveFile()" style="background:var(--accent);border:none;color:#0f172a;padding:6px 12px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer">儲存</button>
+      </div>
+    </div>
+  </div>
+  <div class="editor-toolbar">
+    <button class="tb-btn" onclick="insertMd('**','**')">B</button>
+    <button class="tb-btn" onclick="insertMd('*','*')"><i>I</i></button>
+    <button class="tb-btn" onclick="insertMd('`','`')">Code</button>
+    <button class="tb-btn" onclick="insertMd('## ','')">H2</button>
+    <button class="tb-btn" onclick="insertMd('### ','')">H3</button>
+    <button class="tb-btn" onclick="insertMd('- ','')">List</button>
+    <button class="tb-btn" onclick="insertMd('[[',']]')">Link</button>
+    <button class="tb-btn" onclick="insertHKTDate()">📅 HKT</button>
+  </div>
+  <div id="editor-view">
+    <textarea id="editor-textarea" placeholder="載入中..." spellcheck="false"></textarea>
+  </div>
+  <div id="preview-view" style="display:none" class="preview" id="preview-content"></div>
+</div>
+
+<div id="page-log" class="page">
+  <div class="header">
+    <h1>📋 Log</h1>
+    <p>log_finance.md — Audit Trail</p>
+  </div>
+  <div style="display:flex;gap:6px;padding:0 16px 12px;overflow-x:auto">
+    <button class="tb-btn" onclick="filterLog('all')" id="log-filter-all">全部</button>
+    <button class="tb-btn" onclick="filterLog('A')">A</button>
+    <button class="tb-btn" onclick="filterLog('B')">B</button>
+    <button class="tb-btn" onclick="filterLog('C')">C</button>
+    <button class="tb-btn" onclick="filterLog('D')">D</button>
+    <button class="tb-btn" onclick="filterLog('E')">E</button>
+  </div>
+  <div id="log-content">
+    <div class="loading"><div class="spinner"></div> 載入中...</div>
+  </div>
+  <button onclick="openLogModal()" style="position:fixed;bottom:calc(80px + var(--safe-bottom));right:16px;width:52px;height:52px;border-radius:50%;background:var(--accent);border:none;color:#0f172a;font-size:24px;cursor:pointer;z-index:60;box-shadow:0 4px 16px rgba(56,189,248,0.4)">+</button>
+</div>
+
+<div id="page-settings" class="page">
+  <div class="header">
+    <h1>⚙️ Settings</h1>
+    <p>GitHub 連線設定</p>
+  </div>
+  <div class="setting-row">
+    <div class="setting-icon">🔑</div>
+    <div class="setting-info">
+      <h4>GitHub Token</h4>
+      <p>Personal Access Token (repo scope)</p>
+    </div>
+    <input type="password" id="setting-token" placeholder="ghp_..." oninput="saveSetting('token',this.value)">
+  </div>
+  <div class="setting-row">
+    <div class="setting-icon">👤</div>
+    <div class="setting-info">
+      <h4>GitHub Owner</h4>
+      <p>你的 GitHub 用戶名</p>
+    </div>
+    <input type="text" id="setting-owner" placeholder="yk-chris" oninput="saveSetting('owner',this.value)">
+  </div>
+  <div class="setting-row">
+    <div class="setting-icon">📦</div>
+    <div class="setting-info">
+      <h4>Repository</h4>
+      <p>倉庫名稱</p>
+    </div>
+    <input type="text" id="setting-repo" placeholder="Obsidian_2nd_brain" oninput="saveSetting('repo',this.value)">
+  </div>
+  <div class="setting-row">
+    <div class="setting-icon">🌿</div>
+    <div class="setting-info">
+      <h4>Branch</h4>
+      <p>預設分支</p>
+    </div>
+    <input type="text" id="setting-branch" placeholder="main" oninput="saveSetting('branch',this.value)">
+  </div>
+  <div style="padding:16px">
+    <button class="btn btn-primary" onclick="testConnection()">🔗 測試連線</button>
+    <button class="btn btn-secondary" onclick="clearCache()" style="margin-top:8px">🗑️ 清除快取</button>
+  </div>
+  <div style="padding:0 16px;font-size:11px;color:var(--text2);line-height:1.6">
+    Token 僅儲存於本機 localStorage，不會上傳至任何伺服器。<br>
+    需要 <code>repo</code> scope 才能讀寫私人倉庫。
+  </div>
+</div>
+
+<!-- NAV -->
+<nav class="nav">
+  <button class="nav-btn active" onclick="switchPage('home',this)" id="nav-home">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+    首頁
+  </button>
+  <button class="nav-btn" onclick="switchPage('files',this)" id="nav-files">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>
+    Files
+  </button>
+  <button class="nav-btn" onclick="switchPage('log',this)" id="nav-log">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+    Log
+  </button>
+  <button class="nav-btn" onclick="switchPage('settings',this)" id="nav-settings">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+    設定
+  </button>
+</nav>
+
+<!-- LOG MODAL -->
+<div class="modal-bg" id="log-modal">
+  <div class="modal">
+    <div class="modal-handle"></div>
+    <h2>➕ 新增 Log 記錄</h2>
+    <div class="form-row">
+      <label>Workflow</label>
+      <select id="log-wf">
+        <option value="A">A — TA 技術分析</option>
+        <option value="B">B — 護城河 · 週期</option>
+        <option value="C">C — 企業概要</option>
+        <option value="D">D — HK-IPO</option>
+        <option value="E">E — 產業分析</option>
+      </select>
+    </div>
+    <div class="form-row">
+      <label>Ticker / 目標</label>
+      <input type="text" id="log-ticker" placeholder="NVDA / 2026-05-01">
+    </div>
+    <div class="form-row">
+      <label>執行動作說明</label>
+      <input type="text" id="log-action" placeholder="執行 TA 估值分析...">
+    </div>
+    <div class="form-row">
+      <label>結果</label>
+      <select id="log-status">
+        <option value="✅ 完成">✅ 完成</option>
+        <option value="⚠️ 部分完成">⚠️ 部分完成</option>
+        <option value="❌ 失敗">❌ 失敗</option>
+      </select>
+    </div>
+    <button class="btn btn-primary" onclick="submitLog()">寫入 log_finance.md</button>
+    <button class="btn btn-secondary" onclick="closeLogModal()" style="margin-top:8px">取消</button>
+  </div>
+</div>
+
+<!-- TOAST -->
+<div class="toast" id="toast"></div>
+
+<script>
+// ===== STATE =====
+const FINANCE_PATH = '03-(FINANCE) 財務筆記';
+const FOLDERS = {
+  'TA技術分析': { icon: '📊', wf: 'A', color: '#38bdf8' },
+  '公司業務, 護城河, 週期, 競爭格局': { icon: '🏰', wf: 'B', color: '#818cf8' },
+  '企業概要': { icon: '🏢', wf: 'C', color: '#34d399' },
+  '產業': { icon: '🏭', wf: 'E', color: '#f87171' },
+  'HK-IPO': { icon: '🚀', wf: 'D', color: '#fbbf24' },
+  'founders的故事': { icon: '📖', wf: null, color: '#94a3b8' },
+  '生產要素': { icon: '⚙️', wf: null, color: '#94a3b8' },
+};
+
+let currentPage = 'home';
+let currentFile = null;
+let currentFileSHA = null;
+let isPreviewMode = false;
+let allLogLines = [];
+let fileCache = {};
+
+// ===== SETTINGS =====
+function getSettings() {
+  return {
+    token: localStorage.getItem('fv_token') || '',
+    owner: localStorage.getItem('fv_owner') || 'yk-chris',
+    repo: localStorage.getItem('fv_repo') || 'Obsidian_2nd_brain',
+    branch: localStorage.getItem('fv_branch') || 'main',
+  };
+}
+function saveSetting(key, val) { localStorage.setItem('fv_' + key, val); }
+
+function loadSettings() {
+  const s = getSettings();
+  document.getElementById('setting-token').value = s.token;
+  document.getElementById('setting-owner').value = s.owner;
+  document.getElementById('setting-repo').value = s.repo;
+  document.getElementById('setting-branch').value = s.branch;
+}
+
+// ===== GITHUB API =====
+async function ghFetch(path, options = {}) {
+  const s = getSettings();
+  if (!s.token) { showToast('請先在設定中填入 GitHub Token'); throw new Error('No token'); }
+  const url = `https://api.github.com/repos/${s.owner}/${s.repo}/contents/${encodeURIComponent(path)}`;
+  const res = await fetch(url, {
+    ...options,
+    headers: { 'Authorization': `token ${s.token}`, 'Accept': 'application/vnd.github.v3+json', ...options.headers }
+  });
+  if (!res.ok) throw new Error(`GitHub API ${res.status}: ${await res.text()}`);
+  return res.json();
+}
+
+async function getFile(path) {
+  const data = await ghFetch(path);
+  const content = atob(data.content.replace(/\n/g, ''));
+  return { content: new TextDecoder('utf-8').decode(Uint8Array.from(content, c => c.charCodeAt(0))), sha: data.sha };
+}
+
+async function putFile(path, content, sha, message) {
+  const s = getSettings();
+  const encoded = btoa(unescape(encodeURIComponent(content)));
+  return ghFetch(path, {
+    method: 'PUT',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ message, content: encoded, sha, branch: s.branch })
+  });
+}
+
+async function listDir(path) {
+  if (fileCache[path]) return fileCache[path];
+  const data = await ghFetch(path);
+  fileCache[path] = data;
+  return data;
+}
+
+// ===== PAGE NAV =====
+function switchPage(page, btn) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('page-' + page).classList.add('active');
+  if (btn) btn.classList.add('active');
+  currentPage = page;
+  if (page === 'files' && document.getElementById('file-list-content').innerHTML.includes('載入中')) loadFileList();
+  if (page === 'log' && document.getElementById('log-content').innerHTML.includes('載入中')) loadLog();
+  if (page === 'home') loadHome();
+}
+
+function switchToWorkflow(wf) {
+  const folderMap = { A: 'TA技術分析', B: '公司業務, 護城河, 週期, 競爭格局', C: '企業概要', D: 'HK-IPO', E: '產業' };
+  switchPage('files', document.getElementById('nav-files'));
+  loadFolderFiles(folderMap[wf]);
+}
+
+// ===== HOME =====
+async function loadHome() {
+  const today = getHKTDate();
+  document.getElementById('home-subtitle').textContent = today + ' (HKT)';
+  document.getElementById('ipo-today-date').textContent = `ipo_${today}.md`;
+  document.getElementById('ipo-today-banner').style.display = 'block';
+  
+  // Load recent log preview
+  try {
+    const { content } = await getFile(FINANCE_PATH + '/log_finance.md');
+    const lines = parseLogLines(content).slice(-5).reverse();
+    const html = lines.map(l => `
+      <div style="display:flex;align-items:center;gap:8px;padding:8px 0;border-bottom:1px solid var(--surface2)">
+        <span class="wf-pill wf-${l.wf}">${l.wf}</span>
+        <div style="flex:1;min-width:0">
+          <div style="font-size:12px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${l.ticker}</div>
+          <div style="font-size:11px;color:var(--text2)">${l.date}</div>
+        </div>
+        <span style="font-size:11px">${l.status.split(' ')[0]}</span>
+      </div>`).join('');
+    document.getElementById('home-log-preview').innerHTML = html || '<div style="color:var(--text2);font-size:12px;padding:8px 0">尚無記錄</div>';
+  } catch(e) {}
+}
+
+function openIPOToday() {
+  const today = getHKTDate();
+  openFileEditor(FINANCE_PATH + '/HK-IPO/ipo_' + today + '.md');
+}
+
+// ===== FILE LIST =====
+async function loadFileList() {
+  const container = document.getElementById('file-list-content');
+  container.innerHTML = '<div class="loading"><div class="spinner"></div> 載入中...</div>';
+  try {
+    const files = await listDir(FINANCE_PATH);
+    let html = '';
+    // Root files first
+    const rootFiles = files.filter(f => f.type === 'file');
+    if (rootFiles.length) {
+      html += '<div class="folder-header">📌 根目錄</div>';
+      html += rootFiles.map(f => fileItemHTML(f, FINANCE_PATH)).join('');
+    }
+    // Folders
+    const dirs = files.filter(f => f.type === 'dir');
+    dirs.forEach(d => {
+      const meta = FOLDERS[d.name] || { icon: '📁', wf: null };
+      html += `<div class="folder-header" onclick="loadFolderFiles('${d.name}')" style="cursor:pointer">
+        ${meta.icon} ${d.name} ${meta.wf ? `<span class="wf-pill wf-${meta.wf}" style="margin-left:auto">WF-${meta.wf}</span>` : ''}
+      </div>`;
+      html += `<div id="folder-${d.name.replace(/[^a-zA-Z0-9]/g,'-')}" style="display:none"></div>`;
+    });
+    container.innerHTML = html;
+  } catch(e) {
+    container.innerHTML = `<div class="empty"><div class="empty-icon">⚠️</div><p>${e.message}</p></div>`;
+  }
+}
+
+async function loadFolderFiles(folderName) {
+  const id = 'folder-' + folderName.replace(/[^a-zA-Z0-9]/g,'-');
+  const el = document.getElementById(id);
+  if (!el) return;
+  if (el.style.display === 'block') { el.style.display = 'none'; return; }
+  el.style.display = 'block';
+  el.innerHTML = '<div class="loading"><div class="spinner"></div></div>';
+  try {
+    const path = FINANCE_PATH + '/' + folderName;
+    const files = await listDir(path);
+    const mdFiles = files.filter(f => f.type === 'file' && f.name.endsWith('.md'));
+    el.innerHTML = mdFiles.length 
+      ? mdFiles.map(f => fileItemHTML(f, path)).join('')
+      : '<div style="padding:12px 16px;color:var(--text2);font-size:12px">（空資料夾）</div>';
+  } catch(e) {
+    el.innerHTML = `<div style="padding:12px 16px;color:var(--danger);font-size:12px">${e.message}</div>`;
+  }
+}
+
+function fileItemHTML(file, parentPath) {
+  const ticker = extractTicker(file.name);
+  const isLog = file.name === 'log_finance.md';
+  const size = file.size ? (file.size > 1024 ? (file.size/1024).toFixed(1)+'KB' : file.size+'B') : '';
+  return `<div class="file-item" onclick="openFileEditor('${parentPath}/${file.name}')">
+    <div class="file-icon" style="background:${isLog ? '#1a0e02' : '#0c2340'}">
+      ${isLog ? '📋' : '📝'}
+    </div>
+    <div class="file-meta">
+      <div class="file-name">${file.name.replace('.md','')}</div>
+      <div class="file-sub">${ticker ? `<span class="ticker-chip">${ticker}</span>` : ''}${size}</div>
+    </div>
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#475569" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+  </div>`;
+}
+
+function extractTicker(filename) {
+  const m = filename.match(/[（(]([A-Z0-9.]{1,10})[)）]/) || filename.match(/^([A-Z0-9.]{1,10})\s/);
+  return m ? m[1] : null;
+}
+
+// ===== EDITOR =====
+async function openFileEditor(path) {
+  currentFile = path;
+  document.getElementById('editor-filename').textContent = path.split('/').pop().replace('.md','');
+  document.getElementById('editor-path').textContent = path.replace(FINANCE_PATH + '/', '');
+  document.getElementById('editor-textarea').value = '載入中...';
+  
+  // Switch to editor page
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.getElementById('page-editor').classList.add('active');
+  
+  try {
+    const { content, sha } = await getFile(path);
+    currentFileSHA = sha;
+    document.getElementById('editor-textarea').value = content;
+  } catch(e) {
+    // New file
+    currentFileSHA = null;
+    const today = getHKTDate();
+    document.getElementById('editor-textarea').value = 
+      `---\ntags: []\ncreated: ${today}\nupdated: ${today}\n---\n\n# ${path.split('/').pop().replace('.md','')}\n\n`;
+  }
+}
+
+function closEditor() {
+  document.getElementById('page-editor').classList.remove('active');
+  document.getElementById('page-' + currentPage).classList.add('active');
+}
+
+function togglePreview() {
+  isPreviewMode = !isPreviewMode;
+  document.getElementById('editor-view').style.display = isPreviewMode ? 'none' : 'block';
+  document.getElementById('preview-view').style.display = isPreviewMode ? 'block' : 'none';
+  document.getElementById('preview-toggle').textContent = isPreviewMode ? '編輯' : '預覽';
+  if (isPreviewMode) {
+    document.getElementById('preview-view').innerHTML = renderMarkdown(document.getElementById('editor-textarea').value);
+  }
+}
+
+function renderMarkdown(md) {
+  return md
+    .replace(/^---[\s\S]*?---\n/, '<div style="color:var(--text2);font-size:11px;border:1px solid var(--surface2);padding:8px;border-radius:6px;margin-bottom:12px;font-family:monospace">YAML Frontmatter</div>\n')
+    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
+    .replace(/^- (.+)$/gm, '<li>$1</li>')
+    .replace(/(<li>.*<\/li>\n?)+/g, s => '<ul>' + s + '</ul>')
+    .replace(/\n\n/g, '</p><p>')
+    .replace(/^(?!<[hbuplid])(.+)$/gm, (m, p1) => p1.startsWith('<') ? m : `<p>${p1}</p>`);
+}
+
+async function saveFile() {
+  if (!currentFile) return;
+  const content = document.getElementById('editor-textarea').value;
+  // Update YAML updated date
+  const today = getHKTDate();
+  const updatedContent = content.replace(/^updated:.*$/m, 'updated: ' + today);
+  
+  try {
+    showToast('儲存中...');
+    await putFile(currentFile, updatedContent, currentFileSHA, `Update ${currentFile.split('/').pop()} via Finance Vault PWA`);
+    currentFileSHA = null; // will refetch on next open
+    fileCache = {}; // invalidate cache
+    showToast('✅ 已儲存到 GitHub');
+  } catch(e) {
+    showToast('❌ 儲存失敗: ' + e.message);
+  }
+}
+
+function insertMd(pre, post) {
+  const ta = document.getElementById('editor-textarea');
+  const start = ta.selectionStart, end = ta.selectionEnd;
+  const sel = ta.value.substring(start, end);
+  ta.value = ta.value.substring(0, start) + pre + sel + post + ta.value.substring(end);
+  ta.focus();
+  ta.setSelectionRange(start + pre.length, end + pre.length);
+}
+
+function insertHKTDate() {
+  const now = new Date(Date.now() + 8*3600000);
+  const ts = now.toISOString().replace('T',' ').substring(0,16);
+  insertMd(ts, '');
+}
+
+// ===== LOG =====
+async function loadLog() {
+  const container = document.getElementById('log-content');
+  try {
+    const { content } = await getFile(FINANCE_PATH + '/log_finance.md');
+    allLogLines = parseLogLines(content);
+    renderLog(allLogLines);
+  } catch(e) {
+    container.innerHTML = `<div class="empty"><div class="empty-icon">📋</div><p>${e.message}</p></div>`;
+  }
+}
+
+function parseLogLines(content) {
+  const rows = [];
+  const lines = content.split('\n');
+  for (const line of lines) {
+    const m = line.match(/^\|\s*([^|]+)\s*\|\s*([ABCDE])\s*\|\s*([^|]+)\s*\|\s*([^|]+)\s*\|\s*([^|]+)\s*\|/);
+    if (m && m[1].match(/\d{4}-\d{2}/)) {
+      rows.push({ date: m[1].trim(), wf: m[2].trim(), ticker: m[3].trim(), action: m[4].trim(), status: m[5].trim() });
+    }
+  }
+  return rows;
+}
+
+function renderLog(lines) {
+  const container = document.getElementById('log-content');
+  if (!lines.length) { container.innerHTML = '<div class="empty"><div class="empty-icon">📋</div><p>尚無記錄</p></div>'; return; }
+  const reversed = [...lines].reverse();
+  const html = reversed.map(l => {
+    const statusClass = l.status.includes('✅') ? 'status-ok' : l.status.includes('⚠️') ? 'status-warn' : 'status-err';
+    const tickerDisplay = l.ticker.replace(/\[\[.*?\|(.*?)\]\]/g, '$1').replace(/\[\[.*?\]\]/g, l.ticker);
+    return `<div style="padding:12px 16px;border-bottom:1px solid var(--surface)">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+        <span class="wf-pill wf-${l.wf}">WF-${l.wf}</span>
+        <span style="font-size:12px;font-weight:600;flex:1">${tickerDisplay}</span>
+        <span style="font-size:11px" class="${statusClass}">${l.status.split(' ')[0]}</span>
+      </div>
+      <div style="font-size:11px;color:var(--text2)">${l.action}</div>
+      <div style="font-size:10px;color:#475569;margin-top:2px">${l.date}</div>
+    </div>`;
+  }).join('');
+  container.innerHTML = html;
+}
+
+function filterLog(wf) {
+  if (wf === 'all') renderLog(allLogLines);
+  else renderLog(allLogLines.filter(l => l.wf === wf));
+}
+
+function openLogModal() { document.getElementById('log-modal').classList.add('open'); }
+function closeLogModal() { document.getElementById('log-modal').classList.remove('open'); }
+
+async function submitLog() {
+  const wf = document.getElementById('log-wf').value;
+  const ticker = document.getElementById('log-ticker').value.trim();
+  const action = document.getElementById('log-action').value.trim();
+  const status = document.getElementById('log-status').value;
+  if (!ticker || !action) { showToast('請填寫 Ticker 和動作說明'); return; }
+  
+  const now = new Date(Date.now() + 8*3600000);
+  const ts = now.toISOString().replace('T',' ').substring(0,16);
+  const newRow = `| ${ts} | ${wf} | ${ticker} | ${action} | ${status} |`;
+  
+  try {
+    const { content, sha } = await getFile(FINANCE_PATH + '/log_finance.md');
+    const updated = content.trimEnd() + '\n' + newRow + '\n';
+    await putFile(FINANCE_PATH + '/log_finance.md', updated, sha, `Log: WF-${wf} ${ticker}`);
+    allLogLines.push({ date: ts, wf, ticker, action, status });
+    renderLog(allLogLines);
+    closeLogModal();
+    showToast('✅ Log 已寫入');
+    // Clear form
+    document.getElementById('log-ticker').value = '';
+    document.getElementById('log-action').value = '';
+  } catch(e) {
+    showToast('❌ ' + e.message);
+  }
+}
+
+// ===== UTILS =====
+function getHKTDate() {
+  return new Date(Date.now() + 8*3600000).toISOString().substring(0,10);
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2500);
+}
+
+async function testConnection() {
+  try {
+    showToast('測試中...');
+    await listDir(FINANCE_PATH);
+    showToast('✅ 連線成功！');
+  } catch(e) {
+    showToast('❌ ' + e.message);
+  }
+}
+
+function clearCache() { fileCache = {}; showToast('🗑️ 快取已清除'); }
+
+// ===== INIT =====
+loadSettings();
+loadHome();
+
+// Register PWA manifest inline
+const manifest = {
+  name: 'Finance Vault',
+  short_name: 'FinVault',
+  start_url: '.',
+  display: 'standalone',
+  background_color: '#0f172a',
+  theme_color: '#0f172a',
+  icons: [{ src: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💹</text></svg>", sizes: '192x192', type: 'image/svg+xml' }]
+};
+const blob = new Blob([JSON.stringify(manifest)], {type: 'application/json'});
+document.getElementById('manifest-link').href = URL.createObjectURL(blob);
+</script>
+</body>
+</html>
