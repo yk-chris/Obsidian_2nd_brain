@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"547473f857279b97","x":428,"y":-1134,"width":1803,"height":2041,"type":"group","label":"<workflows>"},
 		{"id":"fbb54baaa4d56a31","type":"text","text":"HK-IPO","x":467,"y":-1114,"width":510,"height":60,"color":"5"},
 		{"id":"b601c0a29c9d4ad9","type":"file","file":"01-(SKILLs) 技能/skill_invest/invest-IPO.md","x":467,"y":-1054,"width":510,"height":306},
 		{"id":"3aad15eba9c4e279","type":"text","text":"TA技術分析","x":1065,"y":-1111,"width":534,"height":60,"color":"5"},
@@ -15,11 +16,15 @@
 		{"id":"cb4e2aa613cb9aff","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md","x":448,"y":235,"width":529,"height":288},
 		{"id":"60be3cba39372f3a","type":"text","text":"生產要素","x":1677,"y":-142,"width":534,"height":60,"color":"5"},
 		{"id":"deb1f96abc2c9e71","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md","x":1677,"y":-74,"width":534,"height":280},
-		{"id":"0a00ff5d2a0cfc3d","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md","x":448,"y":566,"width":529,"height":321}
+		{"id":"0a00ff5d2a0cfc3d","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md","x":448,"y":566,"width":529,"height":321},
+		{"id":"7d080291b382e9cd","x":-1025,"y":-1111,"width":1204,"height":1739,"type":"file","file":"03-(FINANCE) 財務筆記/schema_finance.md"},
+		{"id":"75b2ab70900c5955","x":2490,"y":-1086,"width":1147,"height":1714,"type":"file","file":"03-(FINANCE) 財務筆記/log_finance.md"}
 	],
 	"edges":[
 		{"id":"d1d312ede99a8bea","fromNode":"dafbb8590b3d51e7","fromSide":"right","toNode":"60be3cba39372f3a","toSide":"left"},
 		{"id":"473bb521953fb48e","fromNode":"aab6a345fd5e3559","fromSide":"right","toNode":"dafbb8590b3d51e7","toSide":"left"},
-		{"id":"00ed95d791af2926","fromNode":"3aad15eba9c4e279","fromSide":"right","toNode":"250d8e19210135c1","toSide":"left"}
+		{"id":"00ed95d791af2926","fromNode":"3aad15eba9c4e279","fromSide":"right","toNode":"250d8e19210135c1","toSide":"left"},
+		{"id":"f37751beda453890","fromNode":"7d080291b382e9cd","fromSide":"right","toNode":"547473f857279b97","toSide":"left"},
+		{"id":"aafcdcbcbeadd32e","fromNode":"547473f857279b97","fromSide":"right","toNode":"75b2ab70900c5955","toSide":"left"}
 	]
 }

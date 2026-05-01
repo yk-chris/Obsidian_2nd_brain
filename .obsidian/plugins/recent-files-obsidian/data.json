@@ -9,6 +9,14 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "log_finance",
+      "path": "03-(FINANCE) 財務筆記/log_finance.md"
+    },
+    {
+      "basename": "invest-enterprise-business",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
+    },
+    {
       "basename": "invest-stock-valuation",
       "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "invest-cost-return",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
-    },
-    {
-      "basename": "log_finance",
-      "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
     {
       "basename": "schema_wiki",
@@ -95,10 +99,6 @@
     {
       "basename": "MU [$517.00]",
       "path": "03-(FINANCE) 財務筆記/TA技術分析/MU [$517.00].md"
-    },
-    {
-      "basename": "invest-enterprise-business",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
     },
     {
       "basename": "CLAUDE",

@@ -15,9 +15,9 @@
               "state": {
                 "file": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
                 "viewState": {
-                  "x": 1329.5,
-                  "y": -113.5,
-                  "zoom": -1.507819219511266
+                  "x": 1352.016593532476,
+                  "y": 60.282422862990245,
+                  "zoom": -1.8411525528445993
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 555.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
