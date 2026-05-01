@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/log_finance.md",
+                "file": "03-(FINANCE) 財務筆記/schema_finance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log_finance"
+              "title": "schema_finance"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 581.5,
-    "collapsed": true
+    "width": 615.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -250,17 +249,19 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "2a958c411cb9e800",
+  "active": "bb7877e4106a8c54",
   "lastOpenFiles": [
-    "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
+    "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
+    "03-(FINANCE) 財務筆記/企業概要/Micron Technology (MU).md",
+    "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
+    "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "01-(SKILLs) 技能/skill_general/fact-check.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
     "Base_目錄.base",
     "CLAUDE.md",
-    "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
     "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md",
     "03-(FINANCE) 財務筆記/TA技術分析/AMZN [$257.26].md",
     "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
@@ -281,8 +282,6 @@
     "wiki/lint-reports",
     "wiki/synthesis",
     "wiki/sources/business/Duolingo-上市壓力-20260418.md",
-    "wiki/sources/finance/ASML-MSFT-ORCL-20260418.md",
-    "wiki/sources/finance/SpaceX-IPO-20260418.md",
     "wiki/sources/finance",
     "wiki/sources/business",
     "wiki/sources",

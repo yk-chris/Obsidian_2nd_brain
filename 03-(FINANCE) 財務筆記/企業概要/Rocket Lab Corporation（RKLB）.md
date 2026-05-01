@@ -7,7 +7,7 @@ updated: 2026-05-01
 skills: [invest-moat-margin-v2, invest-cost-return]
 ---
 
-# Rocket Lab Corporation（RKLB）
+# Rocket Lab Corporation (RKLB)
 
 > 執行技能：[[invest-moat-margin-v2]] + [[invest-cost-return]]
 > 資料截至：2026-05-01（基於 FY2025 全年及 Q4 2025 財務報告）

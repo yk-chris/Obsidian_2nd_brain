@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "schema_finance",
+      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+    },
+    {
       "basename": "log_finance",
       "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
     {
-      "basename": "ServiceNow（NOW）",
-      "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
+      "basename": "Rocket Lab Corporation（RKLB）",
+      "path": "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md"
     },
     {
-      "basename": "schema_finance",
-      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+      "basename": "Micron Technology (MU)",
+      "path": "03-(FINANCE) 財務筆記/企業概要/Micron Technology (MU).md"
+    },
+    {
+      "basename": "ipo_2026-05-01",
+      "path": "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md"
+    },
+    {
+      "basename": "ServiceNow（NOW）",
+      "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
     },
     {
       "basename": "fact-check",
@@ -31,10 +43,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "ipo_2026-05-01",
-      "path": "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md"
     },
     {
       "basename": "MSFT [$520]",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted Image 20260427134405_670",
       "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427134405_670.png"
-    },
-    {
-      "basename": "Pasted Image 20260427141300_149",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427141300_149.png"
-    },
-    {
-      "basename": "file-20260424100830960",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/file-20260424100830960.jpg"
     }
   ],
   "omittedPaths": [],

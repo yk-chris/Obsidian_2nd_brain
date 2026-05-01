@@ -559,7 +559,8 @@
   "tagColors": {
     "excalidraw": "#8b5cf6",
     "task": "#f97316",
-    "clippings": "#3b82f6"
+    "clippings": "#3b82f6",
+    "finance": "#f59e0b"
   },
   "tagBackgroundColors": {},
   "tagSortOverrides": {},
