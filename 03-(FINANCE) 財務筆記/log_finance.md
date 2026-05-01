@@ -29,6 +29,7 @@ updated: 2026-05-01
 | 2026-05-01 11:16 | — | — | 初始化 `log_finance.md`，建立行動事件日誌 | ✅ 完成 |
 | 2026-05-01 11:20 | D | ipo_2026-05-01 | 執行 HK-IPO 分析（invest-IPO.md），更新當日 IPO 筆記；涵蓋 01609 天星醫療（+383.9% 首日溢價）、01187 可孚醫療（待上市）、01236 樂動機器人（116倍超購，待上市） | ✅ 完成 |
 | 2026-05-01 11:29 | C | RKLB | 執行企業概要分析（invest-moat-margin-v2 + invest-cost-return），更新 Rocket Lab Corporation（RKLB）內文，基於 FY2025 全年最新財務數據 | ✅ 完成 |
+| 2026-05-01 12:02 | C | [[企業概要/ServiceNow（NOW）\|NOW]] | 執行企業概要分析（invest-moat-margin-v2 + invest-cost-return），新建 ServiceNow（NOW）企業概要，基於 FY2024/FY2025 最新財務數據；涵蓋訂閱業務護城河（98%+ 續約率）、Now Assist AI 轉型催化劑、ROIC 及 FCF Margin 分析 | ✅ 完成 |
 
 ---
 
