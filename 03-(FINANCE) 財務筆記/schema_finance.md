@@ -60,8 +60,9 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
    - 範例：`GOOGL [$370].md`
 5. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
    ```
-   | YYYY-MM-DD HH:MM | A | {ticker} | 執行 TA 估值分析，重新命名為 {ticker} [${綜合公允價值}].md | ✅ 完成 |
+   | YYYY-MM-DD HH:MM | A | [[TA技術分析/{ticker} [${value}]]] | 執行 TA 估值分析，重新命名為 {ticker} [${綜合公允價值}].md | ✅ 完成 |
    ```
+   > 範例：`[[TA技術分析/NVDA [$950]]]`
 
 ### 輸出變數
 
@@ -97,8 +98,9 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
    - 範例：`00700.HK [$556.14, 4.0, 2.0].md`
 5. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
    ```
-   | YYYY-MM-DD HH:MM | B | {ticker} | 執行基本面分析，護城河強度={Y}，週期暴露度={X}，重新命名 | ✅ 完成 |
+   | YYYY-MM-DD HH:MM | B | [[公司業務, 護城河, 週期, 競爭格局/{ticker} [${value}, {Y}, {X}]]] | 執行基本面分析，護城河強度={Y}，週期暴露度={X}，重新命名 | ✅ 完成 |
    ```
+   > 範例：`[[公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0]]]`
 
 ### 輸出變數
 
@@ -129,7 +131,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | `{ticker} ({company name}).md` | `GOOGL (Alphabet Inc.).md` | `GOOGL` |
 | `{company name}（{ticker}）.md` | `微軟（MSFT）.md` | `MSFT` |
 | `{company name}（{ticker}）.md` | `Amazon（AMZN）.md` | `AMZN` |
-| `{company name} ({ticker}).md` | `特斯拉 (TSLA).md` | `TSLA` |
+| `{company name} ({ticker}).md` | `特斯担 (TSLA).md` | `TSLA` |
 | `{company name}（{ticker}）.md` | `Rocket Lab Corporation（RKLB）.md` | `RKLB` |
 | `{company name}（{ticker}）.md` | `阿里巴巴（BABA）.md` | `BABA` |
 | `{company name}（{ticker}）.md` | `Micron Technology (MU).md` | `MU` |
@@ -178,8 +180,9 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 5. **保存檔案** — 覆寫原檔，檔名不變
 6. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
    ```
-   | YYYY-MM-DD HH:MM | C | {ticker} | 執行企業概要分析（moat-margin-v2 + cost-return），更新內文 | ✅ 完成 |
+   | YYYY-MM-DD HH:MM | C | [[企業概要/{filename without .md}]] | 執行企業概要分析（moat-margin-v2 + cost-return），更新內文 | ✅ 完成 |
    ```
+   > 範例：`[[企業概要/Rocket Lab Corporation（RKLB）]]`
 
 ### 輸出內容說明
 
@@ -214,8 +217,9 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 5. **更新 YAML Frontmatter** — 更新 `updated` 日期欄位
 6. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
    ```
-   | YYYY-MM-DD HH:MM | D | ipo_{yyyy-mm-dd} | 執行 HK-IPO 分析，新建/更新當日 IPO 筆記 | ✅ 完成 |
+   | YYYY-MM-DD HH:MM | D | [[HK-IPO/ipo_{yyyy-mm-dd}]] | 執行 HK-IPO 分析，新建/更新當日 IPO 筆記 | ✅ 完成 |
    ```
+   > 範例：`[[HK-IPO/ipo_2026-05-01]]`
 
 ### 輸出路徑
 
@@ -270,9 +274,18 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 |------|------|
 | **日期時間 (HKT)** | 格式：`YYYY-MM-DD HH:MM` |
 | **Workflow** | `A` / `B` / `C` / `D` |
-| **Ticker / 目標** | 操作對象（股票代碼或 IPO 檔名） |
+| **Ticker / 目標** | 操作對象（以 Obsidian wikilink `[[...]]` 格式連結至對應筆記檔案） |
 | **執行動作說明** | 簡述執行了什麼技能及產出 |
 | **結果 / 備註** | `✅ 完成` / `⚠️ 部分完成` / `❌ 失敗` + 原因 |
+
+### Ticker / 目標 欄 wikilink 格式對照表
+
+| Workflow | wikilink 格式 | 範例 |
+|----------|------------|------|
+| A | `[[TA技術分析/{ticker} [${value}]]]` | `[[TA技術分析/NVDA [$950]]]` |
+| B | `[[公司業務, 護城河, 週期, 競爭格局/{ticker} [${v}, {Y}, {X}]]]` | `[[公司業務, 護城河, 週期, 競爭格局/00700.HK [$556.14, 4.0, 2.0]]]` |
+| C | `[[企業概要/{filename without .md}]]` | `[[企業概要/Rocket Lab Corporation（RKLB）]]` |
+| D | `[[HK-IPO/ipo_{yyyy-mm-dd}]]` | `[[HK-IPO/ipo_2026-05-01]]` |
 
 > 📂 完整日誌檔案：[[03-(FINANCE) 財務筆記/log_finance]]
 
