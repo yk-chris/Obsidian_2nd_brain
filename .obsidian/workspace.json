@@ -11,20 +11,30 @@
             "id": "9cf7f042ac20c54d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
-                "viewState": {
-                  "x": 1341.1558738182487,
-                  "y": -464.40702893362914,
-                  "zoom": -0.9950987957699762
-                }
+                "file": "wiki/index_wiki.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Map_財務筆記"
+              "icon": "lucide-file",
+              "title": "index_wiki"
+            }
+          },
+          {
+            "id": "5c5ab022ec120e26",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "wiki/Excalidraw_2026-05-01_.schema_wiki.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_2026-05-01_.schema_wiki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,11 +263,19 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "9cf7f042ac20c54d",
+  "active": "5c5ab022ec120e26",
   "lastOpenFiles": [
-    "wiki/schema_wiki.md",
-    "wiki/log_wiki.md",
+    "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
     "wiki/index_wiki.md",
+    "wiki/log_wiki.md",
+    "wiki/Excalidraw_2026-05-01_.schema_wiki.md",
+    "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
+    "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",
+    "wiki/assets",
+    "wiki/schema_wiki.md",
+    "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
+    "map_schema_wiki.canvas",
+    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "wiki/concepts",
     "wiki/sources",
     "03-(FINANCE) 財務筆記/schema_finance.md",
@@ -265,9 +283,7 @@
     "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
     "03-(FINANCE) 財務筆記/企業概要/Micron Technology (MU).md",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
-    "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "01-(SKILLs) 技能/skill_general/fact-check.md",
-    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
     "Base_目錄.base",
     "03-(FINANCE) 財務筆記/TA技術分析/MSFT [$520].md",
@@ -284,12 +300,10 @@
     "03-(FINANCE) 財務筆記/HK-IPO",
     "Clippings/2026/April/MOC_20260501 - April 2026 Clippings 知識萃取.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
-    "00-(IDEAVERSE) 思維系統/2026/April/2026-04-29 case_study_Quarter Margin Review.md",
     "wiki/lint-reports",
     "wiki/synthesis",
     "wiki/sources/finance",
     "wiki/sources/business",
-    "wiki",
     "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
@@ -300,15 +314,12 @@
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081619_808.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427083014_916.png",
     "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427113751_225.png",
-    "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427134405_670.png",
     "02-(LEARN) 學習筆記/ASML_人類史上最複雜的機器.canvas",
     "02-(LEARN) 學習筆記/ASML_人類史上最複雜的機器 1.canvas",
     "04-(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "TaskNotes/Views/kanban-default.base",
     "01-(SKILLs) 技能/map_invest_skills.canvas",
     "02-(LEARN) 學習筆記/learn_Power_BI.canvas",
-    "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas",
-    "(FINANCE) 財務筆記/TA技術分析/技術分析_BABA.canvas"
+    "(FINANCE) 財務筆記/TA技術分析/技術分析_EWY.canvas"
   ]
 }

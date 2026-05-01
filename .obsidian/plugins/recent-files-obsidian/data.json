@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Excalidraw_2026-05-01_.schema_wiki",
+      "path": "wiki/Excalidraw_2026-05-01_.schema_wiki.md"
+    },
+    {
+      "basename": "index_wiki",
+      "path": "wiki/index_wiki.md"
+    },
+    {
+      "basename": "log_wiki",
+      "path": "wiki/log_wiki.md"
+    },
+    {
+      "basename": "schema_wiki",
+      "path": "wiki/schema_wiki.md"
+    },
+    {
+      "basename": "ServiceNow（NOW）",
+      "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
+    },
+    {
       "basename": "Map_財務筆記",
       "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
     },
@@ -45,18 +65,6 @@
       "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
     },
     {
-      "basename": "schema_wiki",
-      "path": "wiki/schema_wiki.md"
-    },
-    {
-      "basename": "log_wiki",
-      "path": "wiki/log_wiki.md"
-    },
-    {
-      "basename": "index_wiki",
-      "path": "wiki/index_wiki.md"
-    },
-    {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "ipo_2026-05-01",
       "path": "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md"
-    },
-    {
-      "basename": "ServiceNow（NOW）",
-      "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
     },
     {
       "basename": "fact-check",
@@ -195,10 +199,6 @@
     {
       "basename": "file-20260427090800405",
       "path": "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg"
-    },
-    {
-      "basename": "Pasted Image 20260427081619_808",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081619_808.png"
     }
   ],
   "omittedPaths": [],
