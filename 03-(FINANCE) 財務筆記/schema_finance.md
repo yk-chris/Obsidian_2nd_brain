@@ -13,6 +13,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 ```
 03-(FINANCE) 財務筆記/
 ├── schema_finance.md                                                 ← 本文件
+├── log_finance.md                                                    ← 行動事件日誌
 ├── TA技術分析/
 │   └── {ticker} [${綜合公允價值}].md
 ├── 公司業務, 護城河, 週期, 競爭格局/
@@ -57,6 +58,10 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 3. **更新內文** — 將技能輸出（估值分析、目標價、技術面）寫入筆記內文
 4. **重新命名** — 依照更新後格式重新命名檔案
    - 範例：`GOOGL [$370].md`
+5. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
+   ```
+   | YYYY-MM-DD HH:MM | A | {ticker} | 執行 TA 估值分析，重新命名為 {ticker} [${綜合公允價值}].md | ✅ 完成 |
+   ```
 
 ### 輸出變數
 
@@ -90,6 +95,10 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
    - 競爭格局與產業地位
 4. **重新命名** — 依照更新後格式重新命名檔案
    - 範例：`00700.HK [$556.14, 4.0, 2.0].md`
+5. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
+   ```
+   | YYYY-MM-DD HH:MM | B | {ticker} | 執行基本面分析，護城河強度={Y}，週期暴露度={X}，重新命名 | ✅ 完成 |
+   ```
 
 ### 輸出變數
 
@@ -167,6 +176,10 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
    ```
 4. **更新 YAML Frontmatter** — 在檔案頂部更新 `updated` 日期欄位
 5. **保存檔案** — 覆寫原檔，檔名不變
+6. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
+   ```
+   | YYYY-MM-DD HH:MM | C | {ticker} | 執行企業概要分析（moat-margin-v2 + cost-return），更新內文 | ✅ 完成 |
+   ```
 
 ### 輸出內容說明
 
@@ -199,6 +212,10 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 3. **執行技能** — 載入 `invest-IPO.md`，依技能結構填寫 IPO 分析內容
 4. **寫入筆記** — 將分析輸出寫入 `03-(FINANCE) 財務筆記/HK-IPO/ipo_yyyy-mm-dd.md`
 5. **更新 YAML Frontmatter** — 更新 `updated` 日期欄位
+6. **📋 記錄日誌** — 於 `log_finance.md` 新增一筆記錄，格式如下：
+   ```
+   | YYYY-MM-DD HH:MM | D | ipo_{yyyy-mm-dd} | 執行 HK-IPO 分析，新建/更新當日 IPO 筆記 | ✅ 完成 |
+   ```
 
 ### 輸出路徑
 
@@ -230,6 +247,8 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 或 覆寫原檔內文（Workflow C）
 或 新建/更新當日 HK-IPO 筆記（Workflow D）
      ↓
+📋 於 log_finance.md 新增行動事件記錄
+     ↓
 確認檔名 / 內容已反映最新數值
 ```
 
@@ -243,6 +262,22 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ---
 
+## 行動事件日誌
+
+> 每次執行 Workflow 後，請將事件同步記錄至 [[log_finance]] 以保持執行軌跡。
+
+| 欄位 | 說明 |
+|------|------|
+| **日期時間 (HKT)** | 格式：`YYYY-MM-DD HH:MM` |
+| **Workflow** | `A` / `B` / `C` / `D` |
+| **Ticker / 目標** | 操作對象（股票代碼或 IPO 檔名） |
+| **執行動作說明** | 簡述執行了什麼技能及產出 |
+| **結果 / 備註** | `✅ 完成` / `⚠️ 部分完成` / `❌ 失敗` + 原因 |
+
+> 📂 完整日誌檔案：[[03-(FINANCE) 財務筆記/log_finance]]
+
+---
+
 ## 連結技能（skill_invest）
 
 - [[01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation]]
@@ -253,4 +288,3 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 - [[01-(SKILLs) 技能/skill_invest/invest-production-factors-v1.2.0]]
 - [[01-(SKILLs) 技能/skill_invest/dive-deep-bottlenecks]]
 - [[01-(SKILLs) 技能/skill_invest/invest-IPO]]
-
