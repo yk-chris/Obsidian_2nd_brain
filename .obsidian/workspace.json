@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
+                "file": "03-(FINANCE) 財務筆記/schema_finance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dive-deep-bottlenecks"
+              "title": "schema_finance"
             }
           }
         ]
@@ -251,6 +251,7 @@
   },
   "active": "b99d36d0d8f3cf11",
   "lastOpenFiles": [
+    "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
     "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "03-(FINANCE) 財務筆記/產業/業務_群核科技.md",
@@ -286,7 +287,6 @@
     "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-cost-return.md",
     "03-(FINANCE) 財務筆記/HK-IPO",
     "Clippings/2026/April/MOC_20260501 - April 2026 Clippings 知識萃取.md",
-    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
     "wiki/lint-reports",
     "wiki/synthesis",
     "wiki/sources/finance",
