@@ -2,8 +2,8 @@
 tags: [schema, finance, workflow]
 folder: 03-(FINANCE) 財務筆記
 created: 2026-04-30
-updated: 2026-04-30
-skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin-v2, invest-cost-return]
+updated: 2026-05-01
+skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin-v2, invest-cost-return, invest-IPO]
 ---
 
 # 03-(FINANCE) 財務筆記 — Schema
@@ -14,11 +14,13 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 03-(FINANCE) 財務筆記/
 ├── schema_finance.md                                                 ← 本文件
 ├── TA技術分析/
-│   └── {ticker} [${\u7d9c合公允價值}].md
+│   └── {ticker} [${綜合公允價值}].md
 ├── 公司業務, 護城河, 週期, 競爭格局/
-│   └── {ticker} [${\u7d9c合公允價值}, {\u8b77城河強度（Y）}, {\u9031期暴露度（X）}].md
-└── 企業概要/
-    └── {ticker}{company name}.md     ← 檔名格式不一，見下方解析規則
+│   └── {ticker} [${綜合公允價值}, {護城河強度（Y）}, {週期暴露度（X）}].md
+├── 企業概要/
+│   └── {ticker}{company name}.md     ← 檔名格式不一，見下方解析規則
+└── HK-IPO/
+    └── {yyyy-mm-dd}.md               ← 以執行當日日期命名
 ```
 
 ---
@@ -30,6 +32,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | `TA技術分析/`              | `invest-stock-valuation.md`                          | `01-(SKILLs) 技能/skill_invest/evaluate_company/` |
 | `公司業務, 護城河, 週期, 競爭格局/` | `invest-fundamental-analysis.md`                     | `01-(SKILLs) 技能/skill_invest/`                  |
 | `企業概要/`                | `invest-moat-margin-v2.md` + `invest-cost-return.md` | `01-(SKILLs) 技能/skill_invest/`                  |
+| `HK-IPO/`              | `invest-IPO.md`                                      | `01-(SKILLs) 技能/skill_invest/`                  |
 
 ---
 
@@ -42,7 +45,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | 階段 | 格式 | 範例 |
 |------|------|------|
 | 更新前 | `{stock ticker} [綜合公允價值].md` | `NVDA [綜合公允價值].md` |
-| 更新後 | `{ticker} [${\u7d9c合公允價值}].md` | `NVDA [$950].md` |
+| 更新後 | `{ticker} [${綜合公允價值}].md` | `NVDA [$950].md` |
 
 ### 執行步驟
 
@@ -70,7 +73,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | 階段  | 格式                                                | 範例                                          |
 | --- | ------------------------------------------------- | ------------------------------------------- |
 | 更新前 | `{stock ticker} [$綜合公允價值, 護城河強度（Y）, 週期暴露度（X）].md` | `00700.HK [$綜合公允價值, 護城河強度（Y）, 週期暴露度（X）].md` |
-| 更新後 | `{ticker} [${\u7d9c合公允價值}, {\u8b77城河強度（Y）}, {\u9031期暴露度（X）}].md` | `00700.HK [$556.14, 4.0, 2.0].md`           |
+| 更新後 | `{ticker} [${綜合公允價值}, {護城河強度（Y）}, {週期暴露度（X）}].md` | `00700.HK [$556.14, 4.0, 2.0].md`           |
 
 ### 執行步驟
 
@@ -115,7 +118,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 | `{company name}（{ticker}）.md` | `Rocket Lab Corporation（RKLB）.md` | `RKLB` |
 | `{company name}（{ticker}）.md` | `阿里巴巴（BABA）.md` | `BABA` |
 | `{company name}（{ticker}）.md` | `Micron Technology (MU).md` | `MU` |
-| `概要_{company name}.md` | `概要_群核科技.md` | 無明穒 Ticker → 搜尋公司名稱外部資料 |
+| `概要_{company name}.md` | `概要_群核科技.md` | 無明確 Ticker → 搜尋公司名稱外部資料 |
 
 **Ticker 解析優先順序：**
 
@@ -159,7 +162,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 4. **更新 YAML Frontmatter** — 在檔案頂部更新 `updated` 日期欄位
 5. **保存檔案** — 覆寫原檔，檔名不變
 
-### 輸出內容誤明
+### 輸出內容說明
 
 | 區塊 | 來源技能 | 內容概要 |
 |------|---------|--------|
@@ -168,19 +171,58 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 ---
 
+## Workflow D — HK-IPO
+
+> 觸發關鍵字：`HK-IPO` | `IPO`
+>
+> 使用技能：[[01-(SKILLs) 技能/skill_invest/invest-IPO]]
+
+### 檔名規範
+
+| 規則 | 格式 | 範例 |
+|------|------|------|
+| 以執行當日日期命名 | `yyyy-mm-dd.md` | `2026-05-01.md` |
+| 當日檔案已存在 | 直接更新同名檔案（不新建） | 覆寫 `2026-05-01.md` |
+
+### 執行步驟
+
+1. **取得當日日期** — 以 `yyyy-mm-dd` 格式作為目標檔名
+2. **檢查檔案是否存在** — 確認 `03-(FINANCE) 財務筆記/HK-IPO/yyyy-mm-dd.md` 是否已存在
+   - **存在** → 直接更新該檔案內文
+   - **不存在** → 依模板新建該檔案
+3. **執行技能** — 載入 `invest-IPO.md`，依技能結構填寫 IPO 分析內容
+4. **寫入筆記** — 將分析輸出寫入 `03-(FINANCE) 財務筆記/HK-IPO/yyyy-mm-dd.md`
+5. **更新 YAML Frontmatter** — 更新 `updated` 日期欄位
+
+### 輸出路徑
+
+```
+03-(FINANCE) 財務筆記/
+└── HK-IPO/
+    └── {yyyy-mm-dd}.md    ← 例：2026-05-01.md
+```
+
+### 觸發範例
+
+> 輸入：`HK-IPO` 或 `IPO`
+> → 自動定位今日日期 → 檢查/新建 `HK-IPO/{yyyy-mm-dd}.md` → 執行 `invest-IPO.md` 技能
+
+---
+
 ## 通用更新流程
 
 ```
 開啟目標檔案
      ↓
-從檔名解析 {stock ticker}
+從檔名解析 {stock ticker} 或取得當日日期（Workflow D）
      ↓
-執行對應技能（以 ticker 為搜尋輸入）
+執行對應技能（以 ticker 或日期為輸入）
      ↓
 將技能輸出寫入筆記內文
      ↓
 依更新後格式重新命名檔案（Workflow A & B）
 或 覆寫原檔內文（Workflow C）
+或 新建/更新當日 HK-IPO 筆記（Workflow D）
      ↓
 確認檔名 / 內容已反映最新數值
 ```
@@ -191,6 +233,7 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 - 股價出現 >15% 重大異動
 - 板塊重新定價或宏觀環境轉變
 - 手動複查需求
+- 新 HK-IPO 招股或上市當日（Workflow D）
 
 ---
 
@@ -203,3 +246,4 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 - [[01-(SKILLs) 技能/skill_invest/invest-competitive-adv]]
 - [[01-(SKILLs) 技能/skill_invest/invest-production-factors-v1.2.0]]
 - [[01-(SKILLs) 技能/skill_invest/dive-deep-bottlenecks]]
+- [[01-(SKILLs) 技能/skill_invest/invest-IPO]]
