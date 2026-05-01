@@ -11,10 +11,17 @@
             "id": "671d7dba3f1a818c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+                "viewState": {
+                  "x": 1282.2798331185359,
+                  "y": 48.9035395193379,
+                  "zoom": -1.9254931209406079
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Map_財務筆記"
             }
           }
         ]
@@ -85,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 555.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",

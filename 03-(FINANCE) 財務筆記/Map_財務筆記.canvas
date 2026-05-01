@@ -1,24 +1,24 @@
 {
 	"nodes":[
-		{"id":"547473f857279b97","x":428,"y":-1134,"width":1803,"height":2041,"type":"group","label":"<workflows>"},
+		{"id":"547473f857279b97","type":"group","x":428,"y":-1134,"width":1803,"height":2041,"label":"<workflows>"},
 		{"id":"fbb54baaa4d56a31","type":"text","text":"HK-IPO","x":467,"y":-1114,"width":510,"height":60,"color":"5"},
 		{"id":"b601c0a29c9d4ad9","type":"file","file":"01-(SKILLs) 技能/skill_invest/invest-IPO.md","x":467,"y":-1054,"width":510,"height":306},
 		{"id":"3aad15eba9c4e279","type":"text","text":"TA技術分析","x":1065,"y":-1111,"width":534,"height":60,"color":"5"},
+		{"id":"aab6a345fd5e3559","type":"text","text":"企業概要","x":448,"y":-142,"width":529,"height":60,"color":"5"},
+		{"id":"dafbb8590b3d51e7","type":"text","text":"產業","x":1065,"y":-142,"width":534,"height":60,"color":"5"},
+		{"id":"60be3cba39372f3a","type":"text","text":"生產要素","x":1677,"y":-142,"width":534,"height":60,"color":"5"},
+		{"id":"0a00ff5d2a0cfc3d","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md","x":448,"y":566,"width":529,"height":321},
 		{"id":"2b084674208b6d10","type":"file","file":"01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md","x":1065,"y":-1048,"width":534,"height":261},
 		{"id":"fdc0129e0312cd12","type":"file","file":"01-(SKILLs) 技能/skill_invest/evaluate_company/trading-divergence.md","x":1065,"y":-787,"width":534,"height":261},
 		{"id":"d3e8f3d6598f3659","type":"file","file":"01-(SKILLs) 技能/skill_invest/evaluate_company/trading-arbitrage-emotion.md","x":1065,"y":-526,"width":534,"height":277},
 		{"id":"f1cb0f1d8cd2c204","type":"file","file":"01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md","x":1674,"y":-1042,"width":513,"height":282},
 		{"id":"250d8e19210135c1","type":"text","text":"公司業務, 護城河, 週期, 競爭格局","x":1674,"y":-1114,"width":510,"height":66,"color":"5"},
-		{"id":"aab6a345fd5e3559","type":"text","text":"企業概要","x":448,"y":-142,"width":529,"height":60,"color":"5"},
-		{"id":"dafbb8590b3d51e7","type":"text","text":"產業","x":1065,"y":-142,"width":534,"height":60,"color":"5"},
 		{"id":"77845570dfe73a1b","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md","x":448,"y":-82,"width":529,"height":288},
 		{"id":"a723aef164a798bf","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md","x":1065,"y":-70,"width":534,"height":264},
 		{"id":"cb4e2aa613cb9aff","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md","x":448,"y":235,"width":529,"height":288},
-		{"id":"60be3cba39372f3a","type":"text","text":"生產要素","x":1677,"y":-142,"width":534,"height":60,"color":"5"},
 		{"id":"deb1f96abc2c9e71","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md","x":1677,"y":-74,"width":534,"height":280},
-		{"id":"0a00ff5d2a0cfc3d","type":"file","file":"01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md","x":448,"y":566,"width":529,"height":321},
-		{"id":"7d080291b382e9cd","x":-1025,"y":-1111,"width":1204,"height":1739,"type":"file","file":"03-(FINANCE) 財務筆記/schema_finance.md"},
-		{"id":"75b2ab70900c5955","x":2490,"y":-1086,"width":1147,"height":1714,"type":"file","file":"03-(FINANCE) 財務筆記/log_finance.md"}
+		{"id":"75b2ab70900c5955","type":"file","file":"03-(FINANCE) 財務筆記/log_finance.md","x":2359,"y":-1042,"width":1147,"height":1714},
+		{"id":"7d080291b382e9cd","type":"file","file":"03-(FINANCE) 財務筆記/schema_finance.md","x":-943,"y":-1081,"width":1204,"height":1739}
 	],
 	"edges":[
 		{"id":"d1d312ede99a8bea","fromNode":"dafbb8590b3d51e7","fromSide":"right","toNode":"60be3cba39372f3a","toSide":"left"},
