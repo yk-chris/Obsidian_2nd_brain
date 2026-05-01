@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 555.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -255,6 +256,7 @@
   },
   "active": "a662d99d91f56d71",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/NOW [$185, 4.5, 1.5].md",
     "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/TA技術分析/RKLB [$45.6].md",
@@ -285,7 +287,6 @@
     "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md",
     "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
     "03-(FINANCE) 財務筆記/產業/業務_群核科技.md",
-    "wiki/Excalidraw_2026-05-01_.schema_wiki.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",
