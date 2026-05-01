@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
+                "file": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOW [$138.71]"
+              "title": "MSFT [$520, 4.8, 1.5]"
             }
           }
         ]
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
+                "file": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/MSFT [$520, 4.8, 1.5].md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NOW [$138.71]"
+              "title": "Outline of MSFT [$520, 4.8, 1.5]"
             }
           },
           {
@@ -255,6 +255,10 @@
   },
   "active": "a662d99d91f56d71",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/企業概要/概要_群核科技.md",
+    "03-(FINANCE) 財務筆記/TA技術分析/NOW [$138.71].md",
+    "03-(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md",
+    "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/schema_finance.md",
@@ -283,16 +287,12 @@
     "wiki/Excalidraw_2026-05-01_.schema_wiki.md",
     "wiki/index_wiki.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
-    "wiki/log_wiki.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",
     "wiki/assets",
-    "wiki/schema_wiki.md",
-    "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "map_schema_wiki.canvas",
     "wiki/concepts",
     "wiki/sources",
-    "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
     "Base_目錄.base",
     "03-(FINANCE) 財務筆記/HK-IPO",
     "wiki/lint-reports",
