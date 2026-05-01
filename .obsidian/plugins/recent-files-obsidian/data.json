@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "schema_finance",
+      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+    },
+    {
+      "basename": "Map_財務筆記",
+      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
+    },
+    {
+      "basename": "dive-deep-bottlenecks",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
+    },
+    {
+      "basename": "invest-enterprise-business",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
+    },
+    {
       "basename": "Excalidraw_2026-05-01_.schema_wiki",
       "path": "wiki/Excalidraw_2026-05-01_.schema_wiki.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "ServiceNow（NOW）",
       "path": "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md"
-    },
-    {
-      "basename": "Map_財務筆記",
-      "path": "03-(FINANCE) 財務筆記/Map_財務筆記.canvas"
     },
     {
       "basename": "trading-arbitrage-emotion",
@@ -53,20 +65,8 @@
       "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
     },
     {
-      "basename": "invest-enterprise-business",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
-    },
-    {
       "basename": "invest-IPO",
       "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
-    },
-    {
-      "basename": "dive-deep-bottlenecks",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md"
-    },
-    {
-      "basename": "schema_finance",
-      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
       "basename": "log_finance",

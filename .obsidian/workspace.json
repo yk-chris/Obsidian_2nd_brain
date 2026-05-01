@@ -11,10 +11,14 @@
             "id": "b99d36d0d8f3cf11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03-(FINANCE) 財務筆記/schema_finance.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "schema_finance"
             }
           }
         ]
@@ -247,6 +251,7 @@
   },
   "active": "b99d36d0d8f3cf11",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "wiki/Excalidraw_2026-05-01_.schema_wiki.md",
     "wiki/index_wiki.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
@@ -257,7 +262,6 @@
     "wiki/schema_wiki.md",
     "03-(FINANCE) 財務筆記/企業概要/ServiceNow（NOW）.md",
     "map_schema_wiki.canvas",
-    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "wiki/concepts",
     "wiki/sources",
     "03-(FINANCE) 財務筆記/schema_finance.md",
