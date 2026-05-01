@@ -553,6 +553,10 @@
     "wiki": {
       "mode": "compact",
       "groupBy": "folder"
+    },
+    "03-(FINANCE) 財務筆記/產業": {
+      "groupBy": "folder",
+      "mode": "compact"
     }
   },
   "tagIcons": {},

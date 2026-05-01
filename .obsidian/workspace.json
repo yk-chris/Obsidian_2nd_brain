@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/log_finance.md",
+                "file": "03-(FINANCE) 財務筆記/產業/BABA_45.0_淘寶天貓集團.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log_finance"
+              "title": "BABA_45.0_淘寶天貓集團"
             }
           }
         ]
@@ -255,13 +255,14 @@
   },
   "active": "8a68c77be4ec6937",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/產業/BABA_12.0_雲智能集團.md",
+    "03-(FINANCE) 財務筆記/產業/BABA_8.0_菜鳥智慧物流.md",
+    "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
-    "03-(FINANCE) 財務筆記/產業/BABA_8.0_菜鳥智慧物流.md",
     "03-(FINANCE) 財務筆記/產業/BABA_45.0_淘寶天貓集團.md",
     "03-(FINANCE) 財務筆記/產業/BABA_25.0_本地生活及其他.md",
     "03-(FINANCE) 財務筆記/產業/BABA_12.7_本地生活服務集團.md",
-    "03-(FINANCE) 財務筆記/產業/BABA_12.0_雲智能集團.md",
     "03-(FINANCE) 財務筆記/產業/BABA_10.0_國際數字商業集團.md",
     "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
@@ -269,7 +270,6 @@
     "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md",
     "01-(SKILLs) 技能/skill_invest/invest-IPO.md",
     "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
-    "03-(FINANCE) 財務筆記/log_finance.md",
     "wiki/schema_wiki.md",
     "wiki/index_wiki.md",
     "wiki/log_wiki.md",
