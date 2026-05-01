@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
+                "file": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_SDC（Samsung Display）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "invest-cost-return"
+              "title": "三星電子_SDC（Samsung Display）"
             }
           }
         ]
@@ -251,10 +251,14 @@
   },
   "active": "b99d36d0d8f3cf11",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_DUV 系統.md",
+    "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md",
+    "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
+    "03-(FINANCE) 財務筆記/log_finance.md",
+    "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "01-(SKILLs) 技能/skill_invest/search_company (background)/dive-deep-bottlenecks.md",
-    "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "03-(FINANCE) 財務筆記/產業/業務_群核科技.md",
     "wiki/Excalidraw_2026-05-01_.schema_wiki.md",
     "wiki/index_wiki.md",
@@ -268,7 +272,6 @@
     "map_schema_wiki.canvas",
     "wiki/concepts",
     "wiki/sources",
-    "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
     "03-(FINANCE) 財務筆記/企業概要/Micron Technology (MU).md",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
@@ -283,8 +286,6 @@
     "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md",
     "01-(SKILLs) 技能/invest-cost-return.md",
     "01-(SKILLs) 技能/skill_invest/dive-deep-bottlenecks.md",
-    "01-(SKILLs) 技能/skill_invest/invest-moat-margin-v2.md",
-    "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-cost-return.md",
     "03-(FINANCE) 財務筆記/HK-IPO",
     "wiki/lint-reports",
     "wiki/synthesis",

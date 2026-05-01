@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "invest-cost-return",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
+      "basename": "三星電子_SDC（Samsung Display）",
+      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_SDC（Samsung Display）.md"
+    },
+    {
+      "basename": "ASML_DUV 系統",
+      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/ASML_DUV 系統.md"
+    },
+    {
+      "basename": "Carl Zeiss SMT_EUV 光刻光學系統",
+      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_EUV 光刻光學系統.md"
+    },
+    {
+      "basename": "Carl Zeiss SMT_光罩基礎設施與量測",
+      "path": "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md"
     },
     {
       "basename": "schema_finance",
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+    },
+    {
+      "basename": "log_finance",
+      "path": "03-(FINANCE) 財務筆記/log_finance.md"
+    },
+    {
+      "basename": "invest-cost-return",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
     },
     {
       "basename": "Map_財務筆記",
@@ -71,10 +91,6 @@
     {
       "basename": "invest-IPO",
       "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
-    },
-    {
-      "basename": "log_finance",
-      "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
     {
       "basename": "Rocket Lab Corporation（RKLB）",
@@ -183,22 +199,6 @@
     {
       "basename": "file-20260427101330748",
       "path": "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260427101330748.jpg"
-    },
-    {
-      "basename": "file-20260427091032944",
-      "path": "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg"
-    },
-    {
-      "basename": "file-20260427091056808",
-      "path": "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091056808.jpg"
-    },
-    {
-      "basename": "Pasted Image 20260427081612_445",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081612_445.png"
-    },
-    {
-      "basename": "Pasted Image 20260427081430_805",
-      "path": "Excalidraw/assets/Excalidraw_streamer_clarification/Pasted Image 20260427081430_805.png"
     }
   ],
   "omittedPaths": [],
