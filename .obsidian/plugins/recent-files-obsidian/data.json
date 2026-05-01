@@ -5,24 +5,24 @@
       "path": "03-(FINANCE) 財務筆記/schema_finance.md"
     },
     {
+      "basename": "invest-stock-valuation",
+      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
       "basename": "invest-fundamental-analysis",
       "path": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md"
-    },
-    {
-      "basename": "invest-IPO",
-      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
-    },
-    {
-      "basename": "invest-moat-margin-v2",
-      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
     },
     {
       "basename": "invest-cost-return",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md"
     },
     {
-      "basename": "invest-stock-valuation",
-      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+      "basename": "invest-moat-margin-v2",
+      "path": "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md"
+    },
+    {
+      "basename": "invest-IPO",
+      "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
     },
     {
       "basename": "ipo_2026-05-01",

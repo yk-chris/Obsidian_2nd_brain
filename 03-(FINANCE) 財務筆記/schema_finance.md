@@ -247,9 +247,10 @@ skills: [invest-stock-valuation, invest-fundamental-analysis, invest-moat-margin
 
 - [[01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation]]
 - [[01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis]]
-- [[01-(SKILLs) 技能/invest-moat-margin-v2]]
-- [[01-(SKILLs) 技能/invest-cost-return]]
+- [[01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2]]
+- [[01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return]]
 - [[01-(SKILLs) 技能/skill_invest/invest-competitive-adv]]
 - [[01-(SKILLs) 技能/skill_invest/invest-production-factors-v1.2.0]]
 - [[01-(SKILLs) 技能/skill_invest/dive-deep-bottlenecks]]
 - [[01-(SKILLs) 技能/skill_invest/invest-IPO]]
+

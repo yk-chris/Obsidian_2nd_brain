@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 581.5
+    "width": 581.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -251,16 +252,16 @@
   },
   "active": "07770df6f9f8d435",
   "lastOpenFiles": [
-    "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
-    "01-(SKILLs) 技能/invest-cost-return.md",
+    "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
+    "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
+    "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
+    "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md",
+    "01-(SKILLs) 技能/invest-cost-return.md",
     "01-(SKILLs) 技能/skill_invest/dive-deep-bottlenecks.md",
     "01-(SKILLs) 技能/skill_invest/invest-IPO.md",
-    "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-moat-margin-v2.md",
-    "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
     "01-(SKILLs) 技能/skill_invest/invest-moat-margin-v2.md",
     "01-(SKILLs) 技能/skill_invest/search_company (background)/invest-cost-return.md",
-    "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-01.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/HK-IPO",
