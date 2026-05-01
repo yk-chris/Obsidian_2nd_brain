@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "MU_36.2_雲記憶體業務單元（CMBU）",
+      "path": "03-(FINANCE) 財務筆記/產業/MU_36.2_雲記憶體業務單元（CMBU）.md"
+    },
+    {
+      "basename": "MU_19.3_核心數據中心業務單元（CDBU）",
+      "path": "03-(FINANCE) 財務筆記/產業/MU_19.3_核心數據中心業務單元（CDBU）.md"
+    },
+    {
+      "basename": "MU_12.7_汽車及嵌入式業務單元（AEBU）",
+      "path": "03-(FINANCE) 財務筆記/產業/MU_12.7_汽車及嵌入式業務單元（AEBU）.md"
+    },
+    {
       "basename": "MU_31.7_行動及客戶端業務單元（MCBU）",
       "path": "03-(FINANCE) 財務筆記/產業/MU_31.7_行動及客戶端業務單元（MCBU）.md"
     },
@@ -19,14 +31,6 @@
     {
       "basename": "ASML_45.3_DUV深紫外線微影系統",
       "path": "03-(FINANCE) 財務筆記/產業/ASML_45.3_DUV深紫外線微影系統.md"
-    },
-    {
-      "basename": "MU_19.3_核心數據中心業務單元（CDBU）",
-      "path": "03-(FINANCE) 財務筆記/產業/MU_19.3_核心數據中心業務單元（CDBU）.md"
-    },
-    {
-      "basename": "MU_12.7_汽車及嵌入式業務單元（AEBU）",
-      "path": "03-(FINANCE) 財務筆記/產業/MU_12.7_汽車及嵌入式業務單元（AEBU）.md"
     },
     {
       "basename": "TSMC_車用電子（Automotive）",
@@ -195,10 +199,6 @@
     {
       "basename": "invest-production-factors-v1.2.0",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-production-factors-v1.2.0.md"
-    },
-    {
-      "basename": "Rocket Lab Corporation（RKLB）",
-      "path": "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md"
     }
   ],
   "omittedPaths": [],
