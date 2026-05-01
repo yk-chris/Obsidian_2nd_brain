@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "33ad0443d1b95cea",
+        "id": "7caeb801b9c5e7fe",
         "type": "tabs",
         "children": [
           {
-            "id": "b99d36d0d8f3cf11",
+            "id": "73cd72dede821e97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-(FINANCE) 財務筆記/schema_finance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "schema_finance"
+              "title": "New tab"
             }
           }
         ]
@@ -249,14 +245,14 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "b99d36d0d8f3cf11",
+  "active": "73cd72dede821e97",
   "lastOpenFiles": [
     "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-cost-return.md",
+    "03-(FINANCE) 財務筆記/schema_finance.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_網絡廣告.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_金融科技及企業服務.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_增值服務.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_其他.md",
-    "03-(FINANCE) 財務筆記/schema_finance.md",
     "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "03-(FINANCE) 財務筆記/產業/AI生產鏈/HBM or DRAM/三星電子_SDC（Samsung Display）.md",
