@@ -5,12 +5,12 @@
       "path": "wiki/schema_wiki.md"
     },
     {
-      "basename": "index_wiki",
-      "path": "wiki/index_wiki.md"
-    },
-    {
       "basename": "log_wiki",
       "path": "wiki/log_wiki.md"
+    },
+    {
+      "basename": "index_wiki",
+      "path": "wiki/index_wiki.md"
     },
     {
       "basename": "schema_finance",
