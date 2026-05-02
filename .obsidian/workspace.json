@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f730633719c06333",
+        "id": "1c5ebd44e95c85d6",
         "type": "tabs",
         "children": [
           {
-            "id": "7b46ee0bed78249e",
+            "id": "4b58b56cf9cafff6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/2026/May/Clip_20260502 - 矽谷最近瘋談的新詞，到底是什麼？AI下一個高薪職缺是它？只知道Prompt Engineering就落伍了！｜Kelly Tsai.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Clip_20260502 - 矽谷最近瘋談的新詞，到底是什麼？AI下一個高薪職缺是它？只知道Prompt Engineering就落伍了！｜Kelly Tsai"
+              "title": "New tab"
             }
           }
         ]
@@ -89,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5,
-    "collapsed": true
+    "width": 555.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -254,10 +249,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "7b46ee0bed78249e",
+  "active": "4b58b56cf9cafff6",
   "lastOpenFiles": [
-    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
+    "03-(FINANCE) 財務筆記/log_finance.md",
+    "03-(FINANCE) 財務筆記/schema_finance.md",
     "Clippings/2026/May/Clip_20260502 - 矽谷最近瘋談的新詞，到底是什麼？AI下一個高薪職缺是它？只知道Prompt Engineering就落伍了！｜Kelly Tsai.md",
+    "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "Clippings/2026/May/Clip_20260501 - This Obsidian Plugin Just Fixed the Internet 1.md",
     "Clippings/2026/May/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场.md",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224054733.jpg",
@@ -269,8 +266,6 @@
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场",
     "Clippings/2026/May/assets",
     "Clippings/2026/May",
-    "03-(FINANCE) 財務筆記/schema_finance.md",
-    "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/產業/MU_12.7_汽車及嵌入式業務單元（AEBU）.md",
     "03-(FINANCE) 財務筆記/產業/MU_36.2_雲記憶體業務單元（CMBU）.md",
     "03-(FINANCE) 財務筆記/產業/00700.HK_48.3_增值服務.md",

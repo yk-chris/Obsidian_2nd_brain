@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "log_finance",
+      "path": "03-(FINANCE) 財務筆記/log_finance.md"
+    },
+    {
+      "basename": "schema_finance",
+      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
+    },
+    {
       "basename": "Clip_20260502 - 矽谷最近瘋談的新詞，到底是什麼？AI下一個高薪職缺是它？只知道Prompt Engineering就落伍了！｜Kelly Tsai",
       "path": "Clippings/2026/May/Clip_20260502 - 矽谷最近瘋談的新詞，到底是什麼？AI下一個高薪職缺是它？只知道Prompt Engineering就落伍了！｜Kelly Tsai.md"
     },
@@ -27,14 +35,6 @@
     {
       "basename": "file-20260501224020807",
       "path": "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224020807.jpg"
-    },
-    {
-      "basename": "schema_finance",
-      "path": "03-(FINANCE) 財務筆記/schema_finance.md"
-    },
-    {
-      "basename": "log_finance",
-      "path": "03-(FINANCE) 財務筆記/log_finance.md"
     },
     {
       "basename": "MU_12.7_汽車及嵌入式業務單元（AEBU）",
