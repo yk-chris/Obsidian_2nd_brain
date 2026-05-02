@@ -2,7 +2,7 @@
 tags: [log, finance, action-event]
 folder: 03-(FINANCE) 財務筆記
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-03
 ---
 
 # 03-(FINANCE) 財務筆記 — Action Event Log
@@ -53,6 +53,21 @@ updated: 2026-05-01
 | 2026-05-01 21:49 | E        | [[產業/ASML_29.4_EUV極紫外線微影系統\|ASML_EUV極紫外線微影系統]] | 執行產業分析（invest-cost-return），拆分業務部門：EUV極紫外線微影系統（29.4%） | ✅ 完成    |
 | 2026-05-01 21:49 | E        | [[產業/ASML_23.0_裝機基礎管理（IBM服務）\|ASML_裝機基礎管理]] | 執行產業分析（invest-cost-return），拆分業務部門：裝機基礎管理IBM服務（23.0%） | ✅ 完成    |
 | 2026-05-01 21:49 | E        | [[產業/ASML_2.3_量測與檢測系統\|ASML_量測與檢測系統]] | 執行產業分析（invest-cost-return），拆分業務部門：量測與檢測系統M&I（2.3%） | ✅ 完成    |
+| 2026-05-02 10:52 | E        | [[產業/TSM_51.0_HPC高性能運算\|TSM_HPC高性能運算]] | 執行產業分析（invest-cost-return），拆分業務部門：HPC高性能運算（51.0%） | ✅ 完成    |
+| 2026-05-02 10:52 | E        | [[產業/TSM_28.0_智慧型手機\|TSM_智慧型手機]] | 執行產業分析（invest-cost-return），拆分業務部門：智慧型手機（28.0%） | ✅ 完成    |
+| 2026-05-02 10:52 | E        | [[產業/TSM_7.0_IoT物聯網\|TSM_IoT物聯網]] | 執行產業分析（invest-cost-return），拆分業務部門：IoT物聯網（7.0%） | ✅ 完成    |
+| 2026-05-02 10:52 | E        | [[產業/TSM_6.0_汽車電子\|TSM_汽車電子]] | 執行產業分析（invest-cost-return），拆分業務部門：汽車電子（6.0%） | ✅ 完成    |
+| 2026-05-02 10:52 | E        | [[產業/TSM_4.0_數位消費電子\|TSM_數位消費電子]] | 執行產業分析（invest-cost-return），拆分業務部門：數位消費電子（4.0%） | ✅ 完成    |
+| 2026-05-02 10:52 | E        | [[產業/TSM_4.0_其他\|TSM_其他]] | 執行產業分析（invest-cost-return），拆分業務部門：其他（4.0%） | ✅ 完成    |
+| 2026-05-03 05:37 | E        | [[產業/TSLA_72.3_汽車銷售\|TSLA_汽車銷售]] | 執行產業分析（invest-cost-return），拆分業務部門：汽車銷售（72.3%） | ✅ 完成    |
+| 2026-05-03 05:37 | E        | [[產業/TSLA_12.1_能源發電與儲能\|TSLA_能源發電與儲能]] | 執行產業分析（invest-cost-return），拆分業務部門：能源發電與儲能（12.1%） | ✅ 完成    |
+| 2026-05-03 05:37 | E        | [[產業/TSLA_9.8_服務及其他\|TSLA_服務及其他]] | 執行產業分析（invest-cost-return），拆分業務部門：服務及其他（9.8%） | ✅ 完成    |
+| 2026-05-03 05:37 | E        | [[產業/TSLA_5.8_汽車租賃及FSD授權\|TSLA_汽車租賃及FSD授權]] | 執行產業分析（invest-cost-return），拆分業務部門：汽車租賃及FSD授權（5.8%） | ✅ 完成    |
+| 2026-05-03 05:54 | E        | [[產業/MSFT_43.3_Intelligent Cloud（雲端智慧）\|MSFT_Intelligent Cloud]] | 執行產業分析（invest-cost-return），拆分業務部門：Intelligent Cloud（43.3%），涵蓋 Azure AI、OpenAI 合作成本、資料中心 CapEx 及核能能源策略分析 | ✅ 完成    |
+| 2026-05-03 05:54 | E        | [[產業/MSFT_35.7_Productivity & Business Processes（生產力與商業流程）\|MSFT_Productivity & Business Processes]] | 執行產業分析（invest-cost-return），拆分業務部門：Productivity & Business Processes（35.7%），涵蓋 M365 Copilot ARPU 提升、LinkedIn 廣告、Dynamics 365 競爭格局分析 | ✅ 完成    |
+| 2026-05-03 05:54 | E        | [[產業/MSFT_21.0_More Personal Computing（個人運算）\|MSFT_More Personal Computing]] | 執行產業分析（invest-cost-return），拆分業務部門：More Personal Computing（21.0%），涵蓋 Activision-Blizzard IP 整合、Xbox Game Pass 訂閱化、Bing Copilot 廣告分析 | ✅ 完成    |
+| 2026-05-03 06:03 | E        | [[產業/RKLB_79.3_太空系統\|RKLB_太空系統]] | 執行產業分析（invest-cost-return），新建業務部門：太空系統（79.3%），涵蓋 Photon 衛星平台、垂直整合部件子公司、DoD/NASA 合約成本結構分析 | ✅ 完成    |
+| 2026-05-03 06:03 | E        | [[產業/RKLB_20.7_發射服務\|RKLB_發射服務]] | 執行產業分析（invest-cost-return），新建業務部門：發射服務（20.7%），涵蓋 Electron 製造成本、HASTE 高ASP任務、Neutron 研發生產要素及競爭格局分析 | ✅ 完成    |
 
 ---
 
