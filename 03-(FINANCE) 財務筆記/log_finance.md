@@ -66,6 +66,8 @@ updated: 2026-05-03
 | 2026-05-03 05:54 | E        | [[產業/MSFT_43.3_Intelligent Cloud（雲端智慧）\|MSFT_Intelligent Cloud]] | 執行產業分析（invest-cost-return），拆分業務部門：Intelligent Cloud（43.3%），涵蓋 Azure AI、OpenAI 合作成本、資料中心 CapEx 及核能能源策略分析 | ✅ 完成    |
 | 2026-05-03 05:54 | E        | [[產業/MSFT_35.7_Productivity & Business Processes（生產力與商業流程）\|MSFT_Productivity & Business Processes]] | 執行產業分析（invest-cost-return），拆分業務部門：Productivity & Business Processes（35.7%），涵蓋 M365 Copilot ARPU 提升、LinkedIn 廣告、Dynamics 365 競爭格局分析 | ✅ 完成    |
 | 2026-05-03 05:54 | E        | [[產業/MSFT_21.0_More Personal Computing（個人運算）\|MSFT_More Personal Computing]] | 執行產業分析（invest-cost-return），拆分業務部門：More Personal Computing（21.0%），涵蓋 Activision-Blizzard IP 整合、Xbox Game Pass 訂閱化、Bing Copilot 廣告分析 | ✅ 完成    |
+| 2026-05-03 06:03 | E        | [[產業/RKLB_79.3_太空系統\|RKLB_太空系統]] | 執行產業分析（invest-cost-return），新建業務部門：太空系統（79.3%），涵蓋 Photon 衛星平台、垂直整合部件子公司、DoD/NASA 合約成本結構分析 | ✅ 完成    |
+| 2026-05-03 06:03 | E        | [[產業/RKLB_20.7_發射服務\|RKLB_發射服務]] | 執行產業分析（invest-cost-return），新建業務部門：發射服務（20.7%），涵蓋 Electron 製造成本、HASTE 高ASP任務、Neutron 研發生產要素及競爭格局分析 | ✅ 完成    |
 
 ---
 
