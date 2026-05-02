@@ -63,6 +63,9 @@ updated: 2026-05-03
 | 2026-05-03 05:37 | E        | [[產業/TSLA_12.1_能源發電與儲能\|TSLA_能源發電與儲能]] | 執行產業分析（invest-cost-return），拆分業務部門：能源發電與儲能（12.1%） | ✅ 完成    |
 | 2026-05-03 05:37 | E        | [[產業/TSLA_9.8_服務及其他\|TSLA_服務及其他]] | 執行產業分析（invest-cost-return），拆分業務部門：服務及其他（9.8%） | ✅ 完成    |
 | 2026-05-03 05:37 | E        | [[產業/TSLA_5.8_汽車租賃及FSD授權\|TSLA_汽車租賃及FSD授權]] | 執行產業分析（invest-cost-return），拆分業務部門：汽車租賃及FSD授權（5.8%） | ✅ 完成    |
+| 2026-05-03 05:54 | E        | [[產業/MSFT_43.3_Intelligent Cloud（雲端智慧）\|MSFT_Intelligent Cloud]] | 執行產業分析（invest-cost-return），拆分業務部門：Intelligent Cloud（43.3%），涵蓋 Azure AI、OpenAI 合作成本、資料中心 CapEx 及核能能源策略分析 | ✅ 完成    |
+| 2026-05-03 05:54 | E        | [[產業/MSFT_35.7_Productivity & Business Processes（生產力與商業流程）\|MSFT_Productivity & Business Processes]] | 執行產業分析（invest-cost-return），拆分業務部門：Productivity & Business Processes（35.7%），涵蓋 M365 Copilot ARPU 提升、LinkedIn 廣告、Dynamics 365 競爭格局分析 | ✅ 完成    |
+| 2026-05-03 05:54 | E        | [[產業/MSFT_21.0_More Personal Computing（個人運算）\|MSFT_More Personal Computing]] | 執行產業分析（invest-cost-return），拆分業務部門：More Personal Computing（21.0%），涵蓋 Activision-Blizzard IP 整合、Xbox Game Pass 訂閱化、Bing Copilot 廣告分析 | ✅ 完成    |
 
 ---
 
