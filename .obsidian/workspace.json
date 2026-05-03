@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/產業/00388.HK_8.4_市場數據費及其他.md",
+                "file": "03-(FINANCE) 財務筆記/log_finance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00388.HK_8.4_市場數據費及其他"
+              "title": "log_finance"
             }
           }
         ]
@@ -253,8 +253,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "bb7877e4106a8c54",
+  "active": "4b58b56cf9cafff6",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/產業/00388.HK_8.4_市場數據費及其他.md",
     "03-(FINANCE) 財務筆記/產業/00388.HK_9.5_Data and Connectivity.md",
     "03-(FINANCE) 財務筆記/產業/00388.HK_10.0_上市費.md",
     "03-(FINANCE) 財務筆記/產業/00388.HK_0.1_Company Projects and Other.md",
@@ -272,7 +273,6 @@
     "03-(FINANCE) 財務筆記/產業/AMZN_17.0_AWS雲計算.md",
     "03-(FINANCE) 財務筆記/產業/AMZN_11.0_廣告與訂閱服務.md",
     "03-(FINANCE) 財務筆記/產業/00388.HK_8.5_衍生品交易費.md",
-    "03-(FINANCE) 財務筆記/產業/00388.HK_8.4_市場數據費及其他.md",
     "03-(FINANCE) 財務筆記/產業/00388.HK_28.6_結算及交收费.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/EWY [$162.00, 3.3, 4.5].md",
     "03-(FINANCE) 財務筆記/企業概要/EWY.md",
