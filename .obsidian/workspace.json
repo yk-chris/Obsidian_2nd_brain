@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-(FINANCE) 財務筆記/log_finance.md",
+                "file": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log_finance"
+              "title": "invest-fundamental-analysis"
             }
           }
         ]
@@ -255,6 +255,8 @@
   },
   "active": "4b58b56cf9cafff6",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/schema_finance.md",
+    "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/產業/AMAT_73.0_半導體系統部門.md",
     "03-(FINANCE) 財務筆記/產業/AMAT_5.0_顯示及相關市場部門.md",
     "03-(FINANCE) 財務筆記/產業/AMAT_22.0_全球服務部門.md",
@@ -279,8 +281,6 @@
     "03-(FINANCE) 財務筆記/產業/00388.HK_28.6_結算及交收费.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/EWY [$162.00, 3.3, 4.5].md",
     "03-(FINANCE) 財務筆記/企業概要/EWY.md",
-    "03-(FINANCE) 財務筆記/企業概要/00700.HK.md",
-    "03-(FINANCE) 財務筆記/企業概要/00388.HK.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224054733.jpg",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224020807.jpg",
