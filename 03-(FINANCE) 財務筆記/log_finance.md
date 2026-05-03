@@ -253,6 +253,7 @@ updated: 2026-05-03
 | 2026-05-03 20:10 | C | [[企業概要/NOW\|NOW]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-03 20:10 | E | [[產業/NOW_97.0_訂閱業務 (Subscription)\|NOW_訂閱業務 (Subscription)]] | 執行產業分析（invest-cost-return），拆分業務部門：訂閱業務 (Subscription)（97.0%） | ✅ 完成 |
 | 2026-05-03 20:10 | E | [[產業/NOW_3.0_專業服務 (Professional Services)\|NOW_專業服務 (Professional Services)]] | 執行產業分析（invest-cost-return），拆分業務部門：專業服務 (Professional Services)（3.0%） | ✅ 完成 |
+| 2026-05-03 20:11 | D | [[HK-IPO/ipo_2026-05-03\|2026-05-03]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
 
 ---
 
