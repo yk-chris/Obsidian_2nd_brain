@@ -164,6 +164,8 @@ updated: 2026-05-03
 | 2026-05-03 15:47 | A | [[TA技術分析/RKLB [$42.50]\|RKLB]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$42.50 | ✅ 完成 |
 | 2026-05-03 15:51 | A | [[TA技術分析/00700.HK [$556.14]\|00700.HK]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$556.14 | ✅ 完成 |
 | 2026-05-03 15:52 | A | [[TA技術分析/PLTR [$112.45]\|PLTR]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$112.45 | ✅ 完成 |
+| 2026-05-03 15:52 | A | [[TA技術分析/NOW [$785]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$785 | ✅ 完成 |
+| 2026-05-03 15:53 | A | [[TA技術分析/NOW [$556.14]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$556.14 | ✅ 完成 |
 
 ---
 
