@@ -194,6 +194,7 @@ updated: 2026-05-03
 | 2026-05-03 17:07 | A | [[TA技術分析/TSM [$285.60]\|TSM]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$285.60 | ✅ 完成 |
 | 2026-05-03 17:07 | A | [[TA技術分析/MSFT [$486.72]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$486.72 | ✅ 完成 |
 | 2026-05-03 17:08 | A | [[TA技術分析/GOOGL [$456.32]\|GOOGL]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$456.32 | ✅ 完成 |
+| 2026-05-03 17:08 | A | [[TA技術分析/AMZN [$310.82]\|AMZN]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$310.82 | ✅ 完成 |
 
 ---
 
