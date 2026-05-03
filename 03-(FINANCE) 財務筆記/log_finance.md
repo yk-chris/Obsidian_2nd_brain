@@ -304,6 +304,7 @@ updated: 2026-05-03
 | 2026-05-04 06:17 | E | [[產業/NBIS_5.0_企業服務與其他\|NBIS_企業服務與其他]] | 執行產業分析（invest-cost-return），拆分業務部門：企業服務與其他（5.0%） | ✅ 完成 |
 | 2026-05-04 06:18 | C | [[企業概要/NBIS\|NBIS]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-04 06:19 | C | [[企業概要/BABA\|BABA]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-04 06:23 | C | [[企業概要/ASML\|ASML]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 
 ---
 
