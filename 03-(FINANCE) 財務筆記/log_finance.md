@@ -68,6 +68,7 @@ updated: 2026-05-03
 | 2026-05-03 05:54 | E        | [[產業/MSFT_21.0_More Personal Computing（個人運算）\|MSFT_More Personal Computing]] | 執行產業分析（invest-cost-return），拆分業務部門：More Personal Computing（21.0%），涵蓋 Activision-Blizzard IP 整合、Xbox Game Pass 訂閱化、Bing Copilot 廣告分析 | ✅ 完成    |
 | 2026-05-03 06:03 | E        | [[產業/RKLB_79.3_太空系統\|RKLB_太空系統]] | 執行產業分析（invest-cost-return），新建業務部門：太空系統（79.3%），涵蓋 Photon 衛星平台、垂直整合部件子公司、DoD/NASA 合約成本結構分析 | ✅ 完成    |
 | 2026-05-03 06:03 | E        | [[產業/RKLB_20.7_發射服務\|RKLB_發射服務]] | 執行產業分析（invest-cost-return），新建業務部門：發射服務（20.7%），涵蓋 Electron 製造成本、HASTE 高ASP任務、Neutron 研發生產要素及競爭格局分析 | ✅ 完成    |
+| 2026-05-03 10:21 | C | [[企業概要/00700.HK\|00700.HK]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 
 ---
 
@@ -80,4 +81,3 @@ updated: 2026-05-03
 | **C**    | `概要` / `企業` / `overview`      | 企業概要 → 執行兩個技能，更新內文（不改檔名）   |
 | **D**    | `HK-IPO` / `IPO`              | HK-IPO 分析 → 新建或更新當日 IPO 筆記 |
 | **E**    | `產業`/ `業務部門`/ `cost-return`   | 產業分析 → 識別業務部門清單 → 生產要素成本分析 |
-| 03-05-2026 10:21 | C | [[企業概要/00700.HK\|00700.HK]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
