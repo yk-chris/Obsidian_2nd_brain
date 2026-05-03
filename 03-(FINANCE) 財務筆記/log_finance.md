@@ -183,6 +183,7 @@ updated: 2026-05-03
 | 2026-05-03 16:34 | E | [[產業/NOW_2.5_專業服務 (Professional Services)\|NOW_專業服務 (Professional Services)]] | 執行產業分析（invest-cost-return），拆分業務部門：專業服務 (Professional Services)（2.5%） | ✅ 完成 |
 | 2026-05-03 16:34 | E | [[產業/NOW_0.5_其他業務 (Other Services)\|NOW_其他業務 (Other Services)]] | 執行產業分析（invest-cost-return），拆分業務部門：其他業務 (Other Services)（0.5%） | ✅ 完成 |
 | 2026-05-03 17:02 | B | [[公司業務, 護城河, 週期, 競爭格局/00388.HK [465.20, 4.5, 3.8]\|00388.HK]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.5，週期暴露度=3.8，公允價值=$465.20 | ✅ 完成 |
+| 2026-05-03 17:03 | B | [[公司業務, 護城河, 週期, 競爭格局/00700.HK [556.14, 4.3, 2.5]\|00700.HK]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.3，週期暴露度=2.5，公允價值=$556.14 | ✅ 完成 |
 
 ---
 
