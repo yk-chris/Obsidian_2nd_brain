@@ -248,6 +248,7 @@ updated: 2026-05-03
 | 2026-05-03 20:07 | A | [[TA技術分析/RKLB [$0]\|RKLB]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
 | 2026-05-03 20:07 | A | [[TA技術分析/MU [$175.60]\|MU]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$175.60 | ✅ 完成 |
 | 2026-05-03 20:08 | A | [[TA技術分析/NOW [$745.20]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$745.20 | ✅ 完成 |
+| 2026-05-03 20:09 | A | [[TA技術分析/NOW [$1248.75]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$1248.75 | ✅ 完成 |
 
 ---
 
