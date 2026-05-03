@@ -151,6 +151,7 @@ updated: 2026-05-03
 | 2026-05-03 15:42 | A | [[TA技術分析/MSFT [$466.59]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$466.59 | ✅ 完成 |
 | 2026-05-03 15:43 | A | [[TA技術分析/NOW [$785]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$785 | ✅ 完成 |
 | 2026-05-03 15:43 | A | [[TA技術分析/AMAT [$465.20]\|AMAT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$465.20 | ✅ 完成 |
+| 2026-05-03 15:44 | A | [[TA技術分析/00700.HK [$0]\|00700.HK]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
 
 ---
 
