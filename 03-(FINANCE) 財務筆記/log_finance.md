@@ -104,6 +104,9 @@ updated: 2026-05-03
 | 2026-05-03 12:58 | E | [[產業/GOOGL_87.5_Google 服务\|GOOGL_Google 服务]] | 執行產業分析（invest-cost-return），拆分業務部門：Google 服务（87.5%） | ✅ 完成 |
 | 2026-05-03 12:58 | E | [[產業/GOOGL_11.9_Google 云\|GOOGL_Google 云]] | 執行產業分析（invest-cost-return），拆分業務部門：Google 云（11.9%） | ✅ 完成 |
 | 2026-05-03 12:58 | E | [[產業/GOOGL_0.6_其他賭注（Other Bets）\|GOOGL_其他賭注（Other Bets）]] | 執行產業分析（invest-cost-return），拆分業務部門：其他賭注（Other Bets）（0.6%） | ✅ 完成 |
+| 2026-05-03 13:08 | E | [[產業/GOOGL_87.0_Google Services\|GOOGL_Google Services]] | 執行產業分析（invest-cost-return），拆分業務部門：Google Services（87.0%） | ✅ 完成 |
+| 2026-05-03 13:08 | E | [[產業/GOOGL_12.0_Google Cloud\|GOOGL_Google Cloud]] | 執行產業分析（invest-cost-return），拆分業務部門：Google Cloud（12.0%） | ✅ 完成 |
+| 2026-05-03 13:08 | E | [[產業/GOOGL_1.0_Other Bets\|GOOGL_Other Bets]] | 執行產業分析（invest-cost-return），拆分業務部門：Other Bets（1.0%） | ✅ 完成 |
 
 ---
 
