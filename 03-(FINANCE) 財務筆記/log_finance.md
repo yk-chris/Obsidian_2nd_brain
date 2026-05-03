@@ -92,6 +92,78 @@ updated: 2026-05-03
 | 2026-05-03 11:54 | E | [[產業/AMAT_22.0_全球服務部門\|AMAT_全球服務部門]] | 執行產業分析（invest-cost-return），拆分業務部門：全球服務部門（22.0%） | ✅ 完成 |
 | 2026-05-03 11:54 | E | [[產業/AMAT_5.0_顯示及相關市場部門\|AMAT_顯示及相關市場部門]] | 執行產業分析（invest-cost-return），拆分業務部門：顯示及相關市場部門（5.0%） | ✅ 完成 |
 | 2026-05-03 11:57 | D | [[HK-IPO/ipo_2026-05-03\|2026-05-03]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
+| 2026-05-03 12:28 | A | [[TA技術分析/EWY [$172.45]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$172.45 | ✅ 完成 |
+| 2026-05-03 12:29 | A | [[TA技術分析/EWY [$178.50]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$178.50 | ✅ 完成 |
+| 2026-05-03 12:36 | A | [[TA技術分析/EWY [$172.45]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$172.45 | ✅ 完成 |
+| 2026-05-03 12:36 | B | [[公司業務, 護城河, 週期, 競爭格局/EWY [0, 3, 3]\|EWY]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=3，週期暴露度=3，公允價值=$0 | ✅ 完成 |
+| 2026-05-03 12:41 | B | [[公司業務, 護城河, 週期, 競爭格局/EWY [172.45, 3.8, 4.3]\|EWY]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=3.8，週期暴露度=4.3，公允價值=$172.45 | ✅ 完成 |
+| 2026-05-03 12:45 | C | [[企業概要/EWY\|EWY]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 12:46 | C | [[企業概要/GOOGL\|GOOGL]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 12:52 | C | [[企業概要/GOOGL\|GOOGL]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 12:56 | A | [[TA技術分析/00700.HK [$556.14]\|00700.HK]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$556.14 | ✅ 完成 |
+| 2026-05-03 12:58 | E | [[產業/GOOGL_87.5_Google 服务\|GOOGL_Google 服务]] | 執行產業分析（invest-cost-return），拆分業務部門：Google 服务（87.5%） | ✅ 完成 |
+| 2026-05-03 12:58 | E | [[產業/GOOGL_11.9_Google 云\|GOOGL_Google 云]] | 執行產業分析（invest-cost-return），拆分業務部門：Google 云（11.9%） | ✅ 完成 |
+| 2026-05-03 12:58 | E | [[產業/GOOGL_0.6_其他賭注（Other Bets）\|GOOGL_其他賭注（Other Bets）]] | 執行產業分析（invest-cost-return），拆分業務部門：其他賭注（Other Bets）（0.6%） | ✅ 完成 |
+| 2026-05-03 13:08 | E | [[產業/GOOGL_87.0_Google Services\|GOOGL_Google Services]] | 執行產業分析（invest-cost-return），拆分業務部門：Google Services（87.0%） | ✅ 完成 |
+| 2026-05-03 13:08 | E | [[產業/GOOGL_12.0_Google Cloud\|GOOGL_Google Cloud]] | 執行產業分析（invest-cost-return），拆分業務部門：Google Cloud（12.0%） | ✅ 完成 |
+| 2026-05-03 13:08 | E | [[產業/GOOGL_1.0_Other Bets\|GOOGL_Other Bets]] | 執行產業分析（invest-cost-return），拆分業務部門：Other Bets（1.0%） | ✅ 完成 |
+| 2026-05-03 13:12 | E | [[產業/GOOGL_87.5_Google 服務\|GOOGL_Google 服務]] | 執行產業分析（invest-cost-return），拆分業務部門：Google 服務（87.5%） | ✅ 完成 |
+| 2026-05-03 13:12 | E | [[產業/GOOGL_11.9_Google Cloud\|GOOGL_Google Cloud]] | 執行產業分析（invest-cost-return），拆分業務部門：Google Cloud（11.9%） | ✅ 完成 |
+| 2026-05-03 13:12 | E | [[產業/GOOGL_0.6_Other Bets\|GOOGL_Other Bets]] | 執行產業分析（invest-cost-return），拆分業務部門：Other Bets（0.6%） | ✅ 完成 |
+| 2026-05-03 13:14 | E | [[產業/GOOGL_87.5_Google 服務\|GOOGL_Google 服務]] | 執行產業分析（invest-cost-return），拆分業務部門：Google 服務（87.5%） | ✅ 完成 |
+| 2026-05-03 13:14 | E | [[產業/GOOGL_11.9_Google Cloud\|GOOGL_Google Cloud]] | 執行產業分析（invest-cost-return），拆分業務部門：Google Cloud（11.9%） | ✅ 完成 |
+| 2026-05-03 13:14 | E | [[產業/GOOGL_0.6_Other Bets\|GOOGL_Other Bets]] | 執行產業分析（invest-cost-return），拆分業務部門：Other Bets（0.6%） | ✅ 完成 |
+| 2026-05-03 13:17 | C | [[企業概要/AMAT\|AMAT]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 13:20 | C | [[企業概要/BABA\|BABA]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 13:21 | C | [[企業概要/PLTR\|PLTR]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 13:24 | C | [[企業概要/RKLB\|RKLB]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 13:32 | C | [[企業概要/RKLB\|RKLB]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 13:35 | A | [[TA技術分析/LITE [$1248.00]\|LITE]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$1248.00 | ✅ 完成 |
+| 2026-05-03 13:35 | B | [[公司業務, 護城河, 週期, 競爭格局/LITE [1248.00, 3.7, 4.2]\|LITE]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=3.7，週期暴露度=4.2，公允價值=$1248.00 | ✅ 完成 |
+| 2026-05-03 13:36 | C | [[企業概要/LITE\|LITE]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 13:37 | E | [[產業/LITE_86.0_雲端與網路業務\|LITE_雲端與網路業務]] | 執行產業分析（invest-cost-return），拆分業務部門：雲端與網路業務（86.0%） | ✅ 完成 |
+| 2026-05-03 13:37 | E | [[產業/LITE_8.0_工業激光業務\|LITE_工業激光業務]] | 執行產業分析（invest-cost-return），拆分業務部門：工業激光業務（8.0%） | ✅ 完成 |
+| 2026-05-03 13:37 | E | [[產業/LITE_6.0_3D感測業務\|LITE_3D感測業務]] | 執行產業分析（invest-cost-return），拆分業務部門：3D感測業務（6.0%） | ✅ 完成 |
+| 2026-05-03 13:50 | A | [[TA技術分析/AMAT [$465]\|AMAT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$465 | ✅ 完成 |
+| 2026-05-03 13:51 | B | [[公司業務, 護城河, 週期, 競爭格局/AMAT [465, 4.2, 4.5]\|AMAT]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.2，週期暴露度=4.5，公允價值=$465 | ✅ 完成 |
+| 2026-05-03 14:54 | B | [[公司業務, 護城河, 週期, 競爭格局/TSLA [228.50, 4.2, 4.5]\|TSLA]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.2，週期暴露度=4.5，公允價值=$228.50 | ✅ 完成 |
+| 2026-05-03 15:02 | B | [[公司業務, 護城河, 週期, 競爭格局/AMZN [257.26, 4.3, 2.5]\|AMZN]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.3，週期暴露度=2.5，公允價值=$257.26 | ✅ 完成 |
+| 2026-05-03 15:03 | B | [[公司業務, 護城河, 週期, 競爭格局/GOOGL [370, 4.5, 2]\|GOOGL]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.5，週期暴露度=2，公允價值=$370 | ✅ 完成 |
+| 2026-05-03 15:03 | B | [[公司業務, 護城河, 週期, 競爭格局/MSFT [430, 4.5, 2]\|MSFT]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.5，週期暴露度=2，公允價值=$430 | ✅ 完成 |
+| 2026-05-03 15:09 | A | [[TA技術分析/NOW [$0]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
+| 2026-05-03 15:09 | A | [[TA技術分析/GOOGL [$468.52]\|GOOGL]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$468.52 | ✅ 完成 |
+| 2026-05-03 15:09 | A | [[TA技術分析/MSFT [$0]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
+| 2026-05-03 15:10 | A | [[TA技術分析/AMZN [$312.54]\|AMZN]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$312.54 | ✅ 完成 |
+| 2026-05-03 15:14 | A | [[TA技術分析/NOW [$156.62]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$156.62 | ✅ 完成 |
+| 2026-05-03 15:15 | A | [[TA技術分析/MSFT [$556.14]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$556.14 | ✅ 完成 |
+| 2026-05-03 15:16 | A | [[TA技術分析/MSFT [$465.22]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$465.22 | ✅ 完成 |
+| 2026-05-03 15:17 | A | [[TA技術分析/MSFT [$0]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
+| 2026-05-03 15:17 | A | [[TA技術分析/GOOGL [$456.72]\|GOOGL]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$456.72 | ✅ 完成 |
+| 2026-05-03 15:18 | A | [[TA技術分析/MSFT [$465.72]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$465.72 | ✅ 完成 |
+| 2026-05-03 15:18 | A | [[TA技術分析/BABA [$165.32]\|BABA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$165.32 | ✅ 完成 |
+| 2026-05-03 15:20 | B | [[公司業務, 護城河, 週期, 競爭格局/00388.HK [290.76, 4, 4.2]\|00388.HK]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4，週期暴露度=4.2，公允價值=$290.76 | ✅ 完成 |
+| 2026-05-03 15:39 | A | [[TA技術分析/NOW [$785]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$785 | ✅ 完成 |
+| 2026-05-03 15:40 | A | [[TA技術分析/AMAT [$418.76]\|AMAT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$418.76 | ✅ 完成 |
+| 2026-05-03 15:40 | A | [[TA技術分析/00700.HK [$556.14]\|00700.HK]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$556.14 | ✅ 完成 |
+| 2026-05-03 15:41 | A | [[TA技術分析/MU [$69.08]\|MU]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$69.08 | ✅ 完成 |
+| 2026-05-03 15:41 | A | [[TA技術分析/EWY [$172.50]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$172.50 | ✅ 完成 |
+| 2026-05-03 15:41 | A | [[TA技術分析/BABA [$165.32]\|BABA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$165.32 | ✅ 完成 |
+| 2026-05-03 15:42 | A | [[TA技術分析/MSFT [$466.59]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$466.59 | ✅ 完成 |
+| 2026-05-03 15:43 | A | [[TA技術分析/NOW [$785]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$785 | ✅ 完成 |
+| 2026-05-03 15:43 | A | [[TA技術分析/AMAT [$465.20]\|AMAT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$465.20 | ✅ 完成 |
+| 2026-05-03 15:44 | A | [[TA技術分析/00700.HK [$0]\|00700.HK]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
+| 2026-05-03 15:44 | D | [[HK-IPO/ipo_2026-05-03\|2026-05-03]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
+| 2026-05-03 15:44 | A | [[TA技術分析/MU [$175.62]\|MU]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$175.62 | ✅ 完成 |
+| 2026-05-03 15:45 | A | [[TA技術分析/EWY [$158.92]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$158.92 | ✅ 完成 |
+| 2026-05-03 15:45 | A | [[TA技術分析/BABA [$165.32]\|BABA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$165.32 | ✅ 完成 |
+| 2026-05-03 15:45 | A | [[TA技術分析/MSFT [$450.32]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$450.32 | ✅ 完成 |
+| 2026-05-03 15:46 | A | [[TA技術分析/GOOGL [$465.32]\|GOOGL]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$465.32 | ✅ 完成 |
+| 2026-05-03 15:46 | A | [[TA技術分析/AMZN [$312.45]\|AMZN]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$312.45 | ✅ 完成 |
+| 2026-05-03 15:46 | A | [[TA技術分析/ASML [$1682.45]\|ASML]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$1682.45 | ✅ 完成 |
+| 2026-05-03 15:47 | A | [[TA技術分析/00388.HK [$465.20]\|00388.HK]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$465.20 | ✅ 完成 |
+| 2026-05-03 15:47 | A | [[TA技術分析/RKLB [$42.50]\|RKLB]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$42.50 | ✅ 完成 |
+| 2026-05-03 15:51 | A | [[TA技術分析/00700.HK [$556.14]\|00700.HK]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$556.14 | ✅ 完成 |
+| 2026-05-03 15:52 | A | [[TA技術分析/PLTR [$112.45]\|PLTR]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$112.45 | ✅ 完成 |
 
 ---
 
