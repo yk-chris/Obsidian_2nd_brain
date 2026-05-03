@@ -179,6 +179,9 @@ updated: 2026-05-03
 | 2026-05-03 16:31 | E | [[產業/AMAT_73.3_半導體系統\|AMAT_半導體系統]] | 執行產業分析（invest-cost-return），拆分業務部門：半導體系統（73.3%） | ✅ 完成 |
 | 2026-05-03 16:31 | E | [[產業/AMAT_22.0_全球服務\|AMAT_全球服務]] | 執行產業分析（invest-cost-return），拆分業務部門：全球服務（22.0%） | ✅ 完成 |
 | 2026-05-03 16:31 | E | [[產業/AMAT_4.7_顯示器\|AMAT_顯示器]] | 執行產業分析（invest-cost-return），拆分業務部門：顯示器（4.7%） | ✅ 完成 |
+| 2026-05-03 16:34 | E | [[產業/NOW_97.0_訂閱服務 (Subscription Services)\|NOW_訂閱服務 (Subscription Services)]] | 執行產業分析（invest-cost-return），拆分業務部門：訂閱服務 (Subscription Services)（97.0%） | ✅ 完成 |
+| 2026-05-03 16:34 | E | [[產業/NOW_2.5_專業服務 (Professional Services)\|NOW_專業服務 (Professional Services)]] | 執行產業分析（invest-cost-return），拆分業務部門：專業服務 (Professional Services)（2.5%） | ✅ 完成 |
+| 2026-05-03 16:34 | E | [[產業/NOW_0.5_其他業務 (Other Services)\|NOW_其他業務 (Other Services)]] | 執行產業分析（invest-cost-return），拆分業務部門：其他業務 (Other Services)（0.5%） | ✅ 完成 |
 
 ---
 
