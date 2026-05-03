@@ -148,6 +148,7 @@ updated: 2026-05-03
 | 2026-05-03 15:41 | A | [[TA技術分析/MU [$69.08]\|MU]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$69.08 | ✅ 完成 |
 | 2026-05-03 15:41 | A | [[TA技術分析/EWY [$172.50]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$172.50 | ✅ 完成 |
 | 2026-05-03 15:41 | A | [[TA技術分析/BABA [$165.32]\|BABA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$165.32 | ✅ 完成 |
+| 2026-05-03 15:42 | A | [[TA技術分析/MSFT [$466.59]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$466.59 | ✅ 完成 |
 
 ---
 
