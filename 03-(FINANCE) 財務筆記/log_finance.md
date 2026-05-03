@@ -132,6 +132,7 @@ updated: 2026-05-03
 | 2026-05-03 15:03 | B | [[公司業務, 護城河, 週期, 競爭格局/MSFT [430, 4.5, 2]\|MSFT]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.5，週期暴露度=2，公允價值=$430 | ✅ 完成 |
 | 2026-05-03 15:09 | A | [[TA技術分析/NOW [$0]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
 | 2026-05-03 15:09 | A | [[TA技術分析/GOOGL [$468.52]\|GOOGL]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$468.52 | ✅ 完成 |
+| 2026-05-03 15:09 | A | [[TA技術分析/MSFT [$0]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
 
 ---
 
