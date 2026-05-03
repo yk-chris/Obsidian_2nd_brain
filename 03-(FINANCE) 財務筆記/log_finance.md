@@ -251,6 +251,8 @@ updated: 2026-05-03
 | 2026-05-03 20:09 | A | [[TA技術分析/NOW [$1248.75]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$1248.75 | ✅ 完成 |
 | 2026-05-03 20:09 | B | [[公司業務, 護城河, 週期, 競爭格局/NOW [1248.75, 4.3, 1.2]\|NOW]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.3，週期暴露度=1.2，公允價值=$1248.75 | ✅ 完成 |
 | 2026-05-03 20:10 | C | [[企業概要/NOW\|NOW]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 20:10 | E | [[產業/NOW_97.0_訂閱業務 (Subscription)\|NOW_訂閱業務 (Subscription)]] | 執行產業分析（invest-cost-return），拆分業務部門：訂閱業務 (Subscription)（97.0%） | ✅ 完成 |
+| 2026-05-03 20:10 | E | [[產業/NOW_3.0_專業服務 (Professional Services)\|NOW_專業服務 (Professional Services)]] | 執行產業分析（invest-cost-return），拆分業務部門：專業服務 (Professional Services)（3.0%） | ✅ 完成 |
 
 ---
 
