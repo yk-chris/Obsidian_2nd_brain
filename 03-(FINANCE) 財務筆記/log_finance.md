@@ -101,6 +101,9 @@ updated: 2026-05-03
 | 2026-05-03 12:46 | C | [[企業概要/GOOGL\|GOOGL]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-03 12:52 | C | [[企業概要/GOOGL\|GOOGL]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-03 12:56 | A | [[TA技術分析/00700.HK [$556.14]\|00700.HK]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$556.14 | ✅ 完成 |
+| 2026-05-03 12:58 | E | [[產業/GOOGL_87.5_Google 服务\|GOOGL_Google 服务]] | 執行產業分析（invest-cost-return），拆分業務部門：Google 服务（87.5%） | ✅ 完成 |
+| 2026-05-03 12:58 | E | [[產業/GOOGL_11.9_Google 云\|GOOGL_Google 云]] | 執行產業分析（invest-cost-return），拆分業務部門：Google 云（11.9%） | ✅ 完成 |
+| 2026-05-03 12:58 | E | [[產業/GOOGL_0.6_其他賭注（Other Bets）\|GOOGL_其他賭注（Other Bets）]] | 執行產業分析（invest-cost-return），拆分業務部門：其他賭注（Other Bets）（0.6%） | ✅ 完成 |
 
 ---
 
