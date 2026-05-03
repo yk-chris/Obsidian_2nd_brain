@@ -297,6 +297,7 @@ updated: 2026-05-03
 | 2026-05-04 06:05 | D | [[HK-IPO/ipo_2026-05-03\|2026-05-03]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
 | 2026-05-04 06:09 | A | [[TA技術分析/TSLA [$368.50]\|TSLA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$368.50 | ✅ 完成 |
 | 2026-05-04 06:10 | B | [[公司業務, 護城河, 週期, 競爭格局/TSLA [368.50, 3, 3.5]\|TSLA]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=3，週期暴露度=3.5，公允價值=$368.50 | ✅ 完成 |
+| 2026-05-04 06:13 | C | [[企業概要/TSLA\|TSLA]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 
 ---
 
