@@ -285,6 +285,7 @@ updated: 2026-05-03
 | 2026-05-03 20:45 | A | [[TA技術分析/TSLA [$542.15]\|TSLA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$542.15 | ✅ 完成 |
 | 2026-05-03 20:46 | B | [[公司業務, 護城河, 週期, 競爭格局/TSLA [542.15, 4, 3.5]\|TSLA]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4，週期暴露度=3.5，公允價值=$542.15 | ✅ 完成 |
 | 2026-05-03 20:46 | C | [[企業概要/TSLA\|TSLA]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 20:58 | A | [[TA技術分析/AMZN [$225.41]\|AMZN]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$225.41 | ✅ 完成 |
 
 ---
 
