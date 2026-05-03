@@ -294,6 +294,7 @@ updated: 2026-05-03
 | 2026-05-03 21:09 | C | [[企業概要/NBIS\|NBIS]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-04 05:49 | D | [[HK-IPO/ipo_2026-05-03\|2026-05-03]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
 | 2026-05-04 05:51 | D | [[HK-IPO/ipo_2026-05-03\|2026-05-03]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
+| 2026-05-04 06:05 | D | [[HK-IPO/ipo_2026-05-03\|2026-05-03]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
 
 ---
 
