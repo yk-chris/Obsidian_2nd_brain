@@ -197,6 +197,7 @@ updated: 2026-05-03
 | 2026-05-03 17:08 | A | [[TA技術分析/AMZN [$310.82]\|AMZN]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$310.82 | ✅ 完成 |
 | 2026-05-03 17:09 | A | [[TA技術分析/MU [$257.34]\|MU]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$257.34 | ✅ 完成 |
 | 2026-05-03 17:09 | A | [[TA技術分析/TSLA [$285.60]\|TSLA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$285.60 | ✅ 完成 |
+| 2026-05-03 17:09 | A | [[TA技術分析/NOW [$745]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$745 | ✅ 完成 |
 
 ---
 
