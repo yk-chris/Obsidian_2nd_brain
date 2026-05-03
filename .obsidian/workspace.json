@@ -11,10 +11,14 @@
             "id": "1aadc3b1a170e434",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rocket Lab Corporation（RKLB）"
             }
           }
         ]
@@ -247,6 +251,19 @@
   },
   "active": "1aadc3b1a170e434",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/COHR [$385.60, 3.7, 3.5].md",
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$165.32, 3.5, 3.5].md",
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/ASML [$1165.42, 4.5, 4].md",
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/AMZN [$225.41, 4.2, 3.5].md",
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/GOOGL [$435.60, 4.3, 2.5].md",
+    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [$268.50, 4.3, 3.5].md",
+    "03-(FINANCE) 財務筆記/企業概要/AMZN.md",
+    "03-(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md",
+    "03-(FINANCE) 財務筆記/企業概要/Amazon（AMZN）.md",
+    "03-(FINANCE) 財務筆記/企業概要/阿里巴巴（BABA）.md",
+    "03-(FINANCE) 財務筆記/企業概要/BABA.md",
+    "03-(FINANCE) 財務筆記/企業概要/特斯拉 (TSLA).md",
+    "03-(FINANCE) 財務筆記/企業概要/TSLA.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",
@@ -274,7 +291,6 @@
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091056808.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg",
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260419112721913.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx",
     "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415112851687.xlsx",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
@@ -283,20 +299,8 @@
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
     "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
-    "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/2026-04-21 Streamer feedback review (issue category).md",
-    "04-(WORK) 工作/MISC_works/input_ouput_module (fine-tune).md",
     "04-(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
-    "04-(WORK) 工作/Meeting/MoM_2026-04-23_iMRO_sentencing_BOM.md",
-    "04-(WORK) 工作/Meeting/MoM_2026-04-21_iMRO_integration_workshop.md",
-    "04-(WORK) 工作/Meeting/MoM_2026-04-15_Renovation arrangement.md",
-    "04-(WORK) 工作/Meeting/MoM_2026-04-15 streamer_off-module.md",
-    "04-(WORK) 工作/Meeting/MoM_2026-04-13_Streamer項目管理系統功能審視與用戶反饋：關於任務通知、緊急度標識及數據整合的深入探討.md",
-    "04-(WORK) 工作/Meeting/MoM_2026-04-10_Streamer系統UI_UX優化深度研討_任務視圖,所有權及日曆功能改進策略.md",
-    "04-(WORK) 工作/Meeting/MoM_2026-04-08_Streamer平台用戶驗收測試（UAT）啟動會議及功能演示.md",
-    "03-(FINANCE) 財務筆記/產業/AI生產鏈/光刻機/Carl Zeiss SMT_光罩基礎設施與量測.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "02-(LEARN) 學習筆記/map_群核科技.canvas",
     "02-(LEARN) 學習筆記/map_原油.canvas",
