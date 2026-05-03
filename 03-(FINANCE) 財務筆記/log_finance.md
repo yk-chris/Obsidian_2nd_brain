@@ -133,6 +133,7 @@ updated: 2026-05-03
 | 2026-05-03 15:09 | A | [[TA技術分析/NOW [$0]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
 | 2026-05-03 15:09 | A | [[TA技術分析/GOOGL [$468.52]\|GOOGL]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$468.52 | ✅ 完成 |
 | 2026-05-03 15:09 | A | [[TA技術分析/MSFT [$0]\|MSFT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
+| 2026-05-03 15:10 | A | [[TA技術分析/AMZN [$312.54]\|AMZN]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$312.54 | ✅ 完成 |
 
 ---
 
