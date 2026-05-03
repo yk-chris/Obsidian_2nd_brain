@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "invest-stock-valuation",
+      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
+    },
+    {
       "basename": "invest-IPO",
       "path": "01-(SKILLs) 技能/skill_invest/invest-IPO.md"
     },
@@ -163,10 +167,6 @@
     {
       "basename": "invest-enterprise-business",
       "path": "01-(SKILLs) 技能/skill_invest/search_company (know-how)/invest-enterprise-business.md"
-    },
-    {
-      "basename": "invest-stock-valuation",
-      "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
     },
     {
       "basename": "dive-deep-bottlenecks",
