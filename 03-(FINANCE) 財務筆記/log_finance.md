@@ -114,6 +114,7 @@ updated: 2026-05-03
 | 2026-05-03 13:14 | E | [[產業/GOOGL_11.9_Google Cloud\|GOOGL_Google Cloud]] | 執行產業分析（invest-cost-return），拆分業務部門：Google Cloud（11.9%） | ✅ 完成 |
 | 2026-05-03 13:14 | E | [[產業/GOOGL_0.6_Other Bets\|GOOGL_Other Bets]] | 執行產業分析（invest-cost-return），拆分業務部門：Other Bets（0.6%） | ✅ 完成 |
 | 2026-05-03 13:17 | C | [[企業概要/AMAT\|AMAT]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 13:20 | C | [[企業概要/BABA\|BABA]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 
 ---
 
