@@ -117,6 +117,7 @@ updated: 2026-05-03
 | 2026-05-03 13:20 | C | [[企業概要/BABA\|BABA]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-03 13:21 | C | [[企業概要/PLTR\|PLTR]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-03 13:24 | C | [[企業概要/RKLB\|RKLB]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 13:32 | C | [[企業概要/RKLB\|RKLB]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 
 ---
 
