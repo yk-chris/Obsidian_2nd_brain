@@ -242,6 +242,7 @@ updated: 2026-05-03
 | 2026-05-03 20:05 | A | [[TA技術分析/NOW [$756.24]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$756.24 | ✅ 完成 |
 | 2026-05-03 20:05 | A | [[TA技術分析/EWY [$172.50]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$172.50 | ✅ 完成 |
 | 2026-05-03 20:05 | A | [[TA技術分析/AMAT [$465.72]\|AMAT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$465.72 | ✅ 完成 |
+| 2026-05-03 20:05 | A | [[TA技術分析/COHR [$385.60]\|COHR]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$385.60 | ✅ 完成 |
 
 ---
 
