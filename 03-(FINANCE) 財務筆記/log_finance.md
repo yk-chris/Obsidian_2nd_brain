@@ -199,6 +199,7 @@ updated: 2026-05-03
 | 2026-05-03 17:09 | A | [[TA技術分析/TSLA [$285.60]\|TSLA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$285.60 | ✅ 完成 |
 | 2026-05-03 17:09 | A | [[TA技術分析/NOW [$745]\|NOW]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$745 | ✅ 完成 |
 | 2026-05-03 17:10 | A | [[TA技術分析/RKLB [$47.82]\|RKLB]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$47.82 | ✅ 完成 |
+| 2026-05-03 17:10 | A | [[TA技術分析/PLTR [$112.40]\|PLTR]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$112.40 | ✅ 完成 |
 
 ---
 
