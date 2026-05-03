@@ -93,14 +93,6 @@
       "path": "Base_目錄.base"
     },
     {
-      "basename": "TSM [$398, 4.3, 3.0]",
-      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [$398, 4.3, 3.0].md"
-    },
-    {
-      "basename": "BABA [$138.75, 2.8, 2.5]",
-      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/BABA [$138.75, 2.8, 2.5].md"
-    },
-    {
       "basename": "file-20260413075739145",
       "path": "03-(FINANCE) 財務筆記/生產要素/assets/原油舉升成本（Lifting Cost）/file-20260413075739145.jpg"
     },
@@ -191,10 +183,6 @@
     {
       "basename": "log_wiki",
       "path": "wiki/log_wiki.md"
-    },
-    {
-      "basename": "NOW [$185, 4.5, 1.5]",
-      "path": "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/NOW [$185, 4.5, 1.5].md"
     }
   ],
   "omittedPaths": [],
