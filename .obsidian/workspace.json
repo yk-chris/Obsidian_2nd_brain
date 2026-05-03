@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c5ebd44e95c85d6",
+        "id": "786d0b88814456ea",
         "type": "tabs",
         "children": [
           {
-            "id": "4b58b56cf9cafff6",
+            "id": "3e6d77c8707ebaef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "invest-fundamental-analysis"
+              "title": "New tab"
             }
           }
         ]
@@ -253,8 +249,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "4b58b56cf9cafff6",
+  "active": "3e6d77c8707ebaef",
   "lastOpenFiles": [
+    "01-(SKILLs) 技能/skill_invest/invest-IPO.md",
+    "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
+    "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
     "03-(FINANCE) 財務筆記/log_finance.md",
     "03-(FINANCE) 財務筆記/產業/AMAT_73.0_半導體系統部門.md",
@@ -268,7 +267,6 @@
     "03-(FINANCE) 財務筆記/產業/00388.HK_44.5_交易費及交易系統使用費.md",
     "03-(FINANCE) 財務筆記/產業/00388.HK_60.6_Spot Trading.md",
     "03-(FINANCE) 財務筆記/產業/00388.HK_12.2_Commodities.md",
-    "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
     "03-(FINANCE) 財務筆記/產業/EWY_50.0_信息技术.md",
     "03-(FINANCE) 財務筆記/產業/EWY_21.0_其他產業.md",
     "03-(FINANCE) 財務筆記/產業/EWY_18.0_工业.md",
@@ -279,8 +277,6 @@
     "03-(FINANCE) 財務筆記/產業/AMZN_11.0_廣告與訂閱服務.md",
     "03-(FINANCE) 財務筆記/產業/00388.HK_8.5_衍生品交易費.md",
     "03-(FINANCE) 財務筆記/產業/00388.HK_28.6_結算及交收费.md",
-    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/EWY [$162.00, 3.3, 4.5].md",
-    "03-(FINANCE) 財務筆記/企業概要/EWY.md",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224054733.jpg",
     "Clippings/2026/May/assets/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场/file-20260501224020807.jpg",
