@@ -70,6 +70,7 @@ updated: 2026-05-03
 | 2026-05-03 06:03 | E        | [[產業/RKLB_20.7_發射服務\|RKLB_發射服務]] | 執行產業分析（invest-cost-return），新建業務部門：發射服務（20.7%），涵蓋 Electron 製造成本、HASTE 高ASP任務、Neutron 研發生產要素及競爭格局分析 | ✅ 完成    |
 | 2026-05-03 10:21 | C | [[企業概要/00700.HK\|00700.HK]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-03 10:56 | C | [[企業概要/EWY\|EWY]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-03 11:00 | B | [[公司業務, 護城河, 週期, 競爭格局/EWY [162.00, 3.3, 4.5]\|EWY]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=3.3，週期暴露度=4.5，公允價值=$162.00 | ✅ 完成 |
 
 ---
 
