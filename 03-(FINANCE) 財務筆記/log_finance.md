@@ -205,6 +205,7 @@ updated: 2026-05-03
 | 2026-05-03 17:15 | E | [[產業/GOOGL_0.6_Other Bets\|GOOGL_Other Bets]] | 執行產業分析（invest-cost-return），拆分業務部門：Other Bets（0.6%） | ✅ 完成 |
 | 2026-05-03 17:17 | A | [[TA技術分析/COHR [$452.63]\|COHR]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$452.63 | ✅ 完成 |
 | 2026-05-03 17:18 | B | [[公司業務, 護城河, 週期, 競爭格局/COHR [452.63, 4, 4.2]\|COHR]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4，週期暴露度=4.2，公允價值=$452.63 | ✅ 完成 |
+| 2026-05-03 17:18 | C | [[企業概要/COHR\|COHR]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 
 ---
 
