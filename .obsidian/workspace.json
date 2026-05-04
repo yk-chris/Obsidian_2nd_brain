@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "761ef5f7a5c1cb9a",
+            "id": "cbbd77ff2f79486e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -74,7 +74,8 @@
               "title": "Excalidraw_streamer_clarification"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 592.5
+    "width": 592.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -302,11 +304,14 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "1aadc3b1a170e434",
+  "active": "cbbd77ff2f79486e",
   "lastOpenFiles": [
-    "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-04.md",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
+    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+    "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "Excalidraw/Excalidraw_streamer_clarification.md",
+    "TaskNotes/Views/kanban-default.base",
+    "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-04.md",
     "03-(FINANCE) 財務筆記/產業/ASML_75.0_新机器销售.md",
     "03-(FINANCE) 財務筆記/產業/ASML_25.0_服務與維護.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSLA [$247.58, 3, 3.5].md",
@@ -314,9 +319,6 @@
     "03-(FINANCE) 財務筆記/企業概要/ASML.md",
     "03-(FINANCE) 財務筆記/TA技術分析/TSLA [$247.58].md",
     "03-(FINANCE) 財務筆記/TA技術分析/ASML [$918.40].md",
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
-    "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
-    "Excalidraw/Excalidraw_streamer_clarification.md",
     "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
     "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
