@@ -361,6 +361,7 @@ updated: 2026-05-03
 | 2026-05-04 17:45 | A | [[TA技術分析/EWY [$172.50]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$172.50 | ✅ 完成 |
 | 2026-05-04 17:46 | A | [[TA技術分析/TSLA [$285.24]\|TSLA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$285.24 | ✅ 完成 |
 | 2026-05-04 17:46 | A | [[TA技術分析/AMZN [$0]\|AMZN]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
+| 2026-05-04 17:46 | A | [[TA技術分析/PLTR [$112.50]\|PLTR]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$112.50 | ✅ 完成 |
 
 ---
 
