@@ -331,6 +331,7 @@ updated: 2026-05-03
 | 2026-05-04 13:18 | A | [[TA技術分析/BABA [$145.10]\|BABA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$145.10 | ✅ 完成 |
 | 2026-05-04 13:39 | D | [[HK-IPO/ipo_2026-05-04\|2026-05-04]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
 | 2026-05-04 17:06 | D | [[HK-IPO/ipo_2026-05-04\|2026-05-04]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
+| 2026-05-04 17:09 | C | [[企業概要/MSFT\|MSFT]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 
 ---
 
