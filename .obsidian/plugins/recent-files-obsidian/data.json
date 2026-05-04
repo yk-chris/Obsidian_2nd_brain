@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "kanban-default",
+      "path": "TaskNotes/Views/kanban-default.base"
+    },
+    {
       "basename": "invest-stock-valuation",
       "path": "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md"
     },
