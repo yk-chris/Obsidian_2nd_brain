@@ -311,6 +311,7 @@ updated: 2026-05-03
 | 2026-05-04 08:15 | A | [[TA技術分析/TSLA [$247.58]\|TSLA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$247.58 | ✅ 完成 |
 | 2026-05-04 08:35 | A | [[TA技術分析/ASML [$918.40]\|ASML]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$918.40 | ✅ 完成 |
 | 2026-05-04 08:37 | B | [[公司業務, 護城河, 週期, 競爭格局/ASML [918.40, 4, 4]\|ASML]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4，週期暴露度=4，公允價值=$918.40 | ✅ 完成 |
+| 2026-05-04 08:39 | C | [[企業概要/ASML\|ASML]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 
 ---
 
