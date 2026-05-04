@@ -47,9 +47,23 @@
               "icon": "lucide-file",
               "title": "WSI_outstanding_BI"
             }
+          },
+          {
+            "id": "7450cc9f3cfbaff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-(IDEAVERSE) 思維系統/2026/May/2026-05-04 eQuery comments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-04 eQuery comments"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,8 +291,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "c097a9d49fd7ac6b",
+  "active": "7450cc9f3cfbaff6",
   "lastOpenFiles": [
+    "00-(IDEAVERSE) 思維系統/2026/May/2026-05-04 eQuery comments.md",
+    "00-(IDEAVERSE) 思維系統/2026/May",
+    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "TaskNotes/Tasks/assets/MISC-job Fit module ( Spare) issue (accept no ARC date)/file-20260504153638120.jpg",
     "TaskNotes/Tasks/assets/MISC-job Fit module ( Spare) issue (accept no ARC date)/file-20260504153546021.jpg",
     "TaskNotes/Tasks/assets/MISC-job Fit module ( Spare) issue (accept no ARC date)",
@@ -287,7 +304,6 @@
     "TaskNotes/Views/kanban-default.base",
     "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-04.md",
     "03-(FINANCE) 財務筆記/產業/ASML_75.0_新机器销售.md",
@@ -324,9 +340,7 @@
     "Clippings/2026/May",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260414102303317.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260413192303308.xlsm",
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260413192303307.xlsm",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091056808.jpg",
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427091032944.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "04-(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
