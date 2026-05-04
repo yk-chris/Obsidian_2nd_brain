@@ -74,8 +74,7 @@
               "title": "Excalidraw_streamer_clarification"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 592.5,
-    "collapsed": true
+    "width": 592.5
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -304,8 +302,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "c097a9d49fd7ac6b",
+  "active": "1aadc3b1a170e434",
   "lastOpenFiles": [
+    "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-04.md",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "03-(FINANCE) 財務筆記/產業/ASML_75.0_新机器销售.md",
     "03-(FINANCE) 財務筆記/產業/ASML_25.0_服務與維護.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSLA [$247.58, 3, 3.5].md",
@@ -313,9 +314,6 @@
     "03-(FINANCE) 財務筆記/企業概要/ASML.md",
     "03-(FINANCE) 財務筆記/TA技術分析/TSLA [$247.58].md",
     "03-(FINANCE) 財務筆記/TA技術分析/ASML [$918.40].md",
-    "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-04.md",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
@@ -333,7 +331,6 @@
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/TSM [$268.50, 4.3, 3.5].md",
     "03-(FINANCE) 財務筆記/企業概要/AMZN.md",
     "03-(FINANCE) 財務筆記/企業概要/Applied Materials (AMAT).md",
-    "03-(FINANCE) 財務筆記/企業概要/Amazon（AMZN）.md",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133135_446.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki/Pasted Image 20260501133117_586.png",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",
