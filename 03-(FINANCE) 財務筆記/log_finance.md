@@ -344,6 +344,7 @@ updated: 2026-05-03
 | 2026-05-04 17:17 | C | [[企業概要/NBIS\|NBIS]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-04 17:19 | A | [[TA技術分析/NBIS [$28.74]\|NBIS]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$28.74 | ✅ 完成 |
 | 2026-05-04 17:22 | A | [[TA技術分析/NBIS [$0]\|NBIS]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
+| 2026-05-04 17:23 | A | [[TA技術分析/COHR [$387.85]\|COHR]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$387.85 | ✅ 完成 |
 
 ---
 
