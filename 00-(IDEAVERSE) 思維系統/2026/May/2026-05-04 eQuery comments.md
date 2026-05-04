@@ -52,3 +52,6 @@ Transform the common expressions in a professional tone.
 
 
 ```
+
+
+![](assets/2026-05-04%20eQuery%20comments/file-20260504163524783.xlsx)
