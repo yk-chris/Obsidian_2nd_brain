@@ -320,6 +320,10 @@ updated: 2026-05-03
 | 2026-05-04 12:01 | C | [[企業概要/ASML\|ASML]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-04 12:07 | E | [[產業/ASML_72.0_Lithography Systems (New Equipment Sales)\|ASML_Lithography Systems (New Equipment Sales)]] | 執行產業分析（invest-cost-return），拆分業務部門：Lithography Systems (New Equipment Sales)（72.0%） | ✅ 完成 |
 | 2026-05-04 12:07 | E | [[產業/ASML_28.0_Installed Base Management (Services & Field Options)\|ASML_Installed Base Management (Services & Field Options)]] | 執行產業分析（invest-cost-return），拆分業務部門：Installed Base Management (Services & Field Options)（28.0%） | ✅ 完成 |
+| 2026-05-04 12:20 | E | [[產業/ASML_35.0_Deep UV 系統\|ASML_Deep UV 系統]] | 執行產業分析（invest-cost-return），拆分業務部門：Deep UV 系統（35.0%） | ✅ 完成 |
+| 2026-05-04 12:20 | E | [[產業/ASML_34.0_EUV 系統\|ASML_EUV 系統]] | 執行產業分析（invest-cost-return），拆分業務部門：EUV 系統（34.0%） | ✅ 完成 |
+| 2026-05-04 12:20 | E | [[產業/ASML_24.0_已安裝基礎管理\|ASML_已安裝基礎管理]] | 執行產業分析（invest-cost-return），拆分業務部門：已安裝基礎管理（24.0%） | ✅ 完成 |
+| 2026-05-04 12:20 | E | [[產業/ASML_7.0_量測與檢測系統\|ASML_量測與檢測系統]] | 執行產業分析（invest-cost-return），拆分業務部門：量測與檢測系統（7.0%） | ✅ 完成 |
 
 ---
 
