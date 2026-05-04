@@ -33,7 +33,7 @@ help analyse the pattern on 'Description', 'Finding' & 'Recommendation' in terms
 ### Procedure Operation
 On the 'DDX_selected_group' sheet, this log is recorded for the issue found by the users. They would describe the situation which affects the critical blocker on the 'Description' column and provide the evidence on what they found on 'Finding' column. According to 'Description' & 'Finding', the receipents would give an resolution on 'Recommendation' column. 
 
-Consolidate the wordings usually adopted by the users and receipents. to list a set of wordings for each 'Group'. through investigating the occurrence & similiarity on the wordings in the same 'Group', to dip the common expressions used frequently.
+Consolidate the wordings usually adopted by the users and receipents. to list a set of wordings for each 'Group'. through investigating the occurrence & similiarity on the wordings in the same 'Group', to dip the common expressions used frequently. provided few scenario for each group 
 
 Transform the common expressions in a professional tone.
 
