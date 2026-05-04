@@ -17,3 +17,7 @@ tags:
 >try to match the ARC with combination of Sales order plus **module_index**
 
 ![](assets/calendar-default/file-20260419112916186.jpg)
+
+![](assets/MISC-job%20Fit%20module%20(%20Spare)%20issue%20(accept%20no%20ARC%20date)/file-20260504153546021.jpg)
+![](assets/MISC-job%20Fit%20module%20(%20Spare)%20issue%20(accept%20no%20ARC%20date)/file-20260504153638120.jpg)
+

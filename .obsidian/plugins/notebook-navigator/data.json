@@ -453,17 +453,11 @@
   "folderIcons": {
     "TaskNotes": "tasknotes-simple",
     "Clippings": "clipboard",
-    "Excalidraw": "excalidraw-icon",
-    "00-(IDEAVERSE) 思維系統": "globe",
-    "02-(LEARN) 學習筆記": "notebook-pen",
-    "03-(FINANCE) 財務筆記": "wallet",
-    "04-(WORK) 工作": "warehouse"
+    "Excalidraw": "excalidraw-icon"
   },
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL": "filename-asc"
-  },
+  "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
   "folderAppearances": {
     "Clippings/2026/April": {
@@ -481,80 +475,7 @@
     "Excalidraw": {
       "titleRows": 2
     },
-    "01-(SKILLs) 技能": {
-      "groupBy": "folder",
-      "mode": "compact"
-    },
     "03-(FINANCE) 財務筆記": {
-      "groupBy": "folder",
-      "mode": "compact"
-    },
-    "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作": {
-      "groupBy": "folder",
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL": {
-      "groupBy": "folder",
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL": {
-      "mode": "compact",
-      "groupBy": "folder"
-    },
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow": {
-      "mode": "compact"
-    },
-    "04-(WORK) 工作/Meeting": {
-      "mode": "compact",
-      "groupBy": "folder"
-    },
-    "wiki": {
-      "mode": "compact",
-      "groupBy": "folder"
-    },
-    "03-(FINANCE) 財務筆記/產業": {
       "groupBy": "folder",
       "mode": "compact"
     }
@@ -563,8 +484,7 @@
   "tagColors": {
     "excalidraw": "#8b5cf6",
     "task": "#f97316",
-    "clippings": "#3b82f6",
-    "finance": "#f59e0b"
+    "clippings": "#3b82f6"
   },
   "tagBackgroundColors": {},
   "tagSortOverrides": {},
