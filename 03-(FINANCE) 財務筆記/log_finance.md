@@ -327,6 +327,7 @@ updated: 2026-05-03
 | 2026-05-04 12:36 | A | [[TA技術分析/EWY [$81.81]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$81.81 | ✅ 完成 |
 | 2026-05-04 12:36 | B | [[公司業務, 護城河, 週期, 競爭格局/EWY [81.81, 3.5, 4.5]\|EWY]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=3.5，週期暴露度=4.5，公允價值=$81.81 | ✅ 完成 |
 | 2026-05-04 12:37 | C | [[企業概要/EWY\|EWY]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-04 12:46 | A | [[TA技術分析/ASML [$1447.38]\|ASML]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$1447.38 | ✅ 完成 |
 
 ---
 
