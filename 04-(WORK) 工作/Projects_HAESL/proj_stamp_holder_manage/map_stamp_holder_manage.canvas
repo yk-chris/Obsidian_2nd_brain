@@ -1,134 +1,22 @@
 {
-	"nodes": [
-		{
-			"id": "2b46e345f2536129",
-			"type": "text",
-			"text": "set task on the scheduler",
-			"x": -520,
-			"y": -380,
-			"width": 400,
-			"height": 60,
-			"color": "6"
-		},
-		{
-			"id": "2eec5fed0ef53181",
-			"type": "text",
-			"text": "create automated files \n-  create a vbScript to open the consolidated function on excel\n- create a batch file to call vbScript file",
-			"x": -980,
-			"y": -380,
-			"width": 400,
-			"height": 150,
-			"color": "6"
-		},
-		{
-			"id": "2e94349ba059ba39",
-			"type": "file",
-			"file": "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121301477.jpg",
-			"x": -980,
-			"y": -200,
-			"width": 400,
-			"height": 228
-		},
-		{
-			"id": "5d95bcd3c96fd539",
-			"type": "file",
-			"file": "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121238724.jpg",
-			"x": -520,
-			"y": -260,
-			"width": 400,
-			"height": 276
-		},
-		{
-			"id": "69232eb8fd9d38f2",
-			"type": "file",
-			"file": "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage/file-20260414102935820.jpg",
-			"x": 20,
-			"y": -200,
-			"width": 400,
-			"height": 185
-		},
-		{
-			"id": "70c208e4d61f14a7",
-			"type": "text",
-			"text": "consolidate all three sources into 1 result\n- check the most recent stamped date for each holder\n- add alert status, days count for reminder",
-			"x": 20,
-			"y": -380,
-			"width": 400,
-			"height": 150,
-			"color": "6"
-		},
-		{
-			"id": "12951f537378ca26",
-			"type": "file",
-			"file": "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121758229.jpg",
-			"x": 0,
-			"y": 140,
-			"width": 420,
-			"height": 136
-		},
-		{
-			"id": "840a2e65f435937e",
-			"type": "file",
-			"file": "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121439862.jpg",
-			"x": 540,
-			"y": -251,
-			"width": 400,
-			"height": 287
-		},
-		{
-			"id": "1c99fe55e4e18777",
-			"type": "text",
-			"text": "send an mail to notify the representative && record the action log",
-			"x": 540,
-			"y": -380,
-			"width": 400,
-			"height": 75,
-			"color": "6"
-		}
+	"nodes":[
+		{"id":"dc82989480392c65","type":"text","text":"","x":-427,"y":202,"width":250,"height":60},
+		{"id":"2b46e345f2536129","type":"text","text":"set task on the scheduler","x":-520,"y":-380,"width":400,"height":60,"color":"6"},
+		{"id":"2eec5fed0ef53181","type":"text","text":"create automated files \n-  create a vbScript to open the consolidated function on excel\n- create a batch file to call vbScript file","x":-980,"y":-380,"width":400,"height":150,"color":"6"},
+		{"id":"2e94349ba059ba39","type":"file","file":"04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121301477.jpg","x":-980,"y":-200,"width":400,"height":228},
+		{"id":"5d95bcd3c96fd539","type":"file","file":"04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121238724.jpg","x":-520,"y":-260,"width":400,"height":276},
+		{"id":"69232eb8fd9d38f2","type":"file","file":"04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/logic_stamp_holder_manage/file-20260414102935820.jpg","x":20,"y":-200,"width":400,"height":185},
+		{"id":"70c208e4d61f14a7","type":"text","text":"consolidate all three sources into 1 result\n- check the most recent stamped date for each holder\n- add alert status, days count for reminder","x":20,"y":-380,"width":400,"height":150,"color":"6"},
+		{"id":"12951f537378ca26","type":"file","file":"04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121758229.jpg","x":0,"y":140,"width":420,"height":136},
+		{"id":"840a2e65f435937e","type":"file","file":"04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/assets/map_stamp_holder_manage/file-20260414121439862.jpg","x":540,"y":-251,"width":400,"height":287},
+		{"id":"1c99fe55e4e18777","type":"text","text":"send an mail to notify the representative && record the action log","x":540,"y":-380,"width":400,"height":75,"color":"6"}
 	],
-	"edges": [
-		{
-			"id": "7b1b7f5c6f8116c8",
-			"fromNode": "70c208e4d61f14a7",
-			"fromSide": "right",
-			"toNode": "1c99fe55e4e18777",
-			"toSide": "left"
-		},
-		{
-			"id": "872e9933a6907b81",
-			"fromNode": "69232eb8fd9d38f2",
-			"fromSide": "right",
-			"toNode": "840a2e65f435937e",
-			"toSide": "left"
-		},
-		{
-			"id": "defe9e2a7560a8e7",
-			"fromNode": "69232eb8fd9d38f2",
-			"fromSide": "right",
-			"toNode": "12951f537378ca26",
-			"toSide": "right",
-			"fromEnd": "arrow"
-		},
-		{
-			"id": "5559275cc1b0f65a",
-			"fromNode": "2eec5fed0ef53181",
-			"fromSide": "right",
-			"toNode": "2b46e345f2536129",
-			"toSide": "left"
-		},
-		{
-			"id": "defcdbd040be486c",
-			"fromNode": "2b46e345f2536129",
-			"fromSide": "right",
-			"toNode": "70c208e4d61f14a7",
-			"toSide": "left"
-		},
-		{
-			"id": "90ad98875c700571",
-			"fromNode": "12951f537378ca26",
-			"fromSide": "left",
-			"toNode": "69232eb8fd9d38f2",
-			"toSide": "left"
-		}
+	"edges":[
+		{"id":"7b1b7f5c6f8116c8","fromNode":"70c208e4d61f14a7","fromSide":"right","toNode":"1c99fe55e4e18777","toSide":"left"},
+		{"id":"872e9933a6907b81","fromNode":"69232eb8fd9d38f2","fromSide":"right","toNode":"840a2e65f435937e","toSide":"left"},
+		{"id":"defe9e2a7560a8e7","fromNode":"69232eb8fd9d38f2","fromSide":"right","toNode":"12951f537378ca26","toSide":"right","fromEnd":"arrow"},
+		{"id":"5559275cc1b0f65a","fromNode":"2eec5fed0ef53181","fromSide":"right","toNode":"2b46e345f2536129","toSide":"left"},
+		{"id":"defcdbd040be486c","fromNode":"2b46e345f2536129","fromSide":"right","toNode":"70c208e4d61f14a7","toSide":"left"},
+		{"id":"90ad98875c700571","fromNode":"12951f537378ca26","fromSide":"left","toNode":"69232eb8fd9d38f2","toSide":"left"}
 	]
 }

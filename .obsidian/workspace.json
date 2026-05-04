@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -304,12 +304,14 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "cbbd77ff2f79486e",
+  "active": "d0093eb240f99640",
   "lastOpenFiles": [
-    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
+    "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/logic_stamp_holder_manage.md",
+    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/WSI_outstanding_BI.md",
     "Excalidraw/Excalidraw_streamer_clarification.md",
+    "03-(FINANCE) 財務筆記/schema_finance.md",
+    "TaskNotes/Tasks/MISC-job Fit module ( Spare) issue (accept no ARC date).md",
     "TaskNotes/Views/kanban-default.base",
     "03-(FINANCE) 財務筆記/HK-IPO/ipo_2026-05-04.md",
     "03-(FINANCE) 財務筆記/產業/ASML_75.0_新机器销售.md",
@@ -322,7 +324,6 @@
     "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
     "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
-    "03-(FINANCE) 財務筆記/schema_finance.md",
     "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
     "03-(FINANCE) 財務筆記/公司業務, 護城河, 週期, 競爭格局/COHR [$385.60, 3.7, 3.5].md",
@@ -353,7 +354,6 @@
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
-    "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
     "04-(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "02-(LEARN) 學習筆記/map_群核科技.canvas",
