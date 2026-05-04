@@ -339,6 +339,7 @@ updated: 2026-05-03
 | 2026-05-04 17:13 | C | [[企業概要/AMZN\|AMZN]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-04 17:14 | E | [[產業/PLTR_54.0_政府部門\|PLTR_政府部門]] | 執行產業分析（invest-cost-return），拆分業務部門：政府部門（54.0%） | ✅ 完成 |
 | 2026-05-04 17:14 | E | [[產業/PLTR_46.0_商業部門\|PLTR_商業部門]] | 執行產業分析（invest-cost-return），拆分業務部門：商業部門（46.0%） | ✅ 完成 |
+| 2026-05-04 17:15 | A | [[TA技術分析/NBIS [$0]\|NBIS]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
 
 ---
 
