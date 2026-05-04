@@ -24,3 +24,19 @@ Prepare the table include |Group |Category | Description (Standardised wording, 
 
 Export the Full table for above result as excel file
 ```
+
+
+```
+### Objectives
+help analyse the pattern on 'Description', 'Finding' & 'Recommendation' in terms of 'Group'
+
+### Procedure Operation
+This excel log is recorded for the issue found by the users. They would describe the situation which affects the critical blocker on the 'Description' column and provide the evidence on what they found on 'Finding' column. According to 'Description' & 'Finding', the receipents would give an resolution on 'Recommendation' column. 
+
+Consolidate the wordings usually adopted by the users and receipents. to list a set of wordings for each 'Group'. through investigating the occurrence & similiarity on the wordings in the same 'Group', to dip the common expressions used frequently.
+
+Transform the common expressions in a professional tone.
+
+### Output Template 
+
+```
