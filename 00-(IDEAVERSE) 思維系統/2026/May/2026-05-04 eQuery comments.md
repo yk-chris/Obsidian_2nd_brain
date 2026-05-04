@@ -40,7 +40,7 @@ Transform the common expressions in a professional tone.
 
 ### Output Template 
 
-- Excel all result into Excel file
+- Export all below results into Excel file
   
 #### Insight Sentences
 - provide the insightful comments & data analysis
