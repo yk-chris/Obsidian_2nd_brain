@@ -318,6 +318,8 @@ updated: 2026-05-03
 | 2026-05-04 11:59 | A | [[TA技術分析/ASML [$718.45]\|ASML]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$718.45 | ✅ 完成 |
 | 2026-05-04 12:00 | B | [[公司業務, 護城河, 週期, 競爭格局/ASML [718.45, 4.5, 4.2]\|ASML]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.5，週期暴露度=4.2，公允價值=$718.45 | ✅ 完成 |
 | 2026-05-04 12:01 | C | [[企業概要/ASML\|ASML]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-04 12:07 | E | [[產業/ASML_72.0_Lithography Systems (New Equipment Sales)\|ASML_Lithography Systems (New Equipment Sales)]] | 執行產業分析（invest-cost-return），拆分業務部門：Lithography Systems (New Equipment Sales)（72.0%） | ✅ 完成 |
+| 2026-05-04 12:07 | E | [[產業/ASML_28.0_Installed Base Management (Services & Field Options)\|ASML_Installed Base Management (Services & Field Options)]] | 執行產業分析（invest-cost-return），拆分業務部門：Installed Base Management (Services & Field Options)（28.0%） | ✅ 完成 |
 
 ---
 
