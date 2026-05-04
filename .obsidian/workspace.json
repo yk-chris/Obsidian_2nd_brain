@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a6cb3f68e69465f",
+        "id": "3ddae26b8b820669",
         "type": "tabs",
         "children": [
           {
-            "id": "9400fce335ee993a",
+            "id": "b65843a2c0002b64",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
-              },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -252,8 +249,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "9400fce335ee993a",
+  "active": "b65843a2c0002b64",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/assets/MISC-job Fit module ( Spare) issue (accept no ARC date)/file-20260504153638120.jpg",
     "TaskNotes/Tasks/assets/MISC-job Fit module ( Spare) issue (accept no ARC date)/file-20260504153546021.jpg",
     "TaskNotes/Tasks/assets/MISC-job Fit module ( Spare) issue (accept no ARC date)",
@@ -299,7 +297,6 @@
     "03-(FINANCE) 財務筆記/TA技術分析/assets/AMAT -$294.67-/file-20260426182911288.jpg",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/ASML -EUR 842.70-/file-20260426182937564.jpg",
     "03-(FINANCE) 財務筆記/TA技術分析/assets/MU -$517.00-/file-20260426182821754.jpg",
-    "03-(FINANCE) 財務筆記/TA技術分析/assets/BABA -$138.75-/file-20260426182841106.jpg",
     "wiki/assets/Excalidraw_2026-05-01_.schema_wiki",
     "map_schema_wiki.canvas",
     "02-(LEARN) 學習筆記/20260425_AI-遠見.canvas",
