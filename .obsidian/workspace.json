@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "invest-fundamental-analysis"
             }
+          },
+          {
+            "id": "761ef5f7a5c1cb9a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Excalidraw_streamer_clarification.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw_streamer_clarification"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 592.5
+    "width": 592.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d1dddcd12a12a6f",
@@ -249,8 +263,11 @@
       "notebook-navigator:Notebook Navigator": true
     }
   },
-  "active": "1aadc3b1a170e434",
+  "active": "761ef5f7a5c1cb9a",
   "lastOpenFiles": [
+    "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
+    "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/streamer_feedback_review (Task Owner).md",
+    "01-(SKILLs) 技能/skill_invest/invest-fundamental-analysis.md",
     "03-(FINANCE) 財務筆記/schema_finance.md",
     "01-(SKILLs) 技能/skill_invest/evaluate_company/invest-stock-valuation.md",
     "03-(FINANCE) 財務筆記/企業概要/Rocket Lab Corporation（RKLB）.md",
@@ -284,10 +301,8 @@
     "Clippings/2026/May/Clip_20260503 - Replit_plan_obsidian_PWA.md",
     "Clippings/2026/May/Clip_20260502 - 矽谷最近瘋談的新詞，到底是什麼？AI下一個高薪職缺是它？只知道Prompt Engineering就落伍了！｜Kelly Tsai.md",
     "Clippings/2026/May/Clip_20260501 - 聪明投资者都在用的Option期权收租方法, 4种Options期权策略打造现金流，不用预测市场.md",
-    "Clippings/2026/May/Clip_20260501 - This Obsidian Plugin Just Fixed the Internet 1.md",
     "Clippings/2026/May/assets",
     "Clippings/2026/May",
-    "CLAUDE.md",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260414102303317.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260413192303308.xlsm",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/assets/CODEBASE_mail_preinduction/file-20260413192303307.xlsm",
@@ -296,10 +311,8 @@
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/WSI_outstanding_BI/file-20260427090800405.jpg",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/assets/map_Induction_WSI_workflow/file-20260420164411578.xlsx",
     "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/assets/map_UAT_streamer_20260415/file-20260415112851687.xlsx",
-    "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_mail_detection_pre_induction/RAW_convert_mail_preinduction.md",
     "04-(WORK) 工作/Projects_HAESL/planning_HAESL/proj_BI_induction_WSI/map_Induction_WSI_workflow.canvas",
     "04-(WORK) 工作/Projects_HAESL/proj_stamp_holder_manage/map_stamp_holder_manage.canvas",
-    "04-(WORK) 工作/Projects_HAESL/proj_digital_streamer/map_UAT_streamer_20260415.canvas",
     "04-(WORK) 工作/Meeting/MoM_20260417_iMRO_integration_workshop.canvas",
     "03-(FINANCE) 財務筆記/Map_財務筆記.canvas",
     "02-(LEARN) 學習筆記/map_群核科技.canvas",
