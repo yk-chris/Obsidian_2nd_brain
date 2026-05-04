@@ -400,6 +400,7 @@ updated: 2026-05-03
 | 2026-05-04 21:31 | C | [[企業概要/MU\|MU]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 | 2026-05-04 21:47 | A | [[TA技術分析/NBIS [$58.70]\|NBIS]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$58.70 | ✅ 完成 |
 | 2026-05-04 21:48 | B | [[公司業務, 護城河, 週期, 競爭格局/NBIS [58.70, 3.2, 3.5]\|NBIS]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=3.2，週期暴露度=3.5，公允價值=$58.70 | ✅ 完成 |
+| 2026-05-04 21:49 | C | [[企業概要/NBIS\|NBIS]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
 
 ---
 
