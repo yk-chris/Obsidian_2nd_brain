@@ -346,6 +346,7 @@ updated: 2026-05-03
 | 2026-05-04 17:22 | A | [[TA技術分析/NBIS [$0]\|NBIS]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$0 | ✅ 完成 |
 | 2026-05-04 17:23 | A | [[TA技術分析/COHR [$387.85]\|COHR]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$387.85 | ✅ 完成 |
 | 2026-05-04 17:26 | A | [[TA技術分析/AMAT [$407.98]\|AMAT]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$407.98 | ✅ 完成 |
+| 2026-05-04 17:28 | D | [[HK-IPO/ipo_2026-05-04\|2026-05-04]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
 
 ---
 
