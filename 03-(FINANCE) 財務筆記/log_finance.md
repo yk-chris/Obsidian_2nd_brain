@@ -315,6 +315,21 @@ updated: 2026-05-03
 | 2026-05-04 08:56 | E | [[產業/ASML_75.0_新机器销售\|ASML_新机器销售]] | 執行產業分析（invest-cost-return），拆分業務部門：新机器销售（75.0%） | ✅ 完成 |
 | 2026-05-04 08:56 | E | [[產業/ASML_25.0_服務與維護\|ASML_服務與維護]] | 執行產業分析（invest-cost-return），拆分業務部門：服務與維護（25.0%） | ✅ 完成 |
 | 2026-05-04 10:21 | D | [[HK-IPO/ipo_2026-05-04\|2026-05-04]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
+| 2026-05-04 11:59 | A | [[TA技術分析/ASML [$718.45]\|ASML]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$718.45 | ✅ 完成 |
+| 2026-05-04 12:00 | B | [[公司業務, 護城河, 週期, 競爭格局/ASML [718.45, 4.5, 4.2]\|ASML]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=4.5，週期暴露度=4.2，公允價值=$718.45 | ✅ 完成 |
+| 2026-05-04 12:01 | C | [[企業概要/ASML\|ASML]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-04 12:07 | E | [[產業/ASML_72.0_Lithography Systems (New Equipment Sales)\|ASML_Lithography Systems (New Equipment Sales)]] | 執行產業分析（invest-cost-return），拆分業務部門：Lithography Systems (New Equipment Sales)（72.0%） | ✅ 完成 |
+| 2026-05-04 12:07 | E | [[產業/ASML_28.0_Installed Base Management (Services & Field Options)\|ASML_Installed Base Management (Services & Field Options)]] | 執行產業分析（invest-cost-return），拆分業務部門：Installed Base Management (Services & Field Options)（28.0%） | ✅ 完成 |
+| 2026-05-04 12:20 | E | [[產業/ASML_35.0_Deep UV 系統\|ASML_Deep UV 系統]] | 執行產業分析（invest-cost-return），拆分業務部門：Deep UV 系統（35.0%） | ✅ 完成 |
+| 2026-05-04 12:20 | E | [[產業/ASML_34.0_EUV 系統\|ASML_EUV 系統]] | 執行產業分析（invest-cost-return），拆分業務部門：EUV 系統（34.0%） | ✅ 完成 |
+| 2026-05-04 12:20 | E | [[產業/ASML_24.0_已安裝基礎管理\|ASML_已安裝基礎管理]] | 執行產業分析（invest-cost-return），拆分業務部門：已安裝基礎管理（24.0%） | ✅ 完成 |
+| 2026-05-04 12:20 | E | [[產業/ASML_7.0_量測與檢測系統\|ASML_量測與檢測系統]] | 執行產業分析（invest-cost-return），拆分業務部門：量測與檢測系統（7.0%） | ✅ 完成 |
+| 2026-05-04 12:36 | A | [[TA技術分析/EWY [$81.81]\|EWY]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$81.81 | ✅ 完成 |
+| 2026-05-04 12:36 | B | [[公司業務, 護城河, 週期, 競爭格局/EWY [81.81, 3.5, 4.5]\|EWY]] | 執行基本面分析（invest-fundamental-analysis），護城河強度=3.5，週期暴露度=4.5，公允價值=$81.81 | ✅ 完成 |
+| 2026-05-04 12:37 | C | [[企業概要/EWY\|EWY]] | 執行企業概要分析（invest-moat-margin-v2 + dive-deep-bottlenecks），更新內文 | ✅ 完成 |
+| 2026-05-04 12:46 | A | [[TA技術分析/ASML [$1447.38]\|ASML]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$1447.38 | ✅ 完成 |
+| 2026-05-04 13:18 | A | [[TA技術分析/BABA [$145.10]\|BABA]] | 執行 TA 估值分析（invest-stock-valuation），綜合公允價值=$145.10 | ✅ 完成 |
+| 2026-05-04 13:39 | D | [[HK-IPO/ipo_2026-05-04\|2026-05-04]] | 執行 HK-IPO 分析（invest-IPO），新建/更新當日 IPO 筆記 | ✅ 完成 |
 
 ---
 
